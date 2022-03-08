@@ -1,10 +1,20 @@
 logo: /images/cdc-logo.png
 links:
+  - title: About CDC
+    url: /permalink
+    sublinks: []
+  - title: Office of the Mayors
+    url: /permalink
+    sublinks: []
+  - title: Gallery
+    url: /permalink
+    sublinks: []
+  - title: CSR & Volunteer
+    url: /permalink
+    sublinks: []
+  - title: Newsroom
+    url: /permalink
+    sublinks: []
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Collection
-    collection: example-collection
-  - title: Resources
-    resource_room: true
+    url: /permalink
+    sublinks: []
