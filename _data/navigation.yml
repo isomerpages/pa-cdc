@@ -2,19 +2,51 @@ logo: /images/cdc-logo.png
 links:
   - title: About CDC
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Mission And Vision
+        url: /permalink
+      - title: History And Milestones
+        url: /permalink
+      - title: Strategic Directions
+        url: /permalink
+      - title: Common Flagship Programmes
+        url: /permalink
+      - title: Five Districts Information
+        url: /permalink
+      - title: Getting Help
+        url: /permalink
   - title: Office of the Mayors
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Our Mayors
+        url: /permalink
+      - title: Mayors' Swearing-In Ceremony
+        url: /permalink
   - title: Gallery
     url: /permalink
     sublinks: []
   - title: CSR & Volunteer
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: CSR
+        url: /permalink
+      - title: Volunteer
+        url: /permalink
+      - title: Join As Volunteer
+        url: /permalink
   - title: Newsroom
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Media Releases
+        url: /permalink
+      - title: Speeches
+        url: /permalink
+      - title: ASEAN Award 2017
+        url: /permalink
+      - title: CDC SG50 Book
+        url: /permalink
+      - title: CDC Annual Reports
+        url: /permalink
   - title: Contact Us
     url: /permalink
     sublinks: []
