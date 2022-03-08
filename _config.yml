@@ -52,3 +52,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://pa-cdc-staging.netlify.app
 prod: https://pa-cdc-prod.netlify.app
+is_government: true
