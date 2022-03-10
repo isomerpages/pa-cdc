@@ -2,4 +2,5 @@ collections:
   about-cdc:
     output: true
     order:
+      - Common Flagship Programmes/.keep
       - HISTORY AND MILESTONES.md
