@@ -1,4 +1,5 @@
 collections:
   about-cdc:
     output: true
-    order: []
+    order:
+      - HISTORY AND MILESTONES.md
