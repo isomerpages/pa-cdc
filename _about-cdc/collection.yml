@@ -2,5 +2,7 @@ collections:
   about-cdc:
     output: true
     order:
+      - Common Flagship Programmes/Community Development Council Vouchers
+        Scheme.md
       - Common Flagship Programmes/.keep
       - HISTORY AND MILESTONES.md
