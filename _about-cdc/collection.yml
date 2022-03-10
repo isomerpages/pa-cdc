@@ -1,0 +1,4 @@
+collections:
+  about-cdc:
+    output: true
+    order: []
