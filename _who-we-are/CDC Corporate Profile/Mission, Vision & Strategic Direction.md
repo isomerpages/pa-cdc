@@ -4,7 +4,6 @@ permalink: /who-we-are/CDC-Corporate-Profile/Mission
 description: ""
 third_nav_title: CDC Corporate Profile
 ---
-
 The Community Development Councils (CDCs) were established under the People’s Association Act in 1997. Since then, the CDCs have been bridging communities (i.e. by strengthening local social infrastructure, building social resilience and social capital, and promoting the culture of giving back), through the following functions:
 
 (a) Aggregator of Needs and Resources <br>
@@ -25,8 +24,9 @@ To Build a Caring and Cohesive Community where we
 # District Visions
 
 
-| CSCDC LOGO | Building a Do-Good District |
+| | |
 | -------- | -------- | 
+| CSCDC LOGO | Building a Do-Good District |
 | NECDC  LOGO | A Caring & Cohesive Community     |
 | NWCDC LOGO| A Caring and Healthy North West Community | 
 | SECDC   LOGO | To build an active and vibrant South East District where residents and stakeholders feel a strong sense of belonging   |
@@ -37,4 +37,4 @@ To Build a Caring and Cohesive Community where we
 | Strengthen Social Infrastructure| - To strengthen social support through local assistance schemes & social programmes <br>- To promote social mobility <br>- To encourage self help |
 | -------- | -------- | 
 | Build Social Resilience and Social Capital| - To strengthen community bonds <br>- To encourage active citizenry |
-| Promote Culture of Giving Back|  - To engender community and corporate ownership through volunteerism & Corporate Social Responsibility by adopting local causes, and partnering corporate, Grassroots Organisations, schools, Voluntary Welfare Organisations and community partners | 
+| Promote Culture of Giving Back|  - To engender community and corporate ownership through volunteerism & Corporate Social Responsibility by adopting local causes, and partnering corporate, Grassroots Organisations, schools, Voluntary Welfare Organisations and community partners |
