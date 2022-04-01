@@ -1,6 +1,4 @@
 collections:
   what-we-do:
     output: true
-    order:
-      - What We Do/.keep
-      - What We Do/example-subpage.md
+    order: []
