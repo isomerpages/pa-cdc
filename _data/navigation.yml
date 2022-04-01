@@ -1,6 +1,6 @@
 logo: /images/cdc-logo.png
 links:
-  - title: About CDC
+  - title: Who We ARE
     url: /permalink
     sublinks:
       - title: Mission And Vision
@@ -56,3 +56,5 @@ links:
         url: /permalink
       - title: FAQ
         url: /permalink
+  - title: WHO WE ARE
+    collection: about-cdc
