@@ -20,3 +20,20 @@ To Build a Caring and Cohesive Community where we
 | -------- | -------- | -------- |
 | <center>To help the vulnerable through local assistance schemes and programmes </center>    | <center>To bond the community through projects and programmes to bring them closer to one another.</center> | <center>To develop strategic partnerships with corporate and community partners to better serve our resident    </center> |
 
+
+# District Visions
+
+
+| CSCDC LOGO | Building a Do-Good District |
+| -------- | -------- | 
+| NECDC  LOGO | A Caring & Cohesive Community     |
+| NWCDC LOGO| A Caring and Healthy North West Community | 
+| SECDC   LOGO | To build an active and vibrant South East District where residents and stakeholders feel a strong sense of belonging   |
+| SWCDC  LOGO   | Owning your community     |
+
+# Strategic Direction
+
+| Strengthen Social Infrastructure| - To strengthen social support through local assistance schemes & social programmes <br>- To promote social mobility <br>- To encourage self help |
+| -------- | -------- | 
+| Build Social Resilience and Social Capital| - To strengthen community bonds <br>- To encourage active citizenry |
+| Promote Culture of Giving Back|  - To engender community and corporate ownership through volunteerism & Corporate Social Responsibility by adopting local causes, and partnering corporate, Grassroots Organisations, schools, Voluntary Welfare Organisations and community partners | 
