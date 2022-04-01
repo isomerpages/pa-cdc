@@ -2,6 +2,6 @@ collections:
   reach-us:
     output: true
     order:
-      - faq.md
+      - Frequently Asked Questions.md
       - Getting to a CDC.md
       - Feedback Form.md
