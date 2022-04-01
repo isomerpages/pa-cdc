@@ -1,5 +1,5 @@
 collections:
-  reach-us:
+  contact-us:
     output: true
     order:
       - Getting to a CDC.md
