@@ -2,5 +2,5 @@ collections:
   reach-us:
     output: true
     order:
-      - Feedback Form.md
       - Getting to a CDC.md
+      - Feedback Form.md
