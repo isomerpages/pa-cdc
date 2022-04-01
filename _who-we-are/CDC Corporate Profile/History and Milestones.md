@@ -4,12 +4,7 @@ permalink: /who-we-are/CDC-Corporate-Profile/history
 description: ""
 third_nav_title: CDC Corporate Profile
 ---
-# History 
-The Community Development Councils (CDCs) were established under the PA Act (CDC Rules & Regulations 1997) to build a tightly-knit, compassionate and self-reliant community in Singapore. The first two CDCs were launched in early 1997 and by the end of the year, the remaining CDCs were in place.
-
-In 2001, the nine CDCs formed were reorganised into the current five we have today – Central Singapore CDC, North East CDC, North West CDC, South East CDC and South West CDC. CDCs work closely with grassroots organisations, government agencies, social service agencies, schools, community and corporate companies to strengthen Singapore’s social fabric. Through CDCs programmes, residents can forge stronger community bonds and assist the vulnerable in the society.
-
-The CDCs aim to encourage the more able and successful to come forward to help the less successful, and to foster greater sense of community ownership and self-help among the residents.
+# History
 
 <style>
  .youtubecontainer {
@@ -31,6 +26,13 @@ The CDCs aim to encourage the more able and successful to come forward to help t
 
 <div class="youtubecontainer">
 <iframe class="youtubevideo" src="https://www.youtube.com/embed/nw2Pqwgs7Xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+The Community Development Councils (CDCs) were established under the PA Act (CDC Rules & Regulations 1997) to build a tightly-knit, compassionate and self-reliant community in Singapore. The first two CDCs were launched in early 1997 and by the end of the year, the remaining CDCs were in place.
+
+In 2001, the nine CDCs formed were reorganised into the current five we have today – Central Singapore CDC, North East CDC, North West CDC, South East CDC and South West CDC. CDCs work closely with grassroots organisations, government agencies, social service agencies, schools, community and corporate companies to strengthen Singapore’s social fabric. Through CDCs programmes, residents can forge stronger community bonds and assist the vulnerable in the society.
+
+The CDCs aim to encourage the more able and successful to come forward to help the less successful, and to foster greater sense of community ownership and self-help among the residents.
+
 
 # CDCs Milestones
 <table border="0" style="border: none;">
