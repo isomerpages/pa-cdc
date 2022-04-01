@@ -1,59 +1,10 @@
 logo: /images/cdc-logo.png
 links:
-  - title: Who We ARE
-    url: /permalink
-    sublinks:
-      - title: Mission And Vision
-        url: /permalink
-      - title: History And Milestones
-        url: /about-cdc/history-and-milestones
-      - title: Strategic Directions
-        url: /permalink
-      - title: Common Flagship Programmes
-        url: /about-cdc/Common-Flagship-Programmes/cdc-vouchers-scheme
-      - title: Five Districts Information
-        url: /permalink
-      - title: Getting Help
-        url: /permalink
-  - title: Gallery
-    url: /permalink
-    sublinks: []
-  - title: CSR & Volunteer
-    url: /permalink
-    sublinks:
-      - title: CSR
-        url: /permalink
-      - title: Volunteer
-        url: /permalink
-      - title: Join As Volunteer
-        url: /permalink
-  - title: Newsroom
-    url: /permalink
-    sublinks:
-      - title: Media Releases
-        url: /permalink
-      - title: Speeches
-        url: /permalink
-      - title: ASEAN Award 2017
-        url: /permalink
-      - title: CDC SG50 Book
-        url: /permalink
-      - title: CDC Annual Reports
-        url: /permalink
-  - title: Contact Us
-    url: /permalink
-    sublinks:
-      - title: Getting To A CDC
-        url: /permalink
-      - title: Online Feedback Form
-        url: /permalink
-      - title: FAQ
-        url: /permalink
   - title: WHO WE ARE
     collection: who-we-are
   - title: WHAT WE DO
     collection: what-we-do
   - title: JOIN US
     collection: join-us
-  - title: REACH US
+  - title: CONTACT US
     collection: reach-us
