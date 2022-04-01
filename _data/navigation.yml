@@ -15,13 +15,6 @@ links:
         url: /permalink
       - title: Getting Help
         url: /permalink
-  - title: Office of the Mayors
-    url: /permalink
-    sublinks:
-      - title: Our Mayors
-        url: /permalink
-      - title: Mayors' Swearing-In Ceremony
-        url: /permalink
   - title: Gallery
     url: /permalink
     sublinks: []
@@ -57,4 +50,10 @@ links:
       - title: FAQ
         url: /permalink
   - title: WHO WE ARE
-    collection: about-cdc
+    collection: who-we-are
+  - title: WHAT WE DO
+    collection: what-we-do
+  - title: JOIN US
+    collection: join-us
+  - title: REACH US
+    collection: reach-us
