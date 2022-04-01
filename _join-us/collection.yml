@@ -2,6 +2,5 @@ collections:
   join-us:
     output: true
     order:
-      - Our Volunteers.md
       - Join Us As A Volunteer.md
       - Join Us As A Corporate Partner.md
