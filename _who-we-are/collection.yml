@@ -2,6 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
+      - Press Centre/Media Releases.md
       - Press Centre/.keep
       - Office of the Mayors/.keep
       - CDC Corporate Profile/.keep
