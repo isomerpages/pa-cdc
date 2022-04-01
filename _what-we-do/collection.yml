@@ -2,5 +2,6 @@ collections:
   what-we-do:
     output: true
     order:
+      - Getting Help/.keep
       - Gallery/.keep
       - Common Flagship Programmes/.keep
