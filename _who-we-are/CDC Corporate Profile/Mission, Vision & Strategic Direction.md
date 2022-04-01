@@ -33,8 +33,8 @@ To Build a Caring and Cohesive Community where we
 | SWCDC  LOGO   | Owning your community     |
 
 # Strategic Direction
-
-| Strengthen Social Infrastructure| - To strengthen social support through local assistance schemes & social programmes <br>- To promote social mobility <br>- To encourage self help |
+| | |
 | -------- | -------- | 
+| Strengthen Social Infrastructure| - To strengthen social support through local assistance schemes & social programmes <br>- To promote social mobility <br>- To encourage self help |
 | Build Social Resilience and Social Capital| - To strengthen community bonds <br>- To encourage active citizenry |
 | Promote Culture of Giving Back|  - To engender community and corporate ownership through volunteerism & Corporate Social Responsibility by adopting local causes, and partnering corporate, Grassroots Organisations, schools, Voluntary Welfare Organisations and community partners |
