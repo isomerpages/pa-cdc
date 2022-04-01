@@ -1,5 +1,5 @@
 collections:
-  example-collection:
+  what-we-do:
     output: true
     order:
       - What We Do/.keep
