@@ -1,0 +1,4 @@
+collections:
+  get-in-touch:
+    output: true
+    order: []
