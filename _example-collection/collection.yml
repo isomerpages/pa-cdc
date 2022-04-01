@@ -2,5 +2,5 @@ collections:
   example-collection:
     output: true
     order:
-      - example-page/.keep
-      - example-page/example-subpage.md
+      - What We Do/.keep
+      - What We Do/example-subpage.md
