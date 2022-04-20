@@ -23,6 +23,7 @@ The Office of the Mayors in Singapore serves the residents in the five districts
 |
 
 ### North East CDC
+
 |  |  | 
 | -------- | -------- | 
 | ![Mayor Desmond Choo](/images/Mayors/desmond_choo2.png)        | MR DESMOND CHOO <br> Mayor of North East District<br> Chairman of North East CDC <br> Date of Appointment: 27/5/2017 <br> 
