@@ -2,4 +2,5 @@ collections:
   example-menu:
     output: true
     order:
+      - Sample Page 2.md
       - Sample Page 1.md
