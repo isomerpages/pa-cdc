@@ -4,7 +4,7 @@ title: CDCs, Singapore
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       background: /images/hero-banner.png
@@ -13,4 +13,8 @@ sections:
         - title: Join US!
           description: As a Volunteer
           url: https://google.com
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
