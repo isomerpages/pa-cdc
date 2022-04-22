@@ -1,5 +1,4 @@
 collections:
   example-menu:
     output: true
-    order:
-      - News Letter.md
+    order: []
