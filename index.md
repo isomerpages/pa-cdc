@@ -13,4 +13,13 @@ sections:
         - title: Join US!
           description: As a Volunteer
           url: https://google.com
+        - title: Highlight 2
+          description: Key Highlight description
+          url: www.pa.gov.sg
+        - title: High Light 3
+          description: Key Highlight description
+          url: www.pa.gov.sg
+        - title: Highlight 4
+          description: Key Highlight description
+          url: www.pa.gov.sg
 ---
