@@ -2,4 +2,5 @@ collections:
   example-menu:
     output: true
     order:
+      - Example Sub Folder/Example 1.md
       - Example Sub Folder/.keep
