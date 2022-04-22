@@ -4,7 +4,7 @@ title: CDCs, Singapore
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: This is an announcement!
 sections:
   - hero:
       background: /images/hero-banner.png
