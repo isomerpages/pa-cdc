@@ -22,6 +22,23 @@ sections:
         - title: Highlight 4
           description: Key Highlight description
           url: www.pa.gov.sg
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
