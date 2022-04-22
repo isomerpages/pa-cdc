@@ -22,4 +22,8 @@ sections:
         - title: Highlight 4
           description: Key Highlight description
           url: www.pa.gov.sg
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
