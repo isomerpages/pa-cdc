@@ -22,3 +22,12 @@ third_nav_title: Example Sub Folder
 
 ![](/images/CDC%20Logos/PA%20Logo%202015%20(JPG).jpg)
 <img src="/images/CDC%20Logos/PA%20Logo%202015%20(JPG).jpg" width="20px" height="auto">
+
+
+
+| Column 1 | Column 2 | Column 3 | Column 3 |
+| -------- | -------- | -------- | -------- |
+| Text     | Text     | Text     |Text     |
+| Text     | Text     | Text     |Text     |
+| Text     | Text     | Text     |Text     |
+
