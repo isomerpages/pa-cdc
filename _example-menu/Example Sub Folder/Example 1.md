@@ -31,3 +31,4 @@ third_nav_title: Example Sub Folder
 | Text     | Text     | Text     |Text     |
 | Text     | Text     | Text     |Text     |
 
+[Mayors' Information](/who-we-are/Office-of-the-Mayors/our-mayors)
