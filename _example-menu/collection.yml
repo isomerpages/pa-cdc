@@ -1,4 +1,5 @@
 collections:
   example-menu:
     output: true
-    order: []
+    order:
+      - Example Sub Folder/.keep
