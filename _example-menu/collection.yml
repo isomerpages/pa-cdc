@@ -2,5 +2,6 @@ collections:
   example-menu:
     output: true
     order:
+      - News Letter.md
       - Example Sub Folder/Example 1.md
       - Example Sub Folder/.keep
