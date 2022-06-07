@@ -48,7 +48,7 @@ sections:
       button: Find out more
       alt: Image alt text
       url: /who-we-are/office-of-the-mayors/our-mayors
-      image: /images/Mayors/mayor-badge-final-01-min.jpg
+      image: /images/Mayors.png
   - resources:
       title: Latest Announcements
       subtitle: Press Centre
