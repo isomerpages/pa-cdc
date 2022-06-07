@@ -39,6 +39,7 @@ sections:
       button: Find out more
       alt: Image alt text
       url: who-we-are/cdc-corporate-profile/five-districts
+      image: /images/Five Districts.png
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
