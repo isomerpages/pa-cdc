@@ -24,6 +24,21 @@ sections:
           url: /what-we-do/common-flagship-programmes/
       title: Community Development Council
       subtitle: Aggregate.Build.Connect.
+  - infopic:
+      title: About the Community Development Council
+      description: The Community Development Councils (CDCs) were established under
+        the People’s Association Act in 1997.
+      button: Learn more
+      url: who-we-are/cdc-corporate-profile/mission
+      alt: Image alt text
+      subtitle: who we are
+  - infopic:
+      title: The Five Districts
+      description: The CDC Planning and Development Division coordinates the work of
+        the five CDCs.
+      button: Find out more
+      alt: Image alt text
+      url: who-we-are/cdc-corporate-profile/five-districts
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
@@ -34,19 +49,6 @@ sections:
       subtitle: Infopic Subtitle
       description: Infopic description
       button: Button Text
-      alt: Image alt text
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - infopic:
-      title: About the Community Development Council
-      description: The Community Development Councils (CDCs) were established under
-        the People’s Association Act in 1997.
-      button: Learn more
-      url: who-we-are/cdc-corporate-profile/mission
       alt: Image alt text
   - resources:
       title: Latest Announcements
