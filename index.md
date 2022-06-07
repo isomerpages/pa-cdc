@@ -4,24 +4,26 @@ title: CDCs, Singapore
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: This is an announcement!
+notification: ""
 sections:
   - hero:
       background: /images/hero-banner.png
       url: /contact-us/
       key_highlights:
-        - title: Join US!
-          description: As a Volunteer
-          url: https://google.com
-        - title: Highlight 2
-          description: Key Highlight description
+        - title: What's my district?
+          description: Locate your district here
+          url: https://www.pa.gov.sg/our-network/community-development-councils
+        - title: CDC Vouchers Scheme
+          description: Find out more
+          url: vouchers.cdc.gov.sg
+        - title: Temasek Trust-CDC Lifelong Learning  Enabling Fund
+          description: How to apply
           url: www.pa.gov.sg
-        - title: High Light 3
-          description: Key Highlight description
-          url: www.pa.gov.sg
-        - title: Highlight 4
-          description: Key Highlight description
-          url: www.pa.gov.sg
+        - title: Kong Meng San (KMS) - cdc cOVID-19 Relief fund
+          description: How to apply
+          url: /what-we-do/common-flagship-programmes/
+      title: Community Development Council
+      subtitle: Aggregate.Build.Connect.
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
