@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage banner.jpg
+      background: /images/Homepage banner 2.png
       url: /contact-us/
       key_highlights:
         - title: What's my district?
