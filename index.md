@@ -49,6 +49,13 @@ sections:
       alt: Image alt text
       url: /who-we-are/office-of-the-mayors/our-mayors
       image: /images/Mayors.png
+  - infobar:
+      title: Common Flagship Programmes
+      subtitle: What we do
+      description: We connect with partners and people of diverse expertise through
+        programmes available across all five CDCs.
+      button: learn about cdc's common flagship programmes
+      url: /what-we-do/common-flagship-programmes/permalink
   - resources:
       title: Latest Announcements
       subtitle: Press Centre
