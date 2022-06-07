@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: CDCs, Singapore
-description: Brief site description here
+description: Website of the Community Development Council
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -61,3 +61,4 @@ sections:
       subtitle: Press Centre
       button: Resources Button Name
 ---
+
