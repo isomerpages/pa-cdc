@@ -41,17 +41,14 @@ sections:
       alt: Image alt text
       url: who-we-are/cdc-corporate-profile/five-districts
       image: /images/Five Districts.png
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Office of the Mayors
+      description: "The Office of the Mayors in Singapore serves the residents in the
+        five districts. "
+      button: Find out more
       alt: Image alt text
+      url: /who-we-are/office-of-the-mayors/our-mayors
+      image: /images/Mayors/mayor-badge-final-01-min.jpg
   - resources:
       title: Latest Announcements
       subtitle: Press Centre
