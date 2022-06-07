@@ -41,8 +41,15 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+  - infopic:
+      title: About the Community Development Council
+      description: The Community Development Councils (CDCs) were established under
+        the People’s Association Act in 1997.
+      button: Learn more
+      url: who-we-are/cdc-corporate-profile/mission
+      alt: Image alt text
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
+      title: Latest Announcements
+      subtitle: Press Centre
       button: Resources Button Name
 ---
