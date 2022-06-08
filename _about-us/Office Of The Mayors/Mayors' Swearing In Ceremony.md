@@ -87,3 +87,9 @@ third_nav_title: Office Of The Mayors
 
 ### 2002 Mayors' Swearing-In Ceremony
 ![Mayors Swearing in 2002](/images/Mayors%20Swearing%20In/2002-mayors-swearing-in.jpg)
+<Br>The Mayors and the PA Board Member at the ceremony are (from left to right):
+* Dr Teo Ho Pin, Mayor of North West District<Br>
+* Mrs Yu-Foo Yee Shoon, Mayor of South West District
+* Mr Othman Haron Eusofe, Mayor of South East District<Br>
+* Mr Zainul Abidin Rasheed, Mayor of North East District<Br>
+* Mr Heng Chee How, Mayor of Central Singapore District<br>
