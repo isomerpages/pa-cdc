@@ -1,5 +1,5 @@
 collections:
-  engage-with-us:
+  about-us:
     output: true
     order:
       - CDC Corporate Profile/.keep
