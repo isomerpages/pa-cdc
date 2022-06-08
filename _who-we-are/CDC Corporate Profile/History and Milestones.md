@@ -188,15 +188,15 @@ The CDCs aim to encourage the more able and successful to come forward to help t
 									<td colspan="2" style="border-bottom: none;"><b>2010 -National Health Qigong Programme</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
-                <td style="border-top: none;"> The five CDCs, together with MCYS, PA, HPB, SSC, National Parks Board, Housing & Development Board and Qigong Shi Ba Shi Association (Singapore) launched the National Health Qigong Programme to encourage seniors to lead an active lifestyle and provide a platform for them to make new friends.</td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2010%20-%20qigong%20programme.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td style="border-top: none;">The five CDCs, together with MCYS, PA, HPB, SSC, National Parks Board, Housing & Development Board and Qigong Shi Ba Shi Association (Singapore) launched the National Health Qigong Programme to encourage seniors to lead an active lifestyle and provide a platform for them to make new friends.</td>
             </tr>
 <tr style="border: none;">
 									<td colspan="2" style="border-bottom: none;"><b>2009 -CDCs’ Recession and Resilience Roadmap</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
-                <td style="border-top: none;"> The “CDCs’ Recession and Resilience Roadmap” was produced to provide Singaporeans with advice and tips on coping with challenges that the recession would bring; achieving self-reliance through positive thinking and harnessing strengths; and how they can better manage their finances.</td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2009%20-%20cdc%20recession%20roadmap.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td style="border-top: none;">The “CDCs’ Recession and Resilience Roadmap” was produced to provide Singaporeans with advice and tips on coping with challenges that the recession would bring; achieving self-reliance through positive thinking and harnessing strengths; and how they can better manage their finances.</td>
             </tr>
 <tr style="border: none;">
 									<td colspan="2" style="border-bottom: none;"><b>2009 -National Brisk Walking Club Programme</b></td>
