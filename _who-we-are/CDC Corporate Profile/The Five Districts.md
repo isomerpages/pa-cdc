@@ -14,3 +14,5 @@ For more details, please go to the [Government Interactive Directory.](https://w
 
 Find your district's information at the [People's Association website](https://www.pa.gov.sg/our-network/community-development-councils) (scroll to the bottom of the page).
 
+![The Five Districts in Singapore](/images/Five%20Districts.png)
+
