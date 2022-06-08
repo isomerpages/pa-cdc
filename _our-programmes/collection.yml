@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Common Flagship Programmes/The Kong Meng San CDC COVID19 Relief Fund.md
       - Common Flagship Programmes/WeCare Arts Fund@CDC.md
       - Common Flagship Programmes/Maybank Family Fund@CDC.md
       - Common Flagship Programmes/Law Awareness Weeks@CDC.md
