@@ -118,8 +118,8 @@ The CDCs aim to encourage the more able and successful to come forward to help t
 									<td colspan="2" style="border-bottom: none;"><b>2017 - CDCs' 20th Anniversary Celebration</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
-                <td style="border-top: none;"> In conjunction with the 2017 Swearing-In Ceremony of Mayors, CDCs celebrated their 20th anniversary in community development. The CDC's ABC mission still remains very relevant. CDCs continue to build social cohesion and community bonding as well as encourage lifelong learning, volunteerism and community ownership for mutual support amongst residents. </td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2017%20-%20cdc%2020%20anni.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td style="border-top: none;">In conjunction with the 2017 Swearing-In Ceremony of Mayors, CDCs celebrated their 20th anniversary in community development. The CDC's ABC mission still remains very relevant. CDCs continue to build social cohesion and community bonding as well as encourage lifelong learning, volunteerism and community ownership for mutual support amongst residents. </td>
             </tr>
 <tr style="border: none;">
 									<td colspan="2" style="border-bottom: none;"><b>2016 - CASE Consumer Awareness Talks @ CDC</b></td>
