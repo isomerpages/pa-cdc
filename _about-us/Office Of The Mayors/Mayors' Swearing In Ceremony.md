@@ -7,8 +7,28 @@ third_nav_title: Office Of The Mayors
 ### 2020 Mayors' Swearing-In Ceremony
 ![Mayors Swearing In 2020](/images/Mayors%20Swearing%20In/2020-Mayors-Swearing-In-Ceremony.jpg)
 
+<strong>*Held on 23 September 2020 at PA Headquarters Auditorium*</strong><br>
+<Br>The Mayors and the PA Board Member at the ceremony are (from left to right):
+
+* Mr Desmond Choo, Mayor of North East District<Br>
+* Ms Low Yen Ling, Chairperson of Mayors’ Committee and Mayor of South West District<br>
+* Prime Minister Lee Hsien Loong, Chairman of People’s Association<br>
+* Ms Denise Phua Lay Peng, Mayor of Central Singapore District<Br>
+* Mr Alex Yam, Mayor of North West District<br>
+* Mr Fahmi Aliman, Mayor of South East District
+
 ### 2017 Mayors' Swearing-In Ceremony
 ![Mayors Swearing in 2017](/images/Mayors%20Swearing%20In/2017-mayors-swearing-in.jpg)
+
+<strong>*Held on 23 September 2020 at PA Headquarters Auditorium*</strong><br>
+<Br>The Mayors and the PA Board Member at the ceremony are (from left to right):
+
+* Mr Desmond Choo, Mayor of North East District<Br>
+* Ms Low Yen Ling, Chairperson of Mayors’ Committee and Mayor of South West District<br>
+* Prime Minister Lee Hsien Loong, Chairman of People’s Association<br>
+* Ms Denise Phua Lay Peng, Mayor of Central Singapore District<Br>
+* Mr Alex Yam, Mayor of North West District<br>
+* Mr Fahmi Aliman, Mayor of South East District
 
 ### 2014 Mayors' Swearing-In Ceremony
 ![Mayors Swearing in 2014](/images/Mayors%20Swearing%20In/2014-mayors-swearing.jpg)
