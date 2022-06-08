@@ -125,8 +125,8 @@ The CDCs aim to encourage the more able and successful to come forward to help t
 									<td colspan="2" style="border-bottom: none;"><b>2016 - CASE Consumer Awareness Talks @ CDC</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
-                <td style="border-top: none;"> With the amendment to the Consumer Protection (Fair Trading) Act, the five CDCs partnered with the Consumers Association of Singapore (CASE) to organise consumer awareness talks across the districts over three years. The talks aimed to help residents better understand their rights as consumers, the responsibility of retailers, and the avenues for recourse or mediation. </td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2015%20-%20case%20talks.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td style="border-top: none;">With the amendment to the Consumer Protection (Fair Trading) Act, the five CDCs partnered with the Consumers Association of Singapore (CASE) to organise consumer awareness talks across the districts over three years. The talks aimed to help residents better understand their rights as consumers, the responsibility of retailers, and the avenues for recourse or mediation. </td>
             </tr>
 <tr style="border: none;">
 									<td colspan="2" style="border-bottom: none;"><b>2015 - SG50 - CDCs Celebrating Communities</b></td>
