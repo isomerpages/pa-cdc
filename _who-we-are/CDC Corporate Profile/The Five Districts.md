@@ -27,7 +27,7 @@ Find your district's information at the [People's Association website](https://w
 HDB Hub Bizthree <br>
 490 Lorong 6 Toa Payoh #07-11 <br>
 Singapore 310490<br>
-Tel: 67157500 Fax: 63709945
+Tel: 67157500 Fax: 63709945<br>
 
 The Central Singapore district covers constituencies of:<br>
 Ang Mo Kio, Bishan-Toa Payoh, Jalan Besar, Kebun Baru, Marymount, Potong Pasir, Radin Mas, Tanjong Pagar and Yio Chu Kang.</td>
@@ -43,7 +43,7 @@ Our Tampines Hub<br>
 Singapore 528523<br>
 Tel: 64244000 Fax: 64244066<br>
 
-The North East district covers constituencies of:
+The North East district covers constituencies of:<br>
 Aljunied, Hougang, Pasir Ris-Punggol, Punggol West, Sengkang and Tampines.</td>
             </tr>
 <tr style="border: none;">
