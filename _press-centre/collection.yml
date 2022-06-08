@@ -2,4 +2,5 @@ collections:
   press-centre:
     output: true
     order:
+      - Publications.md
       - Awards.md
