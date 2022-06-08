@@ -1,4 +1,5 @@
 collections:
   press-centre:
     output: true
-    order: []
+    order:
+      - Awards.md
