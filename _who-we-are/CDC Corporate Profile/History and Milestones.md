@@ -4,7 +4,6 @@ permalink: /who-we-are/history
 description: ""
 third_nav_title: CDC Corporate Profile
 ---
-
 # History
 
 <style>
@@ -46,11 +45,33 @@ The CDCs aim to encourage the more able and successful to come forward to help t
                 <td style="border-top: none;">The COVID Relief Fund (CRF) is targeted at Singaporeans aged 21 years old and above, who are currently unemployed and /or loss of job due to non-voluntary no pay leave, retrenchment or termination for at least three months.</td>
             </tr>
             <tr style="border: none;">
-                <td colspan="2" style="border-bottom: none;"><b>1976 - Multi Cultural Flavour</b></td>
+                <td colspan="2" style="border-bottom: none;"><b>2020 - Law Awareness Weeks (LAW)@CDC</b></td>
             </tr>
             <tr style="border: none;">
                 <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
                 <td style="border-top: none;">A pilot online project Youth Community & Legal Clinic (YCLC) was announced and to be launched subsequently to help youths seeking legal and social assistance.</td>
+            </tr>
+					 <tr style="border: none;">
+                <td colspan="2" style="border-bottom: none;"><b>2020 - SkillsFuture@CDC</b></td>
+            </tr>
+            <tr style="border: none;">
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td style="border-top: none;">The CDCs launched SkillsFuture@CDC “The Future of You” to complement Government’s efforts to support the local community and  Singapore businesses in lifelong learning, reskilling and upskilling.</td>
+            </tr>
+					 <tr style="border: none;">
+                <td colspan="2" style="border-bottom: none;"><b>2020 - CDC Vouchers Scheme</b></td>
+            </tr>
+            <tr style="border: none;">
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td style="border-top: none;">The CDCs launched the CDC Vouchers Scheme to help Singaporean households to defray the cost of living and at the same time, support participating merchants and local hawkers at HDB estates / heartlands during COVID-19 situation.</td>
+            </tr>
+					  </tr>
+					 <tr style="border: none;">
+                <td colspan="2" style="border-bottom: none;"><b>2020 - CDC Student Meals Scheme</b></td>
+            </tr>
+            <tr style="border: none;">
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td style="border-top: none;">The CDCs launched the CDC Vouchers Scheme to help Singaporean households to defray the cost of living and at the same time, support participating merchants and local hawkers at HDB estates / heartlands during COVID-19 situation.</td>
             </tr>
         </tbody>
     </table>
