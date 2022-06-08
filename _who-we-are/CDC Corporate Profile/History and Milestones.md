@@ -199,18 +199,18 @@ The CDCs aim to encourage the more able and successful to come forward to help t
                 <td style="border-top: none;">The “CDCs’ Recession and Resilience Roadmap” was produced to provide Singaporeans with advice and tips on coping with challenges that the recession would bring; achieving self-reliance through positive thinking and harnessing strengths; and how they can better manage their finances.</td>
             </tr>
 <tr style="border: none;">
-									<td colspan="2" style="border-bottom: none;"><b>2009 -National Brisk Walking Club Programme</b></td>
+									<td colspan="2" style="border-bottom: none;"><b>2009 - National Brisk Walking Club Programme</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
-                <td style="border-top: none;"> The five CDCs, with Minister Lim Boon Heng, launched the National Brisk Walking Club Programme supported by Ministry of Community Development, Youth and Sports (MCYS), People’s Association (PA), Health Promotion Board (HPB) and Singapore Sports Council (SSC) to promote a healthy lifestyle and greater bonding among Singaporeans.</td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2009%20-%20national%20brisk%20walking.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td style="border-top: none;">The five CDCs, with Minister Lim Boon Heng, launched the National Brisk Walking Club Programme supported by Ministry of Community Development, Youth and Sports (MCYS), People’s Association (PA), Health Promotion Board (HPB) and Singapore Sports Council (SSC) to promote a healthy lifestyle and greater bonding among Singaporeans.</td>
             </tr>
 <tr style="border: none;">
-									<td colspan="2" style="border-bottom: none;"><b>2009 -Stepping up Social and Financial Assistance</b></td>
+									<td colspan="2" style="border-bottom: none;"><b>2009 - Stepping up Social and Financial Assistance</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
-                <td style="border-top: none;"> During the economic downturn in the last quarter of 2008, the CDCs put in place several measures to meet the increase in social and financial assistance applications, and organised more job fairs and job placement exercises to help expedite the job search of affected Singaporeans.</td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2009%20-%20social%20financial%20assistance.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td style="border-top: none;">During the economic downturn in the last quarter of 2008, the CDCs put in place several measures to meet the increase in social and financial assistance applications, and organised more job fairs and job placement exercises to help expedite the job search of affected Singaporeans.</td>
             </tr>
 <tr style="border: none;">
 									<td colspan="2" style="border-bottom: none;"><b>2007 -CDCs’ 10th Anniversary Celebration</b></td>
