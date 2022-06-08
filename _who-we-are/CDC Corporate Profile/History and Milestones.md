@@ -174,8 +174,8 @@ The CDCs aim to encourage the more able and successful to come forward to help t
 									<td colspan="2" style="border-bottom: none;"><b>2012 - Singapore Brisk Walk</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
-                <td style="border-top: none;"> The Singapore Brisk Walk was organised to commemorate the third anniversary of the National Brisk Walking Programme and saw a turnout of more than 10,000 residents from the five districts. Brisk walking has gained popularity over the years with 100,000 Singaporeans participating in regular brisk walks, and more than 700 brisk walking clubs formed islandwide.</td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2012%20-%20singapore%20brisk%20walk.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td style="border-top: none;">The Singapore Brisk Walk was organised to commemorate the third anniversary of the National Brisk Walking Programme and saw a turnout of more than 10,000 residents from the five districts. Brisk walking has gained popularity over the years with 100,000 Singaporeans participating in regular brisk walks, and more than 700 brisk walking clubs formed islandwide.</td>
             </tr>
 <tr style="border: none;">
 									<td colspan="2" style="border-bottom: none;"><b>2012 - Caring for the Silver Community</b></td>
