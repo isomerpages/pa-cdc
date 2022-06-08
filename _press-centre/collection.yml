@@ -2,5 +2,6 @@ collections:
   press-centre:
     output: true
     order:
+      - Annual Reports.md
       - Publications.md
       - Awards.md
