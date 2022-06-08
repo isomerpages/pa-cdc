@@ -1,5 +1,5 @@
 collections:
-  our-programmes:
+  about-us:
     output: true
     order:
       - Join Us As A Volunteer.md
