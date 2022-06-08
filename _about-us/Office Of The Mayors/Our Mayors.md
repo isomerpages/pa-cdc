@@ -49,5 +49,5 @@ third_nav_title: Office Of The Mayors
 
 |  |  | 
 | -------- | -------- | 
-| ![Mayor Desmond Choo](/images/Mayors/desmond_choo2.png)        | MR DESMOND CHOO <br> Mayor of North East District<br> Chairman of North East CDC <br> Date of Appointment: 27/5/2017 <br> 
+| ![Mayor Desmond Choo](/images/Mayors/Mohd_Fahmi_Bin_Aliman2.png)        | MR MOHD FAHMI ALIMAN<br> Mayor of South East District<br> Chairman of South East CDC <br> Date of Appointment: 27/7/2020 <br> 
 |
