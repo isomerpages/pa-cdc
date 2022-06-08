@@ -213,34 +213,32 @@ The CDCs aim to encourage the more able and successful to come forward to help t
                 <td style="border-top: none;">During the economic downturn in the last quarter of 2008, the CDCs put in place several measures to meet the increase in social and financial assistance applications, and organised more job fairs and job placement exercises to help expedite the job search of affected Singaporeans.</td>
             </tr>
 <tr style="border: none;">
-									<td colspan="2" style="border-bottom: none;"><b>2007 -CDCs’ 10th Anniversary Celebration</b></td>
+									<td colspan="2" style="border-bottom: none;"><b>2007 - CDCs’ 10th Anniversary Celebration</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
-                <td style="border-top: none;"> At the 10th Anniversary Dinner, CDCs coined and unveiled the ABC Mission: Assisting the Needy, Bonding the People, and Connecting the Community.</td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2007%20-%20cdc%2010%20anniversairy.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td style="border-top: none;">At the 10th Anniversary Dinner, CDCs coined and unveiled the ABC Mission: Assisting the Needy, Bonding the People, and Connecting the Community.</td>
             </tr>
 <tr style="border: none;">
 									<td colspan="2" style="border-bottom: none;"><b>2007 - From CDCs’ Joint Social Service Centre to OnePeople.sg</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
-                <td style="border-top: none;"> The five CDCs reorganised and launched OnePeople.sg to become a leading organisation in Singapore specialising in promoting racial harmony.
-
-The CDCs continued to evolve their individual flagship programmes in response to the changing needs and aspirations in their respective districts.</td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2007%20-%20onepeoplesg.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td style="border-top: none;">The five CDCs reorganised and launched OnePeople.sg to become a leading organisation in Singapore specialising in promoting racial harmony. The CDCs continued to evolve their individual flagship programmes in response to the changing needs and aspirations in their respective districts.</td>
             </tr>
 <tr style="border: none;">
 									<td colspan="2" style="border-bottom: none;"><b>2006 - Launch of the ComCare Local Networks</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
-                <td style="border-top: none;"> Launch of the ComCare Local Networks by the CDCs across the five districts in partnership with grassroots and voluntary welfare organisations to provide the needy with access to a wider range of social support services.</td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2006%20-%20ComCare%20Local%20Networks.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td style="border-top: none;">Launch of the ComCare Local Networks by the CDCs across the five districts in partnership with grassroots and voluntary welfare organisations to provide the needy with access to a wider range of social support services.</td>
             </tr>
 					<tr style="border: none;">
 									<td colspan="2" style="border-bottom: none;"><b>2005 - Establishment of the $1 Billion ComCare Endowment Fund</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
-                <td style="border-top: none;"> Establishment of the $1 Billion ComCare Endowment Fund by Prime Minister, Mr Lee Hsien Loong, and administered by the CDCs to provide a safety net for needy Singaporeans, and serve as a springboard for them to become self-reliant.</td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2005%20-%20ComCare%20endowment%20fund.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td style="border-top: none;">Establishment of the $1 Billion ComCare Endowment Fund by Prime Minister, Mr Lee Hsien Loong, and administered by the CDCs to provide a safety net for needy Singaporeans, and serve as a springboard for them to become self-reliant.</td>
             </tr>
 <tr style="border: none;">
 									<td colspan="2" style="border-bottom: none;"><b>2003 - Involvement in Clean and Green Singapore (CGS)</b></td>
