@@ -29,8 +29,8 @@ sections:
       description: The Community Development Councils (CDCs) were established under
         the People’s Association Act in 1997.
       button: Learn more
-      url: who-we-are/cdc-corporate-profile/mission
-      alt: Image alt text
+      url: /who-we-are/mission
+      alt: CDC Logo
       subtitle: who we are
       image: /images/cdc-logo.png
   - infopic:
@@ -38,16 +38,16 @@ sections:
       description: The CDC Planning and Development Division coordinates the work of
         the five CDCs.
       button: Find out more
-      alt: Image alt text
-      url: who-we-are/cdc-corporate-profile/five-districts
+      alt: The Five Districts
+      url: /who-we-are/five-districts
       image: /images/Five Districts.png
   - infopic:
       title: Office of the Mayors
       description: "The Office of the Mayors in Singapore serves the residents in the
         five districts. "
       button: Find out more
-      alt: Image alt text
-      url: /who-we-are/office-of-the-mayors/our-mayors
+      alt: The Five Mayors
+      url: /who-we-are/our-mayors
       image: /images/Mayors.png
   - infobar:
       title: Common Flagship Programmes
@@ -59,5 +59,5 @@ sections:
   - resources:
       title: Latest Announcements
       subtitle: Press Centre
-      button: Resources Button Name
+      button: Go to press centre
 ---
