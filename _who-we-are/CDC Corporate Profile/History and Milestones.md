@@ -97,7 +97,7 @@ The CDCs aim to encourage the more able and successful to come forward to help t
 									<td colspan="2" style="border-bottom: none;"><b>2018 - Common Senses for Common Spaces (CSCS)@CDC </b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2018%20-%20cscs.png" style="width:160px; float:left;right-padding:20px;" /></td>
                 <td style="border-top: none;">The CDCs partnered with the Inter-Racial and Religious Confidence Circle (IRCC) to launch Common Senses for Common Spaces (CSCS)@CDC, which was part of nationwide interfaith dialogue series.</td>
             </tr>
 <tr style="border: none;">
