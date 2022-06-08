@@ -69,7 +69,7 @@ The CDCs aim to encourage the more able and successful to come forward to help t
                 <td colspan="2" style="border-bottom: none;"><b>2020 - CDC Student Meals Scheme</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2020%20-%20cdc%20student%20meals.png" style="width:160px; float:left;right-padding:20px;" /></td>
                 <td style="border-top: none;">The CDCs partnered Dr Tahir and Grab Singapore to launch CDC Student Meals Scheme amidst COVID-19.  The scheme provides primary and secondary school students living in units under Public Rental Scheme, with GrabFood vouchers to defray the cost of buying meals with self pick-up option.</td>
             </tr>
  <tr style="border: none;">
