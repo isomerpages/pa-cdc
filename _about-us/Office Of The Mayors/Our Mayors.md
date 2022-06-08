@@ -38,12 +38,14 @@ third_nav_title: Office Of The Mayors
 | -------- | -------- | 
 | ![Mayor Desmond Choo](/images/Mayors/desmond_choo2.png)        | MR DESMOND CHOO <br> Mayor of North East District<br> Chairman of North East CDC <br> Date of Appointment: 27/5/2017 <br> 
 |
+
 ## North West CDC
 
 |  |  | 
 | -------- | -------- | 
 | ![Mayor Desmond Choo](/images/Mayors/Alex_Yam2.png)        | MR ALEX YAM <br> Mayor of North West District<br> Chairman of North West CDC <br> Date of Appointment: 27/7/2020 <br> 
 |
+
 ## South East CDC
 
 |  |  | 
