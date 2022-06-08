@@ -153,8 +153,8 @@ The CDCs aim to encourage the more able and successful to come forward to help t
 									<td colspan="2" style="border-bottom: none;"><b>2014 - Community Legal Pro Bono Services Network</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
-                <td style="border-top: none;"> The five CDCs and the Law Society of Singapore signed a Memorandum of Understanding to launch the Community Legal Pro Bono Services Network to provide pro bono legal advice to needy Singaporeans and Permanent Residents. Residents seeking advice can make appointments at the Community Legal Clinics set up across the five districts.</td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2014%20-%20community%20legal%20probono.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td style="border-top: none;">The five CDCs and the Law Society of Singapore signed a Memorandum of Understanding to launch the Community Legal Pro Bono Services Network to provide pro bono legal advice to needy Singaporeans and Permanent Residents. Residents seeking advice can make appointments at the Community Legal Clinics set up across the five districts.</td>
             </tr>
 <tr style="border: none;">
 									<td colspan="2" style="border-bottom: none;"><b>2013 - Return of National Social Assistance and Employment Assistance Functions</b></td>
