@@ -244,35 +244,35 @@ The CDCs aim to encourage the more able and successful to come forward to help t
 									<td colspan="2" style="border-bottom: none;"><b>2003 - Involvement in Clean and Green Singapore (CGS)</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
-                <td style="border-top: none;">The five CDCs were first involved in the Clean and Green Week (subsequently rebranded to Clean and Green Singapore) in 2003, and continued to do their part to inspire Singaporeans to care for and protect our common spaces and environment by adopting a clean, green and sustainable lifestyle. Co-organising the annual CGS with National Environment Agency, CDCs also take turns to host the main launch each year.</td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2003%20-%20Clean%20and%20Green%20Singapore.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td style="border-top: none;">\The five CDCs were first involved in the Clean and Green Week (subsequently rebranded to Clean and Green Singapore) in 2003, and continued to do their part to inspire Singaporeans to care for and protect our common spaces and environment by adopting a clean, green and sustainable lifestyle. Co-organising the annual CGS with National Environment Agency, CDCs also take turns to host the main launch each year.</td>
             </tr>
 <tr style="border: none;">
 									<td colspan="2" style="border-bottom: none;"><b>2001 - Restructuring of the Nine CDCs</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2001%20-%20Restructuring.png" style="width:160px; float:left;right-padding:20px;" /></td>
                 <td style="border-top: none;">Restructuring of the Nine CDCs to form five CDCs (Central Singapore, North East, North West, South East, and South West). National social assistance schemes and employment assistance functions were administered by CDCs later the same year.</td>
             </tr>
 					<tr style="border: none;">
 									<td colspan="2" style="border-bottom: none;"><b>2001 - Delegation of National Social Assistance and Employment Assistance functions</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2001%20-%20Delegtion%20of.png" style="width:160px; float:left;right-padding:20px;" /></td>
                 <td style="border-top: none;">The CDCs were tasked by the Government to make the national social assistance schemes more accessible to the citizens and provide employment assistance, training and career counselling to help Singaporeans in upward social mobility.</td>
             </tr>
 <tr style="border: none;">
 									<td colspan="2" style="border-bottom: none;"><b>1997 - Formation of the Community Development Councils (CDCs)</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/1997%20-%20CDCs.png" style="width:160px; float:left;right-padding:20px;" /></td>
                 <td style="border-top: none;">Nine CDCs (Marine Parade, Tanjong Pagar, Ang Mo Kio- Cheng San, Central Singapore, North East, Bukit Timah, Sembawang-Hong Kah, Hougang and Potong Pasir) were set up to build a caring and cohesive community.</td>
             </tr>
 <tr style="border: none;">
 									<td colspan="2" style="border-bottom: none;"><b>1996 - The Concept of CDCs</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/1996%20-%20CDCs.png" style="width:160px; float:left;right-padding:20px;" /></td>
                 <td style="border-top: none;">The concept of CDCs was first mooted by then Prime Minister, Mr Goh Chok Tong, at his 1996 National Day Rally Speech to build a tightly-knit, compassionate and self-reliant community in Singapore, where there is mutual help and where the more able help the less able.</td>
             </tr>
 	</tbody>
