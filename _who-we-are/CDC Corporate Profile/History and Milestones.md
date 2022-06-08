@@ -55,14 +55,14 @@ The CDCs aim to encourage the more able and successful to come forward to help t
                 <td colspan="2" style="border-bottom: none;"><b>2020 - SkillsFuture@CDC</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2020%20-%20skillsfuture%20cdc.png" style="width:160px; float:left;right-padding:20px;" /></td>
                 <td style="border-top: none;">The CDCs launched SkillsFuture@CDC “The Future of You” to complement Government’s efforts to support the local community and  Singapore businesses in lifelong learning, reskilling and upskilling.</td>
             </tr>
 					 <tr style="border: none;">
                 <td colspan="2" style="border-bottom: none;"><b>2020 - CDC Vouchers Scheme</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2020%20-%20cdc%20vouchers%20scheme.png" style="width:160px; float:left;right-padding:20px;" /></td>
                 <td style="border-top: none;">The CDCs launched the CDC Vouchers Scheme to help Singaporean households to defray the cost of living and at the same time, support participating merchants and local hawkers at HDB estates / heartlands during COVID-19 situation.</td>
  					  </tr>
 					 <tr style="border: none;">
