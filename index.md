@@ -15,13 +15,13 @@ sections:
           url: https://www.pa.gov.sg/our-network/community-development-councils
         - title: CDC Vouchers Scheme
           description: Find out more
-          url: vouchers.cdc.gov.sg
+          url: https://vouchers.cdc.gov.sg
         - title: Temasek Trust-CDC Lifelong Learning  Enabling Fund
           description: How to apply
-          url: www.pa.gov.sg
+          url: https://www.sgenable.sg/your-first-stop/training-consultancy/enabling-academy/training/persons-with-disabilities/temasek-trust-cdc-lifelong-learning-enabling-fundommon-flagship-programmes/permalink
         - title: Kong Meng San (KMS) - cdc cOVID-19 Relief fund
           description: How to apply
-          url: /what-we-do/common-flagship-programmes/
+          url: /what-we-do/common-flagship-programmes/permalink
       title: Community Development Council
       subtitle: Aggregate.Build.Connect.
   - infopic:
@@ -61,4 +61,3 @@ sections:
       subtitle: Press Centre
       button: Resources Button Name
 ---
-
