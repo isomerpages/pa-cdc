@@ -66,9 +66,24 @@ third_nav_title: Office Of The Mayors
 
 ### 2006 Mayors' Swearing-In Ceremony
 ![Mayors Swearing in 2006](/images/Mayors%20Swearing%20In/2006-mayors-swearing-in.jpg)
+<Br>The Mayors and the PA Board Member at the ceremony are (from left to right):
+* Mr Zainudin Nordin, Mayor of Central Singapore District<Br>
+* Dr Teo Ho Pin, Mayor of North West District
+* Mr Zainul Abidin Rasheed, Mayor of North East District<Br>
+* Mr Wong Kan Seng, Deputy Chairman of People’s Association<Br>
+* Mr Matthias Yao, Mayor of South East District<br>
+* Dr Amy Khor Lean Suan, Mayor of South West District
 
 ### 2004 Mayors' Swearing-In Ceremony
 ![Mayors Swearing in 2004](/images/Mayors%20Swearing%20In/2004-mayors-swearing-in.jpg)
+<Br>The Mayors and the PA Board Member at the ceremony are (from left to right):
+* Dr Teo Ho Pin, Mayor of North West District<Br>
+* Mr Heng Chee How, Mayor of Central Singapore District
+* Mr Chan Soo Sen, Board Member of People’s Association<Br>
+* Mr Wong Kan Seng, Deputy Chairman of People’s Association<Br>
+* Mr Zainul Abidin Rasheed, Mayor of North East District<br>
+* Mr Matthias Yao, Mayor of South East District
+* Dr Amy Khor Lean Suan, Mayor of South West District
 
 ### 2002 Mayors' Swearing-In Ceremony
 ![Mayors Swearing in 2002](/images/Mayors%20Swearing%20In/2002-mayors-swearing-in.jpg)
