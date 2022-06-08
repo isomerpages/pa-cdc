@@ -90,7 +90,7 @@ The CDCs aim to encourage the more able and successful to come forward to help t
 									<td colspan="2" style="border-bottom: none;"><b>2018 - MayBank Family Fund @ CDC</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2018%20-%20maybank%20family%20fund.png" style="width:160px; float:left;right-padding:20px;" /></td>
                 <td style="border-top: none;">The fund aims to uplift the lives of the vulnerable families through three broad areas, namely financial empowerment, employability and livelihood.</td>
             </tr>
 <tr style="border: none;">
