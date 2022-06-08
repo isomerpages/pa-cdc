@@ -21,7 +21,7 @@ sections:
           url: https://go.gov.sg/temasektrust-cdc-fund
         - title: Kong Meng San (KMS) - cdc cOVID-19 Relief fund
           description: How to apply
-          url: /what-we-do/common-flagship-programmes/permalink
+          url: /our-programmes/kms-cdc
       title: Community Development Council
       subtitle: Aggregate.Build.Connect.
   - infopic:
