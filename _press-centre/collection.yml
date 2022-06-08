@@ -2,6 +2,7 @@ collections:
   press-centre:
     output: true
     order:
+      - Speeches.md
       - Annual Reports.md
       - Publications.md
       - Awards.md
