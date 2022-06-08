@@ -132,14 +132,14 @@ The CDCs aim to encourage the more able and successful to come forward to help t
 									<td colspan="2" style="border-bottom: none;"><b>2015 - SG50 - CDCs Celebrating Communities</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
-                <td style="border-top: none;"> In conjunction with SG50, CDCs Celebrating Communities, the five Mayors and Prime Minister Lee Hsien Loong brought together more than 5,000 community and corporate partners, volunteers, beneficiaries and residents to participate in a community parade and brisk walk. </td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2015%20-%20sg50%20cdc.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td style="border-top: none;">In conjunction with SG50, CDCs Celebrating Communities, the five Mayors and Prime Minister Lee Hsien Loong brought together more than 5,000 community and corporate partners, volunteers, beneficiaries and residents to participate in a community parade and brisk walk. </td>
             </tr>
 <tr style="border: none;">
 									<td colspan="2" style="border-bottom: none;"><b>2015 - Law Awareness Weeks @ CDC</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2015%20-%20law%20cdc.png" style="width:160px; float:left;right-padding:20px;" /></td>
                 <td style="border-top: none;"> To meet the increasing need for legal awareness, the five CDCs and the Law Society of Singapore launched the first district-level Law Awareness Week @ CDC to organise legal talks for residents. Common and emerging topics such as Family Law, End of Life and Consumer Protection were covered to heighten the community's awareness of the issues. The programme was renamed Law Awareness Weeks @ CDC, extended from one to six weeks, so that more residents can benefit from the different talks. </td>
             </tr>
 <tr style="border: none;">
