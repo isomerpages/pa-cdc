@@ -104,15 +104,15 @@ The CDCs aim to encourage the more able and successful to come forward to help t
 									<td colspan="2" style="border-bottom: none;"><b>2017 - Corporate Social Integration Fund (CSI)@CDC</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
-                <td style="border-top: none;"> The CDCs partnered with the National Integration Council (NIC) to set up the Corporate Social Integration Fund (CSI)@CDC, to promote workplace integration through Corporate Social Responsibility (CSR) and volunteerism efforts in the community.</td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2017%20-%20csi%20fund.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td style="border-top: none;">The CDCs partnered with the National Integration Council (NIC) to set up the Corporate Social Integration Fund (CSI)@CDC, to promote workplace integration through Corporate Social Responsibility (CSR) and volunteerism efforts in the community.</td>
             </tr>
 <tr style="border: none;">
 									<td colspan="2" style="border-bottom: none;"><b>2017 - SkillsFuture Advice @ CDC</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
-                <td style="border-top: none;"> Against a backdrop of rapid advancements in technology and an increasingly globalised workforce, five CDCs launched the SkillsFuture Advice (SFA) @ CDC to bring SFA workshops closer to the heartlands, empowering and equipping Singaporeans with opportunities to learn, adapt and skill-up as the economy restructures.</td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2017%20-%20skillsfuture%20advice.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td style="border-top: none;">Against a backdrop of rapid advancements in technology and an increasingly globalised workforce, five CDCs launched the SkillsFuture Advice (SFA) @ CDC to bring SFA workshops closer to the heartlands, empowering and equipping Singaporeans with opportunities to learn, adapt and skill-up as the economy restructures.</td>
             </tr>
 <tr style="border: none;">
 									<td colspan="2" style="border-bottom: none;"><b>2017 - CDCs' 20th Anniversary Celebration</b></td>
