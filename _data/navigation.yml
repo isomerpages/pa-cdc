@@ -1,10 +1,10 @@
 logo: /images/cdc-logo.png
 links:
-  - title: WHO WE ARE
+  - title: About Us
     collection: who-we-are
-  - title: WHAT WE DO
+  - title: Our Programmes
     collection: what-we-do
-  - title: JOIN US
+  - title: Engage With Us
     collection: join-us
   - title: Contact Us
     collection: contact-us
