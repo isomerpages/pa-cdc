@@ -44,6 +44,14 @@ third_nav_title: Office Of The Mayors
 
 ### 2011 Mayors' Swearing-In Ceremony
 ![Mayors Swearing in 2011](/images/Mayors%20Swearing%20In/2011-mayors-swearing-in.jpg)
+<Br>The Mayors and the PA Board Member at the ceremony are (from left to right):
+* Dr Mohamad Maliki Osman, Mayor of South East District<Br>
+* Mr Teo Ser Luck, Mayor of North East District
+* Mr Lim Swee Say, Deputy Chairman of People’s Association<Br>
+* Prime Minister Lee Hsien Loong, Chairman of People’s Association<Br>
+* Dr Amy Khor Lean Suan, Chairman of Mayors' Committee & Mayor of South West District<br>
+* Dr Teo Ho Pin, Mayor of North West District
+* Mr Sam Tan Chin Siong, Mayor of Central Singapore District
 
 ### 2009 Mayors' Swearing-In Ceremony
 ![Mayors Swearing in 2009](/images/Mayors%20Swearing%20In/2009-mayors-swearing-in.jpg)
