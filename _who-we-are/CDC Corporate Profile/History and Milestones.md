@@ -160,15 +160,15 @@ The CDCs aim to encourage the more able and successful to come forward to help t
 									<td colspan="2" style="border-bottom: none;"><b>2013 - Return of National Social Assistance and Employment Assistance Functions</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
-                <td style="border-top: none;"> After the return of the two delegated functions to the Ministry of Social and Family Development, residents continue to approach the CDCs for help for local assistance programmes. The CDCs now focus more on promoting volunteerism, encouraging community ownership, mutual support and self-help in the districts.</td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2013%20-%20national%20social%20assistance.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td style="border-top: none;">After the return of the two delegated functions to the Ministry of Social and Family Development, residents continue to approach the CDCs for help for local assistance programmes. The CDCs now focus more on promoting volunteerism, encouraging community ownership, mutual support and self-help in the districts.</td>
             </tr>
 <tr style="border: none;">
 									<td colspan="2" style="border-bottom: none;"><b>2013 - SME Centres@CDC</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
-                <td style="border-top: none;"> Together with SPRING Singapore and the Trade Associations and Chambers, the five CDCs established SME Centres @ CDC to provide local businesses with integrated services such as productivity diagnosis, guidance on government assistance schemes and capability workshops. These centres provide heartland SMEs with greater convenience and access to business resources and advice.</td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2013%20-%20sme%20centres%20cdc.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td style="border-top: none;">Together with SPRING Singapore and the Trade Associations and Chambers, the five CDCs established SME Centres @ CDC to provide local businesses with integrated services such as productivity diagnosis, guidance on government assistance schemes and capability workshops. These centres provide heartland SMEs with greater convenience and access to business resources and advice.</td>
             </tr>
 <tr style="border: none;">
 									<td colspan="2" style="border-bottom: none;"><b>2012 - Singapore Brisk Walk</b></td>
