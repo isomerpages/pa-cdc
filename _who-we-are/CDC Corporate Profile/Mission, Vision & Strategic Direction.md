@@ -36,6 +36,6 @@ The Community Development Councils (CDCs) were established under the People’s 
 
 | | |
 | -------- | -------- |  
-| Strengthen Social Infrastructure| - To strengthen social support through local assistance schemes & social programmes <br>- To promote social mobility <br>- To encourage self help |
-| Build Social Resilience and Social Capital| - To strengthen community bonds <br>- To encourage active citizenry |
-| Promote Culture of Giving Back|  - To engender community and corporate ownership through volunteerism & Corporate Social Responsibility by adopting local causes, and partnering corporate, Grassroots Organisations, schools, Voluntary Welfare Organisations and community partners |
+| <strong>Strengthen Social Infrastructure </strong>| - To strengthen social support through local assistance schemes & social programmes <br>- To promote social mobility <br>- To encourage self help |
+| <strong>Build Social Resilience and Social Capita</strong>| - To strengthen community bonds <br>- To encourage active citizenry |
+| <strong>Promote Culture of Giving Back</strong>|  - To engender community and corporate ownership through volunteerism & Corporate Social Responsibility by adopting local causes, and partnering corporate, Grassroots Organisations, schools, Voluntary Welfare Organisations and community partners |
