@@ -146,8 +146,8 @@ The CDCs aim to encourage the more able and successful to come forward to help t
 									<td colspan="2" style="border-bottom: none;"><b>2014 - WeCare Arts Fund</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
-                <td style="border-top: none;"> In partnership with the National Arts Council, the five CDCs launched the WeCare Arts Fund to increase the access to arts for the social service sector for three years. The $1.5 million scheme allowed over 400 voluntary welfare organisations to apply for grants that support arts projects customised to the needs and interests of beneficiaries.</td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2014%20-%20wecare%20arts%20fund.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td style="border-top: none;">In partnership with the National Arts Council, the five CDCs launched the WeCare Arts Fund to increase the access to arts for the social service sector for three years. The $1.5 million scheme allowed over 400 voluntary welfare organisations to apply for grants that support arts projects customised to the needs and interests of beneficiaries.</td>
             </tr>
 					<tr style="border: none;">
 									<td colspan="2" style="border-bottom: none;"><b>2014 - Community Legal Pro Bono Services Network</b></td>
