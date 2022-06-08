@@ -76,7 +76,7 @@ The CDCs aim to encourage the more able and successful to come forward to help t
                 <td colspan="2" style="border-bottom: none;"><b>2019 - Law Awareness Weeks@CDC</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2019%20-%20law%20cdc.png" style="width:160px; float:left;right-padding:20px;" /></td>
                 <td style="border-top: none;">Under the Law Awareness Weeks (LAW)@CDC, legal advice was made more accessible to the residents through a new webinar component covering taboo topics such as divorce and gambling.</td>
             </tr>
  <tr style="border: none;">
