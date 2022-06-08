@@ -181,8 +181,8 @@ The CDCs aim to encourage the more able and successful to come forward to help t
 									<td colspan="2" style="border-bottom: none;"><b>2012 - Caring for the Silver Community</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/Timeline/LAW.png" style="width:160px; float:left;right-padding:20px;" /></td>
-                <td style="border-top: none;"> Against the backdrop of Singapore's ageing population, the five CDCs, with President Tony Tan, launched the Caring for the Silver Community initiative to reach out to more seniors. The initiative focused on three strategic thrusts to: promote an active and healthy lifestyle among seniors; strengthen assistance for vulnerable seniors; and develop senior volunteerism.</td>
+                <td width="161px" style="border-top: none;"><img src="/images/Timeline/2012%20-%20caring%20silver%20community.png" style="width:160px; float:left;right-padding:20px;" /></td>
+                <td style="border-top: none;">Against the backdrop of Singapore's ageing population, the five CDCs, with President Tony Tan, launched the Caring for the Silver Community initiative to reach out to more seniors. The initiative focused on three strategic thrusts to: promote an active and healthy lifestyle among seniors; strengthen assistance for vulnerable seniors; and develop senior volunteerism.</td>
             </tr>
 <tr style="border: none;">
 									<td colspan="2" style="border-bottom: none;"><b>2010 -National Health Qigong Programme</b></td>
