@@ -18,7 +18,7 @@ sections:
           url: https://vouchers.cdc.gov.sg
         - title: Temasek Trust-CDC Lifelong Learning  Enabling Fund
           description: How to apply
-          url: https://www.sgenable.sg/your-first-stop/training-consultancy/enabling-academy/training/persons-with-disabilities/temasek-trust-cdc-lifelong-learning-enabling-fundommon-flagship-programmes/permalink
+          url: https://go.gov.sg/temasektrust-cdc-fund
         - title: Kong Meng San (KMS) - cdc cOVID-19 Relief fund
           description: How to apply
           url: /what-we-do/common-flagship-programmes/permalink
