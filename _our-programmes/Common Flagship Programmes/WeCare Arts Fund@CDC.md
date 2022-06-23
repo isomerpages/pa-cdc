@@ -4,7 +4,7 @@ permalink: /our-programmes/wecare-arts-fund
 description: ""
 third_nav_title: Common Flagship Programmes
 ---
-<Strong><u>About the WeCare Arts Fund@CDC</u></strong>
+![we care arts fund exhibition experiences](/images/Common%20Flagship%20Progs/wecare%20arts%20fund.png)<Strong><u>About the WeCare Arts Fund@CDC</u></strong>
   
 The WeCare Arts Fund@CDC is a grant scheme in partnership between the CDCs and the National Arts Council (NAC). The fund aims to support Social Service Agencies (SSAs) and Self-Help Groups (SHGs) by engaging their beneficiaries through the arts. The CDCs and the NAC renewed their partnership on 4 September 2017 by setting aside $1 million for the WeCare Arts Fund over the next two year for programmes that make arts inclusive and promote self-confidence among the led advantages and underserved communities.  
   
