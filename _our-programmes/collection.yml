@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Common Flagship Programmes/SkillsFuture@CDC.md
       - Common Flagship Programmes/.keep
       - Common Flagship Programmes/CDC Vouchers Scheme.md
       - Common Flagship Programmes/Community Legal Clinics@CDC.md
@@ -11,6 +10,7 @@ collections:
       - Common Flagship Programmes/Maybank Family Fund@CDC.md
       - Common Flagship Programmes/National Integration Council CDC Corporate
         Social Integration Fund.md
+      - Common Flagship Programmes/SkillsFuture@CDC.md
       - Common Flagship Programmes/SkillsFuture Advice@CDC.md
       - Common Flagship Programmes/SME Centres@CDC.md
       - Common Flagship Programmes/WeCare Arts Fund@CDC.md
