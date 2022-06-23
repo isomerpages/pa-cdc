@@ -40,7 +40,7 @@ sections:
       button: Find out more
       alt: The Five Districts
       url: /who-we-are/five-districts
-      image: /images/Five Districts.png
+      image: /images/Five Districts V2.png
   - infopic:
       title: Office of the Mayors
       description: "The Office of the Mayors in Singapore serves the residents in the
