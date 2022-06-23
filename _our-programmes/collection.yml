@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Common Flagship Programmes/SkillsFuture@CDC.md
       - Common Flagship Programmes/.keep
       - Common Flagship Programmes/CDC Vouchers Scheme.md
       - Common Flagship Programmes/Community Legal Clinics@CDC.md
