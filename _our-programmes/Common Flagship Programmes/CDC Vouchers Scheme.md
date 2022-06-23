@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Common Flagship Programmes
 ---
 ![CDC Vouchers Common Flagship Programme](/images/Common%20Flagship%20Progs/resident%20banner%20without%20button.png)<br>
-<strong>About CDC Vouchers Scheme 2022</Strong>
+<strong><u>About CDC Vouchers Scheme 2022</u></Strong>
 
 Finance Minister Mr Lawrence Wong recently announced at Budget 2022 that the Community Development Councils (CDCs) will be giving three new tranches of the CDC Vouchers Scheme from 2022 to 2024 to support Singaporeans during difficult times. This is in addition to the $100 in CDC vouchers that every Singaporean household is eligible for, announced in Budget 2021.
 
@@ -13,7 +13,7 @@ In May 2022, the CDCs will distribute $100 worth of CDC Vouchers 2022 to each Si
 
 [Learn](https://vouchers.cdc.gov.sg/residents/info) how you can claim your CDC Vouchers 2022 at [vouchers.cdc.gov.sg](http://vouchers.cdc.gov.sg/).
 
-<Strong>About CDC Vouchers Scheme 2021</strong>
+<Strong><u>About CDC Vouchers Scheme 2021</u></strong>
 
 Deputy Prime Minister and then Finance Minister Mr Heng Swee Heat first launched the CDC Vouchers Scheme in June 2020 and January 2021 to help Singaporean lower-income households defray their cost of living and at the same time, to support hawkers and heartland merchants affected by Covid-19 pandemic.
 
