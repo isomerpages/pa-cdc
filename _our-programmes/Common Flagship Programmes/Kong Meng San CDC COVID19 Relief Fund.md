@@ -4,7 +4,7 @@ permalink: /our-programmes/KMS-CDC
 description: ""
 third_nav_title: Common Flagship Programmes
 ---
-The five Community Development Councils (CDCs) and Kong Meng San Phor Kark See Monastery (KMSPKS) are pleased to announce the enhanced Kong Meng San-CDC COVID-19 Relief Fund.  
+![kong meng san covid 19 relief fund](/images/Common%20Flagship%20Progs/KMS%20CDC%20photo.png)The five Community Development Councils (CDCs) and Kong Meng San Phor Kark See Monastery (KMSPKS) are pleased to announce the enhanced Kong Meng San-CDC COVID-19 Relief Fund.  
   
 The Fund will open for registration from now till 31 March 2023 to help more Singaporeans, including those who are self-employed, cope with rising costs of living and inflationary pressures. Each successful applicant will receive $800 per household.   
   
