@@ -11,3 +11,5 @@ Contact your nearest CDC to explore Corporate Social Responsibility (CSR) Projec
 For Corporate Organisations who are interested to partner the five CDCs in their CSR efforts, please email us at cpd_csr@pa.gov.sg.
  
 >  We make a living by what we get. But we make a life by what we give.
+
+![corporate social responsibility](/images/csr.png)
