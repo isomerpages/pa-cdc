@@ -14,3 +14,5 @@ For Government, Corporate and Community Organisations that would like to volunte
 Together, let’s make meaningful differences to the community today!
 
 > Everyone has an important role to play in the community.
+
+![volunteer with cdc](/images/volunteer.png)
