@@ -35,3 +35,6 @@ CDCs heal families and relationships affected by the pandemic through pro-bono l
 
 <strong>10 July 2021</strong><br>
 Singaporeans affected by COVID-19 pandemic can expect local support in local jobs & skills over the next two years  [(Media Release)](/files/Press%20Releases/media-release_maybank-cdc-job-and-skills-series--9-july-2021.pdf)
+
+<strong>23 March 2021</strong><br>
+Singaporeans affected by COVID-19 pandemic can expect local support in local jobs & skills over the next two years  [(Media Release)](/files/Press%20Releases/media-release_maybank-cdc-job-and-skills-series--9-july-2021.pdf)
