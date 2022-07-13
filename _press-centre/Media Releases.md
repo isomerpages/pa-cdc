@@ -20,7 +20,7 @@ More than 1 million Singaporean Households have claimed CDC Vouchers [(Media Rel
 $130 million CDC Vouchers Scheme: Find participating hawkers and heartland merchants on CDC Vouchers Merchants Go Where [(Media Release)](/files/Press%20Releases/Media%20Release_CDC%20Vouchers%20Merchants%20Gowhere_%2023%20Dec%202021.pdf)
 
 <strong>13 December 2021</strong><br>
-$130 million CDC Vouchers Scheme Launched: 1.3 million Singpaorean Households to receive $100 CDC Vouchers [(Media Release)](/files/Press%20Releases/130-million-cdc-vouchers-scheme-launched.pdf)
+$130 million CDC Vouchers Scheme Launched: 1.3 million Singaporean Households to receive $100 CDC Vouchers [(Media Release)](/files/Press%20Releases/130-million-cdc-vouchers-scheme-launched.pdf)
 
 
 <strong>18 October 2021</strong><br>
