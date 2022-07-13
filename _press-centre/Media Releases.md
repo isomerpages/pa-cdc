@@ -28,4 +28,7 @@ $130 million CDC Vouchers Scheme: Onboarding begins for heartland merchants hawk
 
 
 <strong>25 September 2021</strong><br>
-CDCs heal families and relationships affected by the pandemic through pro-bono legal services [(Media Release)](/files/Press%20Releases/media-release---law-@-cdc-2021_25-sep-2021.pdf)
+CDCs heal families and relationships affected by the pandemic through pro-bono legal services  [(Media Release)](/files/Press%20Releases/media-release---law-@-cdc-2021_25-sep-2021.pdf)
+
+<strong>16 July 2021</strong><br>
+CDCs heal families and relationships affected by the pandemic through pro-bono legal services  [(Media Release)](/files/Press%20Releases/media-release---law-@-cdc-2021_25-sep-2021.pdf)
