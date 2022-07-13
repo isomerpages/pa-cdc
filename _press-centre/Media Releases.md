@@ -25,3 +25,7 @@ $130 million CDC Vouchers Scheme Launched: 1.3 million Singaporean Households to
 
 <strong>18 October 2021</strong><br>
 $130 million CDC Vouchers Scheme: Onboarding begins for heartland merchants hawkers[(Media Release)](/files/Press%20Releases/final-media-release---onboarding-begins-for-heartland-merchants-hawkers.pdf)
+
+
+<strong>25 September 2021</strong><br>
+CDCs heal families and relationships affected by the pandemic through pro-bono legal services [(Media Release)](/files/Press%20Releases/media-release---law-@-cdc-2021_25-sep-2021.pdf)
