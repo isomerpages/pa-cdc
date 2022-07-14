@@ -111,23 +111,23 @@ Signing of MOU between CDCs and CASE
 Launch of Law Awareness Week @CDC 2016
 
 <strong>1 April 2016</strong><br>
-Deepening SME Network in the Community
+Deepening SME Network in the Community [(Media Release)](/files/Press%20Releases/media_statement_sme_conference_20162.pdf)
 
 ### 2015
 
 <strong>22 October 2015</strong><br>
-CDC Symposium and SG50 Book celebrate communities built in shaping a cohesive and self-reliant society
+CDC Symposium and SG50 Book celebrate communities built in shaping a cohesive and self-reliant society [(Media Release)](/files/Press%20Releases/media_advisory_cdc_symposium_and_launch_of_cdc_sg50_book.pdf)
 
 <strong>20 July 2015</strong><br>
-Bringing Law Awareness Talks to all districts
+Bringing Law Awareness Talks to all districts [(Media Release)](/files/Press%20Releases/joint_media_invite_law_awareness_week.pdf)
 
 <strong>31 May 2015</strong><br>
-Celebrating SG50 through Community Parade Cum Brisk Walk
+Celebrating SG50 through Community Parade Cum Brisk Walk [(Media Release)](/files/Press%20Releases/joint_media_invite_-_sg50_briskwalk_cdcs_celebrating_communitites.pdf)
 
 <strong>21 May 2015</strong><br>
-1,450 lives touched through programmes supported by WeCare Arts Fund in the first year
+1,450 lives touched through programmes supported by WeCare Arts Fund in the first year [(Media Release)](/files/joint_media_invite_-_wecare_arts_fund.pdf)
 
 ### 2014
 
 <strong>12 September 2014</strong><br>
-Signing of MOU – Community Development Councils and Law Society announce the establishment of Community Legal Hubs to benefit more residents
+Signing of MOU – Community Development Councils and Law Society announce the establishment of Community Legal Hubs to benefit more residents [(Media Release)](/files/joint_media_invite_-_signing_of_memorandum_of_understanding.pdf)
