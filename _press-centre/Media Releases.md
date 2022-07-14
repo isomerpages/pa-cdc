@@ -72,10 +72,10 @@ $20 Million worth of CDC Vouchers to support low-income families through the COV
 ### 2019
 
 <strong>4 September 2019</strong><br>
-CDCs and Law Society Pro Bono Services launch Law Awareness Weeks (LAW) @ CDC 2019
+CDCs and Law Society Pro Bono Services launch Law Awareness Weeks (LAW) @ CDC 2019 [(Media Release)](/files/Press%20Releases/final-joint-media-release---law-awareness-weeks-2019.pdf)
 
 <strong>19 September 2019</strong><br>
-Launch of the WeCare Arts Exhibition 2019 with a $1 Million Injection for the WeCare Arts Fund
+Launch of the WeCare Arts Exhibition 2019 with a $1 Million Injection for the WeCare Arts Fund [(Media Release)](/files/Press%20Releases/final-joint-media-release---law-awareness-weeks-20119.pdf)
 
 ### 2018
 
