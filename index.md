@@ -10,13 +10,13 @@ sections:
       background: /images/Homepage banner 3.png
       url: /contact-us/
       key_highlights:
-        - title: What's my district?
+        - title: Which district do I belong to?
           description: Locate your district here
           url: https://www.pa.gov.sg/our-network/community-development-councils
-        - title: CDC Vouchers Scheme
+        - title: CDC Vouchers Scheme 2021 / 2022
           description: Find out more
           url: https://vouchers.cdc.gov.sg
-        - title: WeCare Arts Fund/Wecare Arts Experiences
+        - title: WeCare Arts Fund / Wecare Arts Experiences
           description: How to apply
           url: https://go.gov.sg/temasektrust-cdc-fund
         - title: Kong Meng San (KMS) - cdc cOVID-19 Relief fund
