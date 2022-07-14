@@ -94,7 +94,7 @@ CDCs, Law Society Pro Bono Services and 3 IHLs sign 2 MOUs to bring pro bono leg
 North West District Conferred ASEAN Environmentally Sustainable Cities (ESC) Award 2017
 
 <strong>4 September 2017</strong><br>
-Renewing of Partnership between CDCs and NAC on WeCare Arts Fund and opening of WeCare Arts Exhibition
+Renewing of Partnership between CDCs and NAC on WeCare Arts Fund and opening of WeCare Arts Exhibition [(Media Release)](/files/Press%20Releases/joint-media-release_wecare-arts-fund-4-sep-2017.pdf)
 
 <strong>24 May 2017</strong><br>
 Swearing-In Ceremony of Mayors [(Media Release)](/files/Press%20Releases/media_release_mayors_swearingin_ceremony_2017_final.pdf)
