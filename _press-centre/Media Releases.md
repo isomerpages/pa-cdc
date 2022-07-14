@@ -58,7 +58,7 @@ Providing Better Accesibility to Law through Community Development Councils (CDC
 More Support on Skills and Jobs for Residents who need help through the SkillsFuture@CDC Initiative
 
 <strong>23 September 2020</strong><br>
-Swearing-in Ceremony of Mayors
+Swearing-in Ceremony of Mayors [(Media Release)](/files/Press%20Releases/final-media-release-mayors-swearing-in-ceremony-2020%20(1).pdf)
 
 <strong>7 August 2020</strong><br>
 Five CDCs to hold SkillsFuture @ CDC 2020 - "The Future of You" to Support Local Community and Businesses in Lifelong Learning, Reskill and Upskill [(Media Release)](/files/Press%20Releases/skillsfuture-at-cdc-2020%20(1).pdf)
