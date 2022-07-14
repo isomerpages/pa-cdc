@@ -49,31 +49,24 @@ Launch of $20 million CDC Vouchers Scheme (Tranche 2)[(Media Release)](/files/Pr
 Launch of $4 million KMS-CDC COVID-19 Relief Fund by the Kong Meng San (KMS) – Community Development Council (CDC)
 
 <strong>2 November 2020</strong><br>
-
 $4million Ngee Ann Kongsi (NAK) – CDC COVID-19 Relief Fund (COVID Relief Fund) To Support Singaporean Households Through The COVID-19 Situation
 
 <strong>28 September 2020</strong><br>
-
 Providing Better Accesibility to Law through Community Development Councils (CDCs)
 
 <strong>25 September 2020</strong><br>
-
 More Support on Skills and Jobs for Residents who need help through the SkillsFuture@CDC Initiative
 
 <strong>23 September 2020</strong><br>
-
 Swearing-in Ceremony of Mayors
 
 <strong>7 August 2020</strong><br>
-
 Five CDCs to hold SkillsFuture @ CDC 2020 - "The Future of You" to Support Local Community and Businesses in Lifelong Learning, Reskill and Upskill
 
 <strong>12 June 2020</strong><br>
-
 $20 Million worth of CDC Vouchers to support low-income families through the COVID-19 Situation
 
 <strong>14 April 2020</strong><br>
-
 12,000 Students to benefit from CDC Student Meals Scheme
 
 ### 2019
