@@ -23,7 +23,7 @@ Speech by Mr Chan Chun Sing, Minister for Trade and Industry and Deputy Chairman
 
 Speech by Deputy Prime Minister , Coordinating Minister for Economic Policies and Minister for Finance Heng Swee Keat at the launch of CDC Vouchers Scheme Tranche 2 [(Read here)](/files/delivered-dpm-speech-for-launch-of-cdc-voucher-scheme-tranche-2.pdf)
 
-Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of South West District at the  launch of CDC Vouchers Scheme Tranche 2
+Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of South West District at the  launch of CDC Vouchers Scheme Tranche 2 
 
 ### 2020
 
