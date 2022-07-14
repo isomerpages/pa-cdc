@@ -61,7 +61,7 @@ More Support on Skills and Jobs for Residents who need help through the SkillsFu
 Swearing-in Ceremony of Mayors
 
 <strong>7 August 2020</strong><br>
-Five CDCs to hold SkillsFuture @ CDC 2020 - "The Future of You" to Support Local Community and Businesses in Lifelong Learning, Reskill and Upskill
+Five CDCs to hold SkillsFuture @ CDC 2020 - "The Future of You" to Support Local Community and Businesses in Lifelong Learning, Reskill and Upskill [(Media Release)](/files/Press%20Releases/skillsfuture-at-cdc-2020%20(1).pdf)
 
 <strong>12 June 2020</strong><br>
 $20 Million worth of CDC Vouchers to support low-income families through the COVID-19 Situation [(Media Release)](/files/Press%20Releases/final-media-release---launch-of-cdc-vouchers-scheme%20(1).pdf)
