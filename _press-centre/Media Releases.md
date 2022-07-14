@@ -80,10 +80,10 @@ Launch of the WeCare Arts Exhibition 2019 with a $1 Million Injection for the We
 ### 2018
 
 <strong>21 November 2018</strong><br>
-Maybank and CDCs Pledge to Uplift the Lives of Vulnerable Families
+Maybank and CDCs Pledge to Uplift the Lives of Vulnerable Families [(Media Release)](/files/Press%20Releases/joint-media-release-for-maybank-family-fund-@-cdc-21-nov-2018%20(1).pdf)
 
 <strong>15 September 2018</strong><br>
-CDCs and Law Society of Singapore launch Law Awareness Weeks @ CDC 2018
+CDCs and Law Society of Singapore launch Law Awareness Weeks @ CDC 2018 [(Media Release)](/files/joint-media-release-for-maybank-family-fund-@-cdc-21-nov-2018.pdf)
 
 ### 2017
 
