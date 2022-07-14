@@ -18,7 +18,7 @@ sections:
           url: https://vouchers.cdc.gov.sg
         - title: WeCare Arts Fund / Wecare Arts Experiences
           description: How to apply
-          url: https://go.gov.sg/temasektrust-cdc-fund
+          url: /our-programmes/wecare-arts-fund
         - title: Kong Meng San (KMS) - cdc cOVID-19 Relief fund
           description: How to apply
           url: /our-programmes/kms-cdc
