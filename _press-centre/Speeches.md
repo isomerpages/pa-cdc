@@ -21,7 +21,7 @@ Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of South We
 
 Speech by Mr Chan Chun Sing, Minister for Trade and Industry and Deputy Chairman of the People's Association at the North West CDC Volunteers' Appreciation 2021 [(Read here)](/files/speech-by-min-chan-chun-sing.pdf)
 
-Speech by Deputy Prime Minister , Coordinating Minister for Economic Policies and Minister for Finance Heng Swee Keat at the launch of CDC Vouchers Scheme Tranche 2
+Speech by Deputy Prime Minister , Coordinating Minister for Economic Policies and Minister for Finance Heng Swee Keat at the launch of CDC Vouchers Scheme Tranche 2 [(Read here)](/files/delivered-dpm-speech-for-launch-of-cdc-voucher-scheme-tranche-2.pdf)
 
 Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of South West District at the  launch of CDC Vouchers Scheme Tranche 2
 
