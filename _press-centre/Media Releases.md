@@ -88,10 +88,10 @@ CDCs and Law Society of Singapore launch Law Awareness Weeks @ CDC 2018
 ### 2017
 
 <strong>28 September 2017</strong><br>
-CDCs, Law Society Pro Bono Services and 3 IHLs sign 2 MOUs to bring pro bono legal services closer to the community
+CDCs, Law Society Pro Bono Services and 3 IHLs sign 2 MOUs to bring pro bono legal services closer to the community [(Media Release)](/files/Press%20Releases/1_postevent_media_release_law_cdc_2017.pdf)
 
 <strong>12 September 2017</strong><br>
-North West District Conferred ASEAN Environmentally Sustainable Cities (ESC) Award 2017
+North West District Conferred ASEAN Environmentally Sustainable Cities (ESC) Award 2017 [(Media Release)](/files/Press%20Releases/north_west_district_asean_environmentally_sustainable_city_award_2017.pdf)
 
 <strong>4 September 2017</strong><br>
 Renewing of Partnership between CDCs and NAC on WeCare Arts Fund and opening of WeCare Arts Exhibition [(Media Release)](/files/Press%20Releases/joint-media-release_wecare-arts-fund-4-sep-2017.pdf)
