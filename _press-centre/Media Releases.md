@@ -67,7 +67,7 @@ Five CDCs to hold SkillsFuture @ CDC 2020 - "The Future of You" to Support Local
 $20 Million worth of CDC Vouchers to support low-income families through the COVID-19 Situation
 
 <strong>14 April 2020</strong><br>
-12,000 Students to benefit from CDC Student Meals Scheme
+12,000 Students to benefit from CDC Student Meals Scheme [(Media Release)](/files/Press%20Releases/media-release---cdc-student-meals-scheme-sgtogether--14-apr-2020%20(1).pdf)
 
 ### 2019
 
