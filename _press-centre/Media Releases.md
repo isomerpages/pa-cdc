@@ -38,3 +38,103 @@ Singaporeans affected by COVID-19 pandemic can expect local support in local job
 
 <strong>23 March 2021</strong><br>
 Singaporeans affected by COVID-19 pandemic can expect local support in local jobs & skills over the next two years  [(Media Release)](/files/Press%20Releases/media-release_maybank-cdc-job-and-skills-series--9-july-2021.pdf)
+
+<strong>25 January 2021</strong><br>
+Launch of $20 million CDC Vouchers Scheme (Tranche 2)[(Media Release)](/files/Press%20Releases/media-release-for-cdc-vouchers-scheme-tranche2.pdf)
+
+
+### 2020
+        
+<strong>19 December 2020</strong><br>
+Launch of $4 million KMS-CDC COVID-19 Relief Fund by the Kong Meng San (KMS) – Community Development Council (CDC)
+
+<strong>2 November 2020</strong><br>
+
+$4million Ngee Ann Kongsi (NAK) – CDC COVID-19 Relief Fund (COVID Relief Fund) To Support Singaporean Households Through The COVID-19 Situation
+
+<strong>28 September 2020</strong><br>
+
+Providing Better Accesibility to Law through Community Development Councils (CDCs)
+
+<strong>25 September 2020</strong><br>
+
+More Support on Skills and Jobs for Residents who need help through the SkillsFuture@CDC Initiative
+
+<strong>23 September 2020</strong><br>
+
+Swearing-in Ceremony of Mayors
+
+<strong>7 August 2020</strong><br>
+
+Five CDCs to hold SkillsFuture @ CDC 2020 - "The Future of You" to Support Local Community and Businesses in Lifelong Learning, Reskill and Upskill
+
+<strong>12 June 2020</strong><br>
+
+$20 Million worth of CDC Vouchers to support low-income families through the COVID-19 Situation
+
+<strong>14 April 2020</strong><br>
+
+12,000 Students to benefit from CDC Student Meals Scheme
+
+### 2019
+
+<strong>4 September 2019</strong><br>
+CDCs and Law Society Pro Bono Services launch Law Awareness Weeks (LAW) @ CDC 2019
+
+<strong>19 September 2019</strong><br>
+Launch of the WeCare Arts Exhibition 2019 with a $1 Million Injection for the WeCare Arts Fund
+
+### 2018
+
+<strong>21 November 2018</strong><br>
+Maybank and CDCs Pledge to Uplift the Lives of Vulnerable Families
+
+<strong>15 September 2018</strong><br>
+CDCs and Law Society of Singapore launch Law Awareness Weeks @ CDC 2018
+
+### 2017
+
+<strong>28 September 2017</strong><br>
+CDCs, Law Society Pro Bono Services and 3 IHLs sign 2 MOUs to bring pro bono legal services closer to the community
+
+<strong>12 September 2017</strong><br>
+North West District Conferred ASEAN Environmentally Sustainable Cities (ESC) Award 2017
+
+<strong>4 September 2017</strong><br>
+Renewing of Partnership between CDCs and NAC on WeCare Arts Fund and opening of WeCare Arts Exhibition
+
+<strong>24 May 2017</strong><br>
+Swearing-In Ceremony of Mayors
+
+<strong>11 February 2017</strong><br>
+Launch of NTUC FairPrice Foundation - CDC Milk Fund
+
+### 2016
+
+<strong>23 September 2016</strong><br>
+Signing of MOU between CDCs and CASE
+
+<strong>3 September 2016</strong><br>
+Launch of Law Awareness Week @CDC 2016
+
+<strong>1 April 2016</strong><br>
+Deepening SME Network in the Community
+
+### 2015
+
+<strong>22 October 2015</strong><br>
+CDC Symposium and SG50 Book celebrate communities built in shaping a cohesive and self-reliant society
+
+<strong>20 July 2015</strong><br>
+Bringing Law Awareness Talks to all districts
+
+<strong>31 May 2015</strong><br>
+Celebrating SG50 through Community Parade Cum Brisk Walk
+
+<strong>21 May 2015</strong><br>
+1,450 lives touched through programmes supported by WeCare Arts Fund in the first year
+
+### 2014
+
+<strong>12 September 2014</strong><br>
+Signing of MOU – Community Development Councils and Law Society announce the establishment of Community Legal Hubs to benefit more residents
