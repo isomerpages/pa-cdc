@@ -15,11 +15,11 @@ Speech by Mr Desmond Choo, Mayor of North East District at the Virtual Launch of
 
 Speech by Mr Edwin Tong Minister for Culture, Community and Youth & Second Minister for Law at the Virtual Launch of LAW@CDC 2021 [(Read here)](/files/transcript---speech-by-2m-edwin-tong-at-launch-of-law@cdc-2021-(25-sep).pdf)
 
-Speech by Mr Edwin Tong, Minister for Culture, Community and Youth & Second Minister for Law at the WeCare Arts Exhibition and launch of WeCare Arts Experiences
+Speech by Mr Edwin Tong, Minister for Culture, Community and Youth & Second Minister for Law at the WeCare Arts Exhibition and launch of WeCare Arts Experiences [(Read here)](/files/speech-by-goh---wcaf-exhibition-2021---23mar21.pdf)
 
-Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of South West District at the WeCare Arts Exhibition and launch of WeCare Arts Experiences
+Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of South West District at the WeCare Arts Exhibition and launch of WeCare Arts Experiences [(Read here)](/files/speech-by-mayor-low---wcaf-exhibition-2021---23mar21.pdf)
 
-Speech by Mr Chan Chun Sing, Minister for Trade and Industry and Deputy Chairman of the People's Association at the North West CDC Volunteers' Appreciation 2021
+Speech by Mr Chan Chun Sing, Minister for Trade and Industry and Deputy Chairman of the People's Association at the North West CDC Volunteers' Appreciation 2021 [(Read here)](/files/speech-by-min-chan-chun-sing.pdf)
 
 Speech by Deputy Prime Minister , Coordinating Minister for Economic Policies and Minister for Finance Heng Swee Keat at the launch of CDC Vouchers Scheme Tranche 2
 
