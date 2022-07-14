@@ -16,7 +16,7 @@ sections:
         - title: CDC Vouchers Scheme
           description: Find out more
           url: https://vouchers.cdc.gov.sg
-        - title: Temasek Trust-CDC Lifelong Learning  Enabling Fund
+        - title: WeCare Arts Fund/Wecare Arts Experiences
           description: How to apply
           url: https://go.gov.sg/temasektrust-cdc-fund
         - title: Kong Meng San (KMS) - cdc cOVID-19 Relief fund
