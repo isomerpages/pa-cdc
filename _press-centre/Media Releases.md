@@ -97,18 +97,18 @@ North West District Conferred ASEAN Environmentally Sustainable Cities (ESC) Awa
 Renewing of Partnership between CDCs and NAC on WeCare Arts Fund and opening of WeCare Arts Exhibition
 
 <strong>24 May 2017</strong><br>
-Swearing-In Ceremony of Mayors
+Swearing-In Ceremony of Mayors [(Media Release)](/files/Press%20Releases/media_release_mayors_swearingin_ceremony_2017_final.pdf)
 
 <strong>11 February 2017</strong><br>
-Launch of NTUC FairPrice Foundation - CDC Milk Fund
+Launch of NTUC FairPrice Foundation - CDC Milk Fund [(Media Release)](/files/Press%20Releases/media_release_for_ntuc_fairprice_foundation_cdc_milk_fund_final.pdf)
 
 ### 2016
 
 <strong>23 September 2016</strong><br>
-Signing of MOU between CDCs and CASE
+Signing of MOU between CDCs and CASE [(Media Release)](/files/Press%20Releases/media_release_case.pdf)
 
 <strong>3 September 2016</strong><br>
-Launch of Law Awareness Week @CDC 2016
+Launch of Law Awareness Week @CDC 2016 [(Media Release)](/files/Press%20Releases/media_invite_law_week.pdf)
 
 <strong>1 April 2016</strong><br>
 Deepening SME Network in the Community [(Media Release)](/files/Press%20Releases/media_statement_sme_conference_20162.pdf)
