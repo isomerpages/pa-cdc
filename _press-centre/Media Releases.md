@@ -55,7 +55,7 @@ $4million Ngee Ann Kongsi (NAK) – CDC COVID-19 Relief Fund (COVID Relief Fund)
 Providing Better Accesibility to Law through Community Development Councils (CDCs)
 
 <strong>25 September 2020</strong><br>
-More Support on Skills and Jobs for Residents who need help through the SkillsFuture@CDC Initiative
+More Support on Skills and Jobs for Residents who need help through the SkillsFuture@CDC Initiative [(Media Release)](/files/Press%20Releases/media-release---skillsfuture-advice-mou-signing-sf@cdc-dialogue%20(1).pdf)
 
 <strong>23 September 2020</strong><br>
 Swearing-in Ceremony of Mayors [(Media Release)](/files/Press%20Releases/final-media-release-mayors-swearing-in-ceremony-2020%20(1).pdf)
