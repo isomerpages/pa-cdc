@@ -46,10 +46,10 @@ Launch of $20 million CDC Vouchers Scheme (Tranche 2)[(Media Release)](/files/Pr
 ### 2020
         
 <strong>19 December 2020</strong><br>
-Launch of $4 million KMS-CDC COVID-19 Relief Fund by the Kong Meng San (KMS) – Community Development Council (CDC)
+Launch of $4 million KMS-CDC COVID-19 Relief Fund by the Kong Meng San (KMS) – Community Development Council (CDC) [(Media Release)](/files/Press%20Releases/final-media-release-for-kong-meng-san%20(1).pdf)
 
 <strong>2 November 2020</strong><br>
-$4million Ngee Ann Kongsi (NAK) – CDC COVID-19 Relief Fund (COVID Relief Fund) To Support Singaporean Households Through The COVID-19 Situation
+$4million Ngee Ann Kongsi (NAK) – CDC COVID-19 Relief Fund (COVID Relief Fund) To Support Singaporean Households Through The COVID-19 Situation [(Media Release)](/files/Press%20Releases/media-release---ngee-ann-kongsi-cdc-covid-19-relief-fund-(pa)%20(1).pdf)
 
 <strong>28 September 2020</strong><br>
 Providing Better Accesibility to Law through Community Development Councils (CDCs) [(Media Release)](/files/Press%20Releases/final-media-release---law-@-cdc-2020%20(1).pdf)
