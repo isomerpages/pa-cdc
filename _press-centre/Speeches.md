@@ -47,7 +47,7 @@ Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of South We
 
 Speech by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of South West District at the Launch of Maybank Family Fund @ CDC 2018 on Wednesday 21 November 2018 at Gardens by the Bay [(Read here)](/files/ms-low-yen-ling-mayor-of-south-west-district-speech-at-maybank-.pdf)
 
-Speech by Mr Edwin Tong, Senior Minister of State for Law and Health, at the Launch of Law Awareness Weeks @ CDC 2018 on Saturday 15 September 2018 at Wisma Geylang Serai
+Speech by Mr Edwin Tong, Senior Minister of State for Law and Health, at the Launch of Law Awareness Weeks @ CDC 2018 on Saturday 15 September 2018 at Wisma Geylang Serai [(Read here)](/files/sms-edwin-tong-speech-at-laws-cdc-saturday-15-september-2018.pdf)
 
 Speech by Dr Maliki Osman, Mayor of South East District, at the Launch of Law Awareness Weeks @ CDC 2018 on Saturday 15 September 2018 at Wisma Geylang Serai
 
