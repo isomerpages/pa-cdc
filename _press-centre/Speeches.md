@@ -55,7 +55,7 @@ Speech by Mr Gregory Vijayendran, Chairman of Law Society Pro Bono Services, at 
 
 ### 2017
 
-Speech by Ms Indranee Rajah, Senior Minister of State for Law and Finance, at the Launch of Law Awareness Weeks @ CDC 2017 and MOU Signing Ceremony on Thursday 28 September 2017 at Singapore Management University School of Law Function Hall
+Speech by Ms Indranee Rajah, Senior Minister of State for Law and Finance, at the Launch of Law Awareness Weeks @ CDC 2017 and MOU Signing Ceremony on Thursday 28 September 2017 at Singapore Management University School of Law Function Hall [(Read here)](/files/sms-indranee-rajah-speech-at-laws-cdc-thursday-28-september-2017.pdf)
 
 Speech by Dr Teo Ho Pin, Mayor of North West District, at the Launch of Law Awareness Weeks @ CDC 2017 and MOU Signing Ceremony on Thursday 28 September 2017 at Singapore Management University School of Law Function Hall
 
