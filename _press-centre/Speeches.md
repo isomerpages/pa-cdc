@@ -77,7 +77,7 @@ Speech by Mr Teo Ser Luck, Chairman of Mayors' Committee and Mayor of North East
 
 Speech by Mr Thio Sheng Yi, President of Law Society, at Launch of Law Awareness Week @CDC 2016 on Saturday 3 September 2016 at Waterway Point [(Read here)](/files/mr-thio-sheng-yi-president-of-law-society-singapore-speech-at-law-cdc-saturday-3-september-2016.pdf)
 
-Speech by Mayor Low Yen Ling at SME Conference on Friday 1 April 2016 at Grand Copthorne Waterfront Hotel
+Speech by Mayor Low Yen Ling at SME Conference on Friday 1 April 2016 at Grand Copthorne Waterfront Hotel [(Read here)](/files/ms-low-yen-ling-mayor-of-south-west-district-speech-at-sme-conference-friday-1-april-2016.pdf)
 
 ### 2015
 
