@@ -6,6 +6,7 @@ description: ""
 ### ONE PUBLIC SERVICE AWARD 2022 FOR $130 Million CDC Vouchers Scheme  
 
 **A Whole-of-Government Effort by PA/CDCs, GovTech, IMDA, ESG, MOF, SLA, MCI, SPF, ICA and DOS**
+![](/images/pst%20award.jpg)
 
 The CDC Vouchers Scheme in digital form was first launched in December 2021. It was led by the People’s Association (PA) / Community Development Councils (CDC) in close collaboration with 9 Government Agencies (GovTech, IMDA, ESG, MOF, SLA, MCI, SPF, ICA and DOS).  The second tranche of the CDC Vouchers Scheme 2022 was launched in May this year by DPM Lawrence Wong.
 
