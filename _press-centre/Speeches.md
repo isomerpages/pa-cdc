@@ -57,7 +57,7 @@ Speech by Mr Gregory Vijayendran, Chairman of Law Society Pro Bono Services, at 
 
 Speech by Ms Indranee Rajah, Senior Minister of State for Law and Finance, at the Launch of Law Awareness Weeks @ CDC 2017 and MOU Signing Ceremony on Thursday 28 September 2017 at Singapore Management University School of Law Function Hall [(Read here)](/files/sms-indranee-rajah-speech-at-laws-cdc-thursday-28-september-2017.pdf)
 
-Speech by Dr Teo Ho Pin, Mayor of North West District, at the Launch of Law Awareness Weeks @ CDC 2017 and MOU Signing Ceremony on Thursday 28 September 2017 at Singapore Management University School of Law Function Hall
+Speech by Dr Teo Ho Pin, Mayor of North West District, at the Launch of Law Awareness Weeks @ CDC 2017 and MOU Signing Ceremony on Thursday 28 September 2017 at Singapore Management University School of Law Function Hall [(Read here)](/files/dr-teo-ho-pin-mayor-of-north-west-district-speech-at-laws-cdc-thursday-28-september-2017.pdf)
 
 Speech by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of South West District at Launch of WeCare Arts Exhibition and MOU Signing for WeCare Arts Fund on Monday 4 September 2017 at Our Tampines Hub
 
