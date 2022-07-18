@@ -67,11 +67,11 @@ Speech by Mr Teo Ser Luck, Chairman of Mayors' Committee and Mayor of North East
 
 ### 2016
 
-Speech by Ms Low Yen Ling, Mayor of South West District, at Signing of MOU Ceremony between the CDCs and CASE on Friday 23 September 2016 at Jurong Spring Community Club
+Speech by Ms Low Yen Ling, Mayor of South West District, at Signing of MOU Ceremony between the CDCs and CASE on Friday 23 September 2016 at Jurong Spring Community Club [(Read here)](/files/ms-low-yen-ling-mayor-of-south-west-district-speech-at-mou-signing-with-case.pdf)
 
-Speech by Mr Lim Biow Chuan, President of CASE, at Signing of MOU Ceremony between the CDCs and CASE on Friday 23 September 2016 at Jurong Spring Community Club
+Speech by Mr Lim Biow Chuan, President of CASE, at Signing of MOU Ceremony between the CDCs and CASE on Friday 23 September 2016 at Jurong Spring Community Club [(Read here)](/files/mr-lim-biow-chuan-president-of-case-speech-at-mou-signing-with-case-friday-23-september-2016.pdf)
 
-Speech by Mr Teo Chee Hean, Deputy Prime Minister and Coordinating Minister for National Security, at Launch of Law Awareness Week @ CDC 2016 on Saturday 3 September at Waterway Point
+Speech by Mr Teo Chee Hean, Deputy Prime Minister and Coordinating Minister for National Security, at Launch of Law Awareness Week @ CDC 2016 on Saturday 3 September at Waterway Point [(Read here)](/files/dpm_teo_chee_hean_speech_at_law_cdc_saturday_3_september_2016.pdf)
 
 Speech by Mr Teo Ser Luck, Chairman of Mayors' Committee and Mayor of North East District, at Launch of Law Awareness Week @CDC 2016 on Saturday 3 September 2016 at Waterway Point
 
