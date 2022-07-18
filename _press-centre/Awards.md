@@ -5,6 +5,10 @@ description: ""
 ---
 ### ASEAN ENVIRONMENTALLY SUSTAINABLE CITY AWARD 2017
 
+
+![Mr Allen Ang, North West CDC Green Living Standing Committee Co-Chairman](/images/Picture1.png)
+_Mr Allen Ang, North West CDC Green Living Standing Committee Co-Chairman (right), receiving the ASEAN Environmentally Sustainable Cities (ESC) Award 2017 from Hon. Dato Seri Setia Awang Haji Bahrin bin Abdullah, Minister of Development, Brunei Darussalam (left)._
+
 **North West District Conferred ASEAN Environmentally Sustainable Cities (ESC) Award 2017 in Brunei Darussalam**  
 To stimulate, benchmark, and recognize exemplary efforts on environmental sustainability, ASEAN initiated the ASEAN Environmentally Sustainable Cities (ESC) Award programme in 2008. In its fourth edition running, the ASEAN ESC Award serves to recognise ten ASEAN cities/townships/districts that had implemented exemplary initiatives towards environmental sustainability and keeping the cities clean, green, and liveable. With the collective support of corporate, community and school partners, green volunteers and residents, the North West District has been awarded the title "ASEAN Environmentally Sustainable City", for a second time, by the ASEAN National Committee at ASEAN ESC Award 2017 held on 12 September 2017 in Brunei Darussalam.  
   
