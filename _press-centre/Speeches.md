@@ -27,25 +27,25 @@ Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of South We
 
 ### 2020
 
-Speech by Mr Masagos Zulkifli, Minister for Social and Family Development at the launch of Kong Meng San (KMS) - CDC Covid-19 Relief Fund
+Speech by Mr Masagos Zulkifli, Minister for Social and Family Development at the launch of Kong Meng San (KMS) - CDC Covid-19 Relief Fund [(Read here)](/files/speech-by-minister-masagos---kms-launch-19-dec2020.pdf)
 
-Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of South West District at the launch of Kong Meng San (KMS) - CDC COVID-19 Relief Fund
+Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of South West District at the launch of Kong Meng San (KMS) - CDC COVID-19 Relief Fund [(Read here)](/files/speech-by-chairman-yen-ling---kms-on-19-dec20.pdf)
 
-Remarks by Deputy Prime Minister , Coordinating Minister for Economic Policies and Minister for Finance Heng Swee Keat at the Launch of the Ngee Ann Kongsi (NAK) – CDC COVID-19 Relief Fund
+Remarks by Deputy Prime Minister , Coordinating Minister for Economic Policies and Minister for Finance Heng Swee Keat at the Launch of the Ngee Ann Kongsi (NAK) – CDC COVID-19 Relief Fund [(Read here)](/files/delivered-remarks-by-dpm-for-nak-cdc-covid19-relief-fund-final.pdf)
 
-Opening Address by Mr Lawrence Wong, Minister for Education, at Virtual Skillsfuture Advice Memorandum of Understanding Signing Ceremony & SkillsFuture@CDC Dialogue Session, 25 September 2020
+Opening Address by Mr Lawrence Wong, Minister for Education, at Virtual Skillsfuture Advice Memorandum of Understanding Signing Ceremony & SkillsFuture@CDC Dialogue Session, 25 September 2020 [(Read here)](/files/sfa@cdc---minlw-speech.pdf)
 
-Speech by Prime Minister Lee Hsien Loong at the Swearing-in Ceremony of Mayors on Wednesday, 23 September 2020, at the People’s Association Auditorium
+Speech by Prime Minister Lee Hsien Loong at the Swearing-in Ceremony of Mayors on Wednesday, 23 September 2020, at the People’s Association Auditorium [(Read here)](/files/pmo-_-pm-lee-hsien-loong-at-the-swearing-in-ceremony-of-mayors-(sept-2020).pdf)
 
 ### 2019
 
-Speech by Ms Low Yen Ling, Mayor of South West District at the Launch of Law Awareness Weeks (LAW) @ CDC 2019 on Wednesday, 4 September 2019 at Keat Hong Community Club
+Speech by Ms Low Yen Ling, Mayor of South West District at the Launch of Law Awareness Weeks (LAW) @ CDC 2019 on Wednesday, 4 September 2019 at Keat Hong Community Club [(Read here)](/files/speech-by-chairman-mayor-low-yen-ling-at-law-@-cdc-2019.pdf)
 
-Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of South West District for WeCare Arts Exhibition @ CDC 2019 on Thursday, 19 September 2019 at Wisma Geylang Serai
+Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of South West District for WeCare Arts Exhibition @ CDC 2019 on Thursday, 19 September 2019 at Wisma Geylang Serai [(Read here)](/files/speech-by-chairman-mayor-low-yen-ling-at-wecare-af-exhibition-2019.pdf)
 
 ### 2018
 
-Speech by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of South West District at the Launch of Maybank Family Fund @ CDC 2018 on Wednesday 21 November 2018 at Gardens by the Bay
+Speech by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of South West District at the Launch of Maybank Family Fund @ CDC 2018 on Wednesday 21 November 2018 at Gardens by the Bay [(Read here)](/files/ms-low-yen-ling-mayor-of-south-west-district-speech-at-maybank-.pdf)
 
 Speech by Mr Edwin Tong, Senior Minister of State for Law and Health, at the Launch of Law Awareness Weeks @ CDC 2018 on Saturday 15 September 2018 at Wisma Geylang Serai
 
