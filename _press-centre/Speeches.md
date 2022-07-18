@@ -49,9 +49,9 @@ Speech by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of South West
 
 Speech by Mr Edwin Tong, Senior Minister of State for Law and Health, at the Launch of Law Awareness Weeks @ CDC 2018 on Saturday 15 September 2018 at Wisma Geylang Serai [(Read here)](/files/sms-edwin-tong-speech-at-laws-cdc-saturday-15-september-2018.pdf)
 
-Speech by Dr Maliki Osman, Mayor of South East District, at the Launch of Law Awareness Weeks @ CDC 2018 on Saturday 15 September 2018 at Wisma Geylang Serai
+Speech by Dr Maliki Osman, Mayor of South East District, at the Launch of Law Awareness Weeks @ CDC 2018 on Saturday 15 September 2018 at Wisma Geylang Serai [(Read here)](/files/dr-maliki-osman-mayor-of-south-east-district-welcome-address-at-law.pdf)
 
-Speech by Mr Gregory Vijayendran, Chairman of Law Society Pro Bono Services, at the Launch of Law Awareness Weeks @ CDC on Saturday 15 September 2018 at Wisma Geylang Serai
+Speech by Mr Gregory Vijayendran, Chairman of Law Society Pro Bono Services, at the Launch of Law Awareness Weeks @ CDC on Saturday 15 September 2018 at Wisma Geylang Serai [(Read here)](/files/mr-gregory-vijayendran-chairman-of-law-society-pro-bono-services-speech-at-laws.pdf)
 
 ### 2017
 
