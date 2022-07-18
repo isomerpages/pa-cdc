@@ -59,9 +59,9 @@ Speech by Ms Indranee Rajah, Senior Minister of State for Law and Finance, at th
 
 Speech by Dr Teo Ho Pin, Mayor of North West District, at the Launch of Law Awareness Weeks @ CDC 2017 and MOU Signing Ceremony on Thursday 28 September 2017 at Singapore Management University School of Law Function Hall [(Read here)](/files/dr-teo-ho-pin-mayor-of-north-west-district-speech-at-laws-cdc-thursday-28-september-2017.pdf)
 
-Speech by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of South West District at Launch of WeCare Arts Exhibition and MOU Signing for WeCare Arts Fund on Monday 4 September 2017 at Our Tampines Hub
+Speech by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of South West District at Launch of WeCare Arts Exhibition and MOU Signing for WeCare Arts Fund on Monday 4 September 2017 at Our Tampines Hub [(Read here)](/files/ms-low-yen-ling-mayor-of-south-west-district-speech-at-launch-of-wecare-arts-e.pdf)
 
-Speech by Prime Minister Lee Hsien Loong, at the Swearing-In Ceremony of Mayors on Wednesday 24 May 2017 at the People's Association Auditorium
+Speech by Prime Minister Lee Hsien Loong, at the Swearing-In Ceremony of Mayors on Wednesday 24 May 2017 at the People's Association Auditorium [(Read here)](/files/pm-lee-hsien-loong-speech-at-mayors-swearing-in-ceremony-wednesday-24-may-2017.pdf)
 
 Speech by Mr Teo Ser Luck, Chairman of Mayors' Committee and Mayor of North East District, at Launch of NTUC FairPrice Foundation - CDC Milk Fund on Saturday 11 February 2017 at NTUC FairPrice Xtra @ NEX
 
