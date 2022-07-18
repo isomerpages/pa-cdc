@@ -73,9 +73,9 @@ Speech by Mr Lim Biow Chuan, President of CASE, at Signing of MOU Ceremony betwe
 
 Speech by Mr Teo Chee Hean, Deputy Prime Minister and Coordinating Minister for National Security, at Launch of Law Awareness Week @ CDC 2016 on Saturday 3 September at Waterway Point [(Read here)](/files/dpm_teo_chee_hean_speech_at_law_cdc_saturday_3_september_2016.pdf)
 
-Speech by Mr Teo Ser Luck, Chairman of Mayors' Committee and Mayor of North East District, at Launch of Law Awareness Week @CDC 2016 on Saturday 3 September 2016 at Waterway Point
+Speech by Mr Teo Ser Luck, Chairman of Mayors' Committee and Mayor of North East District, at Launch of Law Awareness Week @CDC 2016 on Saturday 3 September 2016 at Waterway Point [(Read here)](/files/mr-teo-ser-luck-mayor-of-north-east-district-speech-at-law-cdc-saturday-3-september-2016.pdf)
 
-Speech by Mr Thio Sheng Yi, President of Law Society, at Launch of Law Awareness Week @CDC 2016 on Saturday 3 September 2016 at Waterway Point
+Speech by Mr Thio Sheng Yi, President of Law Society, at Launch of Law Awareness Week @CDC 2016 on Saturday 3 September 2016 at Waterway Point [(Read here)](/files/mr-thio-sheng-yi-president-of-law-society-singapore-speech-at-law-cdc-saturday-3-september-2016.pdf)
 
 Speech by Mayor Low Yen Ling at SME Conference on Friday 1 April 2016 at Grand Copthorne Waterfront Hotel
 
