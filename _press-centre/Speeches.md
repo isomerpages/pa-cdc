@@ -81,9 +81,9 @@ Speech by Mayor Low Yen Ling at SME Conference on Friday 1 April 2016 at Grand C
 
 ### 2015
 
-Speech by Emeritus Senior Minister Goh Chok Tong at the Community Development Council's Symposium on Tuesday 27 October 2015 at Ci Yuan CC
+Speech by Emeritus Senior Minister Goh Chok Tong at the Community Development Council's Symposium on Tuesday 27 October 2015 at Ci Yuan CC [(Read here)](/files/esm-goh-chok-tong-speech-at-cdc-symposium-launch-of-cdc-sg50-book-tuesday-27-october-2015.pdf)
 
-Speech by Ms Indranee Rajah, Senior Minister of State for Law and Education, at the Launch of Law Awareness Week @CDC on Wednesday 22 July 2015 at Queenstown Community Centre
+Speech by Ms Indranee Rajah, Senior Minister of State for Law and Education, at the Launch of Law Awareness Week @CDC on Wednesday 22 July 2015 at Queenstown Community Centre [(Read here)](/files/sms-indranee-rajah-speech-at-law-@-cdc-wednesday-22-july-2015.pdf)
 
 Speech by Dr Teo Ho Pin, Mayor of North West District, at the WeCare Arts Fund Tea Session on Thursday 21 May 2015 at Bishan Community Club
 
