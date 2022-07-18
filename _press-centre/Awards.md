@@ -3,7 +3,7 @@ title: Awards
 permalink: /who-we-are/Press-Centre/Awards
 description: ""
 ---
-### ONE PUBLIC SERVICE AWARD 2022 FOR $130 Million CDC Vouchers Scheme  
+### ONE PUBLIC SERVICE AWARD 2022 FOR $130 MILLION CDC VOUCHERS SCHEME  
 
 **A Whole-of-Government Effort by PA/CDCs, GovTech, IMDA, ESG, MOF, SLA, MCI, SPF, ICA and DOS**
 ![](/images/pst%20award.jpg)
