@@ -59,5 +59,4 @@ sections:
   - resources:
       title: Latest Announcements
       subtitle: Press Centre
-      button: Go to press centre
 ---
