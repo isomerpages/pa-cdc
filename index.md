@@ -56,7 +56,4 @@ sections:
         programmes available across all five CDCs.
       button: learn about cdc's common flagship programmes
       url: /what-we-do/common-flagship-programmes/permalink
-  - resources:
-      title: Latest Announcements
-      subtitle: Press Centre
 ---
