@@ -28,7 +28,14 @@ locations:
       - "900 South Woodlands Drive "
       - "#06-01, Woodlands Civic Centre"
       - "Singapore 730900 "
+    operating_hours: []
+    maps_link: ""
     title: Northwest CDC
+  - address:
+      - "Wisma Geylang Serai "
+      - "1 Engku Aman Turn #03-02 "
+      - "Singapore 408528 "
+    title: Southeast CDC
     operating_hours: []
     maps_link: ""
 contacts:
