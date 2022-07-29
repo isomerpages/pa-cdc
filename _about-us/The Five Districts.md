@@ -22,7 +22,7 @@ Find your district's information at the [People's Association website](https://w
             </tr>
             <tr style="border: none;">
                 <td width="161px" style="border-top: none;">
-									<a href="https://www.centralsingapore.cdc.gov.sg"><img src="/images/CDC%20Logos/01.png" alt="Ngee Ann Kongsi (NAK) – CDC COVID-19 Relief Fund (COVID Relief Fund)" style="width:160px; float:left;right-margin:20px;" /></a></td>
+									<a href="https://centralsingapore.cdc.gov.sg"><img src="/images/CDC%20Logos/01.png" alt="Ngee Ann Kongsi (NAK) – CDC COVID-19 Relief Fund (COVID Relief Fund)" style="width:160px; float:left;right-margin:20px;" /></a></td>
                 <td style="border-top: none;">
 HDB Hub Bizthree <br>
 490 Lorong 6 Toa Payoh #07-11 <br>
