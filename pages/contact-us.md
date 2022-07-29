@@ -5,8 +5,8 @@ permalink: /contact-us/
 agency_name: CDC
 locations:
   - address:
-      - 490 Lorong 6 Toa Payoh
-      - " #07-11 (Lobby 2)"
+      - HDB HubBizthree
+      - 490 Lorong 6 Toa Payoh ,#07-11
       - Singapore 310490
     operating_hours:
       - days: Mon - Fri
@@ -16,7 +16,7 @@ locations:
         time: 8.30am - 12.00pm
         description: ""
     maps_link: ""
-    title: HDB Hub Bizthree
+    title: Central Singapore CDC
   - address:
       - 109 North Bridge Road
       - Singapore 179097
