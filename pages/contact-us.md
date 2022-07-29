@@ -18,12 +18,12 @@ locations:
     maps_link: ""
     title: Central Singapore CDC
   - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
+      - Our Tampines Hub
+      - "1 Tampines Walk #04-31"
+      - Singapore 528523
     operating_hours: []
     maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
+    title: Northeast CDC
 contacts:
   - content:
       - phone: +65 6123 4567
