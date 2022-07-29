@@ -36,7 +36,7 @@ Ang Mo Kio, Bishan-Toa Payoh, Jalan Besar, Kebun Baru, Marymount, Potong Pasir, 
                 <td colspan="2" style="border-bottom: none;"><b>North East CDC</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border-top: none;"><img src="/images/CDC%20Logos/02.png" alt="Ngee Ann Kongsi (NAK) – CDC COVID-19 Relief Fund (COVID Relief Fund)" style="width:160px; float:left;right-margin:20px;" /></td>
+                <td width="161px" style="border-top: none;"><a href="https://northeast.cdc.gov.sg"><img src="/images/CDC%20Logos/02.png" alt="Ngee Ann Kongsi (NAK) – CDC COVID-19 Relief Fund (COVID Relief Fund)" style="width:160px; float:left;right-margin:20px;" /></a></td>
                 <td style="border-top: none;">
 Our Tampines Hub<br>
 1 Tampines Walk #04-31<br>
