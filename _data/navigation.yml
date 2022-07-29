@@ -1,17 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/cdc-logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Collection
-    collection: example-collection
-  - title: Resources
-    resource_room: true
+  - title: About Us
+    collection: about-us
+  - title: Our Programmes
+    collection: our-programmes
+  - title: Engage With Us
+    collection: engage-with-us
+  - title: Press Centre
+    collection: press-centre
+  - title: Get in Touch
+    collection: contact-us

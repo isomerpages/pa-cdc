@@ -2,31 +2,44 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: CDC
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - HDB HubBizthree
+      - 490 Lorong 6 Toa Payoh ,#07-11
+      - Singapore 310490
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
+        time: 9.00am - 6.00pm
         description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
+    maps_link: ""
+    title: Central Singapore CDC
+  - address:
+      - Our Tampines Hub
+      - "1 Tampines Walk #04-31"
+      - Singapore 528523
+    operating_hours: []
     maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+    title: Northeast CDC
+  - address:
+      - "900 South Woodlands Drive "
+      - "#06-01, Woodlands Civic Centre"
+      - "Singapore 730900 "
+    operating_hours: []
+    maps_link: ""
+    title: Northwest CDC
+  - address:
+      - "Wisma Geylang Serai "
+      - "1 Engku Aman Turn #03-02 "
+      - "Singapore 408528 "
+    operating_hours: []
+    maps_link: ""
+    title: Southeast CDC
+  - address:
+      - The JTC Summit
+      - "8 Jurong Town Hall Road #26-06"
+      - Singapore 609434
+    operating_hours: []
+    maps_link: ""
+    title: Southwest CDC
 ---

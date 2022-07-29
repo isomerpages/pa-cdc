@@ -1,36 +1,60 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: CDCs, Singapore
+description: Website of the Community Development Council
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  - hero:
+      background: /images/Homepage banner 3.png
+      url: /contact-us/
+      key_highlights:
+        - title: Which district do I belong to?
+          description: Locate your district here
+          url: https://www.pa.gov.sg/our-network/community-development-councils
+        - title: CDC Vouchers Scheme 2021 / 2022
+          description: Find out more
+          url: https://vouchers.cdc.gov.sg
+        - title: WeCare Arts Fund / Wecare Arts Experiences
+          description: How to apply
+          url: /our-programmes/wecare-arts-fund
+        - title: Kong Meng San (KMS) - cdc cOVID-19 Relief fund
+          description: How to apply
+          url: /our-programmes/kms-cdc
+      title: Community Development Council
+      subtitle: Aggregate.Build.Connect.
+  - infopic:
+      title: About the CDC
+      description: The Community Development Councils (CDCs) were established under
+        the People’s Association Act in 1997.
+      button: Learn more
+      url: /who-we-are/mission
+      alt: CDC Logo
+      subtitle: who we are
+      image: /images/cdc-logo.png
+  - infopic:
+      title: The Five Districts
+      description: The CDC Planning and Development Division coordinates the work of
+        the five CDCs.
+      button: Find out more
+      alt: The Five Districts
+      url: /who-we-are/five-districts
+      image: /images/Five Districts V2.png
+  - infopic:
+      title: Office of the Mayors
+      description: "The Office of the Mayors in Singapore serves the residents in the
+        five districts. "
+      button: Find out more
+      alt: The Five Mayors
+      url: /who-we-are/our-mayors
+      image: /images/Mayors.png
+  - infobar:
+      title: Common Flagship Programmes
+      subtitle: What we do
+      description: We connect with partners and people of diverse expertise through
+        programmes available across all five CDCs.
+      button: learn about cdc's common flagship programmes
+      url: /what-we-do/common-flagship-programmes/permalink
 ---
 

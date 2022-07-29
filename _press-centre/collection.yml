@@ -1,0 +1,9 @@
+collections:
+  press-centre:
+    output: true
+    order:
+      - Media Releases.md
+      - Speeches.md
+      - Annual Reports.md
+      - Publications.md
+      - Awards.md
