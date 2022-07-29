@@ -24,6 +24,13 @@ locations:
     operating_hours: []
     maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
     title: Northeast CDC
+  - address:
+      - "900 South Woodlands Drive "
+      - "#06-01, Woodlands Civic Centre"
+      - "Singapore 730900 "
+    title: Northwest CDC
+    operating_hours: []
+    maps_link: ""
 contacts:
   - content:
       - phone: +65 6123 4567
