@@ -18,7 +18,7 @@ Find your district's information at the [People's Association website](https://w
 <table border="0" style="border: none;">
         <tbody>
             <tr style="border: none;">
-                <td colspan="2" style="border-bottom: none;"><b>Central Singapore CDC</b></td>
+                <td colspan="2" style="border-bottom: none;"><a href="https://centralsingapore.cdc.gov.sg"><b>Central Singapore CDC</b></a></td>
             </tr>
             <tr style="border: none;">
                 <td width="161px" style="border-top: none;">
