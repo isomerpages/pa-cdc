@@ -7,7 +7,7 @@ description: ""
 
 The CDCs administer a variety of local assistance schemes to help vulnerable families and elderly that complement the Government’s effort to strengthen our social safety net. Each CDC works with corporate and community partners under the “Many Helping Hands” approach to plan and implement local assistance schemes that benefit the community.
 
-Please [contact your CDC](https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts) to find out more on the available local assistance schemes.
+Please [contact your CDC](/who-we-are/five-districts) to find out more on the available local assistance schemes.
 
 <strong><U>National Assistance Schemes</u></strong>
 

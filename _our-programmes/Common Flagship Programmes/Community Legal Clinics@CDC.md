@@ -15,6 +15,6 @@ An appointment is required before the consultation, which is typically a 20 minu
   
 To make an appointment at the CLCs situated at Central Singapore, North West, South East and South West district, you may contact +65 6536 0650 or email to [ProBonoServices@lawsoc.org.sg](mailto:ProBonoServices@lawsoc.org.sg).  
   
-For appointments at North East district, please call the respective Community Clubs/Centres.  Download the Community Legal Clinics Directory.  
+For appointments at North East district, please call the respective Community Clubs/Centres.   
   
 NOTE: You may change your appointment time by informing the service officer 3 working days before the date of appointment. If you miss the appointment, re-registration for another appointment is at the discretion of the Pro Bono Services Office.
