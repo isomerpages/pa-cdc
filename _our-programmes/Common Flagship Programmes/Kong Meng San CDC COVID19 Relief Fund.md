@@ -16,7 +16,7 @@ b) Income loss of at least 30% from all jobs prior to application.\*  
 
 Each successful applicant (and his/ her household) will receive a one-time relief of $800. 
 
-Eligible Singaporean households can submit their application together with their supporting documents either online via the respective CDC websites listed below, or physically at KMSPKS (88 Bright Hill Road, Singapore 574117) or at any of the Community Centres/Clubs (CCs). Use our [district locator](https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts) to find out which district you belong to.
+Eligible Singaporean households can submit their application together with their supporting documents either online via the respective CDC websites listed below, or physically at KMSPKS (88 Bright Hill Road, Singapore 574117) or at any of the Community Centres/Clubs (CCs). Use our [district locator](https://www.pa.gov.sg/our-network/community-development-councils) to find out which district you belong to.
 
 (a)    CSCDC: [https://go.gov.sg/kms-cscdc](https://go.gov.sg/kms-cscdc)
 
