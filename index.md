@@ -55,6 +55,5 @@ sections:
       description: We connect with partners and people of diverse expertise through
         programmes available across all five CDCs.
       button: learn about cdc's common flagship programmes
-      url: /what-we-do/common-flagship-programmes/permalink
+      url: /our-programmes/Common-Flagship-Programmes
 ---
-
