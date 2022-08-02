@@ -12,7 +12,6 @@ The WeCare Arts Fund@CDC is a grant scheme in partnership between the CDCs and t
   
 The WeCare Arts Exhibition 2021 will showcase artworks from beneficiaries of Social Service Agencies (SSAs) and some Self-help Groups (SHGs) across Singapore. The beneficiaries include seniors, families, youth, and special needs.     
   
- [Visit](https://www.cdc.gov.sg/virtual-gallery) the Virtual WeCare Arts Gallery @ CDC Now!  
   
 <u>Activities supported by the Fund</u>
   
