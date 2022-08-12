@@ -26,8 +26,8 @@ sections:
       subtitle: Aggregate.Build.Connect.
   - infopic:
       title: About the CDC
-      description: The Community Development Councils (CDCs) were established under
-        the People’s Association Act in 1997.
+      description: The Community Development Council (CDC) was established under the
+        People’s Association Act in 1997.
       button: Learn more
       url: /who-we-are/mission
       alt: CDC Logo
