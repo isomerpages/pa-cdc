@@ -8,12 +8,6 @@ third_nav_title: Common Flagship Programmes
   
 The WeCare Arts Fund@CDC is a grant scheme in partnership between the CDCs and the National Arts Council (NAC). The fund aims to support Social Service Agencies (SSAs) and Self-Help Groups (SHGs) by engaging their beneficiaries through the arts. The CDCs and the NAC renewed their partnership on 4 September 2017 by setting aside $1 million for the WeCare Arts Fund over the next two year for programmes that make arts inclusive and promote self-confidence among the led advantages and underserved communities.  
   
-<Strong><u>WeCare Arts Exhibition 2021, in conjunction with PA’s 60 Years of Community Building (Theme: Resilience and Unity in Times of COVID-19)</u></strong>  
-  
-The WeCare Arts Exhibition 2021 will showcase artworks from beneficiaries of Social Service Agencies (SSAs) and some Self-help Groups (SHGs) across Singapore. The beneficiaries include seniors, families, youth, and special needs.     
-  
- [Visit](https://www.cdc.gov.sg/virtual-gallery) the Virtual WeCare Arts Gallery @ CDC Now!  
-  
 <u>Activities supported by the Fund</u>
   
 The fund supports project costs that involve artists working directly with SSAs/SHGs and their beneficiaries through the Performing, Visual, Literary and Multi-Disciplinary arts.  

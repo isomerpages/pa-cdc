@@ -16,18 +16,18 @@ sections:
         - title: CDC Vouchers Scheme 2021 / 2022
           description: Find out more
           url: https://vouchers.cdc.gov.sg
-        - title: WeCare Arts Fund / Wecare Arts Experiences
-          description: How to apply
-          url: /our-programmes/wecare-arts-fund
         - title: Kong Meng San (KMS) - cdc cOVID-19 Relief fund
           description: How to apply
           url: /our-programmes/kms-cdc
+        - title: WeCare Arts Fund / Wecare Arts Experiences
+          description: How to apply
+          url: /our-programmes/wecare-arts-fund
       title: Community Development Council
       subtitle: Aggregate.Build.Connect.
   - infopic:
       title: About the CDC
-      description: The Community Development Councils (CDCs) were established under
-        the People’s Association Act in 1997.
+      description: The Community Development Council (CDC) was established under the
+        People’s Association Act in 1997.
       button: Learn more
       url: /who-we-are/mission
       alt: CDC Logo
@@ -55,6 +55,5 @@ sections:
       description: We connect with partners and people of diverse expertise through
         programmes available across all five CDCs.
       button: learn about cdc's common flagship programmes
-      url: /what-we-do/common-flagship-programmes/permalink
+      url: /our-programmes/Common-Flagship-Programmes
 ---
-

@@ -17,7 +17,7 @@ The Community Development Councils (CDCs) were established under the People’s 
 
 | <center>Assisting the Needy </center> | <center>Bonding the People</center> | <center>Connecting the Community</center> |
 | -------- | -------- | -------- |
-| <center>To help the vulnerable through local assistance schemes and programmes </center>    | <center>To bond the community through projects and programmes to bring them closer to one another.</center> | <center>To develop strategic partnerships with corporate and community partners to better serve our resident    </center> |
+| <center>To help the vulnerable through local assistance schemes and programmes </center>    | <center>To bond the community through projects and programmes to bring them closer to one another</center> | <center>To develop strategic partnerships with corporate and community partners to better serve our residents    </center> |
 
 
 # District Visions
