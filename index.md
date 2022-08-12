@@ -16,12 +16,12 @@ sections:
         - title: CDC Vouchers Scheme 2021 / 2022
           description: Find out more
           url: https://vouchers.cdc.gov.sg
-        - title: WeCare Arts Fund / Wecare Arts Experiences
-          description: How to apply
-          url: /our-programmes/wecare-arts-fund
         - title: Kong Meng San (KMS) - cdc cOVID-19 Relief fund
           description: How to apply
           url: /our-programmes/kms-cdc
+        - title: WeCare Arts Fund / Wecare Arts Experiences
+          description: How to apply
+          url: /our-programmes/wecare-arts-fund
       title: Community Development Council
       subtitle: Aggregate.Build.Connect.
   - infopic:
