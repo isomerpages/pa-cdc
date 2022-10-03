@@ -3,3 +3,6 @@
 /southeast              https://southeast.cdc.gov.sg
 /northeast              https://northeast.cdc.gov.sg
 /northwest              https://northwest.cdc.gov.sg
+/cdcvouchers              https://vouchers.cdc.gov.sg
+/cdcvouchers/merchants              https://vouchers.cdc.gov.sg/merchants/info
+/cdcvouchers/residents              https://vouchers.cdc.gov.sg/residents/info
