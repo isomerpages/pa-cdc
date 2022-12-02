@@ -1,10 +1,12 @@
 ---
 title: Annual Reports
-permalink: /who-we-are/Press-Centre/Annual-Reports
+permalink: /who-we-are/Press-Centre/Annual-Reports/
 description: ""
 ---
 #### Scroll down to view past CDC Annual Reports
 
+FY2021
+[![CDC ANNUAL REPORT COVER IMAGE](/images/CDC%20AR%202021.png)](https://go.gov.sg/cdcar-2021)
 FY2020
 [![](/images/CDCAnnualReportFY20.png)](https://go.gov.sg/cdcar-2020)
 FY2019
