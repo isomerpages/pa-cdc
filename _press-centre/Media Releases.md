@@ -1,9 +1,12 @@
 ---
 title: Media Releases
-permalink: /who-we-are/Press-Centre/Media-Releases
+permalink: /who-we-are/Press-Centre/Media-Releases/
 description: ""
 ---
 ### 2022
+
+<strong>2 Oct 2022</strong><br>
+LAW@CDC inks 2-year MOU with new partners to form alliance on scam prevention [(Media Release)]([](/files/Press%20Releases/Final%20Media%20Release%20-%20LAW@CDC%202022%20(as%20of%2030%20Sep)_For%20website.pdf))
 
 <strong>30 May 2022</strong><br>
 KMS-CDC COVID-19 Relief Fund extended and enhanced to provide more financial assistance for eligible Singaporean Households [(Media Release)](/files/Press%20Releases/KMS-CDC%20COVID-19%20Relief%20Fund%20extended%20and%20enhanced%20to%20provide%20more%20financial%20assistance.pdf)
