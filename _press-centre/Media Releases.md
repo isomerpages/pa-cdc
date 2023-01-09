@@ -3,10 +3,15 @@ title: Media Releases
 permalink: /who-we-are/Press-Centre/Media-Releases/
 description: ""
 ---
+### 2023 
+
+<strong>3 Jan 2023</strong><br>
+All Singaporean households to receive support in 2023  with $300 worth of CDC vouchers [(Media Release)](/files/Press%20Releases/All%20Singaporean%20households%20to%20receive%20support%20in%202023%20%20with%20$300%20worth%20of%20CDC%20vouchers%20.pdf)
+
 ### 2022
 
 <strong>2 Oct 2022</strong><br>
-LAW@CDC inks 2-year MOU with new partners to form alliance on scam prevention [(Media Release)]([](/files/Press%20Releases/Final%20Media%20Release%20-%20LAW@CDC%202022%20(as%20of%2030%20Sep)_For%20website.pdf))
+LAW@CDC inks 2-year MOU with new partners to form alliance on scam prevention [(Media Release)](/files/Press%20Releases/Final%20Media%20Release%20-%20LAW@CDC%202022%20(as%20of%2030%20Sep)_For%20website.pdf)
 
 <strong>30 May 2022</strong><br>
 KMS-CDC COVID-19 Relief Fund extended and enhanced to provide more financial assistance for eligible Singaporean Households [(Media Release)](/files/Press%20Releases/KMS-CDC%20COVID-19%20Relief%20Fund%20extended%20and%20enhanced%20to%20provide%20more%20financial%20assistance.pdf)
