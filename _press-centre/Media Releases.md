@@ -3,6 +3,11 @@ title: Media Releases
 permalink: /who-we-are/Press-Centre/Media-Releases/
 description: ""
 ---
+### 2023 
+
+<strong>3 Jan 2023</strong><br>
+All Singaporean households to receive support in 2023  with $300 worth of CDC vouchers [(Media Release)]([](/files/All%20Singaporean%20households%20to%20receive%20support%20in%202023%20%20with%20$300%20worth%20of%20CDC%20vouchers%20.pdf))
+
 ### 2022
 
 <strong>2 Oct 2022</strong><br>
