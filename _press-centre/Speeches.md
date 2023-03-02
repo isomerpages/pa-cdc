@@ -3,6 +3,10 @@ title: Speeches
 permalink: /who-we-are/Press-Centre/Speeches/
 description: ""
 ---
+### 2023
+
+Speech by Mayor Low Yen Ling at the Launch of CDC Vouchers Scheme 2023 [(Read here)](/files/Speech%20by%20Mayor%20Low%20Yen%20Ling%20at%20the%20Launch%20of%20CDC%20Vouchers%20Scheme%202023_3%20Jan%20(002).pdf)
+
 ### 2022
 
 Speech by Mayor Alex Yam, Mayor of North West District at the Launch of Law Awareness Weeks@CDC 2022 [Read here](/files/Delivered%20LAW@CDC%202022%20Speech%20by%20Mayor%20Alex.pdf)
