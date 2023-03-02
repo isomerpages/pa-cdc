@@ -13,7 +13,7 @@ sections:
         - title: Which district do I belong to?
           description: Locate your district here
           url: https://www.pa.gov.sg/our-network/community-development-councils
-        - title: CDC Vouchers Scheme 2021 / 2022
+        - title: CDC Vouchers Scheme 2023
           description: Find out more
           url: https://vouchers.cdc.gov.sg
         - title: Kong Meng San (KMS) - cdc cOVID-19 Relief fund
