@@ -10,6 +10,9 @@ All Singaporean households to receive support in 2023  with $300 worth of CDC vo
 
 ### 2022
 
+<strong>20 Dec 2022</strong><br>
+Singapore households can donate balance of CDC Vouchers 2021 and 2022 to charities [(Media Release)](/files/Final%20Media%20Release%20-%20Donation%20of%20CDC%20Vouchers%202021%20and%202022%20(002).pdf)
+
 <strong>2 Oct 2022</strong><br>
 LAW@CDC inks 2-year MOU with new partners to form alliance on scam prevention [(Media Release)](/files/Press%20Releases/Final%20Media%20Release%20-%20LAW@CDC%202022%20(as%20of%2030%20Sep)_For%20website.pdf)
 
