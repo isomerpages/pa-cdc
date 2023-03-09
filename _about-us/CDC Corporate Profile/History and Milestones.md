@@ -1,6 +1,6 @@
 ---
 title: History and Milestones
-permalink: /who-we-are/history
+permalink: /who-we-are/history/
 description: ""
 third_nav_title: CDC Corporate Profile
 ---
@@ -37,7 +37,14 @@ The CDCs aim to encourage the more able and successful to come forward to help t
 # CDCs Milestones
 <table border="0" style="border: none;">
         <tbody>
+          <tr style="border: none;">
+                <td colspan="2" style="border-bottom: none;"><b>2021 - 2023 -  CDC Vouchers Scheme</b></td>
+            </tr>
             <tr style="border: none;">
+                <td width="161px" style="border-top: none;"><img src="/images/PA-CDC-2023-Hero-Image.png" style="width:160px; float:left;right-margin:20px;" /></td>
+                <td style="border-top: none;">The CDC Vouchers Scheme (digital) was first launched in Dec 2021 to thank Singaporeans for their sense of solidarity during the COVID-19 pandemic and to support local businesses at HDB estates/ heartland enterprises and hawkers.  Two other tranches were launched in May 2022 and Jan 2023 to help Singaporean households in daily expenses as well as to continue our support to heartland businesses.  Each Singaporean household received $100 each for CDC Vouchers 2021 and 2022, and $300 each for CDC Vouchers 2023.</td>
+            </tr>  
+					<tr style="border: none;">
                 <td colspan="2" style="border-bottom: none;"><b>2020 - Ngee Ann Kongsi (NAK) – CDC COVID-19 Relief Fund (COVID Relief Fund)</b></td>
             </tr>
             <tr style="border: none;">

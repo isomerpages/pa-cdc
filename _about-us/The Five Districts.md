@@ -1,6 +1,6 @@
 ---
 title: The Five Districts
-permalink: /who-we-are/five-districts
+permalink: /who-we-are/five-districts/
 description: ""
 ---
 ### CDC Planning & Development
