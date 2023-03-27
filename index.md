@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Which district do I belong to?
           description: Locate your district here
-          url: https://www.pa.gov.sg/our-network/community-development-councils
+          url: https://www.gowhere.gov.sg/cdc
         - title: CDC Vouchers Scheme 2023
           description: Find out more
           url: https://vouchers.cdc.gov.sg
