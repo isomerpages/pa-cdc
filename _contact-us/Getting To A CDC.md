@@ -1,10 +1,8 @@
 ---
 title: Getting To A CDC
-permalink: /reach-us/getting-here
+permalink: /reach-us/getting-here/
 description: ""
 ---
-Find your district's information at the [People's Association website](https://www.pa.gov.sg/our-network/community-development-councils) (scroll to the bottom of the page).
-
 ![The Five Districts in Singapore](/images/Five%20Districts.png)
 
 <table border="0" style="border: none;">
