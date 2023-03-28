@@ -1,6 +1,6 @@
 ---
 title: National Integration Council CDC Corporate Social Integration Fund
-permalink: /our-programmes/CSI-fund
+permalink: /our-programmes/CSI-fund/
 description: ""
 third_nav_title: Common Flagship Programmes
 ---
@@ -8,4 +8,4 @@ third_nav_title: Common Flagship Programmes
   
 Corporate organisations may apply for seed funding to organise sustainable social responsibility and volunteerism projects with the CDC.   
   
-[Download the Guide and Application Form.](/files/National%20Integration%20Council%20(NIC)%20-%20CDC%20Corporate%20Social%20Integration%20(CSI)%20Fund.pdf)
+[Download the Guide and Application Form.](/files/Corporate%20Social%20Integration%20Fund%20-%20Application%20form_Corp.pdf)
