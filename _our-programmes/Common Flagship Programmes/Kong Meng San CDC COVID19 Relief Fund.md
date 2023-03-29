@@ -1,6 +1,6 @@
 ---
 title: Kong Meng San CDC COVID19 Relief Fund
-permalink: /our-programmes/KMS-CDC
+permalink: /our-programmes/kms-cdc/
 description: ""
 third_nav_title: Common Flagship Programmes
 ---

@@ -1,6 +1,6 @@
 ---
 title: Community Legal Clinics@CDC
-permalink: /our-programmes/Community-Legal-Clinics
+permalink: /our-programmes/community-legal-clinics/
 description: ""
 third_nav_title: Common Flagship Programmes
 ---

@@ -1,6 +1,6 @@
 ---
 title: SkillsFuture Advice@CDC
-permalink: /our-programmes/SkillsFuture-Advice
+permalink: /our-programmes/skillsfuture-advice/
 description: ""
 third_nav_title: Common Flagship Programmes
 ---

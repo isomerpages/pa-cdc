@@ -1,6 +1,6 @@
 ---
 title: National Integration Council CDC Corporate Social Integration Fund
-permalink: /our-programmes/CSI-fund/
+permalink: /our-programmes/csi-fund/
 description: ""
 third_nav_title: Common Flagship Programmes
 ---

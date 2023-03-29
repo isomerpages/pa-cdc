@@ -1,6 +1,6 @@
 ---
 title: CDC Vouchers Scheme
-permalink: /our-programmes/CDCVS/
+permalink: /our-programmes/cdcvs/
 description: ""
 third_nav_title: Common Flagship Programmes
 ---

@@ -1,6 +1,6 @@
 ---
 title: SME Centres@CDC
-permalink: /our-programmes/SME-centres
+permalink: /our-programmes/sme-centres/
 description: ""
 third_nav_title: Common Flagship Programmes
 ---

@@ -1,6 +1,6 @@
 ---
 title: Be Our Corporate Partner
-permalink: /join-us/csr
+permalink: /join-us/csr/
 description: ""
 ---
 One of the key roles of the CDCs is to connect the community in order to create a more cohesive and self-reliant society. The CDCs adopt the “many helping hands” approach by facilitating meaningful community collaborations among corporate companies, Social Purpose Entities 

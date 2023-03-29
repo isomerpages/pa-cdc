@@ -1,6 +1,6 @@
 ---
 title: Awards
-permalink: /who-we-are/Press-Centre/Awards
+permalink: /who-we-are/press-centre/awards/
 description: ""
 ---
 ### ONE PUBLIC SERVICE AWARD 2022 FOR $130 MILLION CDC VOUCHERS SCHEME  

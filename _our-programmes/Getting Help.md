@@ -1,6 +1,6 @@
 ---
 title: Getting Help
-permalink: /what-we-do/Getting-Help
+permalink: /what-we-do/getting-help/
 description: ""
 ---
 <STRONG><U>Local Assistance Schemes and Programmes</U></STRONG>
