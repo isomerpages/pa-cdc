@@ -4,10 +4,13 @@ permalink: /our-programmes/law-awareness-weeks/
 description: ""
 third_nav_title: Common Flagship Programmes
 ---
-![law awareness weeks](/images/Common%20Flagship%20Progs/law%20awareness%20weeks.png)LAW@CDC was started to educate residents through legal talks conducted across the five districts on basic legal knowledge. These talks are held at Community Centres/Clubs (CCs) and Residents' Committee (RC) Centres. The talks are tailored for those who are not legally trained by breaking down legal jargons so that they are easy to understand. 
+![law awareness weeks](/images/Common%20Flagship%20Progs/law%20awareness%20weeks.png)
 
-On 28 September 2020, Minister Edwin Tong announced the renewal of two Memorandums of Understanding (MOU) – one MOU between the Community Development Councils (CDCs) and Law Society Pro Bono Services (LSPBS) on Community Legal Pro Bono Services Network (Community Legal Clinics); and one MOU between CDCs, LSPBS, three Institutes of Higher Learning (National University of Singapore, Singapore Management University and Singapore University of Social Sciences) and one new partner Singapore Counsel Association (SCCA) on Law Awareness Weeks@CDC. 
+LAW@CDC first started in providing basic legal education to residents through legal talks held at Community Centres/Clubs (CCs) and Residents’ Committee (RC) Centres in the five districts. These talks are tailored for those without legal training by simplifying legal jargon for easy comprehension.
 
+Additionally, there are two Memorandum of Understanding (MOU) collaborations. One is between the Community Development Councils (CDCs) and Law Society Pro Bono Services (LSPBS), now known as Pro Bono Singapore (PBSG) to establish a Community Legal Pro Bono Services Network (Community Legal Clinics). 
+
+The other MOU involves CDCs, LSPBS, three Institutes of Higher Learning (National University of Singapore, Singapore Management University, and Singapore University of Social Sciences) and the Singapore Counsel Association (SCCA), on Law Awareness Weeks@CDC.
 
 <style>
  .youtubecontainer {
@@ -27,4 +30,4 @@ On 28 September 2020, Minister Edwin Tong announced the renewal of two Memorandu
 	
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/v0W0jI8xjx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div>
