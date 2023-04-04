@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /our-programmes/Common-Flagship-Programmes
+permalink: /our-programmes/common-flagship-programmes/
 description: ""
 third_nav_title: Common Flagship Programmes
 ---

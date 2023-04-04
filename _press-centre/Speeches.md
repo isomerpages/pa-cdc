@@ -1,6 +1,6 @@
 ---
 title: Speeches
-permalink: /who-we-are/Press-Centre/Speeches/
+permalink: /who-we-are/press-centre/speeches/
 description: ""
 ---
 ### 2023

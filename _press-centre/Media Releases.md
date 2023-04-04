@@ -1,6 +1,6 @@
 ---
 title: Media Releases
-permalink: /who-we-are/Press-Centre/Media-Releases/
+permalink: /who-we-are/press-centre/media-releases/
 description: ""
 ---
 ### 2023 

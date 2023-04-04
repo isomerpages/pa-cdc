@@ -1,6 +1,6 @@
 ---
 title: Our Mayors
-permalink: /who-we-are/our-mayors
+permalink: /who-we-are/our-mayors/
 description: ""
 third_nav_title: Office Of The Mayors
 ---

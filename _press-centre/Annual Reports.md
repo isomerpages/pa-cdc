@@ -1,6 +1,6 @@
 ---
 title: Annual Reports
-permalink: /who-we-are/Press-Centre/Annual-Reports/
+permalink: /who-we-are/press-centre/annual-reports/
 description: ""
 ---
 #### Scroll down to view past CDC Annual Reports

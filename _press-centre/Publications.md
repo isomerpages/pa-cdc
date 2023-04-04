@@ -1,6 +1,6 @@
 ---
 title: Publications
-permalink: /who-we-are/Press-Centre/Publications
+permalink: /who-we-are/press-centre/publications/
 description: ""
 ---
 ### CDC SG50 BOOK
