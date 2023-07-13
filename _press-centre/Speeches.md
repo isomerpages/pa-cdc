@@ -41,7 +41,7 @@ Remarks by Deputy Prime Minister , Coordinating Minister for Economic Policies a
 
 Opening Address by Mr Lawrence Wong, Minister for Education, at Virtual Skillsfuture Advice Memorandum of Understanding Signing Ceremony & SkillsFuture@CDC Dialogue Session, 25 September 2020 [(Read here)](/files/sfa@cdc---minlw-speech.pdf)
 
-Speech by Prime Minister Lee Hsien Loong at the Swearing-in Ceremony of Mayors on Wednesday, 23 September 2020, at the People’s Association Auditorium [(Read here)](/files/pmo-_-pm-lee-hsien-loong-at-the-swearing-in-ceremony-of-mayors-(sept-2020).pdf)
+Speech by Prime Minister Lee Hsien Loong at the Swearing-in Ceremony of Mayors on Wednesday, 23 September 2020, at the People’s Association Auditorium[(Read here)](/files/pmo-\_-pm-lee-hsien-loong-at-the-swearing-in-ceremony-of-mayors-(sept-2020).pdf)
 
 ### 2019
 
@@ -98,5 +98,6 @@ Speech by Dr Teo Ho Pin, Mayor of North West District, at the WeCare Arts Fund T
 Speech by Mr K Shanmugam, Minister for Foreign Affairs and Minister for Law, at Signing of Memorandum of Understanding - Community Development Councils and Law Society 2014 on Friday 12 September 2014 at Treetops [(Read here)](/files/law-minister-mr-k-shanmugan-speech-at-mou-signing-with-law-society-friday-12-september-2014.pdf)
 
 Speech by Dr Teo Ho Pin, Mayor of North West District, at Signing of Memorandum of Understanding - Community Development Councils and Law Society 2014 on Friday 12 September 2014 at Treetops [(Read here)](/files/dr-teo-ho-pin-mayor-of-north-west-district-speech-at-mou-signing-with-law-society-.pdf)
+
 
 Speech by Prime Minister Lee Hsien Loong, at Mayors’ Swearing-In Ceremony on Friday 20 June 2014 at People’s Association Auditorium [(Read here)](/files/pm-lee-hsien-loong-speech-at-mayors-swearing-in-ceremony-friday-20-june-2014.pdf)
