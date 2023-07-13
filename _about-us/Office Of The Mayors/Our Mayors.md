@@ -11,7 +11,7 @@ third_nav_title: Office Of The Mayors
                 <td colspan="2" style="border-bottom: none;"></td>
             </tr>
             <tr style="border: none;">
-                <td width="200px" style="border-top: none;"><img src="/images/Mayors/mayor-badge-final-01-min.jpg" alt="Office of the Mayors logo" style="width:250px; float:left;right-margin:20px;" /></td>
+                <td width="200px" style="border-top: none;"><img src="/images/Mayors/mayor-badge-final-01-min.jpg" alt="Office of the Mayors logo" style="width:250px; float:left;right-margin:20px;"></td>
                 <td style="border-top: none;">The Office of the Mayors in Singapore serves the residents in the five districts. Each district is helmed by a Mayor, who also serves as a Chairman of the Community Development Council in that particular district.
 								</td>
             </tr>
@@ -22,7 +22,7 @@ third_nav_title: Office Of The Mayors
 
 |  |  | 
 | -------- | -------- | 
-| ![Chairman Mayor Low Yen Ling](/images/Mayors/low_yen_ling2.png)        | MS LOW YEN LING <br> Chairman of Mayors’ Committee <br> Mayor of South West District <br> Chairman of South West CDC <br> Date of Appointment: 27/5/2014 <br> (Minister of State, Ministry of Trade <br>and Industry & Ministry of Culture, <br>Community and Youth)
+| ![Chairman Mayor Low Yen Ling](/images/Mayors/low_yen_ling2.png)        | MS LOW YEN LING <br> Chairman of Mayors’ Committee <br> Mayor of South West District <br> Chairman of South West CDC <br> Date of Appointment: 27/5/2014 <br> (Minister of State, Ministry of Trade <br>and Industry &amp; Ministry of Culture, <br>Community and Youth)
 |
 
 ## Central Singapore CDC
