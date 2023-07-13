@@ -4,7 +4,7 @@ permalink: /about-us/past-mayors/
 description: ""
 third_nav_title: Office Of The Mayors
 ---
-###  Mayors 
+###  2020 
 ![Mayors Swearing In 2020](/images/Mayors%20Swearing%20In/2020-Mayors-Swearing-In-Ceremony.jpg)
 <strong></strong><br>
 <br>
@@ -15,7 +15,7 @@ third_nav_title: Office Of The Mayors
 * Mr Alex Yam, Mayor of North West District<br>
 * Mr Fahmi Aliman, Mayor of South East District
 
-### Mayors
+### 2017
 ![Mayors Swearing in 2017](/images/Mayors%20Swearing%20In/2017-mayors-swearing-in.jpg)
 
 
@@ -26,7 +26,7 @@ third_nav_title: Office Of The Mayors
 * Dr Mohamad Maliki Bin Osman, Mayor of South East District<br>
 * Ms Denise Phua Lay Peng, Mayor of Central Singapore District
 
-### Mayors
+### 2014
 ![Mayors Swearing in 2014](/images/Mayors%20Swearing%20In/2014-mayors-swearing.jpg)
 * Dr Mohamad Maliki Osman, Mayor of South East District<br>
 * Prime Minister Lee Hsien Loong, Chairman of People’s Association<br>
@@ -37,7 +37,7 @@ third_nav_title: Office Of The Mayors
 * Ms Denise Phua Lay Peng, Mayor of Central Singapore District<br>
 * Mr Teo Ser Luck, Chairman of Mayors' Committee &amp; Mayor of North East District
 
-### Mayors
+### 2011
 ![Mayors Swearing in 2011](/images/Mayors%20Swearing%20In/2011-mayors-swearing-in.jpg)
 
 * Dr Mohamad Maliki Osman, Mayor of South East District<br>
@@ -48,7 +48,7 @@ third_nav_title: Office Of The Mayors
 * Dr Teo Ho Pin, Mayor of North West District
 * Mr Sam Tan Chin Siong, Mayor of Central Singapore District
 
-### Mayors
+### 2009
 ![Mayors Swearing in 2009](/images/Mayors%20Swearing%20In/2009-mayors-swearing-in.jpg)
 
 * Mr Zainudin Nordin, Mayor of Central Singapore District<br>
@@ -59,7 +59,7 @@ third_nav_title: Office Of The Mayors
 * Dr Amy Khor Lean Suan, Mayor of South West District
 * Mr Teo Ser Luck, Mayor of North East District
 
-### Mayors
+### 2006
 ![Mayors Swearing in 2006](/images/Mayors%20Swearing%20In/2006-mayors-swearing-in.jpg)
 
 * Mr Zainudin Nordin, Mayor of Central Singapore District<br>
@@ -69,7 +69,7 @@ third_nav_title: Office Of The Mayors
 * Mr Matthias Yao, Mayor of South East District<br>
 * Dr Amy Khor Lean Suan, Mayor of South West District
 
-### Mayors
+### 2004
 ![Mayors Swearing in 2004](/images/Mayors%20Swearing%20In/2004-mayors-swearing-in.jpg)
 
 * Dr Teo Ho Pin, Mayor of North West District<br>
@@ -80,7 +80,7 @@ third_nav_title: Office Of The Mayors
 * Mr Matthias Yao, Mayor of South East District
 * Dr Amy Khor Lean Suan, Mayor of South West District
 
-### Mayors
+### 2002
 ![Mayors Swearing in 2002](/images/Mayors%20Swearing%20In/2002-mayors-swearing-in.jpg)
 
 * Dr Teo Ho Pin, Mayor of North West District<br>
