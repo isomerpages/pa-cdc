@@ -4,7 +4,6 @@ permalink: /about-us/past-mayors/
 description: ""
 third_nav_title: Office Of The Mayors
 ---
-  
 ![Mayors Swearing In 2020](/images/Mayors%20Swearing%20In/2020-Mayors-Swearing-In-Ceremony.jpg)
 <strong></strong>
 * Mr Desmond Choo, Mayor of North East District<br>
