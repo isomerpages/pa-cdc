@@ -65,6 +65,9 @@ Providing Better Accesibility to Law through Community Development Councils (CDC
 <strong>25 September 2020</strong><br>
 More Support on Skills and Jobs for Residents who need help through the SkillsFuture@CDC Initiative [(Media Release)](/files/Press%20Releases/media-release---skillsfuture-advice-mou-signing-sf@cdc-dialogue%20(1).pdf)
 
+<strong>23 September 2020</strong><br>
+Swearing-in Ceremony of Mayors [(Media Release)](/files/Press%20Releases/final-media-release-mayors-swearing-in-ceremony-2020%20(1).pdf)
+
 <strong>7 August 2020</strong><br>
 Five CDCs to hold SkillsFuture @ CDC 2020 - "The Future of You" to Support Local Community and Businesses in Lifelong Learning, Reskill and Upskill [(Media Release)](/files/Press%20Releases/skillsfuture-at-cdc-2020%20(1).pdf)
 
@@ -100,6 +103,9 @@ North West District Conferred ASEAN Environmentally Sustainable Cities (ESC) Awa
 
 <strong>4 September 2017</strong><br>
 Renewing of Partnership between CDCs and NAC on WeCare Arts Fund and opening of WeCare Arts Exhibition [(Media Release)](/files/Press%20Releases/joint-media-release_wecare-arts-fund-4-sep-2017.pdf)
+
+<strong>24 May 2017</strong><br>
+Swearing-In Ceremony of Mayors[(Media Release)\](/files/Press%20Releases/media\_release\_mayors\_swearingin\_ceremony\_2017\_final.pdf)
 
 <strong>11 February 2017</strong><br>
 Launch of NTUC FairPrice Foundation - CDC Milk Fund [(Media Release)](/files/Press%20Releases/media_release_for_ntuc_fairprice_foundation_cdc_milk_fund_final.pdf)
