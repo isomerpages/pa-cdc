@@ -4,9 +4,7 @@ title: CDCs, Singapore
 description: Website of the Community Development Council
 image: /images/isomer-logo.svg
 permalink: /
-notification: There will be a scheduled downtime on all CDC websites on 17
-  April. The website may not be available during this period. We apologise for
-  the inconvenience caused.
+notification: ""
 sections:
   - hero:
       background: /images/Homepage banner 3.png
@@ -42,8 +40,8 @@ sections:
       image: /images/Five Districts V2.png
   - infopic:
       title: Office of the Mayors
-      description: "The Office of the Mayors in Singapore serves the residents in the
-        five districts. "
+      description: The Office of the Mayors in Singapore serves the residents in the
+        five districts.
       button: Find out more
       alt: The Five Mayors
       url: /who-we-are/our-mayors
