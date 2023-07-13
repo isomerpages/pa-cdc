@@ -4,9 +4,9 @@ permalink: /about-us/past-mayors/
 description: ""
 third_nav_title: Office Of The Mayors
 ---
-### 2020 Mayors' Swearing-In Ceremony
+###  Mayors (Over the Years)
 ![Mayors Swearing In 2020](/images/Mayors%20Swearing%20In/2020-Mayors-Swearing-In-Ceremony.jpg)
-<strong>*Held on 23 September 2020 at PA Headquarters Auditorium*</strong><br>
+<strong></strong><br>
 <br>The Mayors and the PA Board Member at the ceremony are (from left to right):
 
 * Mr Desmond Choo, Mayor of North East District<br>
