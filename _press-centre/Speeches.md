@@ -67,6 +67,7 @@ Speech by Dr Teo Ho Pin, Mayor of North West District, at the Launch of Law Awar
 
 Speech by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of South West District at Launch of WeCare Arts Exhibition and MOU Signing for WeCare Arts Fund on Monday 4 September 2017 at Our Tampines Hub [(Read here)](/files/ms-low-yen-ling-mayor-of-south-west-district-speech-at-launch-of-wecare-arts-e.pdf)
 
+Speech by Prime Minister Lee Hsien Loong, at the Swearing-In Ceremony of Mayors on Wednesday 24 May 2017 at the People's Association Auditorium [(Read here)](/files/pm-lee-hsien-loong-speech-at-mayors-swearing-in-ceremony-wednesday-24-may-2017.pdf)
 
 Speech by Mr Teo Ser Luck, Chairman of Mayors' Committee and Mayor of North East District, at Launch of NTUC FairPrice Foundation - CDC Milk Fund on Saturday 11 February 2017 at NTUC FairPrice Xtra @ NEX [(Read here)](/files/mr-teo-ser-luck-mayor-of-north-east-district-speech-at-ntuc-fairprice-foundation-.pdf)
 
