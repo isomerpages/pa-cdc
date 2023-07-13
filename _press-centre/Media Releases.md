@@ -19,7 +19,7 @@ LAW@CDC inks 2-year MOU with new partners to form alliance on scam prevention [(
 <strong>30 May 2022</strong><br>
 KMS-CDC COVID-19 Relief Fund extended and enhanced to provide more financial assistance for eligible Singaporean Households [(Media Release)](/files/Press%20Releases/KMS-CDC%20COVID-19%20Relief%20Fund%20extended%20and%20enhanced%20to%20provide%20more%20financial%20assistance.pdf)
 
-<Strong>11 May 2022</strong> <br>
+<strong>11 May 2022</strong> <br>
 Immediate support for all Singaporean Households to defray living expenses through the CDC Vouchers Scheme 2022
 [(Media Release)](/files/Press%20Releases/Immediate%20Support%20for%20All%20Singaporean%20Households%20Through%20the%20CDCVS%202022.pdf)
 
@@ -42,10 +42,10 @@ $130 million CDC Vouchers Scheme: Onboarding begins for heartland merchants hawk
 CDCs heal families and relationships affected by the pandemic through pro-bono legal services  [(Media Release)](/files/Press%20Releases/media-release---law-@-cdc-2021_25-sep-2021.pdf)
 
 <strong>10 July 2021</strong><br>
-Singaporeans affected by COVID-19 pandemic can expect local support in local jobs & skills over the next two years  [(Media Release)](/files/Press%20Releases/media-release_maybank-cdc-job-and-skills-series--9-july-2021.pdf)
+Singaporeans affected by COVID-19 pandemic can expect local support in local jobs &amp; skills over the next two years  [(Media Release)](/files/Press%20Releases/media-release_maybank-cdc-job-and-skills-series--9-july-2021.pdf)
 
 <strong>23 March 2021</strong><br>
-Singaporeans affected by COVID-19 pandemic can expect local support in local jobs & skills over the next two years  [(Media Release)](/files/Press%20Releases/media-release_maybank-cdc-job-and-skills-series--9-july-2021.pdf)
+Singaporeans affected by COVID-19 pandemic can expect local support in local jobs &amp; skills over the next two years  [(Media Release)](/files/Press%20Releases/media-release_maybank-cdc-job-and-skills-series--9-july-2021.pdf)
 
 <strong>25 January 2021</strong><br>
 Launch of $20 million CDC Vouchers Scheme (Tranche 2)[(Media Release)](/files/Press%20Releases/media-release-for-cdc-vouchers-scheme-tranche2.pdf)
@@ -64,9 +64,6 @@ Providing Better Accesibility to Law through Community Development Councils (CDC
 
 <strong>25 September 2020</strong><br>
 More Support on Skills and Jobs for Residents who need help through the SkillsFuture@CDC Initiative [(Media Release)](/files/Press%20Releases/media-release---skillsfuture-advice-mou-signing-sf@cdc-dialogue%20(1).pdf)
-
-<strong>23 September 2020</strong><br>
-Swearing-in Ceremony of Mayors [(Media Release)](/files/Press%20Releases/final-media-release-mayors-swearing-in-ceremony-2020%20(1).pdf)
 
 <strong>7 August 2020</strong><br>
 Five CDCs to hold SkillsFuture @ CDC 2020 - "The Future of You" to Support Local Community and Businesses in Lifelong Learning, Reskill and Upskill [(Media Release)](/files/Press%20Releases/skillsfuture-at-cdc-2020%20(1).pdf)
@@ -103,9 +100,6 @@ North West District Conferred ASEAN Environmentally Sustainable Cities (ESC) Awa
 
 <strong>4 September 2017</strong><br>
 Renewing of Partnership between CDCs and NAC on WeCare Arts Fund and opening of WeCare Arts Exhibition [(Media Release)](/files/Press%20Releases/joint-media-release_wecare-arts-fund-4-sep-2017.pdf)
-
-<strong>24 May 2017</strong><br>
-Swearing-In Ceremony of Mayors [(Media Release)](/files/Press%20Releases/media_release_mayors_swearingin_ceremony_2017_final.pdf)
 
 <strong>11 February 2017</strong><br>
 Launch of NTUC FairPrice Foundation - CDC Milk Fund [(Media Release)](/files/Press%20Releases/media_release_for_ntuc_fairprice_foundation_cdc_milk_fund_final.pdf)
