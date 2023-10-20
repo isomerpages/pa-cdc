@@ -1,5 +1,5 @@
 ---
-title: Mission, Vision &amp; Strategic Direction
+title: Mission, Vision & Strategic Direction
 permalink: /who-we-are/mission/
 description: ""
 third_nav_title: CDC Corporate Profile
@@ -11,7 +11,7 @@ The Community Development Councils (CDCs) were established under the [People's A
 (c) Connector of Communities 
 
 # Mission
-#### <center>To Build a Caring and Cohesive Community where we Aggregate Resources and Needs;&nbsp;Build Capabilities of Partners &amp; Residents, and&nbsp;Connect Stakeholders.</center>
+#### <center>We Aggregate Resources &amp; Needs;<br>&nbsp;Build Capabilities of Partners &amp; Residents,<br> and&nbsp;Connect Stakeholders &amp; Communities.</center>
 
 
 
