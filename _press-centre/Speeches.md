@@ -39,6 +39,8 @@ Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of South We
 
 Remarks by Deputy Prime Minister , Coordinating Minister for Economic Policies and Minister for Finance Heng Swee Keat at the Launch of the Ngee Ann Kongsi (NAK) – CDC COVID-19 Relief Fund [(Read here)](/files/delivered-remarks-by-dpm-for-nak-cdc-covid19-relief-fund-final.pdf)
 
+Speech by Mr Edwin Tong, Minister for Culture, Community and Youth & Second Minister for Law at the Launch of Law Awareness Weeks @ CDC 2020 [(Read here)][](/files/2m%20speech%20-%20laws%202020%20.pdf)
+
 Opening Address by Mr Lawrence Wong, Minister for Education, at Virtual Skillsfuture Advice Memorandum of Understanding Signing Ceremony & SkillsFuture@CDC Dialogue Session, 25 September 2020 [(Read here)](/files/sfa@cdc---minlw-speech.pdf)
 
 Speech by Prime Minister Lee Hsien Loong at the Swearing-in Ceremony of Mayors on Wednesday, 23 September 2020, at the People’s Association Auditorium[(Read here)](/files/pmo-\_-pm-lee-hsien-loong-at-the-swearing-in-ceremony-of-mayors-(sept-2020).pdf)
