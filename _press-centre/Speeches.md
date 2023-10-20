@@ -45,7 +45,9 @@ Speech by Prime Minister Lee Hsien Loong at the Swearing-in Ceremony of Mayors o
 
 ### 2019
 
-Speech by Ms Low Yen Ling, Mayor of South West District at the Launch of Law Awareness Weeks (LAW) @ CDC 2019 on Wednesday, 4 September 2019 at Keat Hong Community Club [(Read here)](/files/speech-by-chairman-mayor-low-yen-ling-at-law-@-cdc-2019.pdf)
+Speech by Ms Low Yen Ling, Mayor of South West District at the Launch of Law Awareness Weeks (LAW) @ CDC 2019 on Wednesday, 4 September 2019 at Keat Hong Community Club [(Read here)](/files/speech-by-chairman-mayor-low-yen-ling-at-law-@-cdc-2019.pdf
+
+Speech by Mr Edwin Tong, Senior Minister of State for Law and Health, at the Launch of Law Awareness Weeks @ CDC 2019 on Wednesday, 4 September 2019 at Keat Hong Community Club [(Read here)](//files/goh%20speech%20-%20law%20awareness%20weeks%20cdc%202019%20.pdf)
 
 Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of South West District for WeCare Arts Exhibition @ CDC 2019 on Thursday, 19 September 2019 at Wisma Geylang Serai [(Read here)](/files/speech-by-chairman-mayor-low-yen-ling-at-wecare-af-exhibition-2019.pdf)
 
