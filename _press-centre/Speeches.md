@@ -5,6 +5,8 @@ description: ""
 ---
 ### 2023
 
+Speech by Mr Fahmi Aliman, Mayor of South East District at the Launch of Law Awareness Weeks @ CDC 2023 [(Read here)](/files/delivered%20speech%20for%20mayor%20fahmi%202023%20checked.pdf)
+
 Speech by Mayor Low Yen Ling at the Launch of CDC Vouchers Scheme 2023 [(Read here)](/files/Speech%20by%20Mayor%20Low%20Yen%20Ling%20at%20the%20Launch%20of%20CDC%20Vouchers%20Scheme%202023_3%20Jan%20(002).pdf)
 
 ### 2022
