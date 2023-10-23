@@ -8,9 +8,9 @@ third_nav_title: Common Flagship Programmes
 
 LAW@CDC first started in providing basic legal education to residents through legal talks held at Community Centres/Clubs (CCs) and Residents’ Committee (RC) Centres in the five districts. These talks are tailored for those without legal training by simplifying legal jargon for easy comprehension.
 
-Additionally, there are two Memorandum of Understanding (MOU) collaborations. One is between the Community Development Councils (CDCs) and Law Society Pro Bono Services (LSPBS), now known as Pro Bono Singapore (PBSG) to establish a Community Legal Pro Bono Services Network (Community Legal Clinics). 
+Additionally, there are two Memorandum of Understanding (MOU) collaborations signed in LAW@CDC 2023. One is between the Community Development Councils (CDCs) and Law Society Pro Bono Services (LSPBS), now known as Pro Bono Singapore (PBSG) to renew their partnership on the Community Legal Pro Bono Services Network (Community Legal Clinics) for the fourth time. 
 
-The other MOU involves CDCs, LSPBS, three Institutes of Higher Learning (National University of Singapore, Singapore Management University, and Singapore University of Social Sciences) and the Singapore Counsel Association (SCCA), on Law Awareness Weeks@CDC.
+The other MOU involves CDCs, PBSG, three Institutes of Higher Learning (National University of Singapore, Singapore Management University, and Singapore University of Social Sciences) the Singapore Counsel Association (SCCA),and new this year, the Singapore Association of Social Workers (SASW) to enhance cross-agency collaboration between these agencies. 
 
 <style>
  .youtubecontainer {
