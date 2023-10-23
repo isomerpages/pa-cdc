@@ -6,7 +6,7 @@ description: ""
 #### Scroll down to view past CDC Annual Reports
 
 FY2022
-[![CDC ANNUAL REPORT COVER IMAGE](/images/website%20icon%20for%20annual%20report22.png)](https://go.gov.sg/cdcar-2021)![](/images/website%20icon%20for%20an
+[![CDC ANNUAL REPORT COVER IMAGE](/images/website%20icon%20for%20annual%20report22.png)](https://go.gov.sg/cdcar-2021)
 FY2021
 [![CDC ANNUAL REPORT COVER IMAGE](/images/CDC%20AR%202021.png)](https://go.gov.sg/cdcar-2021)
 FY2020
