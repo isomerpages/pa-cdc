@@ -5,6 +5,10 @@ description: ""
 ---
 ### 2023
 
+Speech by Mr Fahmi Aliman, Mayor of South East District at the Launch of Law Awareness Weeks @ CDC 2023 [(Read here)](/files/delivered%20speech%20for%20mayor%20fahmi%202023%20checked.pdf)
+
+Speech by Mr Gregory Vijayendran, SC, Chairman of Pro Bono SG at the Launch of Law Awareness Weeks @ CDC 2023 [(Read here)](/files/delivered%20speech%20for%20mayor%20fahmi%202023%20checked.pdf)[](/files/speech%20by%20chairman%20pbsg%20_lawcdc%202023.pdf)
+
 Speech by Mayor Low Yen Ling at the Launch of CDC Vouchers Scheme 2023 [(Read here)](/files/Speech%20by%20Mayor%20Low%20Yen%20Ling%20at%20the%20Launch%20of%20CDC%20Vouchers%20Scheme%202023_3%20Jan%20(002).pdf)
 
 ### 2022
@@ -39,6 +43,8 @@ Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of South We
 
 Remarks by Deputy Prime Minister , Coordinating Minister for Economic Policies and Minister for Finance Heng Swee Keat at the Launch of the Ngee Ann Kongsi (NAK) – CDC COVID-19 Relief Fund [(Read here)](/files/delivered-remarks-by-dpm-for-nak-cdc-covid19-relief-fund-final.pdf)
 
+Speech by Mr Edwin Tong, Minister for Culture, Community and Youth & Second Minister for Law at the Launch of Law Awareness Weeks @ CDC 2020 [(Read here)][](/files/2m%20speech%20-%20laws%202020%20.pdf)
+
 Opening Address by Mr Lawrence Wong, Minister for Education, at Virtual Skillsfuture Advice Memorandum of Understanding Signing Ceremony & SkillsFuture@CDC Dialogue Session, 25 September 2020 [(Read here)](/files/sfa@cdc---minlw-speech.pdf)
 
 Speech by Prime Minister Lee Hsien Loong at the Swearing-in Ceremony of Mayors on Wednesday, 23 September 2020, at the People’s Association Auditorium[(Read here)](/files/pmo-\_-pm-lee-hsien-loong-at-the-swearing-in-ceremony-of-mayors-(sept-2020).pdf)
@@ -46,6 +52,8 @@ Speech by Prime Minister Lee Hsien Loong at the Swearing-in Ceremony of Mayors o
 ### 2019
 
 Speech by Ms Low Yen Ling, Mayor of South West District at the Launch of Law Awareness Weeks (LAW) @ CDC 2019 on Wednesday, 4 September 2019 at Keat Hong Community Club [(Read here)](/files/speech-by-chairman-mayor-low-yen-ling-at-law-@-cdc-2019.pdf)
+
+Speech by Mr Edwin Tong, Senior Minister of State for Law and Health, at the Launch of Law Awareness Weeks @ CDC 2019 on Wednesday, 4 September 2019 at Keat Hong Community Club [(Read here)](//files/goh%20speech%20-%20law%20awareness%20weeks%20cdc%202019%20.pdf)
 
 Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of South West District for WeCare Arts Exhibition @ CDC 2019 on Thursday, 19 September 2019 at Wisma Geylang Serai [(Read here)](/files/speech-by-chairman-mayor-low-yen-ling-at-wecare-af-exhibition-2019.pdf)
 
