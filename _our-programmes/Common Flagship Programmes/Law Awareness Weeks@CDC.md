@@ -4,7 +4,7 @@ permalink: /our-programmes/law-awareness-weeks/
 description: ""
 third_nav_title: Common Flagship Programmes
 ---
-![law awareness weeks](/images/Common%20Flagship%20Progs/law%20awareness%20weeks.png)
+![group photo](/images/photo%202.JPG)
 
 LAW@CDC first started in providing basic legal education to residents through legal talks held at Community Centres/Clubs (CCs) and Residents’ Committee (RC) Centres in the five districts. These talks are tailored for those without legal training by simplifying legal jargon for easy comprehension.
 
