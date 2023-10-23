@@ -5,6 +5,9 @@ description: ""
 ---
 ### 2023 
 
+<strong>21 Oct 2023</strong><br>
+A Collaborative Approach to Enhance Legal, Community and Social Care at Launch of LAW@CDC 2023 [(Media Release)](/files/final%20media%20release%20-%20lawcdc%202023%20.pdf)
+
 <strong>3 Jan 2023</strong><br>
 All Singaporean households to receive support in 2023  with $300 worth of CDC vouchers [(Media Release)](/files/Press%20Releases/All%20Singaporean%20households%20to%20receive%20support%20in%202023%20%20with%20$300%20worth%20of%20CDC%20vouchers%20.pdf)
 
