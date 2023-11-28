@@ -11,6 +11,8 @@ Speech by Mayor Low Yen Ling at the CDC Vouchers Donation Scheme Networking Lunc
 
 Speech by Minister Edwin Tong at the CDC Vouchers Donation Scheme Networking Luncheon with Charity Organisations [(Read here)](/files/Final_Delivered_Speech_by_Min_Edwin_for_CDCV_Donation_and_Charities_Networking_Luncheon.pdf))
 
+Speech by Minister Edwin Tong at the Launch of Law Awareness Weeks @ CDC 2023 [(Read here)](/files/FINAL_Speech_for_Min_Edwin_for_LAWCDC_2023.pdf)
+
 Speech by Mr Fahmi Aliman, Mayor of South East District at the Launch of Law Awareness Weeks @ CDC 2023 [(Read here)](/files/delivered%20speech%20for%20mayor%20fahmi%202023%20checked.pdf)
 
 Speech by Mr Gregory Vijayendran, SC, Chairman of Pro Bono SG at the Launch of Law Awareness Weeks @ CDC 2023 [(Read here)](/files/delivered%20speech%20for%20mayor%20fahmi%202023%20checked.pdf)[](/files/speech%20by%20chairman%20pbsg%20_lawcdc%202023.pdf)
