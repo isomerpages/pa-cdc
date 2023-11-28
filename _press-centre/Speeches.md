@@ -2,8 +2,14 @@
 title: Speeches
 permalink: /who-we-are/press-centre/speeches/
 description: ""
+variant: markdown
 ---
 ### 2023
+
+
+Speech by Mayor Low Yen Ling at the CDC Vouchers Donation Scheme Networking Luncheon with Charity Organisations [(Read here)](/files/Final_Speech_Delieverd_by_Mayor_Low_Yen_Ling___CDCV_Donation_and_Luncheon_with_Charities_27_Nov_23.pdf)
+
+Speech by Minister Edwin Tong at the CDC Vouchers Donation Scheme Networking Luncheon with Charity Organisations [(Read here)](/files/Final_Delivered_Speech_by_Min_Edwin_for_CDCV_Donation_and_Charities_Networking_Luncheon.pdf))
 
 Speech by Mr Fahmi Aliman, Mayor of South East District at the Launch of Law Awareness Weeks @ CDC 2023 [(Read here)](/files/delivered%20speech%20for%20mayor%20fahmi%202023%20checked.pdf)
 
