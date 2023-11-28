@@ -2,8 +2,12 @@
 title: Media Releases
 permalink: /who-we-are/press-centre/media-releases/
 description: ""
+variant: markdown
 ---
 ### 2023 
+
+<strong>27 Nov 2023</strong><br>
+Building Caring and Inclusive Communities Through CDC Vouchers Donation Scheme [(Media Release)](/files/FINAL__Media_Release_CDCV_Donation_Scheme_2023.pdf)
 
 <strong>21 Oct 2023</strong><br>
 A Collaborative Approach to Enhance Legal, Community and Social Care at Launch of LAW@CDC 2023 [(Media Release)](/files/final%20media%20release%20-%20lawcdc%202023%20.pdf)

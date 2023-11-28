@@ -1,8 +1,9 @@
 ---
 title: Our Mayors
 permalink: /who-we-are/our-mayors/
-description: ""
+description: Details on Mayors
 third_nav_title: Office Of The Mayors
+variant: tiptap
 ---
 ## The Office of the Mayors
 <table border="0" style="border: none;">
