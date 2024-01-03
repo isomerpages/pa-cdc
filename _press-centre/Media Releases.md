@@ -4,6 +4,12 @@ permalink: /who-we-are/press-centre/media-releases/
 description: ""
 variant: markdown
 ---
+### 2024 
+
+<strong>3 Jan 2024</strong><br>
+All Singaporean households to get $500 worth of CDC Vouchers [(Media Release)](/files/_Updated__Media_Release_and_Quotes_for_Launch_of_CDC_Vouchers_2024__3_Jan_12_15pm__docx.pdf)
+
+
 ### 2023 
 
 <strong>27 Nov 2023</strong><br>
