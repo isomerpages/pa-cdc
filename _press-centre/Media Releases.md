@@ -7,7 +7,7 @@ variant: markdown
 ### 2024 
 
 <strong>3 Jan 2024</strong><br>
-All Singaporean households to get $500 worth of CDC Vouchers [(Media Release)](/files/Updated_Media_Release_and_Quotes_for_Launch_of_CDC_Vouchers_2024__3_Jan_12_15pm_.pdf)
+All Singaporean households to get $500 worth of CDC Vouchers [(Media Release)](/files/Updated_Media_Release_and_Quotes_for_Launch_of_CDC_Vouchers_2024__8_Jan_.pdf)
 
 
 ### 2023 
