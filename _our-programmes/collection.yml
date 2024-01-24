@@ -1,0 +1,24 @@
+collections:
+  our-programmes:
+    output: true
+    order:
+      - Common Flagship Programmes/Overview.md
+      - Common Flagship Programmes/.keep
+      - Common Flagship Programmes/CDC Vouchers Scheme.md
+      - Common Flagship Programmes/Community Legal Clinics@CDC.md
+      - Common Flagship Programmes/Law Awareness Weeks@CDC.md
+      - Common Flagship Programmes/Maybank Family Fund@CDC.md
+      - Common Flagship Programmes/National Integration Council CDC Corporate
+        Social Integration Fund.md
+      - Common Flagship Programmes/SkillsFuture Festival@CDC.md
+      - Common Flagship Programmes/SkillsFuture Advice@CDC.md
+      - Common Flagship Programmes/SME Centres@CDC.md
+      - Common Flagship Programmes/WeCare Arts Fund@CDC.md
+      - Gallery/2023.md
+      - Gallery/.keep
+      - Gallery/2022.md
+      - Gallery/2021.md
+      - Gallery/2020.md
+      - Gallery/2019.md
+      - Gallery/2018.md
+      - Getting Help.md

@@ -1,0 +1,12 @@
+logo: /images/cdc-logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Our Programmes
+    collection: our-programmes
+  - title: Engage With Us
+    collection: engage-with-us
+  - title: Press Centre
+    collection: press-centre
+  - title: Get in Touch
+    collection: contact-us
