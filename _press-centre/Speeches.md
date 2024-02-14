@@ -4,6 +4,11 @@ permalink: /who-we-are/press-centre/speeches/
 description: ""
 variant: markdown
 ---
+### 2024
+
+
+Speech by Mayor Low Yen Ling at the Launch of CDC Vouchers Scheme 2024 [(Read here)](/files/CDC_Vouchers_Scheme_2024_Launch___Mayor_Low_Speech.pdf)
+
 ### 2023
 
 
