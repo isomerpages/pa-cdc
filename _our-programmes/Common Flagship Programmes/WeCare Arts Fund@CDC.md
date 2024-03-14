@@ -3,25 +3,84 @@ title: WeCare Arts Fund@CDC
 permalink: /our-programmes/wecare-arts-fund/
 description: ""
 third_nav_title: Common Flagship Programmes
+variant: tiptap
 ---
-![we care arts fund exhibition experiences](/images/Common%20Flagship%20Progs/wecare%20arts%20fund.png)
-
-The WeCare Arts Fund@CDC is a grant scheme that is a collaborative effort between the Community Development Councils (CDCs) and the National Arts Council (NAC). Its primary objective is to provide support to Social Service Agencies (SSAs) and Self-Help Groups (SHGs) by engaging their beneficiaries in artistic activities.
-
-On 4 September 2017, the partnership between the CDCs and the NAC was renewed, with a commitment to allocate $1 million towards the WeCare Arts Fund over the next two years. The fund is designed to facilitate programmes that promote inclusivity in the arts and help individuals from disadvantaged and underserved communities build self-confidence.  
-  
-<u>Activities supported by the Fund</u>
-  
-The fund supports project costs that involve artists working directly with SSAs/SHGs and their beneficiaries through the Performing, Visual, Literary and Multi-Disciplinary arts.  
-  
-<u>Who is the Fund for? </u>
-  
-The fund is open to all SSAs/SHGs that are keen to work with artists / arts groups to bring arts to their beneficiaries. SSAs must be a member of the National Council of Social Service (NCSS). Artists may approach SSAs directly in order to submit an application for the Fund.  
-  
-[Download](https://www-cdc-gov-sg-admin.cwp.sg/docs/default-source/cdc-documents/download/wecare-arts-fund---overview-and-guidelines.pdf)&nbsp;the Guide and Application Form.  
-  
-<i>*With effect from January 2020, interested SSAs can submit their application online via the&nbsp;**OurSG Grant Portal**&nbsp;([https://oursggrants.gov.sg](https://oursggrants.gov.sg/)) for a more seamless grant application process using CorpPass.&nbsp;</i>  
-  
-For further enquiries, you may contact the CDCs officer in your district to find out more about the fund:
-
-<table width="612" cellspacing="0" cellpadding="0" border="0" style="box-sizing: inherit; margin: 0px; padding: 0px; border-collapse: collapse; border-spacing: 0px; background-color: rgb(250, 250, 250); color: rgb(0, 0, 0); font-family: montserrat-light; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: inherit; margin: 0px; padding: 0px;"><tr style="box-sizing: inherit; margin: 0px; padding: 0px;"><td valign="top" style="box-sizing: inherit; margin: 0px; padding: 5px 10px 5px 5px; border: 1px solid rgb(232, 232, 232); width: 267px;"><p style="box-sizing: inherit; margin: 0px 0px 10px; padding: 0px;">Central Singapore CDC</p></td><td valign="top" style="box-sizing: inherit; margin: 0px; padding: 5px 10px 5px 5px; border: 1px solid rgb(232, 232, 232); width: 345px;"><p style="box-sizing: inherit; margin: 0px 0px 10px; padding: 0px;">Pang Wen Hao -<span>&nbsp;</span><a href="mailto:PANG_Wen_Hao@pa.gov.sg" style="box-sizing: inherit; margin: 0px; padding: 0px; background-color: transparent; color: rgb(0, 0, 0); text-decoration: none; transition: all 0.3s ease 0s;">PANG_Wen_Hao@pa.gov.sg</a><br style="box-sizing: inherit; margin: 0px; padding: 0px;">Wee Peng Yu -<span>&nbsp;</span><a href="mailto:WEE_Peng_Yu@pa.gov.sg" style="box-sizing: inherit; margin: 0px; padding: 0px; background-color: transparent; color: rgb(0, 0, 0); text-decoration: none; transition: all 0.3s ease 0s;">WEE_Peng_Yu@pa.gov.sg</a>&nbsp;</p></td></tr><tr style="box-sizing: inherit; margin: 0px; padding: 0px;"><td valign="top" style="box-sizing: inherit; margin: 0px; padding: 5px 10px 5px 5px; border: 1px solid rgb(232, 232, 232); width: 267px;"><p style="box-sizing: inherit; margin: 0px 0px 10px; padding: 0px;">North East CDC</p></td><td valign="top" style="box-sizing: inherit; margin: 0px; padding: 5px 10px 5px 5px; border: 1px solid rgb(232, 232, 232); width: 345px;"><p style="box-sizing: inherit; margin: 0px 0px 10px; padding: 0px;">Edna Phua&nbsp; -<span>&nbsp;</span><a href="mailto:Edna_PHUA@pa.gov.sg" style="box-sizing: inherit; margin: 0px; padding: 0px; background-color: transparent; color: rgb(0, 0, 0); text-decoration: none; transition: all 0.3s ease 0s;">Edna_PHUA@pa.gov.sg</a><br style="box-sizing: inherit; margin: 0px; padding: 0px;">Kenneth Tan -&nbsp;<span>&nbsp;</span><a href="mailto:Kenneth_ZX_TAN@pa.gov.sg" style="box-sizing: inherit; margin: 0px; padding: 0px; background-color: transparent; color: rgb(0, 0, 0); text-decoration: none; transition: all 0.3s ease 0s;">Kenneth_ZX_TAN@pa.gov.sg</a>&nbsp;</p></td></tr><tr style="box-sizing: inherit; margin: 0px; padding: 0px;"><td valign="top" style="box-sizing: inherit; margin: 0px; padding: 5px 10px 5px 5px; border: 1px solid rgb(232, 232, 232); width: 267px;"><p style="box-sizing: inherit; margin: 0px 0px 10px; padding: 0px;">North West CDC</p></td><td valign="top" style="box-sizing: inherit; margin: 0px; padding: 5px 10px 5px 5px; border: 1px solid rgb(232, 232, 232); width: 345px;"><p style="box-sizing: inherit; margin: 0px 0px 10px; padding: 0px;"><br style="box-sizing: inherit; margin: 0px; padding: 0px;">Brandon Oh -<span>&nbsp;</span><a href="mailto:Brandon_OH@pa.gov.sg" style="box-sizing: inherit; margin: 0px; padding: 0px; background-color: transparent; color: rgb(0, 0, 0); text-decoration: none; transition: all 0.3s ease 0s;">Brandon_OH@pa.gov.sg</a>&nbsp;</p></td></tr><tr style="box-sizing: inherit; margin: 0px; padding: 0px;"><td valign="top" style="box-sizing: inherit; margin: 0px; padding: 5px 10px 5px 5px; border: 1px solid rgb(232, 232, 232); width: 267px;"><p style="box-sizing: inherit; margin: 0px 0px 10px; padding: 0px;">South East CDC</p></td><td valign="top" style="box-sizing: inherit; margin: 0px; padding: 5px 10px 5px 5px; border: 1px solid rgb(232, 232, 232); width: 345px;"><p style="box-sizing: inherit; margin: 0px 0px 10px; padding: 0px;">Kenneth Poh&nbsp;-&nbsp;<a href="mailto:Kenneth_POH@pa.gov.sg" style="box-sizing: inherit; margin: 0px; padding: 0px; background-color: transparent; color: rgb(0, 0, 0); text-decoration: none; transition: all 0.3s ease 0s;"><span style="box-sizing: inherit; margin: 0px; padding: 0px; text-decoration: underline;">Kenneth_POH@pa.gov.sg</span></a><br style="box-sizing: inherit; margin: 0px; padding: 0px;">Soh Chye Horng -&nbsp;<a href="mailto:SOH_Chye_Horng@pa.gov.sg" style="box-sizing: inherit; margin: 0px; padding: 0px; background-color: transparent; color: rgb(0, 0, 0); text-decoration: none; transition: all 0.3s ease 0s;"><span style="box-sizing: inherit; margin: 0px; padding: 0px; text-decoration: underline;">SOH_Chye_Horng@pa.gov.sg</span></a>&nbsp;</p></td></tr><tr style="box-sizing: inherit; margin: 0px; padding: 0px;"><td valign="top" style="box-sizing: inherit; margin: 0px; padding: 5px 10px 5px 5px; border: 1px solid rgb(232, 232, 232); width: 267px;"><p style="box-sizing: inherit; margin: 0px 0px 10px; padding: 0px;">South West CDC</p></td><td valign="top" style="box-sizing: inherit; margin: 0px; padding: 5px 10px 5px 5px; border: 1px solid rgb(232, 232, 232); width: 345px;"><div style="box-sizing: inherit; margin: 0px; padding: 0px;"><p style="box-sizing: inherit; margin: 0px 0px 10px; padding: 0px;">Teng Jia Hui -<span>&nbsp;</span><a href="mailto:TENG_Jia_Hui@pa.gov.sg" style="box-sizing: inherit; margin: 0px; padding: 0px; background-color: transparent; color: rgb(0, 0, 0); text-decoration: none; transition: all 0.3s ease 0s;">TENG_Jia_Hui@pa.gov.sg&nbsp;</a><br style="box-sizing: inherit; margin: 0px; padding: 0px;">&nbsp;</p></div></td></tr></tbody></table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="we care arts fund exhibition experiences" src="/images/Common%20Flagship%20Progs/wecare%20arts%20fund.png">
+</div>
+<p>The WeCare Arts Fund@CDC is a grant scheme that is a collaborative effort
+between the Community Development Councils (CDCs) and the National Arts
+Council (NAC). Its primary objective is to provide support to Social Service
+Agencies (SSAs) and Self-Help Groups (SHGs) by engaging their beneficiaries
+in artistic activities.</p>
+<p>On 4 September 2017, the partnership between the CDCs and the NAC was
+renewed, with a commitment to allocate $1 million towards the WeCare Arts
+Fund over the next two years. The fund is designed to facilitate programmes
+that promote inclusivity in the arts and help individuals from disadvantaged
+and underserved communities build self-confidence.</p>
+<p><u>Activities supported by the Fund</u>
+</p>
+<p>The fund supports project costs that involve artists working directly
+with SSAs/SHGs and their beneficiaries through the Performing, Visual,
+Literary and Multi-Disciplinary arts.</p>
+<p><u>Who is the Fund for?</u>
+</p>
+<p>The fund is open to all SSAs/SHGs that are keen to work with artists /
+arts groups to bring arts to their beneficiaries. SSAs must be a member
+of the National Council of Social Service (NCSS). Artists may approach
+SSAs directly in order to submit an application for the Fund.</p>
+<p><a href="/files/wecare_arts_fund___overview_and_guidelines__3_april_2023_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>&nbsp;the
+Guide and Application Form.</p>
+<p><em>*With effect from January 2020, interested SSAs can submit their application online via the&nbsp;</em><strong><em>OurSG Grant Portal</em></strong><em>&nbsp;(<a href="https://oursggrants.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://oursggrants.gov.sg</a>) for a more seamless grant application process using CorpPass.&nbsp;</em>
+</p>
+<p>For further enquiries, you may contact the CDCs officer in your district
+to find out more about the fund:</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Central Singapore CDC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pang Wen Hao -&nbsp;<a href="mailto:PANG_Wen_Hao@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PANG_Wen_Hao@pa.gov.sg</a> 
+<br>Wee Peng Yu -&nbsp;<a href="mailto:WEE_Peng_Yu@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">WEE_Peng_Yu@pa.gov.sg</a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>North East CDC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Edna Phua&nbsp; -&nbsp;<a href="mailto:Edna_PHUA@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Edna_PHUA@pa.gov.sg</a> 
+<br>Kenneth Tan -&nbsp;&nbsp;<a href="mailto:Kenneth_ZX_TAN@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kenneth_ZX_TAN@pa.gov.sg</a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>North West CDC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brandon Oh -&nbsp;<a href="mailto:Brandon_OH@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Brandon_OH@pa.gov.sg</a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>South East CDC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kenneth Poh&nbsp;-&nbsp;<a href="mailto:Kenneth_POH@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kenneth_POH@pa.gov.sg</a> 
+<br>Soh Chye Horng -&nbsp;<a href="mailto:SOH_Chye_Horng@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">SOH_Chye_Horng@pa.gov.sg</a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>South West CDC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ellie Poh - <a href="mailto:poh_ying_ting@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_ying_ting@pa.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

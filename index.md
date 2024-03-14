@@ -19,8 +19,6 @@ sections:
         - title: WeCare Arts Fund / Wecare Arts Experiences
           description: How to apply
           url: /our-programmes/wecare-arts-fund
-      title: Community Development Council
-      subtitle: Aggregate.Build.Connect.
   - infopic:
       title: About the CDC
       description: The Community Development Council (CDC) was established under the
