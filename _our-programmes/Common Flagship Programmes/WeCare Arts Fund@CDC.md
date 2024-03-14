@@ -42,7 +42,7 @@ to find out more about the fund:</p>
 <p>Central Singapore CDC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pang Wen Hao -&nbsp;<a href="mailto:PANG_Wen_Hao@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PANG_Wen_Hao@pa.gov.sg</a>
+<p>Pang Wen Hao -&nbsp;<a href="mailto:PANG_Wen_Hao@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PANG_Wen_Hao@pa.gov.sg</a> 
 <br>Wee Peng Yu -&nbsp;<a href="mailto:WEE_Peng_Yu@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">WEE_Peng_Yu@pa.gov.sg</a>&nbsp;</p>
 </td>
 </tr>
@@ -51,7 +51,7 @@ to find out more about the fund:</p>
 <p>North East CDC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Edna Phua&nbsp; -&nbsp;<a href="mailto:Edna_PHUA@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Edna_PHUA@pa.gov.sg</a>
+<p>Edna Phua&nbsp; -&nbsp;<a href="mailto:Edna_PHUA@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Edna_PHUA@pa.gov.sg</a> 
 <br>Kenneth Tan -&nbsp;&nbsp;<a href="mailto:Kenneth_ZX_TAN@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kenneth_ZX_TAN@pa.gov.sg</a>&nbsp;</p>
 </td>
 </tr>
@@ -68,7 +68,7 @@ to find out more about the fund:</p>
 <p>South East CDC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kenneth Poh&nbsp;-&nbsp;<a href="mailto:Kenneth_POH@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kenneth_POH@pa.gov.sg</a>
+<p>Kenneth Poh&nbsp;-&nbsp;<a href="mailto:Kenneth_POH@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kenneth_POH@pa.gov.sg</a> 
 <br>Soh Chye Horng -&nbsp;<a href="mailto:SOH_Chye_Horng@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">SOH_Chye_Horng@pa.gov.sg</a>&nbsp;</p>
 </td>
 </tr>
