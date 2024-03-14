@@ -3,6 +3,7 @@ title: WeCare Arts Fund@CDC
 permalink: /our-programmes/wecare-arts-fund/
 description: ""
 third_nav_title: Common Flagship Programmes
+variant: markdown
 ---
 ![we care arts fund exhibition experiences](/images/Common%20Flagship%20Progs/wecare%20arts%20fund.png)
 
@@ -18,7 +19,7 @@ The fund supports project costs that involve artists working directly with SSAs/
   
 The fund is open to all SSAs/SHGs that are keen to work with artists / arts groups to bring arts to their beneficiaries. SSAs must be a member of the National Council of Social Service (NCSS). Artists may approach SSAs directly in order to submit an application for the Fund.  
   
-[Download](https://www-cdc-gov-sg-admin.cwp.sg/docs/default-source/cdc-documents/download/wecare-arts-fund---overview-and-guidelines.pdf)&nbsp;the Guide and Application Form.  
+[Download](/files/wecare_arts_fund___overview_and_guidelines__3_april_2023_.pdf)&nbsp;the Guide and Application Form. 
   
 <i>*With effect from January 2020, interested SSAs can submit their application online via the&nbsp;**OurSG Grant Portal**&nbsp;([https://oursggrants.gov.sg](https://oursggrants.gov.sg/)) for a more seamless grant application process using CorpPass.&nbsp;</i>  
   
