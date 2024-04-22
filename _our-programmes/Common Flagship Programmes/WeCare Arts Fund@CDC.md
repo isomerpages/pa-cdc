@@ -78,7 +78,7 @@ to find out more about the fund:</p>
 <p>South West CDC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Choong Yuen Theng - <a href="mailto:CHOONG_yuen_theng@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHOONG_yuen_theng@pa.gov.sg</a>
+<p>Choong Yuen Theng - <a href="mailto:CHOONG_yuen_theng@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHOONG_yuen_theng@pa.gov.sg</a> 
 <br>Iris Ng - <a href="mailto:Iris_Wl_NG@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Iris_Wl_NG@pa.gov.sg</a>
 </p>
 </td>
