@@ -3,6 +3,7 @@ title: Mission, Vision & Strategic Direction
 permalink: /who-we-are/mission/
 description: ""
 third_nav_title: CDC Corporate Profile
+variant: markdown
 ---
 The Community Development Councils (CDCs) were established under the [People's Association](https://www.pa.gov.sg/) Act in 1997. Since then, the CDCs have been bridging communities (i.e. by strengthening local social infrastructure, building social resilience and social capital, and promoting the culture of giving back), through the following functions:
 
@@ -29,8 +30,5 @@ The Community Development Councils (CDCs) were established under the [People's A
 # Strategic Direction
 
 
-| | |
-| -------- | -------- |  
-| <strong>Strengthen Social Infrastructure </strong>| - To strengthen social support through local assistance schemes &amp; social programmes <br>- To promote social mobility <br>- To encourage self help |
-| <strong>Build Social Resilience and Social Capital</strong>| - To strengthen community bonds <br>- To encourage active citizenry |
-| <strong>Promote Culture of Giving Back</strong>|  - To engender community and corporate ownership through volunteerism &amp; Corporate Social Responsibility by adopting local causes, and partnering corporate, Grassroots Organisations, schools, Voluntary Welfare Organisations and community partners |
+
+| <strong>Caring Communities </strong>| <strong>Healthy Communities</strong> |<strong>Inclusive Communities </strong>| <strong>Learning Communities </strong>| <strong>Sustainable Communities </strong>|
