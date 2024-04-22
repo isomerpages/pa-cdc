@@ -30,5 +30,4 @@ The Community Development Councils (CDCs) were established under the [People's A
 # Strategic Direction
 
 
-
-| <strong>Caring Communities </strong>| <strong>Healthy Communities</strong> |<strong>Inclusive Communities </strong>| <strong>Learning Communities </strong>| <strong>Sustainable Communities </strong>|
+![](/images/Five_Community_Pillars.png)
