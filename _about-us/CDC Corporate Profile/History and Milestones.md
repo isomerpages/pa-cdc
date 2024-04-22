@@ -3,6 +3,7 @@ title: History and Milestones
 permalink: /who-we-are/history/
 description: ""
 third_nav_title: CDC Corporate Profile
+variant: markdown
 ---
 # History
 
@@ -22,7 +23,7 @@ third_nav_title: CDC Corporate Profile
 }
 </style>
 	
-#### Over 20 Years of Community Development
+#### Over 25 Years of Community Development
 
 <div class="youtubecontainer">
 <iframe class="youtubevideo" src="https://www.youtube.com/embed/nw2Pqwgs7Xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
@@ -34,15 +35,15 @@ In 2001, the nine CDCs formed were reorganised into the current five we have tod
 The CDCs aim to encourage the more able and successful to come forward to help the less successful, and to foster greater sense of community ownership and self-help among the residents.
 
 
-# CDCs Milestones
+# CDCs Key Milestones
 <table border="0" style="border: none;">
         <tbody>
           <tr style="border: none;">
-                <td colspan="2" style="border-bottom: none;"><b>2021 - 2023 -  CDC Vouchers Scheme</b></td>
+                <td colspan="2" style="border-bottom: none;"><b>2021 - 2024 -  Nationwide Digital CDC Vouchers Scheme</b></td>
             </tr>
             <tr style="border: none;">
                 <td width="161px" style="border-top: none;"><img src="/images/PA-CDC-2023-Hero-Image.png" style="width:160px; float:left;right-margin:20px;"></td>
-                <td style="border-top: none;">The CDC Vouchers Scheme (digital) was first launched in Dec 2021 to thank Singaporeans for their sense of solidarity during the COVID-19 pandemic and to support local businesses at HDB estates/ heartland enterprises and hawkers.  Two other tranches were launched in May 2022 and Jan 2023 to help Singaporean households in daily expenses as well as to continue our support to heartland businesses.  Each Singaporean household received $100 each for CDC Vouchers 2021 and 2022, and $300 each for CDC Vouchers 2023.</td>
+                <td style="border-top: none;">The CDC Vouchers Scheme (digital) was first launched in Dec 2021 to thank Singaporeans for their sense of solidarity during the COVID-19 pandemic and to support local businesses at HDB estates/ heartland enterprises and hawkers. Each Singaporean household received $100 CDC Vouchers in 2021.  <br><br> Another tranche was launched in May 2022 to help Singaporean households in daily expenses as well as to continue our support to heartland businesses.  Each Singaporean household received $100 CDC Vouchers 2022. <br><br>From Jan 2023, participating supermarkets onboarded the scheme to provide Singaporean households with greater convenience and choice for their daily essentials. Every Singaporean household received $300 CDC Vouchers 2023 and another $500 CDC Vouchers in Jan 2024.<p></p></td>
             </tr>  
 					<tr style="border: none;">
                 <td colspan="2" style="border-bottom: none;"><b>2020 - Ngee Ann Kongsi (NAK) – CDC COVID-19 Relief Fund (COVID Relief Fund)</b></td>
@@ -70,7 +71,7 @@ The CDCs aim to encourage the more able and successful to come forward to help t
             </tr>
             <tr style="border: none;">
                 <td width="161px" style="border-top: none;"><img src="/images/Timeline/2020%20-%20cdc%20vouchers%20scheme.png" style="width:160px; float:left;right-padding:20px;"></td>
-                <td style="border-top: none;">The CDCs launched the CDC Vouchers Scheme to help Singaporean households to defray the cost of living and at the same time, support participating merchants and local hawkers at HDB estates / heartlands during COVID-19 situation.</td>
+                <td style="border-top: none;">The CDCs launched the CDC Vouchers Scheme to help identified lower-income Singaporean households to defray the cost of living and at the same time, support participating merchants and local hawkers at HDB estates / heartlands during COVID-19 situation.</td>
  					  </tr>
 					 <tr style="border: none;">
                 <td colspan="2" style="border-bottom: none;"><b>2020 - CDC Student Meals Scheme</b></td>
