@@ -23,6 +23,5 @@ The Community Development Councils (CDCs) were established under the [People's A
 | ![SWCDC](/images/CDC%20Logos/sw_cdc_logo_fa-1-(1).png) | Owning your community     |
 
 # Strategic Direction
-
-
+Over the next three years, the CDCs will roll out a slew of new and ongoing common flagship programmes under these five community pillars as part of this new strategic direction.
 ![](/images/Five_Community_Pillars.png)
