@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="we care arts fund exhibition experiences" src="/images/Common%20Flagship%20Progs/wecare%20arts%20fund.png">
 </div>
-<p>The WeCare Arts Fund@CDC is a grant scheme that is a collaborative effort
+<p>cThe WeCare Arts Fund@CDC is a grant scheme that is a collaborative effort
 between the Community Development Councils (CDCs) and the National Arts
 Council (NAC). Its primary objective is to provide support to Social Service
 Agencies (SSAs) and Self-Help Groups (SHGs) by engaging their beneficiaries
@@ -51,8 +51,7 @@ to find out more about the fund:</p>
 <p>North East CDC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Edna Phua&nbsp; -&nbsp;<a href="mailto:Edna_PHUA@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Edna_PHUA@pa.gov.sg</a> 
-<br>Kenneth Tan -&nbsp;&nbsp;<a href="mailto:Kenneth_ZX_TAN@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kenneth_ZX_TAN@pa.gov.sg</a>&nbsp;</p>
+<p>Kenneth Tan -&nbsp;&nbsp;<a href="mailto:Kenneth_ZX_TAN@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kenneth_ZX_TAN@pa.gov.sg</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -60,7 +59,9 @@ to find out more about the fund:</p>
 <p>North West CDC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Brandon Oh -&nbsp;<a href="mailto:Brandon_OH@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Brandon_OH@pa.gov.sg</a>&nbsp;</p>
+<p>Brandon Oh -&nbsp;<a href="mailto:Brandon_OH@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Brandon_OH@pa.gov.sg</a>&nbsp;
+<br>Goh Shan Jin - <a rel="noopener noreferrer nofollow" target="_blank">GOH_Shan_Jin@pa.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -77,7 +78,8 @@ to find out more about the fund:</p>
 <p>South West CDC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ellie Poh - <a href="mailto:poh_ying_ting@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_ying_ting@pa.gov.sg</a>
+<p>Choong Yuen Theng - <a href="mailto:CHOONG_yuen_theng@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHOONG_yuen_theng@pa.gov.sg</a> 
+<br>Iris Ng - <a href="mailto:Iris_Wl_NG@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Iris_Wl_NG@pa.gov.sg</a>
 </p>
 </td>
 </tr>
