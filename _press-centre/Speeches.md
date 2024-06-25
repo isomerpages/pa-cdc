@@ -6,6 +6,7 @@ variant: markdown
 ---
 ### 2024
 
+Speech by Mayor Low Yen Ling at the Launch of CDC Vouchers Scheme 2024 (June) [(Read here)](/files/Checked_Mayor_Low_Speech_for_Launch_of_CDC_Vouchers_Scheme__June____25_Jun_24.pdf)
 
 Speech by Mayor Low Yen Ling at the Launch of CDC Vouchers Scheme 2024 [(Read here)](/files/CDC_Vouchers_Scheme_2024_Launch___Mayor_Low_Speech.pdf)
 
