@@ -2,9 +2,9 @@ collections:
   our-programmes:
     output: true
     order:
+      - Common Flagship Programmes/.keep
       - Common Flagship Programmes/ArtsEverywhere@CDC.md
       - Common Flagship Programmes/Overview.md
-      - Common Flagship Programmes/.keep
       - Common Flagship Programmes/CDC Vouchers Scheme.md
       - Common Flagship Programmes/Community Legal Clinics@CDC.md
       - Common Flagship Programmes/Law Awareness Weeks@CDC.md
