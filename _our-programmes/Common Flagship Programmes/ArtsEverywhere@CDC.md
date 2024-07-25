@@ -12,7 +12,7 @@ ArtsEverywhere@CDC brings arts experiences to communities where they live, work 
 ArtsEverywhere@CDC is a collaboration between the National Arts Council, People's Association,&nbsp;and the five Community Development Councils, and is supported by the Ministry of Culture, Community and Youth, with _Catch_ (catch.sg) as the official arts and culture media partner.
 
 
-### Programme Line-up
+### Programme Calendar
 
 ##### August
 
