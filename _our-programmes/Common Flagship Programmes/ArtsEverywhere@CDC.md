@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: Common Flagship Programmes
 ---
-
 ![](/images/Launch_Isomer_Web_Banner.jpg)
 ### About ArtsEverywhere@CDC
 ArtsEverywhere@CDC brings arts experiences to communities where they live, work and play. Every month, members of the public can look forward to arts performances, workshops and activities around Singapore, and develop a greater appreciation for the arts through these shared experiences. This initiative is in line with our aspiration for _Our SG Arts Plan (2023 - 2027)_ to build *A Connected Society*, where our social connections and national identity are strengthened through the arts.
