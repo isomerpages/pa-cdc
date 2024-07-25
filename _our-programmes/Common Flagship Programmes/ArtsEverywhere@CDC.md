@@ -114,5 +114,28 @@ Venue: West Coast Gardens RN<br>
 Time: Fringe Activities (9.30 - 10.30am; 11.30am - 12.30pm), Performance (10.30 - 11.30am; 12.30 - 1.30pm)
 
 ##### November
+Saturday, 2 November<br>
+Programme: yIN Harmony (A Bird's Journey)<br>
+Venue: West Coast Peak RN<br>
+Time: Fringe Activities (5 - 6pm; 7 - 8pm), Performance (6 - 7pm; 8 - 9pm)
 
+Saturday, 9 November<br>
+Programme: NADI<br>
+Venue: Hardcourt beside Yew Tee MRT station<br>
+Time: Fringe Activities (5.30 - 6.30pm; 7.30 - 8.30pm), Performance (6.30 - 7.30pm; 8.30 - 9.30pm)
+
+Friday, 15 November<br>
+Programme: Ding Yi<br>
+Venue: Our Tampines Hub<br>
+Time: Fringe Activities (5 - 5.30pm; 6.30 - 7pm), Performance (5.30 - 6.30pm; 7 - 8pm)
+
+Saturday, 16 November<br>
+Programme: Ding Yi<br>
+Venue: Toa Payoh HDB Hub<br>
+Time: Fringe Activities (12 - 1pm; 2 - 3pm), Performance &amp; Meet-and-Greet(1 - 2pm; 3 - 4pm)
+
+Saturday, 23 November<br>
+Programme: Brahmastra<br>
+Venue: Braddell Heights Community Club<br>
+Time: Fringe Activities (10.30 - 11.30am; 12.30 - 1.30pm), Performance (11.30am - 12.30pm; 1.30 - 2.30pm)
 ##### December
