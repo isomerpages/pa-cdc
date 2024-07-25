@@ -83,32 +83,32 @@ Programme: NADI<br>
 Venue: Japanese &amp; Chinese Gardens<br>
 Time: Fringe Activities (5.30 - 6.30pm; 7.30 - 8.30pm), Performance (6.30 - 7.30pm; 8.30 - 9.30pm)
 ##### October
-Saturday, 5 October<br>
+**Saturday, 5 October**<br>
 Programme: Brahmastra<br>
 Venue: Hardcourt beside Yew Tee MRT station<br>
 Time: Fringe Activities (5.30 - 6.30pm; 7.30 - 8.30pm), Performance (6.30 - 7.30pm;8.30 - 9.30pm)
 
-Saturday, 5 October<br>
+**Saturday, 5 October**<br>
 Programme: Philwinds - PhilBrass<br>
 Venue: Toa Payoh HDB Hub<br>
 Time: Fringe Activities (12 - 1pm; 2 - 3pm), Performance &amp; Meet-and-Greet (1 - 2pm; 3 - 4pm)
 
-Sunday, 6 October<br>
+**Sunday, 6 October**<br>
 Programme: Brahmastra<br>
 Venue: West Coast Park RN<br>
 Time: Fringe Activities (9.30 - 10.30am; 11.30am - 12.30pm), Performance (10.30 - 11.30am; 12.30 - 1.30pm)
 
-Friday, 18 October<br>
+**Friday, 18 October**<br>
 Programme: NADI<br>
 Venue: Our Tampines Hub<br>
 Time: Fringe Activities (5 - 5.30pm; 6.30 - 7pm), Performance (5.30 - 6.30pm; 7 - 8pm)
 
-Saturday, 19 October<br>
+**Saturday, 19 October**<br>
 Programme: NADI<br>
 Venue: Braddel Heights Community Club<br>
 Time: Fringe Activities (10.30 - 11.30am; 12.30 - 1.30pm), Performance (11.30am - 12.30pm; 1.30 - 2.30pm)
 
-Sunday 20 October<br>
+**Sunday 20 October**<br>
 Programme: NADI<br>
 Venue: West Coast Gardens RN<br>
 Time: Fringe Activities (9.30 - 10.30am; 11.30am - 12.30pm), Performance (10.30 - 11.30am; 12.30 - 1.30pm)
