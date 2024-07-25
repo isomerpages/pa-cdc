@@ -48,7 +48,40 @@ Venue: Heartbeat@Bedok<br>
 Time: Fringe Activities (10.30 - 11.30am; 12.30 - 1.30pm), Performance (11.30am - 12.30pm), Performance &amp; Meet-and-Greet (1.30 - 2.30pm)
 
 ##### September
+Saturday, 7 September<br>
+Programme: The Purple Symphony<br>
+Venue: Toa Payoh HDB Hub<br>
+Time: Fringe Activities (12 - 1pm; 2 - 3pm), Performance &amp; Meet-and-Greet (1 - 2pm; 3 - 4pm)
 
+Saturday, 7 September<br>
+Programme: yIN Harmony<br>
+Venue: Hardcourt beside Yew Tee MRT station<br>
+Time: Fringe Activities (5.30 - 6.30pm; 7.30 - 8.30pm), Performance (6.30 - 7.30pm; 8.30 - 9.30pm)
+
+Saturday, 14 September<br>
+Programme: Phil Winds - PhilSax<br>
+Venue: Wisma Geylang Serai<br>
+Time: Fringe Activities (10.30 - 11.30am; 12.30 - 1.30pm), Performance (11.30am - 12.30pm; 1.30 - 2.30pm)
+
+Sunday, 15 September<br>
+Programme: Brahmastra<br>
+Venue: Japanese &amp; Chinese Gardens<br>
+Time: Fringe Activities (5.30 - 6.30pm; 7.30 - 8.30pm), Performance (6.30 - 7.30pm; 8.30 - 9.30pm)
+
+Friday, 20 September<br>
+Programme: Brahmastra<br>
+Venue: Our Tampines Hub<br>
+Time: Fringe Activities (5 - 5.30pm; 6.30 - 7pm), Performance (5.30 - 6.30pm; 7 - 8pm)
+
+Saturday, 21 September<br>
+Programme: Philwinds - PhilSax<br>
+Venue: Japanese &amp; Chinese Gardens<br>
+Time: Fringe Activities (5.30 - 6.30pm; 7.30 - 8.30pm), Performance (6.30 - 7.30pm; 8.30 - 9.30pm)
+
+Sunday, 22 September<br>
+Programme: NADI<br>
+Venue: Japanese &amp; Chinese Gardens<br>
+Time: Fringe Activities (5.30 - 6.30pm; 7.30 - 8.30pm), Performance (6.30 - 7.30pm; 8.30 - 9.30pm)
 ##### October
 
 ##### November
