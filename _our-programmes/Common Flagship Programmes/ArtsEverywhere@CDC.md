@@ -13,7 +13,7 @@ ArtsEverywhere@CDC is a collaboration between the National Arts Council, People'
 
 
 ### Programme Calendar
-
+*Updated as of 25 July*
 ##### August
 
 **Saturday, 3 August**<br>
