@@ -140,17 +140,17 @@ Venue: Braddell Heights Community Club<br>
 Time: Fringe Activities (10.30 - 11.30am; 12.30 - 1.30pm), Performance (11.30am - 12.30pm; 1.30 - 2.30pm)
 ##### December
 
-Saturday, 7 December<br>
+**Saturday, 7 December**<br>
 Programme: NADI <br>
 Venue: Kampung Admiralty<br>
 Time: Fringe Activities (4.30 - 5.30pm; 6.30 - 7.30pm), Performance (5.30 - 6.30pm; 7.30 - 8.30pm)
 
-Friday, 20 December<br>
+**Friday, 20 December**<br>
 Programme: Philwinds - Philwinds Outreach Ensemble <br>
 Venue: Our Tampines Hub<br>
 Time: Fringe Activities (5 - 5.30pm; 6.30 - 7pm), Performance (5.30 - 6.30pm; 7 - 8pm)
 
-Saturday, 28 December<br>
+**Saturday, 28 December**<br>
 Programme: yIN Harmony (A Bird's Journey) <br>
 Venue: Heartbeat@Bedok<br>
 Time: Fringe Activities (10.30 - 11.30am; 12.30 - 1.30pm), Performance (11.30am - 12.30pm; 1.30 - 2.30pm)
