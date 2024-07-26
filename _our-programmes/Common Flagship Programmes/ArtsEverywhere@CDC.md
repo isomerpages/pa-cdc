@@ -1,18 +1,17 @@
 ---
 title: ArtsEverywhere@CDC
 permalink: /artseverywhere-cdc/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Common Flagship Programmes
 ---
-<span id="ae_page_top"></span>
-<a href="#ae_page_about"><strong>About ArtsEverywhere@CDC</strong></a> | <a href="#ae_page_calendar"><strong>Calendar of Events</strong></a> | <a href="#ae_page_programme"><strong>Programme Information</strong></a>
+<p><strong><a href="#ae_page_about" rel="noopener noreferrer nofollow" target="_blank">About ArtsEverywhere@CDC</a></strong> | <strong><a href="#ae_page_calendar" rel="noopener noreferrer nofollow" target="_blank">Calendar of Events</a></strong> | <strong><a href="#ae_page_programme" rel="noopener noreferrer nofollow" target="_blank">Programme Information</a></strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NAC_corpsite_page__5_.png">
 </div>
-<span id="ae_page_about"></span>
-<h3>About ArtsEverywhere@CDC</h3>
+<p>About ArtsEverywhere@CDC</p>
 <p>ArtsEverywhere@CDC brings arts experiences to communities where they live,
 work and play. Every month, members of the public can look forward to arts
 performances, workshops and activities around Singapore, and develop a
@@ -25,7 +24,6 @@ People's Association,&nbsp;and the five Community Development Councils,
 and is supported by the Ministry of Culture, Community and Youth, with <em>Catch</em> (catch.sg)
 as the official arts and culture media partner.</p>
 <hr>
-<span id="ae_page_calendar"></span>
 <h3>Calendar of Events</h3>
 <p><em>Updated as of 25 July</em>
 </p>
@@ -146,9 +144,7 @@ as the official arts and culture media partner.</p>
 </div>
 </details>
 </div>
-
 <hr>
-<span id="ae_page_programme"></span>
 <h3>Programme Information</h3>
 <p></p>
 <table style="minWidth: 50px">
@@ -159,7 +155,7 @@ as the official arts and culture media partner.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<h3></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brahmastra___My_Identity_To_Seek_Within_.jpg">
 </div>
@@ -167,8 +163,7 @@ as the official arts and culture media partner.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>BRAHMASTRA ENSEMBLE</strong>
-</p>
+<h3><strong>BRAHMASTRA ENSEMBLE</strong></h3>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>My Identity: Beyond Artistry</strong> is a dance musical inspired
@@ -460,4 +455,5 @@ use your new found skills in the interactive segment of the performance.</p>
 <p></p>
 <p></p>
 <p></p>
-<a href="#ae_page_top">Return to Top</a>
+<p><a href="#ae_page_top" rel="noopener noreferrer nofollow" target="_blank">Return to Top</a>
+</p>
