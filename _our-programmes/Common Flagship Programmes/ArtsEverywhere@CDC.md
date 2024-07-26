@@ -400,10 +400,25 @@ work reflects her deep dedication to the craft of upcycling and renewal.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>yIN Harmony</strong> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>A Bird’s Journey</strong> Presented by yIN Harmony Follow the story
+of a baby bird's journey of self-discovery, inspired by, The Ugly Duckling.
+Accompanied by live traditional musica and voice-over narrations, the performance
+brings in elements of culture that are unique to Singapore. Audiences also
+have an opportunity to play on the bird flutes and be part of the interactive
+performance. <strong>About yIN Harmony</strong> yIN Harmony is a multi-ethnic
+music group that infuses various cultural instruments together on a singular
+platform to reflect the multiracial facets of Singapore.<strong>A Bird’s Journey</strong> Presented
+by yIN Harmony Follow the story of a baby bird's journey of self-discovery,
+inspired by, The Ugly Duckling. Accompanied by live traditional musica
+and voice-over narrations, the performance brings in elements of culture
+that are unique to Singapore. Audiences also have an opportunity to play
+on the bird flutes and be part of the interactive performance. <strong>About yIN Harmony</strong> yIN
+Harmony is a multi-ethnic music group that infuses various cultural instruments
+together on a singular platform to reflect the multiracial facets of Singapore.</p>
 </td>
 </tr>
 <tr>
