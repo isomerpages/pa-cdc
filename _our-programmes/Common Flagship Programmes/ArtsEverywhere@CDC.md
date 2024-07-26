@@ -329,10 +329,27 @@ in a drum circle!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>NADI SINGAPURA LTD.</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Kito dan Kita</strong> Presented by NADI Singapura Ltd
+<br>Be captivated by <em>Kito dan Kita</em>, a Malay drumming and music performance
+inspired by the customs and traditions of the Malay community in Singapore
+and the Nusantara. This dynamic performance will feature the Rebana, Gendang,
+Jidur, Marwas and Talempong, among other instruments, while incorporating
+dancing and singing.
+<br><strong>About NADI Singapura Ltd</strong> Formed in November 2011, the
+NADI Singapura Ltd ensemble is made up of young and aspiring musos who
+believe in uplifting their traditional drums and percussions like no other.
+The ensemble is led by two renowned individuals in the Singapore Malay
+Arts scene, Rebana artisan, Yaziz Hassan and prominent drummer/percussionist,
+Riduan Zalani. Both founders aim to position NADI Singapura Ltd as a dynamic
+ensemble which adopts an innovative approach in the use of the Malay Archipelago
+drums. NADI Singapura Ltd is a recipient of the National Arts Council’s
+Major Grant for the period from 1 April 2022 to 31March 2025. They have
+received admirable reviews and participated in various local and international
+cultural showcases. (Image Credit: NADI Singapura Ltd)</p>
 </td>
 </tr>
 <tr>
