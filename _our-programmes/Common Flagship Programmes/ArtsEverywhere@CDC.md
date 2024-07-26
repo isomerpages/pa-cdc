@@ -5,12 +5,14 @@ variant: markdown
 description: ""
 third_nav_title: Common Flagship Programmes
 ---
-<p><strong><a href="#ae_page_about" rel="noopener noreferrer nofollow" target="_blank">About ArtsEverywhere@CDC</a></strong> | <strong><a href="#ae_page_calendar" rel="noopener noreferrer nofollow" target="_blank">Calendar of Events</a></strong> | <strong><a href="#ae_page_programme" rel="noopener noreferrer nofollow" target="_blank">Programme Information</a></strong>
-</p>
+<span id="ae_page_top"></span>
+<a href="#ae_page_about"><strong>About ArtsEverywhere@CDC</strong></a> | <a href="#ae_page_calendar"><strong>Calendar of Events</strong></a> | <a href="#ae_page_programme"><strong>Programme Information</strong></a>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NAC_corpsite_page__5_.png">
 </div>
+<span id="ae_page_about"></span>
 <h3>About ArtsEverywhere@CDC</h3>
 <p>ArtsEverywhere@CDC brings arts experiences to communities where they live,
 work and play. Every month, members of the public can look forward to arts
@@ -24,6 +26,7 @@ People's Association,&nbsp;and the five Community Development Councils,
 and is supported by the Ministry of Culture, Community and Youth, with <em>Catch</em> (catch.sg)
 as the official arts and culture media partner.</p>
 <hr>
+<span id="ae_page_calendar"></span>
 <h3>Calendar of Events</h3>
 <p><em>Updated as of 25 July</em>
 </p>
@@ -145,6 +148,7 @@ as the official arts and culture media partner.</p>
 </details>
 </div>
 <hr>
+<span id="ae_page_programme"></span>
 <h3>Programme Information</h3>
 <p></p>
 <p></p>
@@ -455,5 +459,4 @@ use your new found skills in the interactive segment of the performance.</p>
 <p></p>
 <p></p>
 <p></p>
-<p><a href="#ae_page_top" rel="noopener noreferrer nofollow" target="_blank">Return to Top</a>
-</p>
+<a href="#ae_page_top">Return to Top</a>
