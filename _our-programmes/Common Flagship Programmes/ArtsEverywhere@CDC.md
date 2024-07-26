@@ -238,7 +238,8 @@ festivals and performances. (image credit: Ding Yi Music Company Ltd)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Fringe Activities</strong> Presented by Didier Ng and Cherie Ng
+<p><strong>Fringe Activities</strong> 
+<br>Presented by Didier Ng and Cherie Ng
 <br>
 <br><strong>Make Your Own Chinese Spinning Rattle Drum </strong>Let's drum
 up some wild and wacky fun by creating your own spinning rattle drum with
@@ -303,8 +304,8 @@ anywhere it believes it can make a difference.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Fringe Activities</strong> Presented by Philharmonic Wind Orchestra
-Ensemble
+<p><strong>Fringe Activities</strong> 
+<br>Presented by Philharmonic Wind Orchestra Ensemble
 <br>
 <br><strong>Make It and Play It! Percussion Workshop (Buckets &amp; Pails)</strong> Roll
 up your sleeves and get active with our musicians as you make and personalise
@@ -358,7 +359,7 @@ Singapura Ltd)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Fringe Activities</strong>  <em>Presented by NADI Singapura Ltd</em> 
+<p><strong>Fringe Activities</strong>  <em>Presented by NADI Singapura Ltd</em>
 </p>
 <p><strong>Paper Tanjak Workshop</strong> Come join us and make your own paper
 tanjak (Malay headgear) in this workshop. (Image Credit: Riduan Zalani) <strong>Drum Circle</strong> Try
