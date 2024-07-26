@@ -410,7 +410,7 @@ reflects her deep dedication to the craft of upcycling and renewal.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>yIN Harmony</strong>
+<p><strong>yIN HARMONY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
