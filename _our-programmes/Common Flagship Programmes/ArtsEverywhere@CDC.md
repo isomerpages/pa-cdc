@@ -362,9 +362,10 @@ Singapura Ltd)</p>
 <p><strong>Fringe Activities</strong>  <em>Presented by NADI Singapura Ltd</em>
 </p>
 <p><strong>Paper Tanjak Workshop</strong> Come join us and make your own paper
-tanjak (Malay headgear) in this workshop. (Image Credit: Riduan Zalani) <strong>Drum Circle</strong> Try
-your hand at drumming with NADI Singapura in this fun and energetic drumming
-workshop. (Image Credit: NADI Singapura Ltd) <em>Presented by Didier Ng and Cherie Ng</em>  <strong>Echoes of the Forest (Art Installation)</strong> Close
+tanjak (Malay headgear) in this workshop. (Image Credit: Riduan Zalani)</p>
+<p><strong>Drum Circle</strong> Try your hand at drumming with NADI Singapura
+in this fun and energetic drumming workshop. (Image Credit: NADI Singapura
+Ltd) <em>Presented by Didier Ng and Cherie Ng</em>  <strong>Echoes of the Forest (Art Installation)</strong> Close
 your eyes and let your imagination run wild as you find yourself whisked
 away to the lush rainforests of Singapore. Amidst the symphony of rustling
 leaves and chirping birds, there's an unexpected twist – the distant beat
