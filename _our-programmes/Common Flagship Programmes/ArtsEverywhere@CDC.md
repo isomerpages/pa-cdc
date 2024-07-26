@@ -279,10 +279,23 @@ reflects her deep dedication to the craft of upcycling and renewal.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PHILHARMONIC WIND ORCHESTRA ENSEMBLE</p>
+<p><strong>PHILHARMONIC WIND ORCHESTRA ENSEMBLE</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Music in the heART_lands! </strong>Presented by Philharmonic Wind
+Orchestra Ensemble Join the ensemble from the Philharmonic Wind Orchestra
+(PWO) for an exciting performance as the musicians enthral you with a delectable
+spread of songs from English and Mandarin pop songs, evergreens, festive
+favourites, to songs that reflect our multicultural heritage!
+<br>
+<br><strong>About Philharmonic Wind Orchestra Ensemble</strong> Philharmonic
+Wind Orchestra (PWO) is recognised as one of the premier wind orchestras
+in Singapore, founded in 2000, and has won international accolades for
+its performances overseas. The group also strongly supports Singaporean
+composers by performing and premiering their works. Its long-standing artistic
+mission is to advance wind music in Singapore and aims to bring music to
+anywhere it believes it can make a difference.</p>
 </td>
 </tr>
 <tr>
@@ -290,7 +303,19 @@ reflects her deep dedication to the craft of upcycling and renewal.
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Fringe Activities</strong> Presented by Philharmonic Wind Orchestra
+Ensemble
+<br>
+<br><strong>Make It and Play It! Percussion Workshop (Buckets &amp; Pails)</strong> Roll
+up your sleeves and get active with our musicians as you make and personalise
+your own percussion instruments and join in the samba percussion drum circle!
+Guided by our percussion instructors, experience the fun rhythmic patterns
+and be introduced to more percussion instruments too. <strong>Make It and Play It! Percussion Workshop (Shakers)</strong> Come
+join the percussionists of the Philharmonic Wind Orchestra in a home-made
+percussion instrument samba session! Make your own percussion instruments
+out of recycled materials such as shakers! Explore the various sounds you
+can produce with your hand-made instruments by being a one-day percussionist
+in a drum circle!</p>
 </td>
 </tr>
 <tr>
