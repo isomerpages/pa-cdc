@@ -428,7 +428,13 @@ platform to reflect the multiracial facets of Singapore.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Fringe Activities</strong> Presented by yIN Harmony</p>
+<p><strong>(AUGUST)</strong>  <strong>Flower Origami Workshop</strong> Join
+yIN Harmony in this flower origami workshop and learn to make your own
+bouquet of paper flowers.</p>
+<p><strong>(SEPTEMBER - DECEMBER)</strong>  <strong>Bird Flute Workshop</strong> Come
+learn how to play the bird flute in this workshop by yIN Harmony and then
+use your new found skills in the interactive segment of the performance.</p>
 </td>
 </tr>
 </tbody>
