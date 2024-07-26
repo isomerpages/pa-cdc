@@ -146,6 +146,7 @@ as the official arts and culture media partner.</p>
 </div>
 </details>
 </div>
+
 <hr>
 <span id="ae_page_programme"></span>
 <h3>Programme Information</h3>
@@ -459,3 +460,4 @@ use your new found skills in the interactive segment of the performance.</p>
 <p></p>
 <p></p>
 <p></p>
+<a href="#ae_page_top">Return to Top</a>
