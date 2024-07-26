@@ -154,7 +154,7 @@ as the official arts and culture media partner.</p>
 <td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Brahmastra___My_Identity_To_Seek_Within___resized_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brahmastra___My_Identity_To_Seek_Within_.jpg">
 </div>
 </td>
 </tr>
