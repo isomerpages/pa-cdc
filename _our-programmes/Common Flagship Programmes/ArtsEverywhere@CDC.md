@@ -365,15 +365,21 @@ Singapura Ltd)</p>
 tanjak (Malay headgear) in this workshop. (Image Credit: Riduan Zalani)</p>
 <p><strong>Drum Circle</strong> Try your hand at drumming with NADI Singapura
 in this fun and energetic drumming workshop. (Image Credit: NADI Singapura
-Ltd) <em>Presented by Didier Ng and Cherie Ng</em>  <strong>Echoes of the Forest (Art Installation)</strong> Close
-your eyes and let your imagination run wild as you find yourself whisked
-away to the lush rainforests of Singapore. Amidst the symphony of rustling
-leaves and chirping birds, there's an unexpected twist – the distant beat
-of drums! But not just any drums, these are the heart-pounding rhythms
-of traditional Malay drums! Let’s dance to the beat of nature's drumline,
-where the graceful mousedeer prances alongside the pulsating cadence of
-the drums. It's a celebration of Singapore's rich tapestry of arts, culture,
-and biodiversity, all wrapped up in the playful embrace of cardboard creativity. <strong>Make Your Own Spinning Rattle Drum </strong>Let's
+Ltd)</p>
+<p><em>Presented by Didier Ng and Cherie Ng</em> 
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p><strong>Echoes of the Forest (Art Installation)</strong> Close your eyes
+and let your imagination run wild as you find yourself whisked away to
+the lush rainforests of Singapore. Amidst the symphony of rustling leaves
+and chirping birds, there's an unexpected twist – the distant beat of drums!
+But not just any drums, these are the heart-pounding rhythms of traditional
+Malay drums! Let’s dance to the beat of nature's drumline, where the graceful
+mousedeer prances alongside the pulsating cadence of the drums. It's a
+celebration of Singapore's rich tapestry of arts, culture, and biodiversity,
+all wrapped up in the playful embrace of cardboard creativity. <strong>Make Your Own Spinning Rattle Drum </strong>Let's
 drum up some wild and wacky fun by creating your own spinning rattle drum
 with Didier Ng and Cherie Ng, and get ready to march to the rhythm with
 Nadi Singapura! <strong>'Otter-ly’ Fun! Eco Workshop</strong> Join eco-artists
