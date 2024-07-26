@@ -366,6 +366,7 @@ tanjak (Malay headgear) in this workshop. (Image Credit: Riduan Zalani)</p>
 <p><strong>Drum Circle</strong> Try your hand at drumming with NADI Singapura
 in this fun and energetic drumming workshop. (Image Credit: NADI Singapura
 Ltd)</p>
+<p></p>
 <p><em>Presented by Didier Ng and Cherie Ng</em>
 </p>
 <p></p>
@@ -379,21 +380,23 @@ But not just any drums, these are the heart-pounding rhythms of traditional
 Malay drums! Let’s dance to the beat of nature's drumline, where the graceful
 mousedeer prances alongside the pulsating cadence of the drums. It's a
 celebration of Singapore's rich tapestry of arts, culture, and biodiversity,
-all wrapped up in the playful embrace of cardboard creativity. <strong>Make Your Own Spinning Rattle Drum </strong>Let's
-drum up some wild and wacky fun by creating your own spinning rattle drum
-with Didier Ng and Cherie Ng, and get ready to march to the rhythm with
-Nadi Singapura! <strong>'Otter-ly’ Fun! Eco Workshop</strong> Join eco-artists
-Didier Ng and Cherie Ng as they show you how to create an otter shaped
-handphone and stationery holder out of recycled materials. <strong>About Didier Ng and Cherie Ng</strong> Didier
-Ng is an artist who embraces nature and rubbish. With a passion for transforming
-waste into wonders, Didier's creations breathe new life into discarded
-materials, adding a unique twist to conventional art. Her work not only
-captivates the imagination but also prompts us to see beauty in the unexpected.
-Cherie Ng, an artist with a passion for upcycling, finds her voice in the
-quiet transformation of discarded materials. Outgoing and fun-loving by
-nature, Cherie nonetheless prefers working diligently to basking in the
-limelight. With a meticulous and measured approach to creative art, Cherie’s
-work reflects her deep dedication to the craft of upcycling and renewal.</p>
+all wrapped up in the playful embrace of cardboard creativity.</p>
+<p><strong>Make Your Own Spinning Rattle Drum </strong>Let's drum up some
+wild and wacky fun by creating your own spinning rattle drum with Didier
+Ng and Cherie Ng, and get ready to march to the rhythm with Nadi Singapura!</p>
+<p><strong>'Otter-ly’ Fun! Eco Workshop</strong> Join eco-artists Didier Ng
+and Cherie Ng as they show you how to create an otter shaped handphone
+and stationery holder out of recycled materials.</p>
+<p><strong>About Didier Ng and Cherie Ng</strong> Didier Ng is an artist who
+embraces nature and rubbish. With a passion for transforming waste into
+wonders, Didier's creations breathe new life into discarded materials,
+adding a unique twist to conventional art. Her work not only captivates
+the imagination but also prompts us to see beauty in the unexpected. Cherie
+Ng, an artist with a passion for upcycling, finds her voice in the quiet
+transformation of discarded materials. Outgoing and fun-loving by nature,
+Cherie nonetheless prefers working diligently to basking in the limelight.
+With a meticulous and measured approach to creative art, Cherie’s work
+reflects her deep dedication to the craft of upcycling and renewal.</p>
 </td>
 </tr>
 <tr>
