@@ -11,7 +11,7 @@ third_nav_title: Common Flagship Programmes
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NAC_corpsite_page__5_.png">
 </div>
-<p>About ArtsEverywhere@CDC.</p>
+### About ArtsEverywhere@CDC.
 <p>ArtsEverywhere@CDC brings arts experiences to communities where they live,
 work and play. Every month, members of the public can look forward to arts
 performances, workshops and activities around Singapore, and develop a
