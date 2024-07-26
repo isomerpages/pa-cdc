@@ -165,7 +165,7 @@ as the official arts and culture media partner.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h3><strong>BRAHMASTRA ENSEMBLE</strong></h3>
+<p><strong>BRAHMASTRA ENSEMBLE</strong></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>My Identity: Beyond Artistry</strong> is a dance musical inspired
