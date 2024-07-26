@@ -21,7 +21,7 @@ People's Association,&nbsp;and the five Community Development Councils,
 and is supported by the Ministry of Culture, Community and Youth, with <em>Catch</em> (catch.sg)
 as the official arts and culture media partner.</p>
 <hr>
-<h3>Calendar of Events</h3>
+<h3>Calendar of Event</h3>
 <p><em>Updated as of 25 July</em>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
