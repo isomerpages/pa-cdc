@@ -391,34 +391,36 @@ work reflects her deep dedication to the craft of upcycling and renewal.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yIN_Harmony_Photo_1_credit_yIN_Harmony__1_.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>yIN Harmony</strong> 
+<p><strong>yIN Harmony</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Melodic Flowers </strong>Presented by yIN Harmony Inspired by
+flowers, this multi-cultural programme features songs from different cultures
+which are demonstrated by varied musical styles and instruments. Prepare
+to engage your senses in this unique experience and be mesmerised by familiar
+songs like Bunga Sayang, Rose Rose I Love You and folk music from around
+the world.</p>
+<p></p>
+<p></p>
 <p><strong>A Bird’s Journey</strong> Presented by yIN Harmony Follow the story
 of a baby bird's journey of self-discovery, inspired by, The Ugly Duckling.
 Accompanied by live traditional musica and voice-over narrations, the performance
 brings in elements of culture that are unique to Singapore. Audiences also
 have an opportunity to play on the bird flutes and be part of the interactive
-performance. <strong>About yIN Harmony</strong> yIN Harmony is a multi-ethnic
-music group that infuses various cultural instruments together on a singular
-platform to reflect the multiracial facets of Singapore.<strong>A Bird’s Journey</strong> Presented
-by yIN Harmony Follow the story of a baby bird's journey of self-discovery,
-inspired by, The Ugly Duckling. Accompanied by live traditional musica
-and voice-over narrations, the performance brings in elements of culture
-that are unique to Singapore. Audiences also have an opportunity to play
-on the bird flutes and be part of the interactive performance. <strong>About yIN Harmony</strong> yIN
-Harmony is a multi-ethnic music group that infuses various cultural instruments
-together on a singular platform to reflect the multiracial facets of Singapore.</p>
+performance.</p>
+<p><strong>About yIN Harmony</strong> yIN Harmony is a multi-ethnic music
+group that infuses various cultural instruments together on a singular
+platform to reflect the multiracial facets of Singapore.</p>
 </td>
 </tr>
 <tr>
