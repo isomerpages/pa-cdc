@@ -23,6 +23,18 @@ as the official arts and culture media partner.</p>
 <hr>
 <h3>Programme Information</h3>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Brahmastra" src="/images/Brahmastra___My_Identity_To_Seek_Within___resized_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Brahmastra Ensemble</div>
+</div>
+</div>
+</div>
 <hr>
 <h3>Programme Calendar</h3>
 <p><em>Updated as of 25 July</em>
@@ -65,7 +77,7 @@ as the official arts and culture media partner.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>SEPTEMBER 2024</strong> 
+<summary><strong>SEPTEMBER 2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
