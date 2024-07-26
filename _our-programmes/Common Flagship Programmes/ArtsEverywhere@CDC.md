@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Common Flagship Programmes
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Launch_Isomer_Web_Banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NAC_corpsite_page__5_.png">
 </div>
 <h3>About ArtsEverywhere@CDC</h3>
 <p>ArtsEverywhere@CDC brings arts experiences to communities where they live,
@@ -366,7 +366,7 @@ tanjak (Malay headgear) in this workshop. (Image Credit: Riduan Zalani)</p>
 <p><strong>Drum Circle</strong> Try your hand at drumming with NADI Singapura
 in this fun and energetic drumming workshop. (Image Credit: NADI Singapura
 Ltd)</p>
-<p><em>Presented by Didier Ng and Cherie Ng</em> 
+<p><em>Presented by Didier Ng and Cherie Ng</em>
 </p>
 <p></p>
 <p></p>
@@ -447,5 +447,6 @@ use your new found skills in the interactive segment of the performance.</p>
 </table>
 <hr>
 <h3></h3>
+<p></p>
 <p></p>
 <p></p>
