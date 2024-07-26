@@ -23,18 +23,54 @@ as the official arts and culture media partner.</p>
 <hr>
 <h3>Programme Information</h3>
 <p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Brahmastra" src="/images/Brahmastra___My_Identity_To_Seek_Within___resized_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brahmastra___My_Identity_To_Seek_Within___resized_.jpg">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Brahmastra Ensemble</div>
-</div>
-</div>
-</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brahmastra Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>My Identity: Beyond Artistry</strong> My Identity: Beyond Artistry
+is a dance musical inspired by the journey of five creative professionals
+from various fields including film, music, and dance. Come experience their
+stories and how creativity is woven into the fabric of their existence.
+Featuring compositions by multi-award-winning composer and accomplished
+flautist Niranjan Pandian, and choreography by various dance collectives
+and institutions. <strong>About Brahmastra </strong>Brahmastra Ensemble
+is an Indian fusion collective led by Indian classical flautist, Niranjan
+Pandian, which harmonises Indian folk, fusion, and traditional melodies
+into a singular tapestry of sound. The ensemble has been featured in local
+and international festivals as their original compositions and arrangements
+bring different communities together. (Image Credit: Birabu Photography)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h3>Programme Calendar</h3>
 <p><em>Updated as of 25 July</em>
