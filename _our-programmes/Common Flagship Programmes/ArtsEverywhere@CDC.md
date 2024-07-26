@@ -11,7 +11,7 @@ third_nav_title: Common Flagship Programmes
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NAC_corpsite_page__5_.png">
 </div>
-<p>About ArtsEverywhere@CDC</p>
+<p>About ArtsEverywhere@CDC.</p>
 <p>ArtsEverywhere@CDC brings arts experiences to communities where they live,
 work and play. Every month, members of the public can look forward to arts
 performances, workshops and activities around Singapore, and develop a
@@ -147,6 +147,8 @@ as the official arts and culture media partner.</p>
 <hr>
 <h3>Programme Information</h3>
 <p></p>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -193,13 +195,11 @@ together.</p>
 <p></p>
 <p></p>
 <p><strong>Parai &amp; Karagam Workshop</strong> Learn the basics of playing
-the parai and performing the karakattam in this music and dance workshop.
-(Image Credit: DAMARU Singapore)</p>
+the parai and performing the karakattam in this music and dance workshop.</p>
 <p></p>
 <p><strong>Mayil &amp; Puppet Photo Booth and Exhibition</strong> Take photos
 with mayil (peacock) props and puppets at the photo booth and learn more
-about how these elements feature in Indian art. (Image Credit: Manimaran
-Creations)</p>
+about how these elements feature in Indian art.</p>
 </td>
 </tr>
 <tr>
