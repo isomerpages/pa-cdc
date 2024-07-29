@@ -10,6 +10,8 @@ Speech by Minister Edwin Tong, Minister for Culture, Community and Youth & Secon
 
 Speech by Mayor Fahmi Aliman, Mayor of South East District at the Launch of ArtsEverywhere@CDC [(Read here)](/files/Checked_Mayor_Low_Speech_for_Launch_of_CDC_Vouchers_Scheme__June____25_Jun_24.pdf)[](/files/AE_CDC___Mayor_Fahmi_Speech.pdf)
 
+Speech by Deputy Prime Minister and Minister for Trade and Industry Gan Kim Yong at the Launch of CDC Vouchers Scheme 2024 (June) [(Read here)](https://www.pmo.gov.sg/Newsroom/DPM-Gan-Kim-Yong-at-the-Launch-of-CDC-Vouchers-Scheme-2024)
+
 Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of South West District at the Launch of CDC Vouchers Scheme 2024 (June) [(Read here)](/files/Checked_Mayor_Low_Speech_for_Launch_of_CDC_Vouchers_Scheme__June____25_Jun_24.pdf)
 
 Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of South West District at the Launch of CDC Vouchers Scheme 2024 [(Read here)](/files/CDC_Vouchers_Scheme_2024_Launch___Mayor_Low_Speech.pdf)
