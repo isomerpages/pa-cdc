@@ -6,6 +6,8 @@ variant: markdown
 ---
 ### 2024
 
+Speech by Minister for Education Mr Chan Chun Sing at the Launch of SkillsFuture@CDC 2024 [(Read here)](/files/Checked_against_delivery__Speech_for_Min_at_the_SkillsFuture_CDC_launch_27_Jul_2024.pdf)
+
 Speech by Mayor Denise Phua, Mayor of Central Singapore District at the Launch of SkillsFuture@CDC 2024 [(Read here)](/files/SF_CDC_Launch___Speech_by_Mayor_Denise.pdf)
 
 Speech by Minister Edwin Tong, Minister for Culture, Community and Youth & Second Minister for Law at the Launch of ArtsEverywhere@CDC [(Read Here)](https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2024/Jul/Our-SG-Arts-Plan-2-0-Bringing-Arts-Everywhere-for-Everyone)
