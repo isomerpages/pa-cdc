@@ -24,7 +24,7 @@ identity are strengthened through the arts.</p>
 <p>ArtsEverywhere@CDC is a collaboration between the National Arts Council,
 People's Association,&nbsp;and the five Community Development Councils,
 and is supported by the Ministry of Culture, Community and Youth.</p>
-View the calendar of events below or head over to <a href="https://www.catch.sg/Home/Event/2024/July/ArtsEverywhere%20CDC#event-events" target="redeemsg"><strong>Catch.sg</strong></a>, the official arts and culture med , partner to discover ArtsEverywhere@CDC programmes in your heartlands.
+<p>View the calendar of events below or head over to <a href="https://www.catch.sg/Home/Event/2024/July/ArtsEverywhere%20CDC#event-events" target="redeemsg"><strong>Catch.sg</strong></a>, the official arts and culture media partner, to discover ArtsEverywhere@CDC programmes in your heartlands.</p>
 <hr>
 <span id="ae_page_calendar"></span>
 <h3>Calendar of Events</h3>
