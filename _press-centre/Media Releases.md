@@ -6,6 +6,9 @@ variant: markdown
 ---
 ### 2024 
 <strong>27 July 2024</strong><br>
+Launch of SkillsFuture@CDC to Further Push for Lifelong Learning and Upskilling [(Media Release)](/files/Joint_Media_Release___SkillsFuture___CDCs_2024_.pdf)
+
+<strong>27 July 2024</strong><br>
 Residents to Experience More Arts Performances in the Heartlands [(Media Release)](/files/Joint_Media_Release___ArtsEveryWhereCDC__final____post_event.pdf)
 
 <strong>25 June 2024</strong><br>
