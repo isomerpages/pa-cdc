@@ -6,30 +6,34 @@ variant: markdown
 ---
 ### 2024
 
-Speech by Mayor Low Yen Ling at the Launch of CDC Vouchers Scheme 2024 (June) [(Read here)](/files/Checked_Mayor_Low_Speech_for_Launch_of_CDC_Vouchers_Scheme__June____25_Jun_24.pdf)
+Speech by Minister Edwin Tong Minister for Culture, Community and Youth & Second Minister for Law at the Launch of ArtsEverywhere@CDC [(Read here)](/files/Checked_Mayor_Low_Speech_for_Launch_of_CDC_Vouchers_Scheme__June____25_Jun_24.pdf)[](/files/AE_CDC___Mayor_Fahmi_Speech.pdf)
 
-Speech by Mayor Low Yen Ling at the Launch of CDC Vouchers Scheme 2024 [(Read here)](/files/CDC_Vouchers_Scheme_2024_Launch___Mayor_Low_Speech.pdf)
+Speech by Mayor Fahmi Aliman, Mayor of South East District at the Launch of ArtsEverywhere@CDC [(Read here)](/files/Checked_Mayor_Low_Speech_for_Launch_of_CDC_Vouchers_Scheme__June____25_Jun_24.pdf)[](/files/AE_CDC___Mayor_Fahmi_Speech.pdf)
+
+Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of South West District at the Launch of CDC Vouchers Scheme 2024 (June) [(Read here)](/files/Checked_Mayor_Low_Speech_for_Launch_of_CDC_Vouchers_Scheme__June____25_Jun_24.pdf)
+
+Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of South West District at the Launch of CDC Vouchers Scheme 2024 [(Read here)](/files/CDC_Vouchers_Scheme_2024_Launch___Mayor_Low_Speech.pdf)
 
 ### 2023
 
 
-Speech by Mayor Low Yen Ling at the CDC Vouchers Donation Scheme Networking Luncheon with Charity Organisations [(Read here)](/files/Final_Speech_Delieverd_by_Mayor_Low_Yen_Ling___CDCV_Donation_and_Luncheon_with_Charities_27_Nov_23.pdf)
+Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of South West District at the CDC Vouchers Donation Scheme Networking Luncheon with Charity Organisations [(Read here)](/files/Final_Speech_Delieverd_by_Mayor_Low_Yen_Ling___CDCV_Donation_and_Luncheon_with_Charities_27_Nov_23.pdf)
 
-Speech by Minister Edwin Tong at the CDC Vouchers Donation Scheme Networking Luncheon with Charity Organisations [(Read here)](/files/Final_Delivered_Speech_by_Min_Edwin_for_CDCV_Donation_and_Charities_Networking_Luncheon.pdf))
+Speech by Minister Edwin Tong Minister for Culture, Community and Youth & Second Minister for Law at the CDC Vouchers Donation Scheme Networking Luncheon with Charity Organisations [(Read here)](/files/Final_Delivered_Speech_by_Min_Edwin_for_CDCV_Donation_and_Charities_Networking_Luncheon.pdf))
 
-Speech by Minister Edwin Tong at the Launch of Law Awareness Weeks @ CDC 2023 [(Read here)](/files/FINAL_Speech_for_Min_Edwin_for_LAWCDC_2023.pdf)
+Speech by Minister Edwin Tong Minister for Culture, Community and Youth & Second Minister for Law at the Launch of Law Awareness Weeks @ CDC 2023 [(Read here)](/files/FINAL_Speech_for_Min_Edwin_for_LAWCDC_2023.pdf)
 
 Speech by Mr Fahmi Aliman, Mayor of South East District at the Launch of Law Awareness Weeks @ CDC 2023 [(Read here)](/files/delivered%20speech%20for%20mayor%20fahmi%202023%20checked.pdf)
 
 Speech by Mr Gregory Vijayendran, SC, Chairman of Pro Bono SG at the Launch of Law Awareness Weeks @ CDC 2023 [(Read here)](/files/delivered%20speech%20for%20mayor%20fahmi%202023%20checked.pdf)[](/files/speech%20by%20chairman%20pbsg%20_lawcdc%202023.pdf)
 
-Speech by Mayor Low Yen Ling at the Launch of CDC Vouchers Scheme 2023 [(Read here)](/files/Speech%20by%20Mayor%20Low%20Yen%20Ling%20at%20the%20Launch%20of%20CDC%20Vouchers%20Scheme%202023_3%20Jan%20(002).pdf)
+Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of South West District at the Launch of CDC Vouchers Scheme 2023 [(Read here)](/files/Speech%20by%20Mayor%20Low%20Yen%20Ling%20at%20the%20Launch%20of%20CDC%20Vouchers%20Scheme%202023_3%20Jan%20(002).pdf)
 
 ### 2022
 
 Speech by Mayor Alex Yam, Mayor of North West District at the Launch of Law Awareness Weeks@CDC 2022 [Read here](/files/Delivered%20LAW@CDC%202022%20Speech%20by%20Mayor%20Alex.pdf)
 
-Speech by Mayor Low Yen Ling at the Launch of CDC Vouchers Scheme 2022 [(Read here)](/files/delivered-speech-by-chairman-mayor-low-yen-ling-at-launch-of-cdc-vouchers-scheme-2022%20(1).pdf)
+Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of South West District, at the Launch of CDC Vouchers Scheme 2022 [(Read here)](/files/delivered-speech-by-chairman-mayor-low-yen-ling-at-launch-of-cdc-vouchers-scheme-2022%20(1).pdf)
 
 ### 2021
 
