@@ -23,8 +23,8 @@ build <em>A Connected Society</em>, where our social connections and national
 identity are strengthened through the arts.</p>
 <p>ArtsEverywhere@CDC is a collaboration between the National Arts Council,
 People's Association,&nbsp;and the five Community Development Councils,
-and is supported by the Ministry of Culture, Community and Youth, with <em>Catch</em> (catch.sg)
-as the official arts and culture media partner.</p>
+and is supported by the Ministry of Culture, Community and Youth.</p>
+<p>View the calendar of events below or head over to <a href="https://www.catch.sg/Home/Event/2024/July/ArtsEverywhere%20CDC#event-events" target="redeemsg"><strong>Catch.sg</strong></a>, the official arts and culture media partner, to discover ArtsEverywhere@CDC programmes in your heartlands.</p>
 <hr>
 <span id="ae_page_calendar"></span>
 <h3>Calendar of Events</h3>
