@@ -6,6 +6,8 @@ variant: markdown
 ---
 ### 2024
 
+Speech by Mayor Denise Phua, Mayor of Central Singapore District at the Launch of SkillsFuture@CDC 2024 [(Read here)](/files/SF_CDC_Launch___Speech_by_Mayor_Denise.pdf)
+
 Speech by Minister Edwin Tong, Minister for Culture, Community and Youth & Second Minister for Law at the Launch of ArtsEverywhere@CDC [(Read Here)](https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2024/Jul/Our-SG-Arts-Plan-2-0-Bringing-Arts-Everywhere-for-Everyone)
 
 Speech by Mayor Fahmi Aliman, Mayor of South East District at the Launch of ArtsEverywhere@CDC [(Read here)](/files/Checked_Mayor_Low_Speech_for_Launch_of_CDC_Vouchers_Scheme__June____25_Jun_24.pdf)[](/files/AE_CDC___Mayor_Fahmi_Speech.pdf)
