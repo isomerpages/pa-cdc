@@ -6,7 +6,8 @@ variant: tiptap
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>2024</summary>
+<summary><strong>2024</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Speech by Minister for Education Mr Chan Chun Sing at the Launch of SkillsFuture@CDC
 2024 <a href="/files/Checked_against_delivery__Speech_for_Min_at_the_SkillsFuture_CDC_launch_27_Jul_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">(Read here)</a>
@@ -36,7 +37,8 @@ South West District at the Launch of CDC Vouchers Scheme 2024 <a href="/files/CD
 </div>
 </details>
 <details class="isomer-details">
-<summary>2023</summary>
+<summary><strong>2023</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of
 South West District at the CDC Vouchers Donation Scheme Networking Luncheon
@@ -64,7 +66,8 @@ South West District at the Launch of CDC Vouchers Scheme 2023 <a href="/files/Sp
 </div>
 </details>
 <details class="isomer-details">
-<summary>2022</summary>
+<summary><strong>2022</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Speech by Mayor Alex Yam, Mayor of North West District at the Launch of
 Law Awareness Weeks@CDC 2022 <a href="/files/Delivered%20LAW@CDC%202022%20Speech%20by%20Mayor%20Alex.pdf" rel="noopener noreferrer nofollow" target="_blank">Read here</a>
@@ -78,7 +81,8 @@ South West District, at the Launch of CDC Vouchers Scheme 2022 <a href="/files/d
 </div>
 </details>
 <details class="isomer-details">
-<summary>2021</summary>
+<summary><strong>2021</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Speech by Mr Gregory Vijayendran, SC, Chairman of Law Society Pro Bono
 Services at the Virtual Launch of Law Awareness Weeks @CDC 2021 <a href="/files/delivered-speech-by-lspbs-chairman---law-awareness-weeks-@cdc-2021.pdf" rel="noopener noreferrer nofollow" target="_blank">(Read here)</a>
@@ -112,7 +116,8 @@ South West District at the&nbsp; launch of CDC Vouchers Scheme Tranche
 </div>
 </details>
 <details class="isomer-details">
-<summary>2020</summary>
+<summary><strong>2020</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Speech by Mr Masagos Zulkifli, Minister for Social and Family Development
 at the launch of Kong Meng San (KMS) - CDC Covid-19 Relief Fund <a href="/files/speech-by-minister-masagos---kms-launch-19-dec2020.pdf" rel="noopener noreferrer nofollow" target="_blank">(Read here)</a>
@@ -140,7 +145,8 @@ Mayors on Wednesday, 23 September 2020, at the People’s Association Auditorium
 </div>
 </details>
 <details class="isomer-details">
-<summary>2019</summary>
+<summary><strong>2019</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Speech by Ms Low Yen Ling, Mayor of South West District at the Launch
 of Law Awareness Weeks (LAW) @ CDC 2019 on Wednesday, 4 September 2019
@@ -157,7 +163,8 @@ South West District for WeCare Arts Exhibition @ CDC 2019 on Thursday,
 </div>
 </details>
 <details class="isomer-details">
-<summary>2018</summary>
+<summary><strong>2018</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Speech by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of
 South West District at the Launch of Maybank Family Fund @ CDC 2018 on
@@ -178,7 +185,8 @@ at Wisma Geylang Serai <a href="/files/mr-gregory-vijayendran-chairman-of-law-so
 </div>
 </details>
 <details class="isomer-details">
-<summary>2017</summary>
+<summary><strong>2017</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Speech by Ms Indranee Rajah, Senior Minister of State for Law and Finance,
 at the Launch of Law Awareness Weeks @ CDC 2017 and MOU Signing Ceremony
@@ -205,7 +213,8 @@ Fund on Saturday 11 February 2017 at NTUC FairPrice Xtra @ NEX <a href="/files/m
 </div>
 </details>
 <details class="isomer-details">
-<summary>2016</summary>
+<summary><strong>2016</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Speech by Ms Low Yen Ling, Mayor of South West District, at Signing of
 MOU Ceremony between the CDCs and CASE on Friday 23 September 2016 at Jurong
@@ -233,7 +242,8 @@ at Grand Copthorne Waterfront Hotel <a href="/files/ms-low-yen-ling-mayor-of-sou
 </div>
 </details>
 <details class="isomer-details">
-<summary>2015</summary>
+<summary><strong>2015</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Speech by Emeritus Senior Minister Goh Chok Tong at the Community Development
 Council's Symposium on Tuesday 27 October 2015 at Ci Yuan CC <a href="/files/esm-goh-chok-tong-speech-at-cdc-symposium-launch-of-cdc-sg50-book-tuesday-27-october-2015.pdf" rel="noopener noreferrer nofollow" target="_blank">(Read here)</a>
@@ -248,7 +258,8 @@ Fund Tea Session on Thursday 21 May 2015 at Bishan Community Club <a href="/file
 </div>
 </details>
 <details class="isomer-details">
-<summary>2014</summary>
+<summary><strong>2014</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Speech by Mr K Shanmugam, Minister for Foreign Affairs and Minister for
 Law, at Signing of Memorandum of Understanding - Community Development
