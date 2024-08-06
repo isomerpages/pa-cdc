@@ -78,7 +78,7 @@ Speech by Mr Edwin Tong, Minister for Culture, Community and Youth & Second Mini
 
 Opening Address by Mr Lawrence Wong, Minister for Education, at Virtual Skillsfuture Advice Memorandum of Understanding Signing Ceremony & SkillsFuture@CDC Dialogue Session, 25 September 2020 [(Read here)](/files/sfa@cdc---minlw-speech.pdf)
 
-Speech by Prime Minister Lee Hsien Loong at the Swearing-in Ceremony of Mayors on Wednesday, 23 September 2020, at the People’s Association Auditorium[(Read here)](/files/pmo-\_-pm-lee-hsien-loong-at-the-swearing-in-ceremony-of-mayors-(sept-2020).pdf)
+Speech by Prime Minister Lee Hsien Loong at the Swearing-in Ceremony of Mayors on Wednesday, 23 September 2020, at the People’s Association Auditorium[(Read here)](https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-Swearing-In-Ceremony-Mayors-Sept-2020)
 
 ### 2019
 
