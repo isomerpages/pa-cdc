@@ -5,21 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h4>Scroll down to view past CDC Annual Reports</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/cdcar-2022" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANNUAL REPORT FY2022" src="/images/website icon for annual report22.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FY 2022</div><div class="isomer-card-link"> View Annual Report</div></div></a>
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/cdcar-2021" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="FY2021 ANNUAL REPORT" src="/images/CDC AR 2021.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FY 2021 </div><div class="isomer-card-link">View Annual Report</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/cdcar-2021" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="FY2021 ANNUAL REPORT" src="/images/CDC AR 2021.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FY 2021</div><div class="isomer-card-link">View Annual Report</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/cdcar-2020" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -30,7 +18,7 @@ variant: tiptap
 <div class="isomer-card-title">FY 2020</div>
 <div class="isomer-card-link">View Annual Report</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/cdcar-2019" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANNUAL REPORT FY2019" src="/images/cdc-fy2019.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FY 2019</div><div class="isomer-card-link"> View Annual Report</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/cdcar-2019" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANNUAL REPORT FY2019" src="/images/cdc-fy2019.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FY 2019</div><div class="isomer-card-link">View Annual Report</div></div></a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/cdcar-2018" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ANNUAL REPORT FY 2018" src="/images/fy2018.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FY 2018</div><div class="isomer-card-link">View Annual Report</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/cdcar-2017" class="isomer-card">
@@ -84,5 +72,4 @@ variant: tiptap
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/cdcar-2007" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="cdc annual report fy2007" src="/images/fy2007.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FY 2007</div><div class="isomer-card-link">View Annual Report</div></div></a>
 </div>
-<p>FY2022 FY2021 FY2020 FY2019 FY2018 FY2017 FY2016 FY2015 FY2014 FY2013
-FY2012 FY2011 FY2010 FY2009 FY2008 FY2007</p>
+<p></p>
