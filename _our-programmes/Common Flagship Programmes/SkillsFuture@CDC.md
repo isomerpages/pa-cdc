@@ -1,8 +1,9 @@
 ---
-title: SkillsFuture Festival@CDC
+title: SkillsFuture@CDC
 permalink: /our-programmes/skillsfuture-cdc/
 description: SkillsFuture Festival@CDC
 third_nav_title: Common Flagship Programmes
+variant: tiptap
 ---
 ![SKILLSFUTURE @CDC](/images/Common%20Flagship%20Progs/SKILLSFUTURE%20CDC%20PHOTO.png)    
 

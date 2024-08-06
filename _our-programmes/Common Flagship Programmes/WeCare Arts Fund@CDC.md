@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="we care arts fund exhibition experiences" src="/images/Common%20Flagship%20Progs/wecare%20arts%20fund.png">
 </div>
-<p>cThe WeCare Arts Fund@CDC is a grant scheme that is a collaborative effort
+<p>The WeCare Arts Fund@CDC is a grant scheme that is a collaborative effort
 between the Community Development Councils (CDCs) and the National Arts
 Council (NAC). Its primary objective is to provide support to Social Service
 Agencies (SSAs) and Self-Help Groups (SHGs) by engaging their beneficiaries
@@ -35,7 +35,11 @@ Guide and Application Form.</p>
 </p>
 <p>For further enquiries, you may contact the CDCs officer in your district
 to find out more about the fund:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
