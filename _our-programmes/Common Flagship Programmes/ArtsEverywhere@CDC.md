@@ -53,7 +53,7 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <p><strong>Sunday, 11 August</strong>
 <br>Programme: <i>Music in the heART_lands!</i> by Philharmonic Wind Orchestra Ensembles
 <br>Venue: Teck Whye Market
-<br>Time: Performance (9.30 – 10am; 10.45am - 11.15am), Fringe Activities (10 – 10.45am; 11.30am - 12.15pm)</p>
+<br>Time: Performance (9.30 – 10am; 10.45am - 11.15am; 12:30pm - 1:15pm), Fringe Activities (10 – 10.45am; 11.30am - 12.15pm)</p>
 <p><strong>Friday, 16 August</strong>
 <br>Programme: <i>Melodic Flowers</i> by yIN Harmony
 <br>Venue: Our Tampines Hub
