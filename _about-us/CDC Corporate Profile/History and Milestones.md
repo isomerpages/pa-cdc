@@ -26,7 +26,7 @@ variant: markdown
 #### Over 25 Years of Community Development
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/nw2Pqwgs7Xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/0GT6lWrKRPE?si=MVHJodit70A56DuJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 The Community Development Councils (CDCs) were established under the PA Act (CDC Rules &amp; Regulations 1997) to build a tightly-knit, compassionate and self-reliant community in Singapore. The first two CDCs were launched in early 1997 and by the end of the year, the remaining CDCs were in place.
 
