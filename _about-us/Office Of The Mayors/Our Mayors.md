@@ -23,7 +23,7 @@ variant: markdown
 
 |  |  | 
 | -------- | -------- | 
-| ![Chairman Mayor Low Yen Ling](/images/Mayors/low_yen_ling2.png)        | MS LOW YEN LING <br> Chairman of Mayors’ Committee <br> Mayor of South West District <br> Chairman of South West CDC <br> Date of Appointment: 27/5/2014 <br> (Minister of State, Ministry of Trade <br>and Industry &amp; Ministry of Culture, <br>Community and Youth)
+| ![Chairman Mayor Low Yen Ling](/images/Mayors/low_yen_ling2.png)        | MS LOW YEN LING <br> Chairman of Mayors’ Committee <br> Mayor of South West District <br> Chairman of South West CDC <br> Date of Appointment: 27/5/2014 <br> (Senior Minister of State, Ministry of Trade <br>and Industry &amp; Ministry of Culture, <br>Community and Youth)
 |
 
 ## Central Singapore CDC
