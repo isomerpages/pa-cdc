@@ -98,14 +98,12 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 6.30pm; 7 - 8pm)</p>
 <p><strong>Saturday, 21 September</strong>
 <br>Programme: <i>Music in the heART_lands!</i> by Philharmonic Wind Orchestra Ensembles
-<br>Venue: Japanese &amp; Chinese Gardens
-<br>Time: Fringe Activities (5.30 - 6.30pm; 7.30 - 8.30pm), Performance (6.30
-- 7.30pm; 8.30 - 9.30pm)</p>
+<br>Venue: Jurong Lake Gardens Wave Plaza
+<br>Time: Fringe Activities (6.30 - 7pm; 7.45pm - 8.15pm), Performance (7pm; 8.15pm)</p>
 <p><strong>Sunday, 22 September</strong>
 <br>Programme: <i>Kito dan Kita</i> by NADI Singapura
-<br>Venue: Japanese &amp; Chinese Gardens
-<br>Time: Fringe Activities (5.30 - 6.30pm; 7.30 - 8.30pm), Performance (6.30
-- 7.30pm; 8.30 - 9.30pm)</p>
+<br>Venue: Jurong Lake Gardens Wave Plaza
+<br>Time: Fringe Activities (6.30pm - 7.30pm; 8.00pm – 8.45pm), Performance (7.30pm; 8.45pm)</p>
 </div>
 </details>
 <details class="isomer-details">
