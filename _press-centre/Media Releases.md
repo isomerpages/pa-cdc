@@ -9,6 +9,10 @@ variant: tiptap
 <summary><strong>2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>21 September 2024</strong>
+</p>
+<p>LAW@CDC marks 10 years of Community Legal Awareness <a href="/files/FINAL_Media_Release___LAW_CDC_2024__As_of_21_Sep_.pdf" rel="noopener nofollow" target="_blank">(Media Release)</a>
+</p>
 <p><strong>27 July 2024</strong>
 <br>Launch of SkillsFuture@CDC to Further Push for Lifelong Learning and Upskilling
 <a href="/files/Joint_Media_Release___SkillsFuture___CDCs_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
