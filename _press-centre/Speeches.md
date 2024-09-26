@@ -9,6 +9,15 @@ variant: tiptap
 <summary><strong>2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Speech by Minister Edwin Tong, Minister for Culture, Community and Youth
+&amp; Second Minister for Law at the Launch of LAW@CDC 2024 <a href="/files/FINAL_Delivered_Speech_for_GOH_Min_Edwin_Tong__LAW_CDC__on_21_Sep_Launch_of_LAW_CDC_2024.pdf" rel="noopener nofollow" target="_blank">(Read here)</a>
+</p>
+<p>Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of
+South West District at the Launch of LAW@CDC 2024 <a href="/files/FINAL_Delivered_Speech_for_Chairman_Mayor_Low_Yen_Ling__LAW_CDC__on_21_Sep_Launch_of_LAW_CDC_2024.pdf" rel="noopener nofollow" target="_blank">(Read here)</a>
+</p>
+<p>Speech by Mr Tanguy Lim, CEO of Pro Bono SG at the Launch of LAW@CDC 2024
+<a href="/files/FINAL__LAW_CDC_2024_PBSG_CEO_Welcome_Address_Speech.pdf" rel="noopener nofollow" target="_blank">(Read here)</a>
+</p>
 <p>Speech by Minister for Education Mr Chan Chun Sing at the Launch of SkillsFuture@CDC
 2024 <a href="/files/Checked_against_delivery__Speech_for_Min_at_the_SkillsFuture_CDC_launch_27_Jul_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">(Read here)</a>
 </p>
