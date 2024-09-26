@@ -30,8 +30,9 @@ sections:
       image: /images/cdc-logo.png
   - infopic:
       title: The Five Districts
-      description: The CDC Planning and Development Division coordinates the work of
-        the five CDCs.
+      description: The CDCs work closely with grassroots, government, school,
+        community and corporate partners to support the unique needs of each
+        district.
       button: Find out more
       alt: The Five Districts
       url: /who-we-are/five-districts
