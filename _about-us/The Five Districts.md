@@ -2,14 +2,16 @@
 title: The Five Districts
 permalink: /who-we-are/five-districts/
 description: ""
+variant: markdown
 ---
 ### CDC Planning &amp; Development
 People's Association <br>
 9 King George’s Avenue <br>
 Singapore 208581
 
-CDC Planning and Development coordinates the work of the five CDCs.<br>
-For more details, please go to the [Government Interactive Directory.](https://www.sgdi.gov.sg/ministries/mccy/statutory-boards/pa/departments/partnership)
+The CDC Planning and Development (CPD) Division oversees the policy, business planning and development of the five CDCs, while also coordinating and looking after the Office of the Mayors an International Relations.
+<br>
+For more details, please visit the [Government Interactive Directory.](https://www.sgdi.gov.sg/ministries/mccy/statutory-boards/pa/departments/partnership)
 
 Locate your [district/CDC](https://www.gowhere.gov.sg/cdc).
 
