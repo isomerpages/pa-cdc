@@ -9,7 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cdc_annual_report_fy23_website_icon.png">
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/cdcar-20233" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">FY 2023</div><div class="isomer-card-link">View Annual Report</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/cdcar-2023" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">FY 2023</div><div class="isomer-card-link">View Annual Report</div></div></a>
 </div>
 <h4>Scroll down to view past CDC Annual Reports</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/cdcar-2022" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="cdc annual report fy 22" src="/images/website icon for annual report22.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FY 2022</div><div class="isomer-card-link">View Annual Report</div></div></a>
