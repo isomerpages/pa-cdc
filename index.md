@@ -49,5 +49,5 @@ sections:
       title: Common Flagship Programmes
       subtitle: What we do
       button: learn about cdc's common flagship programmes
-      url: /our-programmes/Common-Flagship-Programmes
+      url: /our-programmes/common-flagship-programmes/
 ---
