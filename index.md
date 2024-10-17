@@ -48,8 +48,6 @@ sections:
   - infobar:
       title: Common Flagship Programmes
       subtitle: What we do
-      description: We connect with partners and people of diverse expertise through
-        programmes available across all five CDCs.
       button: learn about cdc's common flagship programmes
-      url: /our-programmes/Common-Flagship-Programmes
+      url: /our-programmes/common-flagship-programmes/
 ---

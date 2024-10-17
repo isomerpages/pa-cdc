@@ -13,7 +13,7 @@ From 25 June 2024, each Singaporean household can claim an additional $300 in CD
   
 The CDC Vouchers Scheme 2024 (June) is part of the $1.9 billion enhancement to the Assurance Package announced by then Deputy Prime Minister and Finance Minister Mr Lawrence Wong during Budget 2024. The package aims to provide more immediate support for Singaporean households and help defray daily expenses.  
   
-The value of the $300 CDC Vouchers 2024 (June) will be allocated equally (i.e., $150 each) to be spent at participating heartland merchants and hawkers, or at participating supermarkets. une).  
+The value of the $300 CDC Vouchers 2024 (June) will be allocated equally (i.e., $150 each) to be spent at participating heartland merchants and hawkers, or at participating supermarkets.   
   
 <u>CDC Vouchers Scheme 2024 (January)</u>  
 From 3 January 2024, each Singaporean household can claim $500 in CDC Vouchers 2024 digitally at&nbsp;[**go.gov.sg/cdcv**](https://go.gov.sg/cdcv). These vouchers are part of the Government’s continuing efforts to help Singaporean households cope with daily expenses.  
