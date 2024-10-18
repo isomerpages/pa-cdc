@@ -115,7 +115,7 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <br>Programme: <i>My Identity: Beyond Artistry</i> by Brahmastra
 <br>Venue: Hardcourt beside Yew Tee MRT station
 <br>Time: Fringe Activities (5.30 - 6.30pm; 7.30 - 8.30pm), Performance (6.30
-- 7.30pm;8.30 - 9.30pm)</p>
+- 7.30pm; 8.30 - 9.30pm)</p>
 <p><strong>Saturday, 5 October</strong>
 <br>Programme: <i>Music in the heART_lands!</i> by Philharmonic Wind Orchestra Ensembles
 <br>Venue: Toa Payoh HDB Hub
