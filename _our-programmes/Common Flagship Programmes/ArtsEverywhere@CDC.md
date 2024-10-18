@@ -129,18 +129,18 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <p><strong>Friday, 18 October</strong>
 <br>Programme: <i>Kito dan Kita</i> by NADI Singapura
 <br>Venue: Our Tampines Hub
-<br>Time: Fringe Activities (5 - 5.30pm; 6.30 - 7pm), Performance (5.30 -
-6.30pm; 7 - 8pm)</p>
+<br>Time: Fringe Activities (5 - 5.45pm; 6.45 – 7.15pm), Performance &amp; Meet-and-Greet (6 -
+7pm; 7.30 – 8.30pm)</p>
 <p><strong>Saturday, 19 October</strong>
 <br>Programme: <i>Kito dan Kita</i> by NADI Singapura
 <br>Venue: Braddell Heights Community Hub
-<br>Time: Fringe Activities (10.30 - 11.30am; 12.30 - 1.30pm), Performance
-(11.30am - 12.30pm; 1.30 - 2.30pm)</p>
+<br>Time: Fringe Activities (10.30 - 11.30am; 12.30 - 1.30pm), Performance &amp; Meet-and-Greet
+(11.45am - 12.45pm; 1.30 - 2.30pm)</p>
 <p><strong>Sunday 20 October</strong>
 <br>Programme: <i>Kito dan Kita</i> by NADI Singapura
 <br>Venue: Keat Hong Neighbourhood Shopping Centre
-<br>Time: Fringe Activities (9 – 10am; 10.45 – 11.45am), Performance
-(10 – 10.30am; 11.45am – 12.15pm)</p>
+<br>Time: Fringe Activities (9.30 – 10am; 10.45 – 11.45am), Performance &amp; Meet-and-Greet
+(10 – 10.45am; 11.45am – 12.45pm)</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -148,19 +148,15 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>Saturday, 2 November </strong>
-<br>Programme: <i>A Bird’s Journey &amp; Melodic Flowers</i> by yIN Harmony
-<br>Venue: Taman Mas Merah Playground
-<br>Time: [Set 1: A Bird’s Journey] Fringe Activities (5 – 6pm), Performance (6-7pm); [Set 2: Melodic Flowers] Fringe Activities (7 – 8pm), Performance (8 – 9pm) </p>
 <p><strong>Saturday, 9 November</strong>
 <br>Programme: <i>Kito dan Kita</i> by NADI Singapura
 <br>Venue: Hardcourt beside Yew Tee MRT station
-<br>Time: Fringe Activities (5.30 - 6.30pm; 7.30 - 8.30pm), Performance (6.30
+<br>Time: Fringe Activities (5.30 - 6.30pm; 7.30 - 8.30pm), Performance &amp; Meet-and-Greet (6.30
 - 7.30pm; 8.30 - 9.30pm)</p>
 <p><strong>Friday, 15 November</strong>
 <br>Programme: <i>Evergreen Classics</i> by Ding Yi Music Company
 <br>Venue: Our Tampines Hub
-<br>Time: Fringe Activities (5 – 5.30pm; 6.30 – 7pm), Performance
+<br>Time: Fringe Activities (5 – 5.30pm; 6.30 – 7pm), Performance &amp; Meet-and-Greet
 (5.30 – 6.30pm; 7 – 8pm)</p>
 <p><strong>Saturday, 16 November</strong>
 <br>Programme: <i>Evergreen Classics</i> by Ding Yi Music Company
@@ -168,8 +164,8 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <br>Time: Fringe Activities (12 – 1pm; 2 – 3pm), Performance &amp; Meet-and-greet (1 -2pm; 3 – 4pm)</p>
 <p><strong>Saturday, 23 November</strong>
 <br>Programme: <i>My Identity: Beyond Artistry</i> by Brahmastra
-<br>Venue: Toa Payoh HDB Hub
-<br>Time: Fringe Activities (12 – 1pm; 2 – 3pm), Performance &amp; Meet-and-greet (1 – 2pm; 3 – 4pm)</p>
+<br>Venue: Braddell Heights Community Hub
+<br>Time: Fringe Activities (10.30am – 11.30am; 12.30pm – 1.30pm), Performance &amp; Meet-and-greet (11.30am – 12.30pm; 1.30pm – 2.30pm)</p>
 </div>
 </details>
 
