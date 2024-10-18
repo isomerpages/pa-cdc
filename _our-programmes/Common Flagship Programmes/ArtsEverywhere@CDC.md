@@ -124,7 +124,7 @@ and is supported by the Ministry of Culture, Community and Youth.</p>
 <p><strong>Sunday, 6 October</strong>
 <br>Programme: <i>My Identity: Beyond Artistry</i> by Brahmastra
 <br>Venue: Clementi Woods Park
-<br>Time: Fringe Activities (9.30 - 11.30am), Performance
+<br>Time: Fringe Activities (9.30am - 11.30am), Performance
 (9 – 9.30am; 11.30am – 12pm)</p>
 <p><strong>Friday, 18 October</strong>
 <br>Programme: <i>Kito dan Kita</i> by NADI Singapura
