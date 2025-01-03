@@ -13,12 +13,15 @@ sections:
         - title: Which district do I belong to?
           description: Locate your district here
           url: https://www.gowhere.gov.sg/cdc
-        - title: CDC Vouchers Scheme 2024
+        - title: CDC Vouchers Scheme 2025
           description: Find out more
           url: https://vouchers.cdc.gov.sg
         - title: WeCare Arts Fund / Wecare Arts Experiences
           description: How to apply
           url: /our-programmes/wecare-arts-fund
+        - title: Other Common Flagship Programmes
+          description: Learn more
+          url: /our-programmes/common-flagship-programmes/
   - infopic:
       title: About the CDC
       description: The Community Development Council (CDC) was established under the
