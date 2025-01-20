@@ -6,6 +6,15 @@ variant: markdown
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary><strong>2025</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>3 January 2025</strong><br>
+$300 worth of CDC Vouchers 2025 (January) for all Singaporean households to support everyday needs <a href="/files/1__Final_Media_Release_and_Quotes_for_Launch_of_CDC_Vouchers_2025.pdf" rel="noopener nofollow" target="_blank">(Media Release)</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
 <summary><strong>2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
