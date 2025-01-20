@@ -6,6 +6,17 @@ variant: markdown
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary><strong>2025</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Speech by Deputy Prime Minister and Minister for Trade and Industry Gan
+Kim Yong at the Launch of CDC Vouchers Scheme 2025 (January) <a href="https://www.pmo.gov.sg/Newsroom/DPM-Gan-Kim-Yong-at-the-Launch-of-CDC-Vouchers-Scheme-2025-January" rel="noopener nofollow" target="_blank">(Read here)</a>
+</p>
+<p>Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of
+South West District at the Launch of CDC Vouchers Scheme 2025 (January)  <a href="/files/Speech_for_Launch_of_CDC_Vouchers_Scheme_2025_3_Jan_25.pdf" rel="noopener nofollow" target="_blank">(Read here)</a>
+</p></div>
+</details>
+<details class="isomer-details">
 <summary><strong>2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
