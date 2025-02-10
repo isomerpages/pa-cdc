@@ -408,7 +408,8 @@ Ensembles</p>
 <p>Venue: Heartbeat@Bedok</p>
 <p>Time: Fringe Activities (4.30pm - 6.30pm), Performance (5pm - 6.30pm)</p>
 <p></p>
-<p>Saturday, 15 Feb</p>
+<p>Saturda</p>
+<p>y, 15 Feb</p>
 <p>Programme: Kito dan Kita by NADI Singapura</p>
 <p>Venue: Brickland CO</p>
 <p>Time: Fringe Activities (9am - 10am; 10.45am - 11.45am), Performance (10am
