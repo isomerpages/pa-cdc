@@ -16,12 +16,12 @@ third_nav_title: Common Flagship Programmes
 <p></p>
 <h3>About ArtsEverywhere@CDC</h3>
 <p>ArtsEverywhere@CDC brings arts experiences to communities where they live,work
-and play. Every month, members of the public can look forward to art</p>
-<p>performances, workshops and activities around Singapore, and develop a</p>
-<p>greater appreciation for the arts through these shared experiences. This</p>
-<p>initiative is in line with our aspiration for <em>Our SG Arts Plan (2023 - 2027)</em> to</p>
-<p>build <em>A Connected Society</em>, where our social connections and national</p>
-<p>identity are strengthened through the arts.</p>
+and play. Every month, members of the public can look forward to art performances,
+workshops and activities around Singapore, and develop a greater appreciation
+for the arts through these shared experiences. This initiative is in line
+with our aspiration for <em>Our SG Arts Plan (2023 - 2027)</em> to build <em>A Connected Society</em>,
+where our social connections and national identity are strengthened through
+the arts.</p>
 <p></p>
 <p>ArtsEverywhere@CDC is a collaboration between the National Arts Council,</p>
 <p>People's Association,&nbsp;and the five Community Development Councils,</p>
