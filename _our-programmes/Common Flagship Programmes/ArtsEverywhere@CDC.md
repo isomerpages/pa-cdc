@@ -1,7 +1,7 @@
 ---
 title: ArtsEverywhere@CDC
 permalink: /artseverywhere-cdc/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Common Flagship Programmes
 ---
