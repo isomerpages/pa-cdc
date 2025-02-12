@@ -41,70 +41,37 @@ programmes in your heartlands.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Saturday, 3 August</strong>
-</p>
-<p>
-<br>Programme: <em>Melodic Flowers</em> by yIN Harmony</p>
-<p>
-<br>Venue: Neighbourhood Centre, Blk 371 Bukit Batok Street 31</p>
-<p>
-<br>Time: Fringe Activities (3.30 - 4.30pm; 5.30 - 6.30pm), Performance (4.30</p>
-<ul>
-<li>
-<p>5.30pm; 6.30 - 7.30pm</p>
-<p></p>
-</li>
-</ul>
+<br>Programme: <em>Melodic Flowers</em> by yIN Harmony
+<br>Venue: Neighbourhood Centre, Blk 371 Bukit Batok Street 31
+<br>Time: Fringe Activities (3.30 - 4.30pm; 5.30 - 6.30pm), Performance (4.30
+- 5.30pm; 6.30 - 7.30pm</p>
 <p><strong>Saturday, 10 August</strong>
-</p>
-<p>
 <br>Programme: <em>Music in the heART_lands!</em> by Philharmonic Wind Orchestra
-Ensembles</p>
-<p>
-<br>Venue: Hardcourt beside Yew Tee MRT station</p>
-<p>
-<br>Time: Fringe Activities (10.30 - 11.30am; 12.30 - 1.30pm), Performance</p>
-<p>(11.30am - 12.30pm; 1.30 - 2.30pm)</p>
-<p></p>
+Ensembles
+<br>Venue: Hardcourt beside Yew Tee MRT station
+<br>Time: Fringe Activities (10.30 - 11.30am; 12.30 - 1.30pm), Performance
+(11.30am - 12.30pm; 1.30 - 2.30pm)</p>
 <p><strong>Saturday, 10 August</strong>
-</p>
-<p>
-<br>Programme: <em>Melodic Flowers</em> by yIN Harmony</p>
-<p>
-<br>Venue: Toa Payoh HDB Hub</p>
-<p>
-<br>Time: Fringe Activities (12 - 1pm; 2 - 3pm), Performance &amp; Meet-and-Greet</p>
-<p>(1 - 2pm; 3 - 4pm)</p>
-<p></p>
+<br>Programme: <em>Melodic Flowers</em> by yIN Harmony
+<br>Venue: Toa Payoh HDB Hub
+<br>Time: Fringe Activities (12 - 1pm; 2 - 3pm), Performance &amp; Meet-and-Greet
+(1 - 2pm; 3 - 4pm)</p>
 <p><strong>Sunday, 11 August</strong>
-</p>
-<p>
 <br>Programme: <em>Music in the heART_lands!</em> by Philharmonic Wind Orchestra
-Ensembles</p>
-<p>
-<br>Venue: Teck Whye Market</p>
-<p>
+Ensembles
+<br>Venue: Teck Whye Market
 <br>Time: Performance (9.30 – 10am; 10.45am - 11.15am; 12:30pm - 1:15pm),
 Fringe Activities (10 – 10.45am; 11.30am - 12.15pm)</p>
-<p></p>
 <p><strong>Friday, 16 August</strong>
-</p>
-<p>
-<br>Programme: <em>Melodic Flowers</em> by yIN Harmony</p>
-<p>
-<br>Venue: Our Tampines Hub</p>
-<p>
-<br>Time: Fringe Activities (5 - 5.30pm; 6.30 - 7pm), Performance (5.30 -</p>
-<p>6.30pm; 7 - 8pm)</p>
-<p></p>
+<br>Programme: <em>Melodic Flowers</em> by yIN Harmony
+<br>Venue: Our Tampines Hub
+<br>Time: Fringe Activities (5 - 5.30pm; 6.30 - 7pm), Performance (5.30 -
+6.30pm; 7 - 8pm)</p>
 <p><strong>Saturday, 24 August</strong>
-</p>
-<p>
-<br>Programme: <em>Evergreen Classics</em> by Ding Yi Music Company</p>
-<p>
-<br>Venue: Heartbeat@Bedok</p>
-<p>
-<br>Time: Fringe Activities (10.30 - 11.30am; 12.30 - 1.30pm), Performance</p>
-<p>(11.30am - 12.30pm), Performance &amp; Meet-and-Greet (1.30 - 2.30pm)</p>
+<br>Programme: <em>Evergreen Classics</em> by Ding Yi Music Company
+<br>Venue: Heartbeat@Bedok
+<br>Time: Fringe Activities (10.30 - 11.30am; 12.30 - 1.30pm), Performance
+(11.30am - 12.30pm), Performance &amp; Meet-and-Greet (1.30 - 2.30pm)</p>
 <p></p>
 </div>
 </details>
