@@ -15,9 +15,8 @@ third_nav_title: Common Flagship Programmes
 </div>
 <p></p>
 <h3>About ArtsEverywhere@CDC</h3>
-<p>ArtsEverywhere@CDC brings arts experiences to communities where they live,</p>
-<p>work and play. Every month, members of the public can look forward to
-arts</p>
+<p>ArtsEverywhere@CDC brings arts experiences to communities where they live,work
+and play. Every month, members of the public can look forward to art</p>
 <p>performances, workshops and activities around Singapore, and develop a</p>
 <p>greater appreciation for the arts through these shared experiences. This</p>
 <p>initiative is in line with our aspiration for <em>Our SG Arts Plan (2023 - 2027)</em> to</p>
