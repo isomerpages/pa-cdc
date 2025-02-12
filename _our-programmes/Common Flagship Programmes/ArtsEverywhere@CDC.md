@@ -23,9 +23,9 @@ with our aspiration for <em>Our SG Arts Plan (2023 - 2027)</em> to build <em>A C
 where our social connections and national identity are strengthened through
 the arts.</p>
 <p></p>
-<p>ArtsEverywhere@CDC is a collaboration between the National Arts Council,</p>
-<p>People's Association,&nbsp;and the five Community Development Councils,</p>
-<p>and is supported by the Ministry of Culture, Community and Youth.</p>
+<p>ArtsEverywhere@CDC is a collaboration between the National Arts Council,People's
+Association,&nbsp;and the five Community Development Councils, and is supported
+by the Ministry of Culture, Community and Youth.</p>
 <p></p>
 <p>View the calendar of events below or head over to <strong><a href="https://www.catch.sg/Home/Event/2024/July/ArtsEverywhere%20CDC#event-events" rel="noopener noreferrer nofollow" target="redeemsg">Catch.sg</a></strong>,
 the official arts and culture media partner, to discover ArtsEverywhere@CDC
