@@ -438,13 +438,7 @@ Ensembles</p>
 <hr>
 <p></p>
 <h3>Programme Information</h3>
-<p></p>
-<p></p>
-<p></p>
 <hr>
-<p>Programme Information</p>
-<p></p>
-<p></p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
