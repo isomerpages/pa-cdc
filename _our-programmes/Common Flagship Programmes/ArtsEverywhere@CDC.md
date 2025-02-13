@@ -81,85 +81,42 @@ Fringe Activities (10 – 10.45am; 11.30am - 12.15pm)</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Saturday, 7 September</strong>
-</p>
-<p>
-<br>Programme: The Purple Symphony</p>
-<p>
-<br>Venue: Toa Payoh HDB Hub</p>
-<p>
-<br>Time: Fringe Activities (12 - 1pm; 2 - 3pm), Performance &amp; Meet-and-Greet</p>
-<p>(1 - 2pm; 3 - 4pm)</p>
-<p></p>
+<br>Programme: The Purple Symphony
+<br>Venue: Toa Payoh HDB Hub
+<br>Time: Fringe Activities (12 - 1pm; 2 - 3pm), Performance &amp; Meet-and-Greet
+(1 - 2pm; 3 - 4pm)</p>
 <p><strong>Saturday, 7 September</strong>
-</p>
-<p>
-<br>Programme: <em>A Bird’s Journey &amp; Melodic Flowers</em> by yIN Harmony</p>
-<p>
-<br>Venue: Hardcourt beside Yew Tee MRT station</p>
-<p>
-<br>Time: Fringe Activities (5.30 - 6.30pm; 7.30 - 8.30pm), Performance (6.30</p>
-<ul>
-<li>
-<p>7.30pm; 8.30 - 9.30pm)</p>
-<p></p>
-</li>
-</ul>
+<br>Programme: <em>A Bird’s Journey &amp; Melodic Flowers</em> by yIN Harmony
+<br>Venue: Hardcourt beside Yew Tee MRT station
+<br>Time: Fringe Activities (5.30 - 6.30pm; 7.30 - 8.30pm), Performance (6.30
+- 7.30pm; 8.30 - 9.30pm)</p>
 <p><strong>Saturday, 14 September</strong>
-</p>
-<p>
 <br>Programme: <em>Music in the heART_lands!</em> by Philharmonic Wind Orchestra
-Ensembles</p>
-<p>
-<br>Venue: Wisma Geylang Serai</p>
-<p>
-<br>Time: Fringe Activities (10.30 - 11.30am; 12.30 - 1.30pm), Performance</p>
-<p>(11.30am - 12.30pm; 1.30 - 2.30pm)</p>
-<p></p>
+Ensembles
+<br>Venue: Wisma Geylang Serai
+<br>Time: Fringe Activities (10.30 - 11.30am; 12.30 - 1.30pm), Performance
+(11.30am - 12.30pm; 1.30 - 2.30pm)</p>
 <p><strong>Sunday, 15 September</strong>
-</p>
-<p>
-<br>Programme: <em>My Identity: Beyond Artistry</em> by Brahmastra</p>
-<p>
-<br>Venue: Japanese &amp; Chinese Gardens</p>
-<p>
-<br>Time: Fringe Activities (5.30 - 6.30pm; 7.30 - 8.30pm), Performance (6.30</p>
-<ul>
-<li>
-<p>7.30pm; 8.30 - 9.30pm)</p>
-<p></p>
-</li>
-</ul>
+<br>Programme: <em>My Identity: Beyond Artistry</em> by Brahmastra
+<br>Venue: Japanese &amp; Chinese Gardens
+<br>Time: Fringe Activities (5.30 - 6.30pm; 7.30 - 8.30pm), Performance (6.30
+- 7.30pm; 8.30 - 9.30pm)</p>
 <p><strong>Friday, 20 September</strong>
-</p>
-<p>
-<br>Programme: <em>My Identity: Beyond Artistry</em> by Brahmastra</p>
-<p>
-<br>Venue: Our Tampines Hub</p>
-<p>
-<br>Time: Fringe Activities (5 - 5.30pm; 6.30 - 7pm), Performance (5.30 -</p>
-<p>6.30pm; 7 - 8pm)</p>
-<p></p>
+<br>Programme: <em>My Identity: Beyond Artistry</em> by Brahmastra
+<br>Venue: Our Tampines Hub
+<br>Time: Fringe Activities (5 - 5.30pm; 6.30 - 7pm), Performance (5.30 -
+6.30pm; 7 - 8pm)</p>
 <p><strong>Saturday, 21 September</strong>
-</p>
-<p>
 <br>Programme: <em>Music in the heART_lands!</em> by Philharmonic Wind Orchestra
-Ensembles</p>
-<p>
-<br>Venue: Jurong Lake Gardens Wave Plaza</p>
-<p>
+Ensembles
+<br>Venue: Jurong Lake Gardens Wave Plaza
 <br>Time: Fringe Activities (6.30 - 7pm; 7.45pm - 8.15pm), Performance (7pm;
 8.15pm)</p>
-<p></p>
 <p><strong>Sunday, 22 September</strong>
-</p>
-<p>
-<br>Programme: <em>Kito dan Kita</em> by NADI Singapura</p>
-<p>
-<br>Venue: Jurong Lake Gardens Wave Plaza</p>
-<p>
+<br>Programme: <em>Kito dan Kita</em> by NADI Singapura
+<br>Venue: Jurong Lake Gardens Wave Plaza
 <br>Time: Fringe Activities (6.30pm - 7.30pm; 8.00pm – 8.45pm), Performance
 (7.30pm; 8.45pm)</p>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
