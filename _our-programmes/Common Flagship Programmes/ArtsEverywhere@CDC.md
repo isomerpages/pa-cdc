@@ -228,30 +228,43 @@ Ensembles
 <summary><strong>FEBRUARY 2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p><strong>Friday, 14 Feb</strong>
 </p>
 <p>Programme: Kito dan Kita by NADI Singapura</p>
 <p>Venue: Heartbeat@Bedok</p>
-<p>Time: Fringe Activities (4.30pm - 6.30pm), Performance (5pm - 6.30pm)</p>
-<p></p>
-<p>Saturday, 15 Feb</p>
+<p>Time: Fringe Activities (4.30pm - 6.30pm), Performance (5pm - 6.30pm,5.30pm
+- 8pm)</p>
+<p><strong>Saturday, 15 Feb</strong>
+</p>
 <p>Programme: Kito dan Kita by NADI Singapura</p>
 <p>Venue: Brickland CO</p>
-<p>Time: Fringe Activities (9am - 10am; 10.45am - 11.45am), Performance (10am
-- 10.30am; 11.45am - 12.15pm</p>
-<p>Sunday, 23 Feb</p>
-<p>Programme: Evergreen Classics by Ding Yi Music Company</p>
-<p>Venue: United Square</p>
-<p>Time: Fringe Activities (10.30am - 2pm), Performance (11am - 1pm)</p>
-<p>Sunday, 23 Feb</p>
-<p>Programme:A Bird’s Journey &amp;amp; Melodic Flowers by yIN Harmony</p>
-<p>Venue: Punggol West CC</p>
-<p>Time: Fringe Activities (7pm - 9pm), Performance (7.30pm - 9.20pm)&lt;/p&gt;</p>
-<p>Sunday, 23 Feb</p>
-<p>Programme: Music in the heART_lands! by Philharmonic Wind Orchestra Ensembles</p>
-<p>Venue: Vista Point 548 Woodlands Drive</p>
-<p>Time: Fringe Activities (9am - 10am; 11am – 12pm), Performance (10am -
-11am; 12pm – 1pm)</p>
+<p>Time: Fringe Activities (9am - 10am ; 10.45am - 11.45am), Performance
+(10am - 10.30am ; 11.45am - 12.15pm)</p>
+<p><strong>Sunday, 23 Feb</strong>
+</p>
+<p><strong>Programme: Evergreen Classics by Ding Yi Music Company</strong>
+</p>
+<p><strong>Venue: United Square</strong>
+</p>
+<p><strong>Time: Fringe Activities (10.30am - 2pm), Performance (11am - 1pm)</strong>
+</p>
+<p><strong>Sunday, 23 Feb</strong>
+</p>
+<p><strong>Programme:A Bird’s Journey &amp;amp; Melodic Flowers by yIN Harmony</strong>
+</p>
+<p><strong>Venue: Punggol West CC</strong>
+</p>
+<p><strong>Time: Fringe Activities (7pm - 9pm), Performance (7.30pm - 9.20pm)</strong>
+</p>
+<p><strong>Sunday, 23 Feb</strong>
+</p>
+<p><strong>Programme: Music in the heART_lands! by Philharmonic Wind Orchestra Ensembles</strong>
+</p>
+<p><strong>Venue: Vista Point 548 Woodlands Drive</strong>
+</p>
+<p><strong>Time: Fringe Activities (9am - 10am; 11am – 12pm), Performance (10am - 11am; 12pm – 1pm)</strong>
+</p>
 </div>
 </details>
 <details class="isomer-details">
