@@ -260,7 +260,8 @@ Ensembles
 </div>
 </details>
 <details class="isomer-details">
-<summary>MARCH 2025</summary>
+<summary><strong>MARCH 2025</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Friday, 2 Mar</p>
 <p>Programme: Kito dan Kita by NADI Singapura</p>
