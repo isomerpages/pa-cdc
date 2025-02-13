@@ -193,7 +193,6 @@ Ensembles
 <br>Venue: Blk 728 Clementi West Street Open Space
 <br>Time: Fringe Activities (6pm – 6.30pm; 7.15pm – 7.45pm), Performance (6.30pm
 &amp; 7.45pm)</p>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -202,52 +201,27 @@ Ensembles
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Saturday, 7 December</strong>
-</p>
-<p>
-<br>Programme: <em>Kito dan Kita</em> by NADI Singapura</p>
-<p>
-<br>Venue: Kampung Admiralty</p>
-<p>
+<br>Programme: <em>Kito dan Kita</em> by NADI Singapura
+<br>Venue: Kampung Admiralty
 <br>Time: Fringe Activities (4.30pm - 5.30pm; 6.30pm - 7.30pm), Performance
-(5.30pm</p>
-<ul>
-<li>
-<p>6.30pm; 7.30pm - 8.30pm)</p>
-<p></p>
-</li>
-</ul>
+(5.30pm - 6.30pm; 7.30pm - 8.30pm)</p>
 <p><strong>Saturday, 14 December</strong>
-</p>
-<p>
 <br>Programme: <em>Music in the heART_lands!</em> by Philharmonic Wind Orchestra
-Ensembles</p>
-<p>
-<br>Venue: Town Square@Potong Pasir</p>
-<p>
+Ensembles
+<br>Venue: Town Square@Potong Pasir
 <br>Time: Fringe Activities (12pm - 1pm; 2pm - 3pm), Performance (1pm - 2pm;
 3pm - 4pm)</p>
-<p></p>
 <p><strong>Saturday, 20 December</strong>
-</p>
-<p>
 <br>Programme: <em>Music in the heART_lands!</em> by Philharmonic Wind Orchestra
-Ensembles</p>
-<p>
-<br>Venue: Our Tampines Hub</p>
-<p>
+Ensembles
+<br>Venue: Our Tampines Hub
 <br>Time: Fringe Activities (5pm - 5.30pm; 6.30pm - 7pm), Performance (5.30pm
 - 6.30pm; 7pm - 8pm)</p>
-<p></p>
 <p><strong>Saturday, 28 December</strong>
-</p>
-<p>
-<br>Programme:<em>A Bird’s Journey &amp; Melodic Flowers</em> by yIN Harmony</p>
-<p>
-<br>Venue: Heartbeat@Bedok</p>
-<p>
+<br>Programme:<em>A Bird’s Journey &amp; Melodic Flowers</em> by yIN Harmony
+<br>Venue: Heartbeat@Bedok
 <br>Time: Fringe Activities (10.30am – 11.30am; 12.30pm – 1.30pm), Performance
 (11.30am - 12.30pm; 1.30pm – 2.30pm)</p>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
