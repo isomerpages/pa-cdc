@@ -33,7 +33,7 @@ programmes in your heartlands.</p>
 <hr>
 <p></p>
 <h3>Calendar of Events</h3>
-<p><em>Updated as of 26 September</em>
+<p><em>Updated as of 13 February</em>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
