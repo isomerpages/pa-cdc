@@ -253,12 +253,10 @@ Ensembles
 <p>Time: Fringe Activities (7pm - 9pm), Performance (7.30pm - 9.20pm)</p>
 <p><strong>Sunday, 23 Feb</strong>
 </p>
-<p><strong>Programme: Music in the heART_lands! by Philharmonic Wind Orchestra Ensembles</strong>
-</p>
-<p><strong>Venue: Vista Point 548 Woodlands Drive</strong>
-</p>
-<p><strong>Time: Fringe Activities (9am - 10am; 11am – 12pm), Performance (10am - 11am; 12pm – 1pm)</strong>
-</p>
+<p>Programme: Music in the heART_lands! by Philharmonic Wind Orchestra Ensembles</p>
+<p>Venue: Vista Point 548 Woodlands Drive</p>
+<p>Time: Fringe Activities (9am - 10am; 11am – 12pm), Performance (10am -
+11am; 12pm – 1pm)</p>
 </div>
 </details>
 <details class="isomer-details">
