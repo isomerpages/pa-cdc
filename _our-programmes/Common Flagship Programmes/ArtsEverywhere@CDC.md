@@ -163,69 +163,34 @@ Meet-and-Greet (6pm - 7pm; 7.30pm – 8.30pm)</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Saturday, 9 November</strong>
-</p>
-<p>
-<br>Programme: <em>Kito dan Kita</em> by NADI Singapura</p>
-<p>
-<br>Venue: Hardcourt beside Yew Tee MRT station</p>
-<p>
+<br>Programme: <em>Kito dan Kita</em> by NADI Singapura
+<br>Venue: Hardcourt beside Yew Tee MRT station
 <br>Time: Fringe Activities (5.30pm - 6.30pm; 7.30pm - 8.30pm), Performance
-&amp; Meet-and-Greet (6.30</p>
-<ul>
-<li>
-<p>7.30pm; 8.30 - 9.30pm)</p>
-<p></p>
-</li>
-</ul>
+&amp; Meet-and-Greet (6.30 - 7.30pm; 8.30 - 9.30pm)</p>
 <p><strong>Friday, 15 November</strong>
-</p>
-<p>
-<br>Programme: <em>Evergreen Classics</em> by Ding Yi Music Company</p>
-<p>
-<br>Venue: Our Tampines Hub</p>
-<p>
+<br>Programme: <em>Evergreen Classics</em> by Ding Yi Music Company
+<br>Venue: Our Tampines Hub
 <br>Time: Fringe Activities (5pm – 5.30pm; 6.30pm – 7pm), Performance &amp;
-Meet-and-Greet</p>
-<p>(5.30pm – 6.30pm; 7pm – 8pm)</p>
-<p></p>
+Meet-and-Greet (5.30pm – 6.30pm; 7pm – 8pm)</p>
 <p><strong>Saturday, 16 November</strong>
-</p>
-<p>
-<br>Programme: <em>Evergreen Classics</em> by Ding Yi Music Company</p>
-<p>
-<br>Venue: Toa Payoh HDB Hub</p>
-<p>
+<br>Programme: <em>Evergreen Classics</em> by Ding Yi Music Company
+<br>Venue: Toa Payoh HDB Hub
 <br>Time: Fringe Activities (12pm – 1pm; 2pm – 3pm), Performance &amp; Meet-and-greet
 (1pm -2pm; 3pm – 4pm)</p>
-<p></p>
 <p><strong>Saturday, 23 November</strong>
-</p>
-<p>
-<br>Programme: <em>My Identity: Beyond Artistry</em> by Brahmastra</p>
-<p>
-<br>Venue: Braddell Heights Community Hub</p>
-<p>
+<br>Programme: <em>My Identity: Beyond Artistry</em> by Brahmastra
+<br>Venue: Braddell Heights Community Hub
 <br>Time: Fringe Activities (10.30am – 11.30am; 12.30pm – 1.30pm), Performance
 &amp; Meet-and-greet (11.30am – 12.30pm; 1.30pm – 2.30pm)</p>
-<p></p>
 <p><strong>Saturday, 30 November</strong>
-</p>
-<p>
-<br>Programme:<em>A Bird’s Journey &amp; Melodic Flowers</em> by yIN Harmony</p>
-<p>
-<br>Venue: Blk 216 Boon Lay Avenue Multi-Story Carpark</p>
-<p>
+<br>Programme:<em>A Bird’s Journey &amp; Melodic Flowers</em> by yIN Harmony
+<br>Venue: Blk 216 Boon Lay Avenue Multi-Story Carpark
 <br>Time: Fringe Activities (2.30pm – 3.30pm, 4pm – 5pm), Performance (3.30pm
 &amp; 5pm)</p>
-<p></p>
 <p><strong>Saturday, 30 November</strong>
-</p>
-<p>
 <br>Programme<em>Music in the heART_lands!</em> by Philharmonic Wind Orchestra
-Ensembles</p>
-<p>
-<br>Venue: Blk 728 Clementi West Street Open Space</p>
-<p>
+Ensembles
+<br>Venue: Blk 728 Clementi West Street Open Space
 <br>Time: Fringe Activities (6pm – 6.30pm; 7.15pm – 7.45pm), Performance (6.30pm
 &amp; 7.45pm)</p>
 <p></p>
