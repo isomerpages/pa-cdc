@@ -225,7 +225,8 @@ Ensembles
 </div>
 </details>
 <details class="isomer-details">
-<summary>FEBRUARY 2025</summary>
+<summary><strong>FEBRUARY 2025</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Friday, 14 Feb</strong>
 </p>
@@ -233,8 +234,7 @@ Ensembles
 <p>Venue: Heartbeat@Bedok</p>
 <p>Time: Fringe Activities (4.30pm - 6.30pm), Performance (5pm - 6.30pm)</p>
 <p></p>
-<p>Saturda</p>
-<p>y, 15 Feb</p>
+<p>Saturday, 15 Feb</p>
 <p>Programme: Kito dan Kita by NADI Singapura</p>
 <p>Venue: Brickland CO</p>
 <p>Time: Fringe Activities (9am - 10am; 10.45am - 11.45am), Performance (10am
@@ -573,5 +573,5 @@ use your new found skills in the interactive segment of the performance.</p>
 <p></p>
 <p></p>
 <p></p>
-<p><a href="#ae_page_top" rel="noopener noreferrer nofollow" target="_blank">Return to Top</a>
+<p><a href="#ae_page_top" rel="noopener noreferrer nofollow" target="_blank">Return to To</a>
 </p>
