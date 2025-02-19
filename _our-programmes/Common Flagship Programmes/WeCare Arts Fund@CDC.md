@@ -55,7 +55,8 @@ to find out more about the fund:</p>
 <p>North East CDC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kenneth Tan -&nbsp;&nbsp;<a href="mailto:Kenneth_ZX_TAN@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kenneth_ZX_TAN@pa.gov.sg</a>&nbsp;</p>
+<p>Gayatri Rajakumar - <a href="mailto:Gayatri_RAJAKUMAR@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Gayatri_RAJAKUMAR@pa.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
