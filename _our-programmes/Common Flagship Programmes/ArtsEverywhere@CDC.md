@@ -1,7 +1,7 @@
 ---
 title: ArtsEverywhere@CDC
 permalink: /artseverywhere-cdc/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: Common Flagship Programmes
 ---
@@ -33,7 +33,7 @@ programmes in your heartlands.</p>
 <hr>
 <p></p>
 <h3>Calendar of Events</h3>
-<p><em>Updated as of 26 September</em>
+<p><em>Updated as of 13 February</em>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -230,32 +230,27 @@ Ensembles
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><strong>Friday, 14 Feb</strong>
-</p>
-<p>Programme: Kito dan Kita by NADI Singapura</p>
-<p>Venue: Heartbeat@Bedok</p>
-<p>Time: Fringe Activities (4.30pm - 6.30pm), Performance (5pm - 6.30pm,5.30pm
+<br>Programme: Kito dan Kita by NADI Singapura
+<br>Venue: Heartbeat@Bedok
+<br>Time: Fringe Activities (4.30pm - 6.30pm), Performance (5pm - 6.30pm,5.30pm
 - 8pm)</p>
 <p><strong>Saturday, 15 Feb</strong>
-</p>
-<p>Programme: Kito dan Kita by NADI Singapura</p>
-<p>Venue: Brickland CO</p>
-<p>Time: Fringe Activities (9am - 10am ; 10.45am - 11.45am), Performance
+<br>Programme: Kito dan Kita by NADI Singapura
+<br>Venue: Brickland CO
+<br>Time: Fringe Activities (9am - 10am ; 10.45am - 11.45am), Performance
 (10am - 10.30am ; 11.45am - 12.15pm)</p>
 <p><strong>Sunday, 23 Feb</strong>
-</p>
-<p>Programme: Evergreen Classics by Ding Yi Music Company</p>
-<p>Venue: United Square</p>
-<p>Time: Fringe Activities (10.30am - 2pm), Performance (11am - 1pm)</p>
+<br>Programme: Evergreen Classics by Ding Yi Music Company
+<br>Venue: United Square
+<br>Time: Fringe Activities (10.30am - 2pm), Performance (11am - 1pm)</p>
 <p><strong>Sunday, 23 Feb</strong>
-</p>
-<p>Programme:A Bird’s Journey &amp;amp; Melodic Flowers by yIN Harmony</p>
-<p>Venue: Punggol West CC</p>
-<p>Time: Fringe Activities (7pm - 9pm), Performance (7.30pm - 9.20pm)</p>
+<br>Programme:A Bird’s Journey &amp;amp; Melodic Flowers by yIN Harmony
+<br>Venue: Punggol West CC
+<br>Time: Fringe Activities (7pm - 9pm), Performance (7.30pm - 9.20pm)</p>
 <p><strong>Sunday, 23 Feb</strong>
-</p>
-<p>Programme: Music in the heART_lands! by Philharmonic Wind Orchestra Ensembles</p>
-<p>Venue: Vista Point 548 Woodlands Drive</p>
-<p>Time: Fringe Activities (9am - 10am; 11am – 12pm), Performance (10am -
+<br>Programme: Music in the heART_lands! by Philharmonic Wind Orchestra Ensembles
+<br>Venue: Vista Point 548 Woodlands Drive
+<br>Time: Fringe Activities (9am - 10am; 11am – 12pm), Performance (10am -
 11am; 12pm – 1pm)</p>
 </div>
 </details>
@@ -263,52 +258,52 @@ Ensembles
 <summary><strong>MARCH 2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Friday, 2 Mar</p>
-<p>Programme: Kito dan Kita by NADI Singapura</p>
-<p>Venue: Bukit Gombak CO</p>
-<p>Time: Fringe Activities (6pm - 7pm), Performance (8pm - 8.30pm, 9pm -
+<p>Friday, 2 Mar
+<br>Programme: Kito dan Kita by NADI Singapura
+<br>Venue: Bukit Gombak CO
+<br>Time: Fringe Activities (6pm - 7pm), Performance (8pm - 8.30pm, 9pm -
 9.30pm)</p>
-<p>Saturday, 8 Mar</p>
-<p>Programme: My Identity: Beyond Artistry by Brahmastra Ensemble</p>
-<p>Venue: Yishun Seniors Hub</p>
-<p>Time: Fringe Activities (9am - 10am, 10.45am - 11.45am), Performance (10am
+<p>Saturday, 8 Mar
+<br>Programme: My Identity: Beyond Artistry by Brahmastra Ensemble
+<br>Venue: Yishun Seniors Hub
+<br>Time: Fringe Activities (9am - 10am, 10.45am - 11.45am), Performance (10am
 - 11.30am)</p>
-<p>Saturday, 8 Mar</p>
-<p>Programme: My Identity: Beyond Artistry by Brahmastra Ensemble</p>
-<p>Venue: Heartbeat@Bedok</p>
-<p>Time: Fringe Activities (4pm - 6pm), Performance (4.45pm - 6.15pm)</p>
-<p>Saturday, 8 Mar</p>
-<p>Programme: Music in the heART_lands by Philharmonic Wind Orchestra Ensemble</p>
-<p>Venue: Heartbeat@Bedok</p>
-<p>Time: Fringe Activities (11am - 1pm), Performance (11.45am - 1.15pm)</p>
-<p>Saturday, 8 Mar</p>
-<p>Programme: A Bird's Journey, Melodic Flowers by yIN Harmony</p>
-<p>Venue: One Holland Village</p>
-<p>Time: Fringe Activities (11am - 12pm; 12.45pm – 1.30pm), Performance (12pm
+<p>Saturday, 8 Mar
+<br>Programme: My Identity: Beyond Artistry by Brahmastra Ensemble
+<br>Venue: Heartbeat@Bedok
+<br>Time: Fringe Activities (4pm - 6pm), Performance (4.45pm - 6.15pm)</p>
+<p>Saturday, 8 Mar
+<br>Programme: Music in the heART_lands by Philharmonic Wind Orchestra Ensemble
+<br>Venue: Heartbeat@Bedok
+<br>Time: Fringe Activities (11am - 1pm), Performance (11.45am - 1.15pm)</p>
+<p>Saturday, 8 Mar
+<br>Programme: A Bird's Journey, Melodic Flowers by yIN Harmony
+<br>Venue: One Holland Village
+<br>Time: Fringe Activities (11am - 12pm; 12.45pm – 1.30pm), Performance (12pm
 - 12.45pm; 1.30pm – 2.15pm)</p>
-<p>Saturday, 15 Mar</p>
-<p>Programme: A Bird's Journey, Melodic Flowers by yIN Harmony</p>
-<p>Venue: Margaret Drive Food Centre</p>
-<p>Time: Fringe Activities (6.30pm - 9pm), Performance (7pm - 8.15pm, 8.15pm
+<p>Saturday, 15 Mar
+<br>Programme: A Bird's Journey, Melodic Flowers by yIN Harmony
+<br>Venue: Margaret Drive Food Centre
+<br>Time: Fringe Activities (6.30pm - 9pm), Performance (7pm - 8.15pm, 8.15pm
 - 9pm)</p>
-<p>Saturday, 15 Mar</p>
-<p>Programme: My Identity: Beyond Artistry by Brahmastra Ensemble</p>
-<p>Venue: Khatib Plaza</p>
-<p>Time: Fringe Activities (5pm - 6pm, 7pm - 8pm), Performance (6pm - 8pm)</p>
-<p>Sunday, 16 Mar</p>
-<p>Programme: My Identity: Beyond Artistry by Brahmastra Ensemble</p>
-<p>Venue: Fernvale Centre</p>
-<p>Time: Fringe Activities (6pm - 9pm), Performance (6.30pm - 7.15pm, 8pm
+<p>Saturday, 15 Mar
+<br>Programme: My Identity: Beyond Artistry by Brahmastra Ensemble
+<br>Venue: Khatib Plaza
+<br>Time: Fringe Activities (5pm - 6pm, 7pm - 8pm), Performance (6pm - 8pm)</p>
+<p>Sunday, 16 Mar
+<br>Programme: My Identity: Beyond Artistry by Brahmastra Ensemble
+<br>Venue: Fernvale Centre
+<br>Time: Fringe Activities (6pm - 9pm), Performance (6.30pm - 7.15pm, 8pm
 - 8.45pm)</p>
-<p>Friday, 21 Mar</p>
-<p>Programme: A Bird's Journey, Melodic Flowers by yIN Harmony</p>
-<p>Venue: OTH</p>
-<p>Time: Fringe Activities (6.30pm - 9pm), Performance (7pm - 8.15pm, 8.15pm
-- 9pm)</p>
-<p>Saturday, 29 Mar</p>
-<p>Programme: My Identity: Beyond Artistry by Brahmastra Ensemble</p>
-<p>Venue: Keat Hong CO</p>
-<p>Time: Fringe Activities (12pm - 2pm), Performance (12pm - 12.30pm, 1pm
+<p>Friday, 21 Mar
+<br>Programme: A Bird's Journey, Melodic Flowers by yIN Harmony
+<br>Venue: OTH
+<br>Time: Fringe Activities (6.30pm - 9pm), Performance (7pm - 8.15pm, 8.15pm
+- 9pm)
+</p><p>Saturday, 29 Mar
+<br>Programme: My Identity: Beyond Artistry by Brahmastra Ensemble
+<br>Venue: Keat Hong CO
+<br>Time: Fringe Activities (12pm - 2pm), Performance (12pm - 12.30pm, 1pm
 - 1.30pm)</p>
 </div>
 </details>
