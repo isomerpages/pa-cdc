@@ -258,7 +258,7 @@ Ensembles
 <summary><strong>MARCH 2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Friday, 2 Mar
+<p>Sunday, 2 Mar
 <br>Programme: Kito dan Kita by NADI Singapura
 <br>Venue: Bukit Gombak CO
 <br>Time: Fringe Activities (6pm - 7pm), Performance (8pm - 8.30pm, 9pm -
