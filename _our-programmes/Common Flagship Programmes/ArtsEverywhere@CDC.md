@@ -300,11 +300,10 @@ Ensembles
 <br>Venue: OTH
 <br>Time: Fringe Activities (6.30pm - 9pm), Performance (7pm - 8.15pm, 8.15pm
 - 9pm)
-</p><p>Saturday, 29 Mar
+</p><p>Saturday, 30 Mar
 <br>Programme: My Identity: Beyond Artistry by Brahmastra Ensemble
-<br>Venue: Keat Hong CO
-<br>Time: Fringe Activities (12pm - 2pm), Performance (12pm - 12.30pm, 1pm
-- 1.30pm)</p>
+<br>Venue: Safra Choa Chu Kang
+<br>Time: Performance (5.30pm - 8.30pm)</p>
 </div>
 </details>
 </div>
