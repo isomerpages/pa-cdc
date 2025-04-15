@@ -9,7 +9,14 @@ variant: markdown
 <summary><strong>2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>3 January 2025</strong><br>
+<p><strong>15 April 2025</strong>
+<br>All Singaporean households to get $500 CDC Vouchers from 13 May 2025
+<a href="/files/Press_Release_on_CDC_Vouchers_Launch__May_.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
+</p>
+	<p><strong>30 March 2025</strong>
+<br>ArtsEverywhere@CDC set to reach out to more Singaporeans with double the performances and three times more artists and arts groups <a href="/files/Joint_Media_Release_for_ArtsEveryWhere_CDC_Announcement_29_Mar__Issued_to_Media_.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
+</p>
+	<p><strong>3 January 2025</strong><br>
 $300 worth of CDC Vouchers 2025 (January) for all Singaporean households to support everyday needs <a href="/files/1__Final_Media_Release_and_Quotes_for_Launch_of_CDC_Vouchers_2025.pdf" rel="noopener nofollow" target="_blank">(Media Release)</a>
 </p>
 </div>
