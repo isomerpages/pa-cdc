@@ -1,6 +1,0 @@
-collections:
-  sg60-wecare-arts-exhibition:
-    output: true
-    order:
-      - welcome.md
-      - SASCO Keat Hong cOMMMUNTY.md
