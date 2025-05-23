@@ -5,13 +5,15 @@ description: ""
 third_nav_title: Common Flagship Programmes
 variant: markdown
 ---
-### About CDC Vouchers Scheme 2025 (January)
+### About CDC Vouchers Scheme 2025 (May)
 
-![](/images/Main_banner_with_words.png)
+![](/images/Key_Visual_May_2025.png)
 
-From 3 January 2025, each Singaporean household can claim an additional $300 in CDC Vouchers 2025 digitally at [**go.gov.sg/cdcv**](https://go.gov.sg/cdcv). The CDC Vouchers Scheme 2025 (Jan) is part of the $1.9 billion enhancement to the Assurance Package announced by then Deputy Prime Minister and Finance Minister Mr Lawrence Wong during Budget 2024. The package aims to provide more immediate support for Singaporean households and help defray daily expenses.  
-  
-The value of the vouchers will be allocated equally (i.e. $150 each) to be spent at participating heartland merchants and hawkers, or at participating supermarkets. Singaporean households have until 31 December 2025 to claim and spend their CDC Vouchers 2025.
+Every Singaporean household will receive $500 CDC Vouchers in May 2025. This is in addition to the $300 CDC Vouchers given on 3 January 2025. Therefore, all Singaporean households will receive a total of $800 CDC Vouchers in 2025.
+
+Starting 13 May 2025, you can visit [go.gov.sg/cdcv](https://go.gov.sg/cdcv) to claim the $500 CDC Vouchers (May). The process for claiming and spending the vouchers remains the same.
+
+The CDC Vouchers Scheme 2025 (January) and CDC Vouchers Scheme 2025 (May) are valid till 31 December 2025. More information can be found [here](vouchers.cdc.gov.sg).
 
 ![cdc vouchers merchants](/images/Common%20Flagship%20Progs/CDCV%20Merchants.png)
 The five Community Development Councils (CDCs) would like to invite Heartland Merchant and Hawkers onboard the CDC Vouchers Scheme.  
