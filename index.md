@@ -50,6 +50,7 @@ sections:
         five districts.
       button: Find out more
       url: /who-we-are/our-mayors
+      alt: The Five Mayors
   - infobar:
       title: Common Flagship Programmes
       subtitle: What we do
