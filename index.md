@@ -51,6 +51,7 @@ sections:
       button: Find out more
       url: /who-we-are/our-mayors
       alt: The Five Mayors
+      image: /images/Mayors/blank_mayor.jpg
   - infobar:
       title: Common Flagship Programmes
       subtitle: What we do
