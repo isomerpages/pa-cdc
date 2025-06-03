@@ -33,7 +33,8 @@ of the Community Development Council in that particular district.</p>
 </table>
 <p>We are updating this content. Please visit again. Thank you.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
 </div>
 <p></p>
