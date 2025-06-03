@@ -35,6 +35,6 @@ of the Community Development Council in that particular district.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
 </div>
 <p></p>
