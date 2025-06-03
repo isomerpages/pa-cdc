@@ -3,7 +3,7 @@ title: Our Mayors
 permalink: /who-we-are/our-mayors/
 description: Details on Mayors
 third_nav_title: Office Of The Mayors
-variant: markdown
+variant: tiptap
 ---
 <h2>The Office of the Mayors</h2>
 <table style="minWidth: 50px">
@@ -32,4 +32,8 @@ of the Community Development Council in that particular district.</p>
 </tbody>
 </table>
 <p>We are updating this content. Please visit again. Thank you.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+</div>
 <p></p>
