@@ -47,8 +47,8 @@ to find out more about the fund:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pang Wen Hao -&nbsp;<a href="mailto:PANG_Wen_Hao@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PANG_Wen_Hao@pa.gov.sg</a> 
-<br>Wee Peng Yu -&nbsp;<a href="mailto:WEE_Peng_Yu@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">WEE_Peng_Yu@pa.gov.sg</a>&nbsp;</p>
-<p>Joan Lee - <a href="mailto:Joan_LEE@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Joan_LEE@pa.gov.sg</a>
+<br>Wee Peng Yu -&nbsp;<a href="mailto:WEE_Peng_Yu@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">WEE_Peng_Yu@pa.gov.sg</a>&nbsp;
+<br>Joan Lee - <a href="mailto:Joan_LEE@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Joan_LEE@pa.gov.sg</a>
 </p>
 </td>
 </tr>
