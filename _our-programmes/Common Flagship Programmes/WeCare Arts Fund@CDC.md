@@ -3,7 +3,7 @@ title: WeCare Arts Fund@CDC
 permalink: /our-programmes/wecare-arts-fund/
 description: ""
 third_nav_title: Common Flagship Programmes
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="we care arts fund exhibition experiences" src="/images/Common%20Flagship%20Progs/wecare%20arts%20fund.png">
