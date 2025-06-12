@@ -47,7 +47,9 @@ to find out more about the fund:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pang Wen Hao -&nbsp;<a href="mailto:PANG_Wen_Hao@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PANG_Wen_Hao@pa.gov.sg</a> 
-<br>Wee Peng Yu -&nbsp;<a href="mailto:WEE_Peng_Yu@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">WEE_Peng_Yu@pa.gov.sg</a>&nbsp;</p>
+<br>Wee Peng Yu -&nbsp;<a href="mailto:WEE_Peng_Yu@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">WEE_Peng_Yu@pa.gov.sg</a>&nbsp;
+<br>Joan Lee - <a href="mailto:Joan_LEE@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Joan_LEE@pa.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -75,7 +77,8 @@ to find out more about the fund:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Kenneth Poh&nbsp;-&nbsp;<a href="mailto:Kenneth_POH@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kenneth_POH@pa.gov.sg</a> 
-<br>Soh Chye Horng -&nbsp;<a href="mailto:SOH_Chye_Horng@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">SOH_Chye_Horng@pa.gov.sg</a>&nbsp;</p>
+<br>Ruzaidah Rasid -&nbsp;<a href="mailto:Ruzaidah_RASID@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ruzaidah_RASID@pa.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

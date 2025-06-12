@@ -3,7 +3,7 @@ title: Our Mayors
 permalink: /who-we-are/our-mayors/
 description: Details on Mayors
 third_nav_title: Office Of The Mayors
-variant: tiptap
+variant: markdown
 ---
 <h2>The Office of the Mayors</h2>
 <table style="minWidth: 50px">
