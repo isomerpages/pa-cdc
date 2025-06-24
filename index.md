@@ -35,10 +35,11 @@ sections:
       subtitle: who we are
       image: /images/cdc-logo.png
   - infobar:
-      title: Office of the Mayors
+      title: The Five Districts
       id: infobar
-      description: The Office of the Mayors in Singapore serves the residents in the
-        five districts.
+      description: The CDCs work closely with grassroots, government, school,
+        community and corporate partners to support the unique needs of each
+        district.
       button: Find out more
       url: /who-we-are/mission
   - infobar:
