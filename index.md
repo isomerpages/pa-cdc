@@ -34,24 +34,21 @@ sections:
       alt: CDC Logo
       subtitle: who we are
       image: /images/cdc-logo.png
-  - infopic:
+  - infobar:
       title: The Five Districts
+      id: infobar
       description: The CDCs work closely with grassroots, government, school,
         community and corporate partners to support the unique needs of each
         district.
       button: Find out more
-      alt: The Five Districts
-      url: /who-we-are/five-districts
-      image: /images/Five Districts V2.png
-  - infopic:
+      url: /who-we-are/mission
+  - infobar:
       title: Office of the Mayors
-      id: infopic
+      id: infobar
       description: The Office of the Mayors in Singapore serves the residents in the
         five districts.
       button: Find out more
-      url: /who-we-are/our-mayors
-      alt: The Five Mayors
-      image: /images/Mayors/blank_mayor.jpg
+      url: /who-we-are/our-mayors/
   - infobar:
       title: Common Flagship Programmes
       subtitle: What we do
