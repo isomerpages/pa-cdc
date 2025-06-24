@@ -48,7 +48,7 @@ sections:
       description: The Office of the Mayors in Singapore serves the residents in the
         five districts.
       button: Find out more
-      url: /who-we-are/mission
+      url: /who-we-are/our-mayors/
   - infobar:
       title: Common Flagship Programmes
       subtitle: What we do
