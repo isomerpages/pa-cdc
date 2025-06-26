@@ -5,85 +5,90 @@ description: ""
 third_nav_title: Office Of The Mayors
 variant: markdown
 ---
-![Mayors Swearing In 2020](/images/Mayors%20Swearing%20In/2020-Mayors-Swearing-In-Ceremony.jpg)
-<strong></strong>
-* Mr Desmond Choo, Mayor of North East District<br>
-* Ms Low Yen Ling, Chairperson of Mayors’ Committee and Mayor of South West District<br>
-* Prime Minister Lee Hsien Loong, Chairman of People’s Association<br>
-* Ms Denise Phua Lay Peng, Mayor of Central Singapore District<br>
-* Mr Alex Yam, Mayor of North West District<br>
+<strong>Newest Term:</strong><br>
+* Ms Low Yen Ling, Chairman of Mayors' Committee &amp; Mayor of South West District
+* Mr Baey Yam Keng, Mayor of North East District
+* Mr Dinesh Vasu Dash, Mayor of South East District
+* Ms Denise Phua Lay Peng, Mayor of Central Singapore District
+* Mr Alex Yam, Mayor of North West District
+
+<br>
+
+<strong>27 July 2023 – 26 July 2026:</strong><br>
+* Ms Low Yen Ling, Chairman of Mayors' Committee &amp; Mayor of South West District
+* Mr Desmond Choo, Mayor of North East District
+* Mr Alex Yam, Mayor of North West District
 * Mr Fahmi Aliman, Mayor of South East District
-
-
-![Mayors Swearing in 2017](/images/Mayors%20Swearing%20In/2017-mayors-swearing-in.jpg)
-
-
-* Mr Desmond Choo, Mayor of North East District<br>
-* Dr Teo Ho Pin, Mayor of North West District<br>
-* Ms Low Yen Ling, Chairman of Mayors' Committee &amp; Mayor of South West District<br>
-* Prime Minister Lee Hsien Loong, Chairman of People’s Association<br>
-* Dr Mohamad Maliki Bin Osman, Mayor of South East District<br>
 * Ms Denise Phua Lay Peng, Mayor of Central Singapore District
 
+<br>
 
-![Mayors Swearing in 2014](/images/Mayors%20Swearing%20In/2014-mayors-swearing.jpg)
-* Dr Mohamad Maliki Osman, Mayor of South East District<br>
-* Prime Minister Lee Hsien Loong, Chairman of People’s Association<br>
-* Ms Low Yen Ling, Mayor of South West District 
+<strong>27 July 2020 – 26 July 2023:</strong><br>
+* Ms Low Yen Ling, Chairman of Mayors' Committee &amp; Mayor of South West District
+* Mr Desmond Choo, Mayor of North East District
+* Mr Alex Yam, Mayor of North West District
+* Mr Fahmi Aliman, Mayor of South East District
+* Ms Denise Phua Lay Peng, Mayor of Central Singapore District
 
-(Second row, from left to right)
-* Dr Teo Ho Pin, Mayor of North West District<br>
-* Ms Denise Phua Lay Peng, Mayor of Central Singapore District<br>
-* Mr Teo Ser Luck, Chairman of Mayors' Committee &amp; Mayor of North East District
+<br>
 
-
-![Mayors Swearing in 2011](/images/Mayors%20Swearing%20In/2011-mayors-swearing-in.jpg)
-
-* Dr Mohamad Maliki Osman, Mayor of South East District<br>
-* Mr Teo Ser Luck, Mayor of North East District
-* Mr Lim Swee Say, Deputy Chairman of People’s Association<br>
-* Prime Minister Lee Hsien Loong, Chairman of People’s Association<br>
-* Dr Amy Khor Lean Suan, Chairman of Mayors' Committee &amp; Mayor of South West District<br>
+<strong>27 May 2017 – 26 July 2020:</strong><br>
+* Ms Low Yen Ling, Chairman of Mayors' Committee &amp; Mayor of South West District
+* Mr Desmond Choo, Mayor of North East District
 * Dr Teo Ho Pin, Mayor of North West District
+* Dr Mohamad Maliki Osman, Mayor of South East District
+* Ms Denise Phua Lay Peng, Mayor of Central Singapore District
+
+<br>
+
+<strong>27 May 2014 – 26 May 2017:</strong><br>
+* Mr Teo Ser Luck, Chairman of Mayors' Committee &amp; Mayor of North East District
+* Dr Teo Ho Pin, Mayor of North West District
+* Ms Low Yen Ling, Mayor of South West District
+* Dr Mohamad Maliki Osman, Mayor of South East District
+* Ms Denise Phua Lay Peng, Mayor of Central Singapore District
+
+<br>
+
+<strong>27 May 2011 – 26 May 2014:</strong><br>
+* Dr Amy Khor Lean Suan, Chairman of Mayors' Committee &amp; Mayor of South West District
+* Dr Teo Ho Pin, Mayor of North West District
+* Dr Mohamad Maliki Osman, Mayor of South East District
+* Mr Teo Ser Luck, Mayor of North East District
 * Mr Sam Tan Chin Siong, Mayor of Central Singapore District
 
+<br>
 
-![Mayors Swearing in 2009](/images/Mayors%20Swearing%20In/2009-mayors-swearing-in.jpg)
-
-* Mr Zainudin Nordin, Mayor of Central Singapore District<br>
+<strong>31 May 2009 – 26 May 2011:</strong><br>
 * Dr Teo Ho Pin, Mayor of North West District
-* Mr Lim Boon Heng, Deputy Chairman of People’s Association<br>
-* Prime Minister Lee Hsien Loong, Chairman of People’s Association<br>
-* Mr Matthias Yao, Mayor of South East District<br>
 * Dr Amy Khor Lean Suan, Mayor of South West District
-* Mr Teo Ser Luck, Mayor of North East District
-
-
-![Mayors Swearing in 2006](/images/Mayors%20Swearing%20In/2006-mayors-swearing-in.jpg)
-
-* Mr Zainudin Nordin, Mayor of Central Singapore District<br>
-* Dr Teo Ho Pin, Mayor of North West District
-* Mr Zainul Abidin Rasheed, Mayor of North East District<br>
-* Mr Wong Kan Seng, Deputy Chairman of People’s Association<br>
-* Mr Matthias Yao, Mayor of South East District<br>
-* Dr Amy Khor Lean Suan, Mayor of South West District
-
- 
-![Mayors Swearing in 2004](/images/Mayors%20Swearing%20In/2004-mayors-swearing-in.jpg)
-
-* Dr Teo Ho Pin, Mayor of North West District<br>
-* Mr Heng Chee How, Mayor of Central Singapore District
-* Mr Chan Soo Sen, Board Member of People’s Association<br>
-* Mr Wong Kan Seng, Deputy Chairman of People’s Association<br>
-* Mr Zainul Abidin Rasheed, Mayor of North East District<br>
 * Mr Matthias Yao, Mayor of South East District
+* Mr Teo Ser Luck, Mayor of North East District
+* Mr Zainudin Nordin, Mayor of Central Singapore District
+
+<br>
+
+<strong>30 May 2006 – 30 May 2009:</strong><br>
+* Dr Teo Ho Pin, Mayor of North West District
 * Dr Amy Khor Lean Suan, Mayor of South West District
+* Mr Matthias Yao, Mayor of South East District
+* Mr Zainul Abidin Rasheed, Mayor of North East District
+* Mr Heng Chee How, Mayor of Central Singapore District
 
+<br>
 
-![Mayors Swearing in 2002](/images/Mayors%20Swearing%20In/2002-mayors-swearing-in.jpg)
+<strong>12 August 2004 – 29 May 2006:</strong><br>
+* Dr Teo Ho Pin, Mayor of North West District
+* Dr Amy Khor Lean Suan, Mayor of South West District
+* Mr Matthias Yao, Mayor of South East District
+* Mr Zainul Abidin Rasheed, Mayor of North East District
+* Mr Heng Chee How, Mayor of Central Singapore District
 
-* Dr Teo Ho Pin, Mayor of North West District<br>
+<br>
+
+<strong>24 November 2001 – 11 August 2004:</strong><br>
+* Dr Teo Ho Pin, Mayor of North West District
 * Mrs Yu-Foo Yee Shoon, Mayor of South West District
-* Mr Othman Haron Eusofe, Mayor of South East District<br>
-* Mr Zainul Abidin Rasheed, Mayor of North East District<br>
-* Mr Heng Chee How, Mayor of Central Singapore District<br>
+* Mr Othman Haron Eusofe, Mayor of South East District
+* Mr Zainul Abidin Rasheed, Mayor of North East District
+* Mr Heng Chee How, Mayor of Central Singapore District
