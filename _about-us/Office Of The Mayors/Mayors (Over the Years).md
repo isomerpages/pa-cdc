@@ -5,26 +5,26 @@ description: ""
 third_nav_title: Office Of The Mayors
 variant: markdown
 ---
-<strong>Newest Term:</strong>
+<strong>23 May 2025 to 22 May 2028:</strong>
 * Ms Low Yen Ling, Chairman of Mayors' Committee &amp; Mayor of South West District
 * Mr Baey Yam Keng, Mayor of North East District
 * Mr Dinesh Vasu Dash, Mayor of South East District
 * Ms Denise Phua Lay Peng, Mayor of Central Singapore District
 * Mr Alex Yam, Mayor of North West District
 
-<strong>27 July 2023 – 26 July 2026:</strong>
+<strong>27 July 2023 to 22 May 2025:</strong>
 * Ms Low Yen Ling, Chairman of Mayors' Committee &amp; Mayor of South West District
+* Ms Denise Phua Lay Peng, Mayor of Central Singapore District
 * Mr Desmond Choo, Mayor of North East District
 * Mr Alex Yam, Mayor of North West District
 * Mr Fahmi Aliman, Mayor of South East District
-* Ms Denise Phua Lay Peng, Mayor of Central Singapore District
 
 <strong>27 July 2020 – 26 July 2023:</strong>
 * Ms Low Yen Ling, Chairman of Mayors' Committee &amp; Mayor of South West District
+* Ms Denise Phua Lay Peng, Mayor of Central Singapore District
 * Mr Desmond Choo, Mayor of North East District
 * Mr Alex Yam, Mayor of North West District
 * Mr Fahmi Aliman, Mayor of South East District
-* Ms Denise Phua Lay Peng, Mayor of Central Singapore District
 
 <strong>27 May 2017 – 26 July 2020:</strong>
 * Ms Low Yen Ling, Chairman of Mayors' Committee &amp; Mayor of South West District
