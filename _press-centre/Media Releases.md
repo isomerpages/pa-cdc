@@ -9,6 +9,10 @@ variant: markdown
 <summary><strong>2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>1 July 2025</strong>
+<br>	Singaporeans to Receive SG60 Vouchers in Celebration of Nation's 60 Years of Nation-Building from 1 July 2025
+<a href="/files/Press%20Releases/For_Media___SG60_Vouchers_Media_Release.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
+</p>
 <p><strong>15 April 2025</strong>
 <br>All Singaporean households to get $500 CDC Vouchers from 13 May 2025
 <a href="/files/Press_Release_on_CDC_Vouchers_Launch__May_.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
