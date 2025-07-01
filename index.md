@@ -41,7 +41,7 @@ sections:
         community and corporate partners to support the unique needs of each
         district.
       button: Find out more
-      url: /who-we-are/mission
+      url: /who-we-are/five-districts/
   - infobar:
       title: Office of the Mayors
       id: infobar
