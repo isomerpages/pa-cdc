@@ -34,14 +34,16 @@ sections:
       alt: CDC Logo
       subtitle: who we are
       image: /images/cdc-logo.png
-  - infobar:
+  - infopic:
       title: The Five Districts
-      id: infobar
+      id: infopic
       description: The CDCs work closely with grassroots, government, school,
         community and corporate partners to support the unique needs of each
         district.
       button: Find out more
       url: /who-we-are/five-districts/
+      image: /images/District_Map_FY2024.png
+      alt: Image alt text
   - infobar:
       title: Office of the Mayors
       id: infobar
