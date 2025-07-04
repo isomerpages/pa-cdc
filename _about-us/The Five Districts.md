@@ -13,6 +13,10 @@ planning and development of the five CDCs, while also coordinating and
 looking after the Office of the Mayors and International Relations.
 <br>For more details, please visit the <a href="https://www.sgdi.gov.sg/ministries/mccy/statutory-boards/pa/departments/partnership" rel="noopener noreferrer nofollow" target="_blank">Government Interactive Directory.</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/District_Map_FY2024.png">
+</div>
 <p>Locate your <a href="https://www.gowhere.gov.sg/cdc" rel="noopener noreferrer nofollow" target="_blank">district/CDC</a>.</p>
 <p></p>
 <table style="minWidth: 50px">
