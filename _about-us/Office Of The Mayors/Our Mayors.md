@@ -33,6 +33,6 @@ of the Community Development Council in that particular district.</p>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mayors___04072025.png">
 </div>
 <p></p>
