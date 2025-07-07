@@ -5,3 +5,17 @@ variant: tiptap
 description: ""
 third_nav_title: WeCare Arts Exhibition 2025
 ---
+<h1>ABILITIES BEYOND LIMITATIONS &amp; EXPECTATIONS</h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Central___Abilities_Beyond_Limitations__Expectations__1_.jpg">
+</div>
+<p>Celebrating 15 years of impact at ABLE and SG60 for Singapore, ABLE’s
+clients showcased unity, hope, and resilience through art—illuminating
+dreams for an inclusive, cohesive future where #WEareABLE to shape tomorrow.</p>
+<p>Celebrating SG60 and 15 years of impact, ABLE honours the journey of donors,
+volunteers, service providers, staff and clients in expressing deep gratitude
+and shared achievements in building an inclusive society.</p>
+<p>Aligned with SG60, ABLE expresses its dreams for an inclusive, united
+future through using art to reflect Singapore’s strength in diversity and
+shared responsibility for generations ahead.</p>
