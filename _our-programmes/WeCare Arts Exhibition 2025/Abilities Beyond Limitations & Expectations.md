@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: WeCare Arts Exhibition 2025
 ---
-<h1>ABILITIES BEYOND LIMITATIONS &amp; EXPECTATIONS</h1>
+<h3>ABILITIES BEYOND LIMITATIONS &amp; EXPECTATIONS</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Central___Abilities_Beyond_Limitations__Expectations__1_.jpg">
