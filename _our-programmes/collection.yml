@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - WeCare Arts Exhibition 2025/.keep
       - Common Flagship Programmes/.keep
       - Common Flagship Programmes/Overview.md
       - Common Flagship Programmes/ArtsEverywhere@CDC.md
@@ -24,4 +23,5 @@ collections:
       - Gallery/2020.md
       - Gallery/2019.md
       - Gallery/2018.md
+      - WeCare Arts Exhibition 2025/.keep
       - Getting Help.md
