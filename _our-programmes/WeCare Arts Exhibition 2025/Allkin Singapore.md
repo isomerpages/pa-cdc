@@ -9,7 +9,7 @@ third_nav_title: WeCare Arts Exhibition 2025
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Central___Allkin_Singapore_Ltd__2_.jpg">
 </div>
-<p><strong>Title: One HeArt One Home- Culture Celebration,  SG 60 - Festival Celebrations</strong>
+<p><strong>Title: One HeArt One Home- Culture Celebration, SG 60 - Festival Celebrations</strong>
 </p>
 <p><strong>Project Description:</strong>
 </p>
