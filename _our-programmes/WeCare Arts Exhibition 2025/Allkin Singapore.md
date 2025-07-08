@@ -7,7 +7,7 @@ third_nav_title: WeCare Arts Exhibition 2025
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Central___Allkin_Singapore_Ltd.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Central___Allkin_Singapore_Ltd__2_.jpg">
 </div>
 <p><strong>One HeArt One Home SG 60 - Festival Celebrations</strong>
 </p>
@@ -23,9 +23,7 @@ promoted cognitive stimulation, emotional well-being, and gentle physical
 activity. By encouraging storytelling and cultural sharing, "One Heart
 One Home" fostered a sense of belonging, purpose, and joy—leaving behind
 both beautiful artwork and heartfelt memories.</p>
-<p>
-<br>
-<br><strong>SG60 – Festival Celebrations</strong>
+<p><strong>SG60 – Festival Celebrations</strong>
 <br>
 <br>Around 25 enthusiastic participants came together to collaboratively create
 six large 50x50 cm canvases themed around SG60 – Festival Celebrations.
