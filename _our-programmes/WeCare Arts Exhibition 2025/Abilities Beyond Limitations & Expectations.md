@@ -20,4 +20,4 @@ and shared achievements in building an inclusive society.</p>
 <p>Aligned with SG60, ABLE expresses its dreams for an inclusive, united
 future through using art to reflect Singapore’s strength in diversity and
 shared responsibility for generations ahead.</p>
-<p>Artist(s):</p>
+<p><strong>Artist(s)</strong>: Ishizawa Xin Yi</p>
