@@ -17,7 +17,7 @@ third_nav_title: WeCare Arts Exhibition 2025
 community come together in art — strengthening resilience, nurturing independence,
 and shaping an inclusive SG60 and beyond.</p>
 <p><strong>Artist(s):</strong> Karen Koh &amp; Jun Lee</p>
-<p><strong> Project Participants: </strong>
+<p><strong>Project Participants:</strong>
 </p>
 <p>Ahmad (42), Nur Yusuf Islam Lim Bin Muhammad Isa Lim (15), Juliana Binte
 Mohamad (45), Muhammad Ridhwan Masli (19), Ahmad (42), Nur Yusuf Islam
