@@ -21,3 +21,7 @@ and shared achievements in building an inclusive society.</p>
 future through using art to reflect Singapore’s strength in diversity and
 shared responsibility for generations ahead.</p>
 <p><strong>Artist(s)</strong>: Ishizawa Xin Yi</p>
+<p><strong>Participant(s)</strong>:</p>
+<p>Jacelyn Ang Chiew Cheng (52), Chuan Chen (35), Tea Li Yin (50), Scott
+Hudson (57), Luman Lek Long Kiat (49), Nicholas Chiu Ding Zheng (26), Evelyn
+Chen Siew Fun (51)</p>
