@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: WeCare Arts Exhibition 2025
 ---
-<h3>ALLKIN SINGAPORE</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Central___Allkin_Singapore_Ltd.jpg">
