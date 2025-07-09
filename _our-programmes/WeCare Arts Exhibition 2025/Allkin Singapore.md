@@ -35,20 +35,21 @@ New Year, Hari Raya, National Day, Vesak Day, Deepavali, and Christmas.</p>
 <p><strong>Artist: </strong>Shivali Mathur</p>
 <p><strong>Participant(s)</strong>:</p>
 <p>LOW MUE KUEN(86),HENG KHAR CHOO(67),JUMA'IAH BINTE SAMIAN(81),YIP LI JUN
-ELIZABETH(67),ONG HENG NEO AGNES(81),TANG MUN WAI(75),FANG AH SENG(74),CHEW
-YEOK WEI(77),LIM SIEW KEK (74),LEE BOON HWANG(85),LOH PEGGY(71),TAN KAH
-BUAY(71}MARUHUMAI BINTI MALADER(79),KONG AH SOO(83),TANG POH KHENG(74),WU
-CHEN CHAO LEY(81),PANG AH MOY(81),NEO SWEE POH(86),TAN PEK YANG(78),WONG
-BOON LOKE(71),YONG TONG SENG(63) ,SIM LEH MOI(73),KHOO WING KIAW(76),HO
-AH KUN(79),HO WAI KEW(66),CHAN MOEY MOEY(77),KWOK POH CHUN(65),CHOO KON
-HUA JEAN(84),CHEN YUEH LUN(89),WEE AH MOI7(78),KOH GUEK CHENG (MARY)(75),AW
-QUEE (ELSIE)(79),CHEONG YOKE KENG(74),YEO LAN CHENG(77),Choong Lee Hah(75),Tan
-Teng Huat(70),Wong Siew Lan Alice(83),Tan Kah Lang(68),Tock Sim (78),Chua
-Aie (78),Tan Ah Leh(76),Lee Hoe Siang(77),Lim Seok Cheng(79),Tan Sok Kheng
-@ Tan Shok Tuang(78),Tay Bee Yian (71),Lao Sao Nyai @ Loh Yuet Khang (83),Tan
-Soh Hong (88),Koh Choon Eng (82),Loh Yew Wong (76),Salamah Binte Ahmad
-(71),Tan Ah Kim Eunice (73),Lim Liak Mui Angie (72),Lim Swee Geok Ann(70),Wong
-Hoi Chang(74),Huan Geok Ngoh,Chew Geok Ngoh (Shirly)(70),Ong Kok Keong(69),Teo
-Siew Kwee (75),Lim Chia Lang (70),Png Suat Woon(72),Ng Geok Lan (82),Phua
-Khek (79),Lim Hong Choo Susan (71)</p>
+ELIZABETH(67),ONG HENG NEO AGNES(81),TANG MUN WAI (75), FANG AH SENG (74),CHEW
+YEOK WEI (77),LIM SIEW KEK (74),LEE BOON HWANG (85), LOH PEGGY (71),TAN
+KAH BUAY (71), MARUHUMAI BINTI MALADER (79), KONG AH SOO (83), TANG POH
+KHENG (74),WU CHEN CHAO LEY (81), PANG AH MOY (81), NEO SWEE POH (86),TAN
+PEK YANG (78), WONG BOON LOKE (71), YONG TONG SENG (63) ,SIM LEH MOI (73),
+KHOO WING KIAW (76), HO AH KUN (79), HO WAI KEW (66), CHAN MOEY MOEY (77),
+KWOK POH CHUN (65), CHOO KON HUA JEAN (84), CHEN YUEH LUN (89), WEE AH
+MOI (78),KOH GUEK CHENG MARY (75), AW QUEE ELSIE (79), CHEONG YOKE KENG
+(74), YEO LAN CHENG (77), Choong Lee Hah (75), Tan Teng Huat (70), Wong
+Siew Lan Alice(83),Tan Kah Lang(68),Tock Sim (78),Chua Aie (78),Tan Ah
+Leh(76),Lee Hoe Siang(77),Lim Seok Cheng(79),Tan Sok Kheng @ Tan Shok Tuang(78),Tay
+Bee Yian (71),Lao Sao Nyai @ Loh Yuet Khang (83),Tan Soh Hong (88),Koh
+Choon Eng (82),Loh Yew Wong (76),Salamah Binte Ahmad (71),Tan Ah Kim Eunice
+(73),Lim Liak Mui Angie (72),Lim Swee Geok Ann(70),Wong Hoi Chang(74),Huan
+Geok Ngoh,Chew Geok Ngoh (Shirly)(70),Ong Kok Keong(69),Teo Siew Kwee (75),Lim
+Chia Lang (70),Png Suat Woon(72),Ng Geok Lan (82),Phua Khek (79),Lim Hong
+Choo Susan (71)</p>
 <p></p>
