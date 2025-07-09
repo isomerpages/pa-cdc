@@ -1,11 +1,11 @@
 ---
 title: Be Kind SG
 permalink: /be-kind-sg/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: WeCare Arts Exhibition 2025
 ---
-<p>Title: Weaving Dreams, Crafting Ways</p>
+<p><strong>Title</strong>: Weaving Dreams, Crafting Ways</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/South_West___Be_Kind_SG.jpg">
 </div>
