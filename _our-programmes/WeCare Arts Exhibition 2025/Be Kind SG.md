@@ -5,11 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: WeCare Arts Exhibition 2025
 ---
-<p></p>
+<p>Title: Weaving Dreams, Crafting Ways</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/South_West___Be_Kind_SG.jpg">
 </div>
-<p><strong>Title:</strong> Weaving Dreams, Crafting Ways</p>
+<p><strong>Title:</strong> Weaving Dreams, Crafting Way</p>
 <p></p>
 <p><strong>Project description:</strong>
 </p>
@@ -22,11 +22,6 @@ and shaping an inclusive SG60 and beyond.</p>
 <p>Ahmad (42), Nur Yusuf Islam Lim Bin Muhammad Isa Lim (15), Juliana Binte
 Mohamad (45), Muhammad Ridhwan Masli (19), Ahmad (42), Nur Yusuf Islam
 Lim Bin Muhammad Isa Lim (15), Juliana Binte Mohamad (45), Muhammad Ridhwan
-Masli (19),</p>
-<p>Jarizan Binte Misinari (47), Muhammad Nabil Bin Mohammad Fazulli (16),
-Sun Meilan (52), Sng Jay Yik (18),B.Sri Devi Balpanathan (48), Dipti Shri
-B K (13)</p>
-<p>Jarizan Binte Misinari (47), Muhammad Nabil Bin Mohammad Fazulli (16),
-Sun Meilan (52), Sng Jay Yik (18),B.Sri Devi Balpanathan (48), Dipti Shri
-B K (13)</p>
+Masli (19), B.Sri Devi Balpanathan (48), Dipti Shri B K (13)</p>
+<p></p>
 <p></p>
