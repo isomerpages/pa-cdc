@@ -9,7 +9,7 @@ third_nav_title: WeCare Arts Exhibition 2025
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/South_East___Geylang_East_Home_for_the_Aged__2_.jpg">
 </div>
-<p><strong>Project Description: </strong>
+<p><strong>Project Description:</strong>
 </p>
 <p>This collaborative artwork expresses the heartfelt hopes of our seniors
 for the Singapore of tomorrow; one that is deeply connected to nature and
