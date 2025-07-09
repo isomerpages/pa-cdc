@@ -12,7 +12,7 @@ third_nav_title: WeCare Arts Exhibition 2025
 </div>
 <p><strong>Project Description:</strong>
 </p>
-<p><strong>One HeArt One Home SG 60 - Festival Celebrations</strong>
+<p><strong>One HeArt One Home - Culture Celebration</strong>
 </p>
 <p>One Heart One Home" is a community art initiative designed to engage seniors
 in creative expression while promoting social connection, cultural appreciation,
