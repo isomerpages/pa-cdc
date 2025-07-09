@@ -5,10 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: WeCare Arts Exhibition 2025
 ---
-<p></p>
+<p><strong>Title:</strong> Finding Oneself in Another, from Seed to Bloom</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/North_East___Bethesda_Care__2_.jpg">
 </div>
+<p><strong>Project Description:</strong>
+</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -42,4 +44,10 @@ creation, but a powerful expression of care, solidarity, and mutual respect.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong>Artist: </strong>Dawn Kwan</p>
+<p><strong>Project Participant(s):</strong>
+</p>
+<p>Ang Bee Keow (48), Lee Goon Lian (61), Malini D/O Baskaran (44), Nicholas
+Lee Loong Keong (37), Nicole Slatter (46), Serene Sng Wan Yan (39), Shirley
+Tan Ah Giek (67), Tan Cheng Soon (63), Tan Hwee Gek (64), Yeow Kwai Fong
+(66)</p>
