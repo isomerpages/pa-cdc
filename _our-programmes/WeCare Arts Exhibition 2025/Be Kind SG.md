@@ -9,7 +9,6 @@ third_nav_title: WeCare Arts Exhibition 2025
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/South_West___Be_Kind_SG.jpg">
 </div>
-<p><strong>Title:</strong> Weaving Dreams, Crafting Way</p>
 <p></p>
 <p><strong>Project description:</strong>
 </p>
