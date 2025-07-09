@@ -7,7 +7,7 @@ third_nav_title: WeCare Arts Exhibition 2025
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Central___Abilities_Beyond_Limitations__Expectations__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Central___Abilities_Beyond_Limitations__Expectations__3_.jpg">
 </div>
 <p><strong>Project Description:</strong>
 </p>
