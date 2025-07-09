@@ -20,7 +20,7 @@ nine beautifully engraved ceramic tiles each, and around 100 more tiles
 welcoming visitors at the entrance. Each tile carries a special blessing
 for SG60.</p>
 <p><strong>Artist(s): </strong>Vanessa Tong</p>
-<p><strong>Project Participants: </strong>
+<p><strong>Project Participants:</strong>
 </p>
 <p>Chew Goh Chia Julie (75), Choe Sook Fong Sophia (67), Chong Moi Yin May
 (70), Hong Wai Fung (63), Hong Wai Lan (62), Hong Wai Chong Dora (58),
