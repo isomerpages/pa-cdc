@@ -9,4 +9,4 @@ variant: markdown
   
 As the first point of help for SMEs, the SME Centres@CDC provide local businesses with integrated services including business and productivity diagnosis, guidance on the government assistance schemes and capability workshops.  
   
-Click [here](https://www.enterprisesg.gov.sg/about-us/contact-us/sme-centres) to make an appointment.  
+Click [here](https://www.enterprisesg.gov.sg/about-us/contact-us/sme-centres) to make an appointment.
