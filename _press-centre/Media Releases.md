@@ -177,7 +177,7 @@ the COVID-19 Situation <a href="/files/Press%20Releases/final-media-release---la
 </p>
 <p><strong>19 September 2019</strong>
 <br>Launch of the WeCare Arts Exhibition 2019 with a $1 Million Injection
-for the WeCare Arts Fund <a href="/files/Press%20Releases/final-joint-media-release---law-awareness-weeks-20119.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
+for the WeCare Arts Fund <a href="/files/Press%20Releases/final-joint-media-release---wecare-arts-exhibition-2019.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
 </p>
 </div>
 </details>
