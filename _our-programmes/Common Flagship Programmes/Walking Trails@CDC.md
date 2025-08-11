@@ -19,3 +19,7 @@ digital challenges and earn rewards while spending quality time with friends
 and family.&nbsp; This initiative aligns with CDCs’ commitment to building
 Healthy and Inclusive communities, for a more active, empowered, and connected
 community.</p>
+<h4>Ready to Start Your Adventure?</h4>
+<p>Visit <a href="https://www.crowdtask.gov.sg/quest/walking-trails-cdc" rel="noopener nofollow" target="_blank">www.crowdtask.gov.sg/quest/walking-trails-cdc</a> and
+step into a healthier, happier you — one fun step at a time!</p>
+<p></p>
