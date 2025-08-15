@@ -7,7 +7,7 @@ third_nav_title: Common Flagship Programmes
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WTCDC_Logo_Banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WT_KV.jpg">
 </div>
 <h4>About Walking Trails@CDC</h4>
 <p>Walking Trails@CDC is an innovative phygital initiative by the five Community
@@ -28,6 +28,9 @@ for 5 trails!):
 <br>✅ $5 when you complete all 5 checkpoints
 <br>✅ Additional $5 when you collect 5 Ollies along the trail</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ollies.png">
+</div>
 <h4>Ready to Start Your Adventure?</h4>
 <p>Visit <a href="https://www.crowdtask.gov.sg/quest/walking-trails-cdc" rel="noopener nofollow" target="_blank">www.crowdtask.gov.sg/quest/walking-trails-cdc</a> and
 step into a healthier, happier you — one fun step at a time!</p>
