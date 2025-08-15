@@ -1,7 +1,7 @@
 ---
 title: Walking Trails@CDC
 permalink: /walking-trails-cdc/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Common Flagship Programmes
 ---
@@ -97,7 +97,7 @@ $50 for 5 trails!):
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ollies.png">
 </div>
 <h4>Ready to Start Your Adventure?</h4>
-<p>Visit <a href="https://www.crowdtask.gov.sg/quest/walking-trails-cdc" rel="noopener nofollow" target="_blank">www.crowdtask.gov.sg/quest/walking-trails-cdc </a>to
+<p>Visit <a href="https://www.crowdtask.gov.sg/quest/walking-trails-cdc" rel="noopener nofollow" target="_blank">www.crowdtask.gov.sg/quest/walking-trails-cdc</a> to
 step into a healthier, happier you — one fun step at a time!</p>
 <p>Walking Trails@CDC is open to all Singaporean Citizens and Permanent Residents
 aged 15 and above with Singpass and CrowdTaskSG accounts.</p>
