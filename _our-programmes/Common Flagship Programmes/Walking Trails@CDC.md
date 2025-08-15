@@ -22,7 +22,7 @@ community.</p>
 <h4>Discover Your District</h4>
 <p>Embark on five specially curated trails to enjoy a unique digital experience
 and unearth hidden gems in your neighbourhood while keeping fit!</p>
-<h4>Earn up to $50 </h4>
+<h4>Earn up to $50</h4>
 <p>Complete each trail to earn up to $10 in RewardsSG Vouchers (that’s $50
 for 5 trails!):
 <br>✅ $5 when you complete all 5 checkpoints
