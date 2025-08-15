@@ -99,7 +99,7 @@ $50 for 5 trails!):
 <h4>Ready to Start Your Adventure?</h4>
 <p>Visit <a href="https://www.crowdtask.gov.sg/quest/walking-trails-cdc" rel="noopener nofollow" target="_blank">www.crowdtask.gov.sg/quest/walking-trails-cdc</a> to
 step into a healthier, happier you — one fun step at a time!</p>
-<p>As part of building Inclusive communities, the CDCs welcome participants
+<p>As part of building inclusive communities, the CDCs welcome participants
 of all ages to be a part of the Walking Trails@CDC.&nbsp;</p>
 <p>Singapore Citizens and Permanent Residents aged 15 years and above, with
 a Singpass account and CrowdTaskSG account, will be able to experience
