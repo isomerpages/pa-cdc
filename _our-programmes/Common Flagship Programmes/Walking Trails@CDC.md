@@ -30,15 +30,15 @@ and unearth hidden gems in your neighbourhood while keeping fit!</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>Central Singapore</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Start Point:</strong> Kreta Ayer Square</p>
-<p><strong>End Point:</strong> Fort Canning Centre</p>
-<p><strong>Distance:</strong> approx. 4.7km</p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Start Point:</strong> Kreta Ayer Square<br>
+<strong>End Point:</strong> Fort Canning Centre<br>
+<strong>Distance:</strong> approx. 4.7km</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -46,7 +46,9 @@ and unearth hidden gems in your neighbourhood while keeping fit!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Start Point:</strong> Punggol Waterway Point<br>
+<strong>End Point:</strong> Punggol Digital District<br>
+<strong>Distance:</strong> approx. 4.5km</p>
 </td>
 </tr>
 <tr>
@@ -55,7 +57,9 @@ and unearth hidden gems in your neighbourhood while keeping fit!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Start Point:</strong> Walkway outside Cashew MRT<br>
+<strong>End Point:</strong> Bukit Timah Railway Station<br>
+<strong>Distance:</strong> approx. 5.5km</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +68,9 @@ and unearth hidden gems in your neighbourhood while keeping fit!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Start Point:</strong> Fort Tanjong Katong<br>
+<strong>End Point:</strong> Siglap Canal Lookout Deck<br>
+<strong>Distance:</strong> approx. 4.9km</p>
 </td>
 </tr>
 <tr>
@@ -73,7 +79,9 @@ and unearth hidden gems in your neighbourhood while keeping fit!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Start Point:</strong> Park outside Beauty World MRT<br>
+<strong>End Point:</strong> Little Guilin<br>
+<strong>Distance:</strong> approx. 4.35km</p>
 </td>
 </tr>
 </tbody>
