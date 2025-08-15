@@ -22,11 +22,68 @@ community.</p>
 <h4>Discover Your District</h4>
 <p>Embark on five specially curated trails to enjoy a unique digital experience
 and unearth hidden gems in your neighbourhood while keeping fit!</p>
+<h4>5 Districts, 5 Trails</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Central Singapore</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Start Point:</strong> Kreta Ayer Square</p>
+<p><strong>End Point:</strong> Fort Canning Centre</p>
+<p><strong>Distance:</strong> approx. 4.7km</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>North East</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>North West</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>South East</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>South West</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>Earn up to $50</h4>
-<p>Complete each trail to earn up to $10 in RewardsSG Vouchers (that’s $50
-for 5 trails!):
+<p>Complete each trail to earn up to $10 in RedeemSG Rewards Vouchers (that’s
+$50 for 5 trails!):
 <br>✅ $5 when you complete all 5 checkpoints
-<br>✅ Additional $5 when you collect 5 Ollies along the trail</p>
+<br>✅ Additional $5 when you collect 5 CDC Ollies along the trail</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ollies.png">
