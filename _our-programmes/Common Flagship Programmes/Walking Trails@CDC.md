@@ -1,7 +1,7 @@
 ---
 title: Walking Trails@CDC
 permalink: /walking-trails-cdc/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Common Flagship Programmes
 ---
@@ -35,9 +35,9 @@ and unearth hidden gems in your neighbourhood while keeping fit!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Start Point:</strong> Kreta Ayer Square<br>
-<strong>End Point:</strong> Fort Canning Centre<br>
-<strong>Distance:</strong> approx. 4.7km</p>
+<p><strong>Start Point:</strong> Kreta Ayer Square
+<br><strong>End Point:</strong> Fort Canning Centre
+<br><strong>Distance:</strong> approx. 4.7km</p>
 </td>
 </tr>
 <tr>
@@ -46,9 +46,9 @@ and unearth hidden gems in your neighbourhood while keeping fit!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Start Point:</strong> Punggol Waterway Point<br>
-<strong>End Point:</strong> Punggol Digital District<br>
-<strong>Distance:</strong> approx. 4.5km</p>
+<p><strong>Start Point:</strong> Punggol Waterway Point
+<br><strong>End Point:</strong> Punggol Digital District
+<br><strong>Distance:</strong> approx. 4.5km</p>
 </td>
 </tr>
 <tr>
@@ -57,9 +57,9 @@ and unearth hidden gems in your neighbourhood while keeping fit!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Start Point:</strong> Walkway outside Cashew MRT<br>
-<strong>End Point:</strong> Bukit Timah Railway Station<br>
-<strong>Distance:</strong> approx. 5.5km</p>
+<p><strong>Start Point:</strong> Walkway outside Cashew MRT
+<br><strong>End Point:</strong> Bukit Timah Railway Station
+<br><strong>Distance:</strong> approx. 5.5km</p>
 </td>
 </tr>
 <tr>
@@ -68,9 +68,9 @@ and unearth hidden gems in your neighbourhood while keeping fit!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Start Point:</strong> Fort Tanjong Katong<br>
-<strong>End Point:</strong> Siglap Canal Lookout Deck<br>
-<strong>Distance:</strong> approx. 4.9km</p>
+<p><strong>Start Point:</strong> Fort Tanjong Katong
+<br><strong>End Point:</strong> Siglap Canal Lookout Deck
+<br><strong>Distance:</strong> approx. 4.9km</p>
 </td>
 </tr>
 <tr>
@@ -79,9 +79,9 @@ and unearth hidden gems in your neighbourhood while keeping fit!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Start Point:</strong> Park outside Beauty World MRT<br>
-<strong>End Point:</strong> Little Guilin<br>
-<strong>Distance:</strong> approx. 4.35km</p>
+<p><strong>Start Point:</strong> Park outside Beauty World MRT
+<br><strong>End Point:</strong> Little Guilin
+<br><strong>Distance:</strong> approx. 4.35km</p>
 </td>
 </tr>
 </tbody>
@@ -97,6 +97,8 @@ $50 for 5 trails!):
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ollies.png">
 </div>
 <h4>Ready to Start Your Adventure?</h4>
-<p>Visit <a href="https://www.crowdtask.gov.sg/quest/walking-trails-cdc" rel="noopener nofollow" target="_blank">www.crowdtask.gov.sg/quest/walking-trails-cdc</a> and
+<p>Visit <a href="https://www.crowdtask.gov.sg/quest/walking-trails-cdc" rel="noopener nofollow" target="_blank">www.crowdtask.gov.sg/quest/walking-trails-cdc </a>to
 step into a healthier, happier you — one fun step at a time!</p>
+<p>Walking Trails@CDC is open to all Singaporean Citizens and Permanent Residents
+aged 15 and above with Singpass and CrowdTaskSG accounts.</p>
 <p></p>
