@@ -9,9 +9,6 @@ variant: markdown
 <summary><strong>2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-	<p><strong>16 August 2025</strong><br>Step Up Your Walking Game with Walking Trails@CDC | Explore, Play, Bond, and Win Rewards!
-<a href="/files/Press%20Releases/Media_Release___Walking_Trails_CDC.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
-</p>
 	<p><strong>1 July 2025</strong>
 <br>Singaporeans to Receive SG60 Vouchers in Celebration of Nation's 60 Years of Nation-Building from 1 July 2025
 <a href="/files/Press%20Releases/For_Media___SG60_Vouchers_Media_Release.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
