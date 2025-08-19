@@ -9,7 +9,9 @@ third_nav_title: Common Flagship Programmes
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FINAL2_CDC_WalkingTrails_Socials_1920x1080px_.jpg">
 </div>
-<p></p>
+<h4>Are you ready for the trail?</h4>
+<p>Join quest!</p>
+
 <h4>About Walking Trails@CDC</h4>
 <p>Walking Trails@CDC is an innovative phygital initiative by the five Community
 Development Councils (CDCs) in collaboration with Government Technology
