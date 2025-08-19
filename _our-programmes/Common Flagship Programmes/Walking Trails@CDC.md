@@ -79,7 +79,7 @@ and unearth hidden gems in your neighbourhood while keeping fit!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Start Point:</strong> Beauty World MRT Exit CRT
+<p><strong>Start Point:</strong> Beauty World MRT Exit C
 <br><strong>End Point:</strong> Little Guilin
 <br><strong>Distance:</strong> approx. 4.35km</p>
 </td>
