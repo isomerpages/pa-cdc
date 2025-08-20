@@ -9,8 +9,11 @@ third_nav_title: Common Flagship Programmes
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FINAL2_CDC_WalkingTrails_Socials_1920x1080px_.jpg">
 </div>
-<h4>Are you ready for the trail?</h4>
-<p>Join quest!</p>
+<div><p></p><center><strong>Are you ready for the trail?</strong></center>
+<center><button style="background-color: #257cc3; color: white; border: none; padding: 8px 16px; cursor: pointer; border-radius: 4px;">
+  Join quest!
+</button></center><p></p></div>
+<hr>
 
 <h4>About Walking Trails@CDC</h4>
 <p>Walking Trails@CDC is an innovative phygital initiative by the five Community
