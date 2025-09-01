@@ -9,7 +9,7 @@ third_nav_title: Common Flagship Programmes
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FINAL2_CDC_WalkingTrails_Socials_1920x1080px_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FINAL4_CDC_WalkingTrails_Socials_1920x1080px_.jpg">
 </div>
 
 <h4>About Walking Trails@CDC</h4>
