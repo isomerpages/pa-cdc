@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Common Flagship Programmes/SG60 Vouchers.md
       - Common Flagship Programmes/.keep
       - Common Flagship Programmes/Overview.md
       - Common Flagship Programmes/ArtsEverywhere@CDC.md
