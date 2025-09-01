@@ -6,7 +6,7 @@ third_nav_title: Common Flagship Programmes
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="we care arts fund exhibition experiences" src="/images/Common%20Flagship%20Progs/wecare%20arts%20fund.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WCAF_1.jpg">
 </div>
 <h4>About WeCare Arts Fund@CDC</h4>
 <p>Launched in 2014, the WeCare Arts Fund@CDC (WCAF) is a collaboration between
