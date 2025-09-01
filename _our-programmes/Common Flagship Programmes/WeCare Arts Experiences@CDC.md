@@ -45,7 +45,7 @@ and families.</p>
 <p>Social service agencies (SSAs), and community partners such as grassroots
 organisations (GROs) and Self-Help Groups (SHGs) can apply for WCAE with
 their relevant CDC.</p>
-<p><a href="/files/wecare_arts_fund___overview_and_guidelines__3_april_2023_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>&nbsp;the
+<p><a href="/files/WeCare_Arts_Experiences_Overview_and_Guidelines_3_April_2023.pdf" rel="noopener nofollow" target="_blank">Download </a>the
 Guide and Application Form.</p>
 <p><em>*With effect from January 2020, interested SSAs can submit their application online via the&nbsp;</em><strong><em>OurSG Grant Portal</em></strong><em>&nbsp;(<a href="https://oursggrants.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://oursggrants.gov.sg</a>) for a more seamless grant application process using CorpPass.&nbsp;</em>
 </p>
@@ -62,10 +62,8 @@ to find out more about the fund:</p>
 <p>Central Singapore CDC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pang Wen Hao -&nbsp;<a href="mailto:PANG_Wen_Hao@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PANG_Wen_Hao@pa.gov.sg</a> 
-<br>Wee Peng Yu -&nbsp;<a href="mailto:WEE_Peng_Yu@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">WEE_Peng_Yu@pa.gov.sg</a>&nbsp;
-<br>Joan Lee - <a href="mailto:Joan_LEE@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Joan_LEE@pa.gov.sg</a>
-</p>
+<p>Joan Lee - <a href="mailto:Joan_LEE@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Joan_LEE@pa.gov.sg</a>
+<br>Wee Peng Yu -&nbsp;<a href="mailto:WEE_Peng_Yu@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">WEE_Peng_Yu@pa.gov.sg</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -73,7 +71,7 @@ to find out more about the fund:</p>
 <p>North East CDC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gayatri Rajakumar - <a href="mailto:Gayatri_RAJAKUMAR@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Gayatri_RAJAKUMAR@pa.gov.sg</a>
+<p>Annick Koo - <a href="mailto:Annick_KOO@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Annick_KOO@pa.gov.sg</a>
 </p>
 </td>
 </tr>
