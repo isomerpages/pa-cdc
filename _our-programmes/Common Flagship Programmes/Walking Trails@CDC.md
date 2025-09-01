@@ -1,19 +1,22 @@
 ---
 title: Walking Trails@CDC
 permalink: /walking-trails-cdc/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: Common Flagship Programmes
 ---
+<div><center><button style="background-color: transparent; padding: 10px 10px; border: 2px #236398; border-radius: 10px;"><strong>Are you ready for the trail? → <a href="https://www.crowdtask.gov.sg/quest/walking-trails-cdc" rel="noopener nofollow" target="_blank">Join quest!</a></strong></button></center></div>
+<hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WT_KV.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FINAL4_CDC_WalkingTrails_Socials_1920x1080px_.jpg">
 </div>
+
 <h4>About Walking Trails@CDC</h4>
 <p>Walking Trails@CDC is an innovative phygital initiative by the five Community
 Development Councils (CDCs) in collaboration with Government Technology
 Agency of Singapore (GovTech Singapore) to promote community engagement
-and&nbsp; an active lifestyle by blending brisk-walking with digital gamification.&nbsp;</p>
+and an active lifestyle by blending brisk-walking with digital gamification.&nbsp;</p>
 <p>Residents will have the opportunity to embark on physical trails, complete
 digital challenges and earn rewards while spending quality time with friends
 and family.&nbsp;This initiative aligns with CDCs’ commitment to building
@@ -79,7 +82,7 @@ and unearth hidden gems in your neighbourhood while keeping fit!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Start Point:</strong> Park outside Beauty World MRT
+<p><strong>Start Point:</strong> Beauty World MRT Exit C
 <br><strong>End Point:</strong> Little Guilin
 <br><strong>Distance:</strong> approx. 4.35km</p>
 </td>
@@ -104,3 +107,4 @@ of all ages to be a part of the Walking Trails@CDC.&nbsp;</p>
 <p>Singapore Citizens and Permanent Residents aged 15 years and above, with
 a Singpass account and CrowdTaskSG account, will be able to experience
 the Walking Trails@CDC's phygital interface and enjoy rewards.</p>
+<p></p>
