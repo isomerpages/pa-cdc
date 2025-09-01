@@ -9,16 +9,14 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="we care arts fund exhibition experiences" src="/images/Common%20Flagship%20Progs/wecare%20arts%20fund.png">
 </div>
 <h4>About WeCare Arts Fund@CDC</h4>
-<p>The WeCare Arts Fund@CDC is a grant scheme that is a collaborative effort
-between the Community Development Councils (CDCs) and the National Arts
-Council (NAC). Its primary objective is to provide support to Social Service
-Agencies (SSAs) and Self-Help Groups (SHGs) by engaging their beneficiaries
-in artistic activities.</p>
-<p>On 4 September 2017, the partnership between the CDCs and the NAC was
-renewed, with a commitment to allocate $1 million towards the WeCare Arts
-Fund over the next two years. The fund is designed to facilitate programmes
-that promote inclusivity in the arts and help individuals from disadvantaged
-and underserved communities build self-confidence.</p>
+<p>Launched in 2014, the WeCare Arts Fund@CDC (WCAF) is a collaboration between
+NAC and the People’s Association. Administered by the five Community Development
+Councils (CDCs) in Singapore, WCAF aims to increase arts access for beneficiaries
+within the social service sector.</p>
+<p>Social service agencies can tap into this fund to work with artists to
+customise their interactive arts workshops to the needs and interests of
+their beneficiaries in performing, visual, literary or multi-disciplinary
+art forms.</p>
 <h4>Activities supported by the Fund</h4>
 <p>The fund supports project costs that involve artists working directly
 with SSAs/SHGs and their beneficiaries through the Performing, Visual,
@@ -45,10 +43,8 @@ to find out more about the fund:</p>
 <p>Central Singapore CDC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pang Wen Hao -&nbsp;<a href="mailto:PANG_Wen_Hao@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">PANG_Wen_Hao@pa.gov.sg</a> 
-<br>Wee Peng Yu -&nbsp;<a href="mailto:WEE_Peng_Yu@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">WEE_Peng_Yu@pa.gov.sg</a>&nbsp;
-<br>Joan Lee - <a href="mailto:Joan_LEE@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Joan_LEE@pa.gov.sg</a>
-</p>
+<p>Joan Lee - <a href="mailto:Joan_LEE@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Joan_LEE@pa.gov.sg</a>
+<br>Wee Peng Yu -&nbsp;<a href="mailto:WEE_Peng_Yu@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">WEE_Peng_Yu@pa.gov.sg</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +52,8 @@ to find out more about the fund:</p>
 <p>North East CDC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gayatri Rajakumar - <a href="mailto:Gayatri_RAJAKUMAR@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Gayatri_RAJAKUMAR@pa.gov.sg</a>
+<p>Isabelle Chan - <a href="mailto:Isabelle_CHAN@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Isabelle_CHAN@pa.gov.sg</a>
+<br>Annick Koo - <a href="mailto:Isabelle_CHAN@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Annick_KOO@pa.gov.sg</a>
 </p>
 </td>
 </tr>
