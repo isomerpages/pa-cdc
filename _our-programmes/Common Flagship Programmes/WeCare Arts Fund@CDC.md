@@ -8,6 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="we care arts fund exhibition experiences" src="/images/Common%20Flagship%20Progs/wecare%20arts%20fund.png">
 </div>
+<h4>About WeCare Arts Fund@CDC</h4>
 <p>The WeCare Arts Fund@CDC is a grant scheme that is a collaborative effort
 between the Community Development Councils (CDCs) and the National Arts
 Council (NAC). Its primary objective is to provide support to Social Service
@@ -18,13 +19,11 @@ renewed, with a commitment to allocate $1 million towards the WeCare Arts
 Fund over the next two years. The fund is designed to facilitate programmes
 that promote inclusivity in the arts and help individuals from disadvantaged
 and underserved communities build self-confidence.</p>
-<p><u>Activities supported by the Fund</u>
-</p>
+<h4>Activities supported by the Fund</h4>
 <p>The fund supports project costs that involve artists working directly
 with SSAs/SHGs and their beneficiaries through the Performing, Visual,
 Literary and Multi-Disciplinary arts.</p>
-<p><u>Who is the Fund for?</u>
-</p>
+<h4>Who is the Fund for?</h4>
 <p>The fund is open to all SSAs/SHGs that are keen to work with artists /
 arts groups to bring arts to their beneficiaries. SSAs must be a member
 of the National Council of Social Service (NCSS). Artists may approach
