@@ -17,9 +17,8 @@ the NAC and cultural institutions for free.&nbsp;</p>
 with immediate family members, caregivers or befrienders and strengthen
 social ties.</p>
 <h4>Activities Supported by the Scheme</h4>
-<p>WeCare Arts Experiences@CDC supports ticket of up to $40 (excluding ticketing
-fees), transportation and light refreshments to facilitate the attendance
-of arts experiences for</p>
+<p>WeCare Arts Experiences@CDC supports tickets, transportation, and light
+refreshments to facilitate the attendance of arts experiences for</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>beneficiaries who are recipients of SSA’s services and assistance;</p>
