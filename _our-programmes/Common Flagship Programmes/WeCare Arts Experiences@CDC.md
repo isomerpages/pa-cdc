@@ -24,10 +24,8 @@ refreshments to facilitate the attendance of arts experiences for</p>
 <p>beneficiaries who are recipients of SSA’s services and assistance;</p>
 </li>
 <li>
-<p>beneficiaries who receive financial and social assistance support from</p>
-</li>
-<li>
-<p>community partners;</p>
+<p>beneficiaries who receive financial and social assistance support from
+community partners;</p>
 </li>
 <li>
 <p>immediate family of beneficiaries; and</p>
