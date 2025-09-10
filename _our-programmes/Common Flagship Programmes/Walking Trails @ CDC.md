@@ -12,7 +12,7 @@ third_nav_title: Common Flagship Programmes
 <div><center><strong>Are you ready for the trail? → <a href="https://www.crowdtask.gov.sg/quest/walking-trails-cdc">Join quest!</a></strong></center></div>
 <hr>
 
-<h4>About Walking Trails@CDC</h4>
+<h4>About Walking Trails @ CDC</h4>
 <p>Walking Trails @ CDC is an innovative phygital initiative by the five Community
 Development Councils (CDCs) in collaboration with Government Technology
 Agency of Singapore (GovTech Singapore) to promote community engagement
