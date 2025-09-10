@@ -106,5 +106,5 @@ step into a healthier, happier you — one fun step at a time!</p>
 of all ages to be a part of the Walking Trails @ CDC.&nbsp;</p>
 <p>Singapore Citizens and Permanent Residents aged 15 years and above, with
 a Singpass account and CrowdTaskSG account, will be able to experience
-the Walking Trails@CDC's phygital interface and enjoy rewards.</p>
+the Walking Trails @ CDC's phygital interface and enjoy rewards.</p>
 <p></p>
