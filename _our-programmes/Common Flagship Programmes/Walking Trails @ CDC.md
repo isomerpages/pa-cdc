@@ -1,19 +1,19 @@
 ---
-title: Walking Trails@CDC
+title: Walking Trails @ CDC
 permalink: /walking-trails-cdc/
 variant: markdown
 description: ""
 third_nav_title: Common Flagship Programmes
 ---
-<div><center><button style="background-color: transparent; padding: 10px 10px; border: 2px #236398; border-radius: 10px;"><strong>Are you ready for the trail? → <a href="https://www.crowdtask.gov.sg/quest/walking-trails-cdc" rel="noopener nofollow" target="_blank">Join quest!</a></strong></button></center></div>
-<hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FINAL4_CDC_WalkingTrails_Socials_1920x1080px_.jpg">
 </div>
+<div><center><strong>Are you ready for the trail? → <a href="https://www.crowdtask.gov.sg/quest/walking-trails-cdc">Join quest!</a></strong></center></div>
+<hr>
 
-<h4>About Walking Trails@CDC</h4>
-<p>Walking Trails@CDC is an innovative phygital initiative by the five Community
+<h4>About Walking Trails @ CDC</h4>
+<p>Walking Trails @ CDC is an innovative phygital initiative by the five Community
 Development Councils (CDCs) in collaboration with Government Technology
 Agency of Singapore (GovTech Singapore) to promote community engagement
 and an active lifestyle by blending brisk-walking with digital gamification.&nbsp;</p>
@@ -103,8 +103,8 @@ $50 for 5 trails!):
 <p>Visit <a href="https://www.crowdtask.gov.sg/quest/walking-trails-cdc" rel="noopener nofollow" target="_blank">www.crowdtask.gov.sg/quest/walking-trails-cdc</a> to
 step into a healthier, happier you — one fun step at a time!</p>
 <p>As part of building inclusive communities, the CDCs welcome participants
-of all ages to be a part of the Walking Trails@CDC.&nbsp;</p>
+of all ages to be a part of the Walking Trails @ CDC.&nbsp;</p>
 <p>Singapore Citizens and Permanent Residents aged 15 years and above, with
 a Singpass account and CrowdTaskSG account, will be able to experience
-the Walking Trails@CDC's phygital interface and enjoy rewards.</p>
+the Walking Trails @ CDC's phygital interface and enjoy rewards.</p>
 <p></p>

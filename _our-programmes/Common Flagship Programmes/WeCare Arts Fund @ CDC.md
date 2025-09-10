@@ -1,5 +1,5 @@
 ---
-title: WeCare Arts Fund@CDC
+title: WeCare Arts Fund @ CDC
 permalink: /our-programmes/wecare-arts-fund/
 description: ""
 third_nav_title: Common Flagship Programmes
@@ -8,11 +8,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WCAF_1.jpg">
 </div>
-<h4>About WeCare Arts Fund@CDC</h4>
-<p>Launched in 2014, the WeCare Arts Fund@CDC (WCAF) is a collaboration between
-NAC and the People’s Association. Administered by the five Community Development
-Councils (CDCs) in Singapore, WCAF aims to increase arts access for beneficiaries
-within the social service sector.</p>
+<h4>About WeCare Arts Fund @ CDC</h4>
+<p>Launched in 2014, the WeCare Arts Fund @ CDC (WCAF) is a collaboration
+between NAC and the People’s Association. Administered by the five Community
+Development Councils (CDCs) in Singapore, WCAF aims to increase arts access
+for beneficiaries within the social service sector.</p>
 <p>Social service agencies can tap into this fund to work with artists to
 customise their interactive arts workshops to the needs and interests of
 their beneficiaries in performing, visual, literary or multi-disciplinary

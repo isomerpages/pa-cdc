@@ -1,5 +1,5 @@
 ---
-title: Community Legal Clinics@CDC
+title: Community Legal Clinics @ CDC
 permalink: /our-programmes/community-legal-clinics/
 description: Community Legal Clinics
 third_nav_title: Common Flagship Programmes
