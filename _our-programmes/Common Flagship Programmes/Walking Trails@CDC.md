@@ -5,12 +5,13 @@ variant: markdown
 description: ""
 third_nav_title: Common Flagship Programmes
 ---
-<div><center><button style="background-color: transparent; padding: 10px 10px; border: 2px #236398; border-radius: 10px;"><strong>Are you ready for the trail? → <a href="https://www.crowdtask.gov.sg/quest/walking-trails-cdc" rel="noopener nofollow" target="_blank">Join quest!</a></strong></button></center></div>
-<hr>
+
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FINAL4_CDC_WalkingTrails_Socials_1920x1080px_.jpg">
 </div>
+<div><center><strong>Are you ready for the trail? → <a href="https://www.crowdtask.gov.sg/quest/walking-trails-cdc">Join quest!</a></strong></center></div>
+<hr>
 
 <h4>About Walking Trails@CDC</h4>
 <p>Walking Trails@CDC is an innovative phygital initiative by the five Community
