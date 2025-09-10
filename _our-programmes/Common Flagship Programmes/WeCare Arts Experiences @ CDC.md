@@ -8,16 +8,16 @@ third_nav_title: Common Flagship Programmes
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="we care arts fund exhibition experiences" src="/images/Common%20Flagship%20Progs/wecare%20arts%20fund.png">
 </div>
-<h4>About WeCare Arts Experiences@CDC</h4>
+<h4>About WeCare Arts Experiences @ CDC</h4>
 <p>As part of a deeper collaboration between NAC and the five CDCs, the WeCare
-Arts Experiences@CDC (WCAE) encourages beneficiaries from less privileged
+Arts Experiences @ CDC (WCAE) encourages beneficiaries from less privileged
 backgrounds to access ticketed arts and cultural experiences curated by
 the NAC and cultural institutions for free.&nbsp;</p>
 <p>Through these experiences, beneficiaries can bond over a shared arts experience
 with immediate family members, caregivers or befrienders and strengthen
 social ties.</p>
 <h4>Activities Supported by the Scheme</h4>
-<p>WeCare Arts Experiences@CDC supports tickets, transportation, and light
+<p>WeCare Arts Experiences @ CDC supports tickets, transportation, and light
 refreshments to facilitate the attendance of arts experiences for</p>
 <ul data-tight="true" class="tight">
 <li>
