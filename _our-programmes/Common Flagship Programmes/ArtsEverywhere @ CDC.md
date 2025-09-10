@@ -18,7 +18,7 @@ with our aspiration for <em>Our SG Arts Plan (2023 - 2027)</em> to build <em>A C
 where our social connections and national identity are strengthened through
 the arts.</p>
 <p></p>
-<p>ArtsEverywhere @ CDC is a collaboration between the National Arts Council,People's
+<p>ArtsEverywhere @ CDC is a collaboration between the National Arts Council, People's
 Association,&nbsp;and the five Community Development Councils, and is supported
 by the Ministry of Culture, Community and Youth.</p>
 <p></p>
