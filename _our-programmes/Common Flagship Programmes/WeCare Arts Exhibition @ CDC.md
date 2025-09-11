@@ -19,11 +19,11 @@ inclusion, connection, and belonging.</p>
 <p>Come and be inspired by the power of art in our community.</p>
 <hr>
 <h4>Exhibition Details</h4>
-<p>Date: 16 September 2025 - 12 October 2025
-<br>Time: 10am - 7pm
-<br>Location: National Gallery Singapore (Level 4, Supreme Court Wing, UOB
-Discovery Space)
-<br>Ticket Information: Free Admission</p>
+<p><strong>Date: </strong>16 September 2025 - 12 October 2025
+<br><strong>Time: </strong>10am - 7pm
+<br><strong>Location: </strong>National Gallery Singapore (Level 4, Supreme
+Court Wing, UOB Discovery Space)
+<br><strong>Ticket Information: </strong>Free Admission</p>
 <hr>
 <h4>Virtual Exhibition</h4>
 <p></p>
