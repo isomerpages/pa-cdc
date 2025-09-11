@@ -18,8 +18,8 @@ through the WeCare Arts Fund. Discover three themed showcases that celebrate
 inclusion, connection, and belonging.</p>
 <p>Come and be inspired by the power of art in our community.</p>
 <hr>
-<p><strong><u>Exhibition Details</u></strong>
-<br>Date: 16 September 2025 - 12 October 2025
+<h4>Exhibition Details</h4>
+<p>Date: 16 September 2025 - 12 October 2025
 <br>Time: 10am - 7pm
 <br>Location: National Gallery Singapore (Level 4, Supreme Court Wing, UOB
 Discovery Space)
