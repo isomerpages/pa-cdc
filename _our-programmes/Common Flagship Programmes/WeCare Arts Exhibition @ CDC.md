@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Common Flagship Programmes
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SG60_WCAEx___Website__1920_x_1080_px_.png">
+</div>
 <h4>SG60 WeCare Arts Exhibition @ CDC</h4>
 <p>Celebrate 60 years of nation-building at the SG60 WeCare Arts Exhibition
 @ CDC, where community-created artworks by over 780 artists come alive.</p>
@@ -15,4 +18,12 @@ through the WeCare Arts Fund. Discover three themed showcases that celebrate
 inclusion, connection, and belonging.</p>
 <p>Come and be inspired by the power of art in our community.</p>
 <hr>
+<p><strong><u>Exhibition Details</u></strong>
+<br>Date: 16 September 2025 - 12 October 2025
+<br>Time: 10am - 7pm
+<br>Location: National Gallery Singapore (Level 4, Supreme Court Wing, UOB
+Discovery Space)
+<br>Ticket Information: Free Admission</p>
+<hr>
+<h4>Virtual Exhibition</h4>
 <p></p>
