@@ -1,7 +1,7 @@
 ---
 title: WeCare Arts Exhibition @ CDC
 permalink: /wecare-arts-exhibition-cdc/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Common Flagship Programmes
 ---
@@ -38,16 +38,17 @@ Court Wing, UOB Discovery Space)
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Find out more here" src="/images/Abilities.jpg">
 </div>
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Adventist.jpg">
 </div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Allkin.jpg">
+</div>
 </th>
 </tr>
 <tr>
