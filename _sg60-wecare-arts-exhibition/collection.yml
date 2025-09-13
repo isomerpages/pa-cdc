@@ -2,4 +2,5 @@ collections:
   sg60-wecare-arts-exhibition:
     output: true
     order:
+      - Adventist Nursing & Rehabilitation Centre.md
       - Abilities Beyond Limitations and Expectations.md
