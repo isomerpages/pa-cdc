@@ -1,4 +1,5 @@
 collections:
   sg60-wecare-arts-exhibition:
     output: true
-    order: []
+    order:
+      - Abilities Beyond Limitations and Expectations.md
