@@ -34,7 +34,7 @@ Court Wing, UOB Discovery Space)
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/abilities-beyond-limitations-and-expectations/"><img style="width: 60%;" height="auto" width="100%" alt="Find out more here" src="/images/Abilities.jpg"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/abilities-beyond-limitations-and-expectations/"><img style="width: 100%;" height="auto" width="100%" alt="Find out more here" src="/images/Abilities.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
