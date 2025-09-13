@@ -90,28 +90,24 @@ Court Wing, UOB Discovery Space)
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/En_Community_NE.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/En_Com_NE.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Geylang_East_Home.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fei_Yue_Active.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Jalan_Besar_Active.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MWS_Charis.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
