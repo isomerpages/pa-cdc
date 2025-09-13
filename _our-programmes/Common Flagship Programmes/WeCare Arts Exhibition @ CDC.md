@@ -38,30 +38,30 @@ Court Wing, UOB Discovery Space)
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Adventist.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Adventist.jpg">
 </div>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Allkin.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Allkin.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Be_Kind_SG.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Be_Kind_SG.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Buddhist_Compassion_Batok.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Buddhist_Compassion_Batok.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Buddhist_Compassion_Jurong.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Buddhist_Compassion_Jurong.jpg">
 </div>
 </td>
 </tr>
