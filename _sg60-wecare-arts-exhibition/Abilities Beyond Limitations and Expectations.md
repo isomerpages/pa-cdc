@@ -8,7 +8,7 @@ description: ""
 </p>
 <p>2025</p>
 Acrylic on canvas<p>
-80 × 60 cm</p>
+	80 × 60 cm</p>
 Collection of Abilities Beyond Limitations and Expectations<p></p>
 <p><em>ABLE in Every Mark: Tiled for Tomorrow</em> brings together personal
 expressions of care, strength and connection. The artwork conveys dreams
