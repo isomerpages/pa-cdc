@@ -2,6 +2,7 @@ collections:
   sg60-wecare-arts-exhibition:
     output: true
     order:
+      - En Community Services Society (Central).md
       - Caregiving Welfare Association.md
       - Care Community Services Society.md
       - Abilities Beyond Limitations and Expectations.md
