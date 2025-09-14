@@ -2,6 +2,7 @@ collections:
   sg60-wecare-arts-exhibition:
     output: true
     order:
+      - Montfort Care.md
       - MWS Charis ACE Active Ageing Centre (Geylang East).md
       - Lion Befrienders Service Association.md
       - Jalan Besar Active Ageing Centre.md
