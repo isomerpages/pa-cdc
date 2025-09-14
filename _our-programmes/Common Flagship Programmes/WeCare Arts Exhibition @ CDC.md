@@ -101,32 +101,17 @@ Court Wing, UOB Discovery Space)
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/shine-children-and-youth-services/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SHINE_updated.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/St_Andrew.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/st-andrew-s-nursing-home/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/St_Andrew.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SunCare.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/suncare-sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SunCare.jpg"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Salvation_Army.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/the-salvation-army-william-booth-corps/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Salvation_Army.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tsao_Foundation.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/tsao-foundation/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tsao_Foundation.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SHGs.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cdac-yayasan-mendaki-sinda-ea/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SHGs.jpg"></a>
 </td>
 </tr>
 </tbody>
