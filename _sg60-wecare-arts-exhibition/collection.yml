@@ -2,10 +2,10 @@ collections:
   sg60-wecare-arts-exhibition:
     output: true
     order:
-      - Buddhist Compassion Relief Tzu Chi Foundation (Jurong West).md
-      - Buddhist Compassion Relief Tzu Chi Foundation (Bukit Batok).md
-      - Bethesda Care Centre.md
       - Abilities Beyond Limitations and Expectations.md
       - Adventist Nursing & Rehabilitation Centre.md
       - Allkin Singapore.md
       - Be Kind SG.md
+      - Bethesda Care Centre.md
+      - Buddhist Compassion Relief Tzu Chi Foundation (Bukit Batok).md
+      - Buddhist Compassion Relief Tzu Chi Foundation (Jurong West).md
