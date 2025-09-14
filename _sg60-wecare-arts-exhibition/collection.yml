@@ -2,6 +2,7 @@ collections:
   sg60-wecare-arts-exhibition:
     output: true
     order:
+      - Suncare SG.md
       - St Andrew's Nursing Home.md
       - SHINE Children and Youth Services.md
       - SASCO@Compassvale and Hong Kah North.md
