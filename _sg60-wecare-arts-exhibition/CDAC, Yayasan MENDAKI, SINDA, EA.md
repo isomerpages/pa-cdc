@@ -37,3 +37,7 @@ Sameer Pandey, Jasper Seang Quan Feng, Jolecia Seang Shi Qi, Shangika Roy
 Nixon, Shazana Sameem, Shivana d/o Sivamaran, Shivani d/o Sivamaran, Soh
 Chin Ning, Soh Yu En Shalet, Teng Junwen Jarrell, Teoh Yuan Shan, Vicky
 Wong Sze Kei, Joseph Yap Zi Jun, Pearl Zheng Jiayu</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SHGs.jpg">
+</div>
+<p></p>
