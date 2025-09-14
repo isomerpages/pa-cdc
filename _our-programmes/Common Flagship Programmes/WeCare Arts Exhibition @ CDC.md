@@ -91,27 +91,15 @@ Court Wing, UOB Discovery Space)
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_Life_Woodlands.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/new-life-student-care-woodlands/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_Life_Woodlands.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pasir_Panjang.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/pasir-panjang-hill-community-services/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pasir_Panjang.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SASCO.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/sasco-compassvale-and-hong-kah-north/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SASCO.jpg"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SHINE_updated.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/shine-children-and-youth-services/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SHINE_updated.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
