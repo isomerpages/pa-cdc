@@ -2,11 +2,6 @@ collections:
   sg60-wecare-arts-exhibition:
     output: true
     order:
-      - Neighbour Ring Community Services.md
-      - Montfort Care.md
-      - MWS Charis ACE Active Ageing Centre (Geylang East).md
-      - Lion Befrienders Service Association.md
-      - Jalan Besar Active Ageing Centre.md
       - Abilities Beyond Limitations and Expectations.md
       - Adventist Nursing & Rehabilitation Centre.md
       - Allkin Singapore.md
@@ -20,3 +15,8 @@ collections:
       - En Community Services Society (North East).md
       - Fei Yue Active Ageing Centre (Teck Whye).md
       - Geylang East Home for the Aged.md
+      - Jalan Besar Active Ageing Centre.md
+      - Lion Befrienders Service Association.md
+      - MWS Charis ACE Active Ageing Centre (Geylang East).md
+      - Montfort Care.md
+      - Neighbour Ring Community Services.md
