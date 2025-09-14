@@ -2,6 +2,7 @@ collections:
   sg60-wecare-arts-exhibition:
     output: true
     order:
+      - Pasir Panjang Hill Community Services.md
       - Abilities Beyond Limitations and Expectations.md
       - Adventist Nursing & Rehabilitation Centre.md
       - Allkin Singapore.md
