@@ -2,9 +2,6 @@ collections:
   sg60-wecare-arts-exhibition:
     output: true
     order:
-      - En Community Services Society (Central).md
-      - Caregiving Welfare Association.md
-      - Care Community Services Society.md
       - Abilities Beyond Limitations and Expectations.md
       - Adventist Nursing & Rehabilitation Centre.md
       - Allkin Singapore.md
@@ -12,3 +9,6 @@ collections:
       - Bethesda Care Centre.md
       - Buddhist Compassion Relief Tzu Chi Foundation (Bukit Batok).md
       - Buddhist Compassion Relief Tzu Chi Foundation (Jurong West).md
+      - Care Community Services Society.md
+      - Caregiving Welfare Association.md
+      - En Community Services Society (Central).md
