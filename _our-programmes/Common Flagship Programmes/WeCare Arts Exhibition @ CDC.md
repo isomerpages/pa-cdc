@@ -77,32 +77,17 @@ Court Wing, UOB Discovery Space)
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/mws-charis-ace-active-ageing-centre-geylang-east/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MWS_Charis.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Montfort_Care.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/montfort-care/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Montfort_Care.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Neighbour_Ring.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/neighbour-ring-community-services/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Neighbour_Ring.jpg"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_Life_Silvercare.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/new-life-silvercare-woodlands/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_Life_Silvercare.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_Life_Jelapang.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/new-life-student-care-jelapang/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_Life_Jelapang.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_Life_Teck_Whye.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/new-life-student-care-teck-whye/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_Life_Teck_Whye.jpg"></a>
 </td>
 </tr>
 <tr>
