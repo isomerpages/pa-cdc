@@ -2,6 +2,7 @@ collections:
   sg60-wecare-arts-exhibition:
     output: true
     order:
+      - Geylang East Home for the Aged.md
       - Fei Yue Active Ageing Centre (Teck Whye).md
       - En Community Services Society (North East).md
       - Abilities Beyond Limitations and Expectations.md
