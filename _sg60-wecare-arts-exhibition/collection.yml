@@ -2,6 +2,7 @@ collections:
   sg60-wecare-arts-exhibition:
     output: true
     order:
+      - Neighbour Ring Community Services.md
       - Montfort Care.md
       - MWS Charis ACE Active Ageing Centre (Geylang East).md
       - Lion Befrienders Service Association.md
