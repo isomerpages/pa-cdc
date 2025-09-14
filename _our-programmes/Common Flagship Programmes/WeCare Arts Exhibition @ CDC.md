@@ -45,27 +45,15 @@ Court Wing, UOB Discovery Space)
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/be-kind-sg/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Be_Kind_SG.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Buddhist_Compassion_Batok.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/bethesda-care-centre/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bethesda_Care.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Buddhist_Compassion_Jurong.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/buddhist-compassion-relief-tzu-chi-foundation-bukit-batok/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buddhist_Compassion_Batok.jpg"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bethesda_Care.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/buddhist-compassion-relief-tzu-chi-foundation-jurong-west/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buddhist_Compassion_Jurong.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Care_Community_enhance.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/care-community-services-society/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Care_Community_enhance.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
