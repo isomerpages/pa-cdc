@@ -67,27 +67,15 @@ Court Wing, UOB Discovery Space)
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Geylang_East_Home.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/geylang-east-home-for-the-aged/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Geylang_East_Home.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Jalan_Besar_Active.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/jalan-besar-active-ageing-centre/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Jalan_Besar_Active.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lion_Befrienders.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/lion-befrienders-service-association/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lion_Befrienders.jpg"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MWS_Charis.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/mws-charis-ace-active-ageing-centre-geylang-east/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MWS_Charis.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
