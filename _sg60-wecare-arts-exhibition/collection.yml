@@ -2,6 +2,7 @@ collections:
   sg60-wecare-arts-exhibition:
     output: true
     order:
+      - CDAC, Yayasan MENDAKI, SINDA, EA.md
       - TSAO Foundation.md
       - The Salvation Army William Booth Corps.md
       - Suncare SG.md
