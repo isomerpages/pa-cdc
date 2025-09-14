@@ -36,23 +36,14 @@ Court Wing, UOB Discovery Space)
 <tr>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/abilities-beyond-limitations-and-expectations/"><img style="width: 100%;" height="auto" width="100%" alt="Find out more here" src="/images/Abilities.jpg"></a>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Adventist.jpg">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/adventist-nursing-rehabilitation-centre/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Adventist.jpg"></a>
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Allkin.jpg">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/allkin-singapore/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Allkin.jpg"></a>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Be_Kind_SG.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/be-kind-sg/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Be_Kind_SG.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
