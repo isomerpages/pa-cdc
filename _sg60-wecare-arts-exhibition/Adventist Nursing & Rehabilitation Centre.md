@@ -18,9 +18,8 @@ the Vanda Miss Joaquim and Gardens by the Bay, evoking warmth, connection
 and the joy of shared moments. Filled with dynamic hues and meaningful
 imagery, this artwork reminds us that life is colourful and meaningful
 at every age.</p>
-<p></p>
-<p></p>
-<p>Community Artists (Seniors):</p>
+<p><u>Community Artists (Seniors):</u>
+</p>
 <p>Cecila Chuah, Chan Heng Teck, Choong Chong Leung, Daisy Alcantra, Frances
 Lee, Goh Piak Sin, Lim Bee Lian, Lim Siew Eng, Loo Kim Liew, Sumathi D/o
 Sindathurai, Tan Kim Moi, Teo Catherine, Thum Bun Heng</p>
