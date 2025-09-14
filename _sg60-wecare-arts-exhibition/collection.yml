@@ -2,6 +2,7 @@ collections:
   sg60-wecare-arts-exhibition:
     output: true
     order:
+      - SHINE Children and Youth Services.md
       - SASCO@Compassvale and Hong Kah North.md
       - Pasir Panjang Hill Community Services.md
       - Abilities Beyond Limitations and Expectations.md
