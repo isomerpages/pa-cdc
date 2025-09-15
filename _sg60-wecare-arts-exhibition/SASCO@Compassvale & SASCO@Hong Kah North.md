@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>Timeless Hopes, Endless Dreams</em></strong>
-</p>
-<p>2025</p>
-<p>Mixed media installation</p>
-<p>180 × 120 × 20 cm</p>
-<p>Collection of SASCO @ Compassvale and Hong Kah North</p>
+<br>2025
+<br>Mixed media installation
+<br>180 × 120 × 20 cm
+<br>Collection of SASCO@Compassvale &amp; SASCO@Hong Kah North</p>
 <p>For the work <em>Timeless Hopes, Endless Dreams</em>, seniors from SASCO
 Active Ageing Centre and Daycare Centre were invited to reflect on the
 past, connect with heritage that holds personal meaning to them, and imagine
