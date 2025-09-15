@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>One Heart One Home</em></strong>
-</p>
-<p>2025</p>
-<p>Mixed media on canvas</p>
-<p>100 × 150 cm</p>
-<p>Collection of Allkin Singapore</p>
+<br>2025
+<br>Mixed media on canvas
+<br>100 × 150 cm
+<br>Collection of Allkin Singapore</p>
 <p>Created over two collaborative sessions, <em>One Heart One Home</em> is
 a work that embodies themes of unity, mindfulness and storytelling. This
 community art initiative fosters creativity, cultural appreciation and
