@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>Ageless Colourful Life—SG60</em></strong>
-</p>
-<p>2025</p>
-<p>Canvas tote bags</p>
-<p>37.5 × 35 cm</p>
-<p>Collection of Adventist Nursing and Rehabilitation Centre</p>
+<br>2025
+<br>Canvas tote bags
+<br>37.5 × 35 cm
+<br>Collection of Adventist Nursing and Rehabilitation Centre</p>
 <p>In celebration of SG60, the tote bags that make up <em>Ageless Colourful Life—SG60</em> are
 bursting with vibrant colours, cherished local icons and heartfelt memories.
 A tribute to pride, unity and care, it inspires us to look ahead with hope
