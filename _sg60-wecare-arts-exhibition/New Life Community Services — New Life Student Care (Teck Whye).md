@@ -5,11 +5,11 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>Look Around Our 60-Year-Old Home, Singapore</em></strong>
-</p>
-<p>2025</p>
-<p>Ink on paper</p>
-<p>29 × 42 cm</p>
-<p>Collection of New Life Student Care (Teck Whye)</p>
+<br>2025
+<br>Ink on paper
+<br>29 × 42 cm
+<br>Collection of New Life Community Services - New Life Student Care (Teck
+Whye)</p>
 <p><em>Look Around Our 60-Year-Old Home, Singapore</em> features charming
 “chibi” characters created by students to represent the diverse members
 of the community. Through this creative project, the students explored
