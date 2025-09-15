@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>SG60 Through Our Eyes</em></strong>
-</p>
-<p>2025</p>
-<p>Mixed media on canvas</p>
-<p>122 × 295 cm</p>
-<p>Collection of Care Community Services Society</p>
+<br>2025
+<br>Mixed media on canvas
+<br>122 × 295 cm
+<br>Collection of Care Community Services Society</p>
 <p><em>SG60 Through Our Eyes</em> celebrates connection across generations,
 the richness of our diverse experiences and what it means to grow up in
 Singapore. This intergenerational art project brought together children,
