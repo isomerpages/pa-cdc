@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>Star Dance Crew</em></strong>
-</p>
-<p>2025</p>
-<p>Video: single-channel, 16:9 aspect ratio, colour and sound(stereo), 2
-min 50 sec</p>
-<p>Collection of SHINE Children and Youth Services</p>
+<br>2025
+<br>Video: single-channel, 16:9 aspect ratio, colour and sound(stereo), 2
+min 50 sec
+<br>Collection of SHINE Children and Youth Services</p>
 <p>In this video, children explore hip hop and prepare for a stage performance
 under the guidance of O School dance instructors.</p>
 <p><em>STAR Dance Crew</em> harnesses the power of dance to uplift and empower
