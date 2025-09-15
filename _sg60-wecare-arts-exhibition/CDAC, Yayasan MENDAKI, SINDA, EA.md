@@ -5,11 +5,12 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>Strings of Unity</em></strong>
-</p>
-<p>2025</p>
-<p>Mixed Media</p>
-<p>92 × 92cm</p>
-<p>Collection of CDAC, EA, SINDA and Yayasan MENDAKI</p>
+<br>2025
+<br>Mixed Media
+<br>92 × 92cm
+<br>Collection of Chinese Development Assistance Council (CDAC), Eurasian
+Association (EA), Singapore Indian Development Association (SINDA), and
+Yayasan MENDAKI</p>
 <p><em>Strings of Unity</em> is a string art installation created by children
 from four Self-Help Groups (SHGs) representing Singapore’s different ethnic
 communities. This artwork symbolises the importance of bridging communities
