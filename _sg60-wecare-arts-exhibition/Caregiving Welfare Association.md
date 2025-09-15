@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>Claymaking workshop for seniors</em></strong>
-</p>
-<p>2025</p>
-<p>Clay</p>
-<p>20 × 15 cm</p>
-<p>Collection of Caregiving Welfare Association</p>
+<br>2025
+<br>Clay
+<br>20 × 15 cm
+<br>Collection of Caregiving Welfare Association</p>
 <p>This collection of ceramic artworks was created by seniors during a clay
 making workshop, and celebrates their lived experiences and hopes for Singapore’s
 future. Each piece was crafted with care by the seniors and are inspired
