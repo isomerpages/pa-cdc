@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>Clay Modelling on Canvas Panel</em></strong>
-</p>
-<p>2025</p>
-<p>Clay on canvas</p>
-<p>42 × 59 × 10 cm</p>
-<p>Collection of Tsao Foundation</p>
+<br>2025
+<br>Clay on canvas
+<br>42 × 59 × 10 cm
+<br>Collection of Tsao Foundation</p>
 <p><em>Clay Modelling on Canvas Panel</em> features a detailed map of Singapore
 that highlights the city’s various modes of transport—buses, MRT, and aeroplanes—and
 illustrates the evolution of Singapore’s vibrant transit system. Created
