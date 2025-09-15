@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>Finding Oneself in Another, from Seed to Bloom</em></strong>
-</p>
-<p>2025</p>
-<p>Mosaic on board</p>
-<p>60 × 60 cm</p>
-<p>Collection of Bethesda CARE Centre</p>
+<br>2025
+<br>Mosaic on board
+<br>60 × 60 cm
+<br>Collection of Bethesda CARE Centre</p>
 <p><em>Finding Oneself in Another, from Seed to Bloom</em> is a diptych mosaic
 created by members of Bethesda Care Centre’s FAME Club, many of whom live
 with mental health conditions such as schizophrenia, bipolar disorder and
