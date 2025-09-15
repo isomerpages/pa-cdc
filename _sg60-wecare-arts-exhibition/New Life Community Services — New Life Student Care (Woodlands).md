@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>SG60 &amp; Beyond: Hopes in Every Corner, Dreams in Every Brick</em></strong>
-</p>
-<p>2025</p>
-<p>Mixed media installation</p>
-<p>154 × 192 × 64 cm</p>
-<p>Collection of New Life Community Services - New Life Student Care (Woodlands)</p>
+<br>2025
+<br>Mixed media installation
+<br>154 × 192 × 64 cm
+<br>Collection of New Life Community Services - New Life Student Care (Woodlands)</p>
 <p>Singapore’s blueprint for a carbon-free future is embodied in the Green
 Plan 2030, with its vision of achieving net-zero emissions by the middle
 of the 21st century. In this collaborative two-part art installation, students
