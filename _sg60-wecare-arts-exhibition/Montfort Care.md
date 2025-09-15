@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>Handmade Histories : Honouring The Past</em></strong>
-</p>
-<p>2025</p>
-<p>Ceramic</p>
-<p>70 × 77 × 25 cm</p>
-<p>Collection of Montfort Care (Goodlife Makan)</p>
+<br>2025
+<br>Ceramic
+<br>70 × 77 × 25 cm
+<br>Collection of Montfort Care (Goodlife Makan)</p>
 <p><em>Handmade Histories : Honouring The Past</em> honours <em>samsui </em>women—icons
 of strength and pioneers in shaping Singapore’s early urban landscape.
 These Chinese immigrants arrived in Singapore in the early 20th century
