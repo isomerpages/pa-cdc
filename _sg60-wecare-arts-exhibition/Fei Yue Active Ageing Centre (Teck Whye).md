@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>Seniors can Shake!</em></strong>
-</p>
-<p>2025</p>
-<p>Video: single-channel, 16:9 aspect ratio, colour and sound(stereo), 3
-min 26 sec</p>
-<p>Collection of Fei Yue Active Ageing Centre (Teck Whye)</p>
+<br>2025
+<br>Video: single-channel, 16:9 aspect ratio, colour and sound(stereo), 3
+min 26 sec
+<br>Collection of Fei Yue Active Ageing Centre (Teck Whye)</p>
 <p>In celebration of SG60 and Singapore’s rich multicultural heritage, this <em>angklung</em> ensemble
 brings to life familiar folk and popular tunes cherished across generations.
 Often sung at community gatherings, these timeless classics, evoke a deep
