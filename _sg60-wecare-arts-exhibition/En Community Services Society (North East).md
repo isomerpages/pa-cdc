@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>Sing &amp; Drum Level 2</em></strong>
-</p>
-<p>2025</p>
-<p>Video: single-channel, 16:9 aspect ratio, colour and sound(stereo), 4
-min 56 sec</p>
-<p>Collection of En Community Services Society (North East)</p>
+<br>2025
+<br>Video: single-channel, 16:9 aspect ratio, colour and sound(stereo), 4
+min 56 sec
+<br>Collection of En Community Services Society (North East)</p>
 <p>Performed by seniors from En Community Services Society, this sustainable
 drumming performance combines melodious vocals with recycled bucket drums,
 embodying the spirit of SG60.</p>
