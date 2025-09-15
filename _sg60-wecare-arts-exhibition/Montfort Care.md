@@ -4,12 +4,12 @@ permalink: /montfort-care/
 variant: tiptap
 description: ""
 ---
-<p><strong><em>Handmade Histories : Honouring The Past</em></strong>
+<p><strong><em>Handmade Histories: Honouring The Past</em></strong>
 <br>2025
 <br>Ceramic
 <br>70 × 77 × 25 cm
 <br>Collection of Montfort Care (Goodlife Makan)</p>
-<p><em>Handmade Histories : Honouring The Past</em> honours <em>samsui </em>women—icons
+<p><em>Handmade Histories: Honouring The Past</em> honours <em>samsui </em>women—icons
 of strength and pioneers in shaping Singapore’s early urban landscape.
 These Chinese immigrants arrived in Singapore in the early 20th century
 and took on tough construction and manual labour roles in our society.</p>
