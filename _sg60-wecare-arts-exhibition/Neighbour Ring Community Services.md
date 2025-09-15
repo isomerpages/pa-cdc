@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>Dreaming On: SG60 Through Seasoned Eyes</em></strong>
-</p>
-<p>2025</p>
-<p>Acrylic on canvas</p>
-<p>120 × 120 cm</p>
-<p>Collection of Neighbour Ring Community Services</p>
+<br>2025
+<br>Acrylic on canvas
+<br>120 × 120 cm
+<br>Collection of Neighbour Ring Community Services</p>
 <p><em>Dreaming On </em>features the voices of our seniors as they imagine
 Singapore’s future through art and storytelling. Part of a larger multimedia
 installation, the current display showcases nine paintings taken from the
