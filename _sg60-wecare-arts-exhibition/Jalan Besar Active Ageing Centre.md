@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>Hands of the Nation: A Ceramic Celebration of SG60</em></strong>
-</p>
-<p>2025</p>
-<p>Ceramic tiles</p>
-<p>55 × 20 cm</p>
-<p>Collection of Jalan Besar Active Ageing Centre</p>
+<br>2025
+<br>Ceramic tiles
+<br>55 × 20 cm
+<br>Collection of Jalan Besar Active Ageing Centre</p>
 <p><em>Hands of the Nation: A Ceramic Celebration of SG60</em> honours Singapore’s
 rich and diverse heritage through handcrafted ceramic tiles made by seniors
 born between the 1920s and 1960s. Representing the Chinese, Malay and Indian
