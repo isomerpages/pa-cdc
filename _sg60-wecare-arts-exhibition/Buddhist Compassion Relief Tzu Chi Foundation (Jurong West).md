@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>SG60: Forward with Fortitude</em></strong>
-</p>
-<p>2025</p>
-<p>Cardboard, paper, clay, and cloth on canvas</p>
-<p>100 × 150 cm</p>
-<p>Collections of Buddhist Compassion Relief Tzu-Chi Foundation (Jurong West)</p>
+<br>2025
+<br>Cardboard, paper, clay, and cloth on canvas
+<br>100 × 150 cm
+<br>Collections of Buddhist Compassion Relief Tzu-Chi Foundation (Jurong West)</p>
 <p><em>SG60: Forward with Fortitude</em> is a collaborative collage created
 by seniors to commemorate Singapore’s 60th year of independence. Containing
 personal stories and shared memories, the artwork reflects the nation's
