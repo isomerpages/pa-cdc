@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>Singapore as a Food Paradise for SG60</em></strong>
-</p>
-<p>2025</p>
-<p>Collage and crayon on paper</p>
-<p>30 × 42cm</p>
-<p>Collection of Pasir Panjang Hill Community Services Centre</p>
+<br>2025
+<br>Collage and crayon on paper
+<br>30 × 42cm
+<br>Collection of Pasir Panjang Hill Community Services Centre</p>
 <p><em>Singapore as a Food Paradise for SG60 </em>recognises the vital role
 food plays in bringing together Singapore’s diverse communities. A key
 inspiration for this work is the nation’s hawker heritage. It was officially
