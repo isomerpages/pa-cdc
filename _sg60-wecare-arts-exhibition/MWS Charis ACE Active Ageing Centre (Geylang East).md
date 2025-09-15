@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>Batikscape: The Art of Our Community</em></strong>
-</p>
-<p>2025</p>
-<p>Batik on cotton</p>
-<p>29.7 × 42 cm</p>
-<p>Collection of Methodist Welfare Services Charis ACE Active Ageing Centre
+<br>2025
+<br>Batik on cotton
+<br>29.7 × 42 cm
+<br>Collection of Methodist Welfare Services Charis ACE Active Ageing Centre
 – Geylang East</p>
 <p><em>Batikscape: The Art of Our Community</em> celebrates batik as a vibrant
 symbol of Singapore’s multicultural identity. This artwork honours batik’s
