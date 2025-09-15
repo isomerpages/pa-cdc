@@ -10,10 +10,9 @@ description: ""
 <p>Acrylic on canvas</p>
 <p>300 × 200 cm</p>
 <p>Collection of St. Andrew’s Nursing Home (Aljunied), St. Andrew’s Nursing
-Home (Buangkok), St. Andrew’s Nursing Home (Henderson),</p>
-<p>St. Andrew’s Nursing Home (Queenstown), St. Andrew’s Nursing Home (Taman
-Jurong), St. Andrew’s Nursing Home (Tampines North) and St. John’s - St.
-Margaret’s Nursing Home</p>
+Home (Buangkok), St. Andrew’s Nursing Home (Henderson), St. Andrew’s Nursing
+Home (Queenstown), St. Andrew’s Nursing Home (Taman Jurong), St. Andrew’s
+Nursing Home (Tampines North) and St. John’s - St. Margaret’s Nursing Home</p>
 <p>Residents from seven St. Andrew’s Nursing Homes came together to share
 their creativity in this artwork. As part of the production process, the
 residents explored various paint application techniques to create a patterned
