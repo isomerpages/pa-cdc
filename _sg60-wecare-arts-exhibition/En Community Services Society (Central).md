@@ -4,14 +4,11 @@ permalink: /en-community-services-society-central/
 variant: tiptap
 description: ""
 ---
-<p><strong>《生生不息，巳巳如意》</strong>
-</p>
-<p><strong>(Everlasting Prosperity and All Wishes Come True)</strong>
-</p>
-<p>2025</p>
-<p>Ceramic tiles</p>
-<p>48 × 48 cm</p>
-<p>Collection of En Community Services Society</p>
+<p><strong>《生生不息，巳巳如意》(Everlasting Prosperity and All Wishes Come True)</strong>
+<br>2025
+<br>Ceramic tiles
+<br>48 × 48 cm
+<br>Collection of En Community Services Society</p>
 <p>In celebration of SG60 and the Year of the Snake, this collection of ceramic
 tiles weaves together a tapestry of blessings that wish prosperity and
 the fulfilment of wishes for all. Each tile embodies our seniors’ hopes
