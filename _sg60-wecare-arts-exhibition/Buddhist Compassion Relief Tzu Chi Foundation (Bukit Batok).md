@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>SG60: Beauty of Singapore</em></strong>
-</p>
-<p>2025</p>
-<p>Paint and paper collage on canvas</p>
-<p>150 × 200 cm</p>
-<p>Collections of Buddhist Compassion Relief Tzu-Chi Foundation (Bukit Batok)</p>
+<br>2025
+<br>Paint and paper collage on canvas
+<br>150 × 200 cm
+<br>Collections of Buddhist Compassion Relief Tzu-Chi Foundation (Bukit Batok)</p>
 <p>Created in celebration of Singapore’s 60th year of independence, <em>SG60: Beauty of Singapore</em> is
 a collaborative collage project led by seniors from diverse backgrounds.
 Through the layering of images, textures and personal symbols, the artwork
