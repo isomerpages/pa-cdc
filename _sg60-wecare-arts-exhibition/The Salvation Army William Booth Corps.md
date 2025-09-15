@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>My Home, My Hope</em></strong>
-</p>
-<p>2025</p>
-<p>Mixed media installation</p>
-<p>110 × 110 × 110 cm</p>
-<p>Collection of The Salvation Army William Booth Corps Student Care Centre</p>
+<br>2025
+<br>Mixed media installation
+<br>110 × 110 × 110 cm
+<br>Collection of The Salvation Army William Booth Corps</p>
 <p>This vibrant installation features a pot as its central element. Inside,
 various types of food represent the nation’s rich and diverse ethnic heritage.
 The pot rests on a foundation of rocks that embody Singapore’s shared values—Boldness,
