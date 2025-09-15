@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>ABLE in Every Mark: Tiled for Tomorrow</em></strong>
-</p>
-<p>2025</p>
-<p>Acrylic on canvas</p>
-<p>80 × 60 cm</p>
-<p>Collection of Abilities Beyond Limitations and Expectations</p>
+<br>2025
+<br>Acrylic on canvas
+<br>80 × 60 cm
+<br>Collection of Abilities Beyond Limitations and Expectations</p>
 <p><em>ABLE in Every Mark: Tiled for Tomorrow</em> brings together personal
 expressions of care, strength and connection. The artwork conveys dreams
 for an inclusive, united future, reflecting Singapore’s strength in diversity
