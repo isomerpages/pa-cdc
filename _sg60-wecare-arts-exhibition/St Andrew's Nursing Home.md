@@ -5,10 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>Canvas of Dreams - Celebrating SG60 And Hopes For Singapore’s Future</em></strong>
-</p>
-<p>2025</p>
-<p>Acrylic on canvas</p>
-<p>300 × 200 cm</p>
+<br>2025
+<br>Acrylic on canvas
+<br>300 × 200 cm</p>
 <p>Collection of St. Andrew’s Nursing Home (Aljunied), St. Andrew’s Nursing
 Home (Buangkok), St. Andrew’s Nursing Home (Henderson), St. Andrew’s Nursing
 Home (Queenstown), St. Andrew’s Nursing Home (Taman Jurong), St. Andrew’s
