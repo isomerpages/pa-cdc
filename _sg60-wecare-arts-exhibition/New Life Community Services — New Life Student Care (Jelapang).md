@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>Threads of Harmony: Our SG60 Mosaic of Dreams</em></strong>
-</p>
-<p>2025</p>
-<p>Mosaic on board</p>
-<p>101 × 111 cm</p>
-<p>Collection of New Life Community Services - New Life Student Care (Jelapang)</p>
+<br>2025
+<br>Mosaic on board
+<br>101 × 111 cm
+<br>Collection of New Life Community Services - New Life Student Care (Jelapang)</p>
 <p>In this work, students explore mosaic making as an expressive art technique
 by using symbols of unity and cultural pride. The piece highlights Singapore’s
 richness and evolving identity, shaped by heritage and sustainability.
