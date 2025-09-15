@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>Piece by Piece, We Tile Our Story</em></strong>
-</p>
-<p>2025</p>
-<p>Ceramic tiles</p>
-<p>20 × 46 cm</p>
-<p>Collection of New Life Silvercare (Woodlands)</p>
+<br>2025
+<br>Ceramic tiles
+<br>20 × 46 cm
+<br>Collection of New Life Community Services - New Life Silvercare (Woodlands)</p>
 <p><em>Piece by Piece, We Tile Our Story</em> celebrates the collective hopes
 and reflections of seniors as Singapore marks 60 years of nation building.
 Each tile captures an individual’s personal expression, and range from
