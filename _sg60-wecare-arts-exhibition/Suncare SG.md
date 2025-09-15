@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>Skyline of Tomorrow</em></strong>
-</p>
-<p>2025</p>
-<p>Mixed media installation</p>
-<p>180 × 100 × 100 cm</p>
-<p>Collection of Suncare SG</p>
+<br>2025
+<br>Mixed media installation
+<br>180 × 100 × 100 cm
+<br>Collection of Suncare SG</p>
 <p><em>Skyline of Tomorrow</em> envisions the future landscape of Singapore
 through a collaborative sculpture that captures children’s hopes. This
 model reflects a shared dream of innovative architecture and welcoming
