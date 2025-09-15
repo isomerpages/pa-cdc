@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>A Singapore of Love, Peace, and Compassion</em></strong>
-</p>
-<p>2025</p>
-<p>Mixed media on canvas</p>
-<p>100 × 55 cm</p>
-<p>Collection of Geylang East Home for the Aged</p>
+<br>2025
+<br>Mixed media on canvas
+<br>100 × 55 cm
+<br>Collection of Geylang East Home for the Aged</p>
 <p>This collaborative artwork beautifully captures the heartfelt hopes of
 our seniors for Singapore’s future—a city where nature and urban life thrive
 in harmony. Tiny natural landscapes dot the canvas, depicting scenes of
