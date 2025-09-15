@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>Senior Dance Programme</em></strong>
-</p>
-<p>2025</p>
-<p>Video: single-channel, 16:9 aspect ratio, colour and sound(stereo), 2
-min 33 sec</p>
-<p>Collection of Lion Befrienders Service Association (Singapore)</p>
+<br>2025
+<br>Video: single-channel, 16:9 aspect ratio, colour and sound(stereo), 2
+min 33 sec
+<br>Collection of Lion Befrienders Service Association (Singapore)</p>
 <p>The Lions Befrienders’ <em>Senior Dance Programme</em> is a 10-week initiative
 designed to help seniors age confidently, actively and meaningfully. Focusing
 on street dance, particularly hip hop, the programme promotes holistic
