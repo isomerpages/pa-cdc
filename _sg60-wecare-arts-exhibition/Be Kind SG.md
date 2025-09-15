@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p><strong><em>Weaving Dreams, Crafting Ways</em></strong>
-</p>
-<p>2025</p>
-<p>Mixed media installation</p>
-<p>152 × 99 cm</p>
-<p>Collection of Be Kind SG</p>
+<br>2025
+<br>Mixed media installation
+<br>152 × 99 cm
+<br>Collection of Be Kind SG</p>
 <p>Through the act of weaving, individual threads gain strength and beauty
 as they come together to form a tapestry. <em>Weaving Dreams, Crafting Ways</em> is
 a visual testament to how our stories can blend harmoniously within a single
