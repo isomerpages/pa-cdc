@@ -38,8 +38,8 @@ Court Wing, UOB Discovery Space)
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Abilities Beyond Limitations and Expectations</p>
-<div class="isomer-image-wrapper">
+<p>Abilities Beyond Limitations and Expectations
+</p><div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Abilities.jpg">
 </div>
 </th>
@@ -50,11 +50,15 @@ Court Wing, UOB Discovery Space)
 </div>
 <p></p>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/allkin-singapore/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Allkin.jpg"></a>
+<th rowspan="1" colspan="1">
+<p>Allkin Singapore</p>
+<a class="isomer-image-wrapper" href="/allkin-singapore/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Allkin.jpg"></a>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/be-kind-sg/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Be_Kind_SG.jpg"></a>
+<td rowspan="1" colspan="1">
+<p>Be Kind SG</p>	
+<a class="isomer-image-wrapper" href="/be-kind-sg/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Be_Kind_SG.jpg"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/bethesda-care-centre/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bethesda_Care.jpg"></a>
 </td>
