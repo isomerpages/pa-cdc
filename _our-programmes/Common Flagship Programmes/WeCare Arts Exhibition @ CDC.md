@@ -37,7 +37,11 @@ Court Wing, UOB Discovery Space)
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/abilities-beyond-limitations-and-expectations/"><img style="width: 100%;" height="auto" width="100%" alt="Find out more here" src="/images/Abilities.jpg"></a>
+<th rowspan="1" colspan="1">
+<p>Abilities Beyond Limitations and Expectations</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Abilities.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/adventist-nursing-rehabilitation-centre/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Adventist.jpg"></a>
 <p></p>
