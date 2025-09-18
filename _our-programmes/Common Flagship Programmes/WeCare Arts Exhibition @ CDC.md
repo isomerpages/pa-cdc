@@ -105,26 +105,42 @@ Court Wing, UOB Discovery Space)
 </p></td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/mws-charis-ace-active-ageing-centre-geylang-east/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MWS_Charis.jpg"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/montfort-care/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Montfort_Care.jpg"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/neighbour-ring-community-services/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Neighbour_Ring.jpg"></a>
-</td>
+<td rowspan="1" colspan="1">
+<p><strong>Methodist Welfare Services Charis ACE Active Ageing Centre</strong>
+<a class="isomer-image-wrapper" href="/mws-charis-ace-active-ageing-centre-geylang-east/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MWS_Charis.jpg"></a>
+</p></td>
+<td rowspan="1" colspan="1">
+<p><strong>Montfort Care</strong>
+<a class="isomer-image-wrapper" href="/montfort-care/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Montfort_Care.jpg"></a>
+</p></td>
+<td rowspan="1" colspan="1">
+<p><strong>Neighbour Ring Community Services</strong>	
+<a class="isomer-image-wrapper" href="/neighbour-ring-community-services/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Neighbour_Ring.jpg"></a>
+</p></td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/new-life-silvercare-woodlands/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_Life_Silvercare.jpg"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/new-life-student-care-jelapang/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_Life_Jelapang.jpg"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/new-life-student-care-teck-whye/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_Life_Teck_Whye.jpg"></a>
-</td>
+<td rowspan="1" colspan="1">
+<p><strong>New Life Silvercare Woodlands</strong>
+<a class="isomer-image-wrapper" href="/new-life-silvercare-woodlands/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_Life_Silvercare.jpg"></a>
+</p></td>
+<td rowspan="1" colspan="1">
+<p><strong>New Life Student Care Jelapang</strong>	
+<a class="isomer-image-wrapper" href="/new-life-student-care-jelapang/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_Life_Jelapang.jpg"></a>
+</p></td>
+<td rowspan="1" colspan="1">
+<p><strong>New Life Student Care Teck Whye</strong>
+<a class="isomer-image-wrapper" href="/new-life-student-care-teck-whye/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_Life_Teck_Whye.jpg"></a>
+</p></td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/new-life-student-care-woodlands/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_Life_Woodlands.jpg"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/pasir-panjang-hill-community-services/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pasir_Panjang.jpg"></a>
-</td>
+<td rowspan="1" colspan="1">
+<p><strong>New Life Student Care Woodlands</strong>
+<a class="isomer-image-wrapper" href="/new-life-student-care-woodlands/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_Life_Woodlands.jpg"></a>
+</p></td>
+<td rowspan="1" colspan="1">
+<p><strong>Pasir Panjang Hill Community Services</strong>
+<a class="isomer-image-wrapper" href="/pasir-panjang-hill-community-services/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pasir_Panjang.jpg"></a>
+</p></td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/sasco-compassvale-and-hong-kah-north/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SASCO.jpg"></a>
 </td>
 </tr>
