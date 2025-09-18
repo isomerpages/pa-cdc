@@ -95,10 +95,14 @@ Court Wing, UOB Discovery Space)
 <p><strong>Geylang East Home for the Aged</strong>
 <a class="isomer-image-wrapper" href="/geylang-east-home-for-the-aged/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Geylang_East_Home.jpg"></a>
 </p></td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/jalan-besar-active-ageing-centre/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Jalan_Besar_Active.jpg"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/lion-befrienders-service-association/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lion_Befrienders.jpg"></a>
-</td>
+<td rowspan="1" colspan="1">
+<p><strong>Jalan Besar Active Ageing Centre</strong>
+<a class="isomer-image-wrapper" href="/jalan-besar-active-ageing-centre/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Jalan_Besar_Active.jpg"></a>
+</p></td>
+<td rowspan="1" colspan="1">
+<p><strong>Lions Befrienders Service Association</strong>
+<a class="isomer-image-wrapper" href="/lion-befrienders-service-association/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lion_Befrienders.jpg"></a>
+</p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/mws-charis-ace-active-ageing-centre-geylang-east/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MWS_Charis.jpg"></a>
