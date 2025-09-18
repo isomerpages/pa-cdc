@@ -1,7 +1,7 @@
 ---
 title: WeCare Arts Exhibition @ CDC
 permalink: /wecare-arts-exhibition-cdc/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Common Flagship Programmes
 ---
@@ -38,27 +38,20 @@ Court Wing, UOB Discovery Space)
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Abilities Beyond Limitations and Expectations
-</p><div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Abilities.jpg">
-</div>
+<p>Abilities Beyond Limitations and Expectations</p><a class="isomer-image-wrapper" href="/abilities-beyond-limitations-and-expectations/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Abilities.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p>Adventist Nursing &amp; Rehabilitation Centre</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adventist.jpg">
-</div>
+<p>Adventist Nursing &amp; Rehabilitation Centre</p><a class="isomer-image-wrapper" href="/adventist-nursing-rehabilitation-centre/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adventist.jpg"></a>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Allkin Singapore</p>
-<a class="isomer-image-wrapper" href="/allkin-singapore/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Allkin.jpg"></a>
+<p>Allkin Singapore</p><a class="isomer-image-wrapper" href="/allkin-singapore/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Allkin.jpg"></a>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Be Kind SG</p>	
-<a class="isomer-image-wrapper" href="/be-kind-sg/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Be_Kind_SG.jpg"></a>
+<p><strong>Be Kind SG</strong>
+</p><a class="isomer-image-wrapper" href="/be-kind-sg/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Be_Kind_SG.jpg"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/bethesda-care-centre/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bethesda_Care.jpg"></a>
 </td>
