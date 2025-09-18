@@ -58,18 +58,18 @@ Court Wing, UOB Discovery Space)
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Allkin Singapore</p>
+<p>Allkin Singapore</p><p></p>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="/allkin-singapore/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Allkin.jpg"></a>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Be Kind SG</strong>
+<p><strong>Be Kind SG</strong></p><p></p><p>
 </p><a class="isomer-image-wrapper" href="/be-kind-sg/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Be_Kind_SG.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Bethesda CARE Centre</strong>
+<p><strong>Bethesda CARE Centre</strong></p><p>
 </p><a class="isomer-image-wrapper" href="/bethesda-care-centre/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bethesda_Care.jpg"></a>
 <p></p>
 </td>
