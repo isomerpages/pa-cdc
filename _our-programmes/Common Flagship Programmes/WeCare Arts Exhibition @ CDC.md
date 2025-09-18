@@ -161,12 +161,18 @@ Abilities Beyond Limitations and Expectations</p><p></p><p></p><p><a class="isom
 </p></td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/the-salvation-army-william-booth-corps/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Salvation_Army.jpg"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/tsao-foundation/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tsao_Foundation.jpg"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cdac-yayasan-mendaki-sinda-ea/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SHGs.jpg"></a>
-</td>
+<td rowspan="1" colspan="1">
+<p><strong>The Salvation Army William Booth Corps</strong>	
+<a class="isomer-image-wrapper" href="/the-salvation-army-william-booth-corps/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Salvation_Army.jpg"></a>
+</p></td>
+<td rowspan="1" colspan="1">
+<p><strong>Tsao Foundation</strong>
+<a class="isomer-image-wrapper" href="/tsao-foundation/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tsao_Foundation.jpg"></a>
+</p></td>
+<td rowspan="1" colspan="1">
+<p><strong>Self-Help Groups</strong>	
+<a class="isomer-image-wrapper" href="/cdac-yayasan-mendaki-sinda-ea/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SHGs.jpg"></a>
+</p></td>
 </tr>
 </tbody>
 </table>
