@@ -53,18 +53,28 @@ Court Wing, UOB Discovery Space)
 <p><strong>Be Kind SG</strong>
 </p><a class="isomer-image-wrapper" href="/be-kind-sg/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Be_Kind_SG.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/bethesda-care-centre/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bethesda_Care.jpg"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/buddhist-compassion-relief-tzu-chi-foundation-bukit-batok/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buddhist_Compassion_Batok.jpg"></a>
-</td>
+<td rowspan="1" colspan="1">
+<p><strong>Bethesda CARE Centre</strong>	
+<a class="isomer-image-wrapper" href="/bethesda-care-centre/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bethesda_Care.jpg"></a>
+</p></td>
+<td rowspan="1" colspan="1">
+<p><strong>Buddhist Compassion Relief (Bukit Batok)</strong>
+<a class="isomer-image-wrapper" href="/buddhist-compassion-relief-tzu-chi-foundation-bukit-batok/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buddhist_Compassion_Batok.jpg"></a>
+</p></td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/buddhist-compassion-relief-tzu-chi-foundation-jurong-west/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buddhist_Compassion_Jurong.jpg"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/care-community-services-society/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Care_Community_enhance.jpg"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/caregiving-welfare-association/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Caregiving_Welfare_Association.jpg"></a>
-</td>
+<td rowspan="1" colspan="1">
+<p><strong>Buddhist Compassion Relief (Jurong West)</strong>
+<a class="isomer-image-wrapper" href="/buddhist-compassion-relief-tzu-chi-foundation-jurong-west/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buddhist_Compassion_Jurong.jpg"></a>
+</p></td>
+<td rowspan="1" colspan="1">
+<p><strong>Care Community Services Society</strong>
+<a class="isomer-image-wrapper" href="/care-community-services-society/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Care_Community_enhance.jpg"></a>
+</p></td>
+<td rowspan="1" colspan="1">
+<p><strong>Care Giving Welfare Association</strong>	
+<a class="isomer-image-wrapper" href="/caregiving-welfare-association/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Caregiving_Welfare_Association.jpg"></a>
+</p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/en-community-services-society-central/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/En_Community_Central.jpg"></a>
