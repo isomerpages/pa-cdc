@@ -43,7 +43,11 @@ Court Wing, UOB Discovery Space)
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Abilities.jpg">
 </div>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/adventist-nursing-rehabilitation-centre/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Adventist.jpg"></a>
+<th rowspan="1" colspan="1">
+<p>Adventist Nursing &amp; Rehabilitation Centre</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adventist.jpg">
+</div>
 <p></p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/allkin-singapore/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Allkin.jpg"></a>
