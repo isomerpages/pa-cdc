@@ -104,7 +104,7 @@ Court Wing, UOB Discovery Space)
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>En Community Services Society North East</strong>
-</p><a class="isomer-image-wrapper" href="/en-community-services-society-north-east/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/En_Com_NE.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/en-community-services-society-north-east/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/En_Com_NE.jpg"></a>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
