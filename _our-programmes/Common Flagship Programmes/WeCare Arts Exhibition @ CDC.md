@@ -166,8 +166,8 @@ Court Wing, UOB Discovery Space)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>New Life Student Care Woodlands</strong>
-</p><a class="isomer-image-wrapper" href="/new-life-student-care-woodlands/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_Life_Woodlands.jpg"></a>
+	<p><strong>New Life Student Care Woodlands</strong></p>
+<p></p><a class="isomer-image-wrapper" href="/new-life-student-care-woodlands/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_Life_Woodlands.jpg"></a>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
