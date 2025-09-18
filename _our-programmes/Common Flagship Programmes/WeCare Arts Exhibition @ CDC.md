@@ -77,16 +77,24 @@ Court Wing, UOB Discovery Space)
 </p></td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/en-community-services-society-central/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/En_Community_Central.jpg"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/en-community-services-society-north-east/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/En_Com_NE.jpg"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/fei-yue-active-ageing-centre-teck-whye/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fei_Yue_Active.jpg"></a>
-</td>
+<td rowspan="1" colspan="1">
+<p><strong>En Community Services Society Central</strong>
+<a class="isomer-image-wrapper" href="/en-community-services-society-central/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/En_Community_Central.jpg"></a>
+</p></td>
+<td rowspan="1" colspan="1">
+<p><strong>En Community Services Society North East</strong>
+<a class="isomer-image-wrapper" href="/en-community-services-society-north-east/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/En_Com_NE.jpg"></a>
+</p></td>
+<td rowspan="1" colspan="1">
+<p><strong>Fei Yue Active Ageing Centre</strong>
+<a class="isomer-image-wrapper" href="/fei-yue-active-ageing-centre-teck-whye/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fei_Yue_Active.jpg"></a>
+</p></td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/geylang-east-home-for-the-aged/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Geylang_East_Home.jpg"></a>
-</td>
+<td rowspan="1" colspan="1">
+<p><strong>Geylang East Home for the Aged</strong>
+<a class="isomer-image-wrapper" href="/geylang-east-home-for-the-aged/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Geylang_East_Home.jpg"></a>
+</p></td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/jalan-besar-active-ageing-centre/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Jalan_Besar_Active.jpg"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/lion-befrienders-service-association/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lion_Befrienders.jpg"></a>
