@@ -37,11 +37,11 @@ Court Wing, UOB Discovery Space)
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1"><p>
+Abilities Beyond Limitations and Expectations</p><p></p><p></p><p><a class="isomer-image-wrapper" href="/abilities-beyond-limitations-and-expectations/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Abilities.jpg"></a>
+</p></th>
 <th rowspan="1" colspan="1">
-Abilities Beyond Limitations and Expectations<p></p><a class="isomer-image-wrapper" href="/abilities-beyond-limitations-and-expectations/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Abilities.jpg"></a>
-</th>
-<th rowspan="1" colspan="1">
-	<p>Adventist Nursing &amp; Rehabilitation Centre</p><p></p><p></p><a class="isomer-image-wrapper" href="/adventist-nursing-rehabilitation-centre/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adventist.jpg"></a>
+<p>Adventist Nursing &amp; Rehabilitation Centre</p><p></p><a class="isomer-image-wrapper" href="/adventist-nursing-rehabilitation-centre/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adventist.jpg"></a>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
@@ -141,16 +141,24 @@ Abilities Beyond Limitations and Expectations<p></p><a class="isomer-image-wrapp
 <p><strong>Pasir Panjang Hill Community Services</strong>
 <a class="isomer-image-wrapper" href="/pasir-panjang-hill-community-services/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pasir_Panjang.jpg"></a>
 </p></td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/sasco-compassvale-and-hong-kah-north/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SASCO.jpg"></a>
-</td>
+<td rowspan="1" colspan="1">
+<p><strong>SASCO@Compassvale &amp; Hong Kah North</strong>
+<a class="isomer-image-wrapper" href="/sasco-compassvale-and-hong-kah-north/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SASCO.jpg"></a>
+</p></td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/shine-children-and-youth-services/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SHINE_updated.jpg"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/st-andrew-s-nursing-home/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/St_Andrew.jpg"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/suncare-sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SunCare.jpg"></a>
-</td>
+<td rowspan="1" colspan="1">
+<p><strong>SHINE Children and Youth Services</strong>	
+<a class="isomer-image-wrapper" href="/shine-children-and-youth-services/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SHINE_updated.jpg"></a>
+</p></td>
+<td rowspan="1" colspan="1">
+<p><strong>St. Andrew's Nursing Home</strong>
+<a class="isomer-image-wrapper" href="/st-andrew-s-nursing-home/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/St_Andrew.jpg"></a>
+</p></td>
+<td rowspan="1" colspan="1">
+<p><strong>Suncare SG</strong>
+<a class="isomer-image-wrapper" href="/suncare-sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SunCare.jpg"></a>
+</p></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/the-salvation-army-william-booth-corps/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Salvation_Army.jpg"></a>
