@@ -41,11 +41,11 @@ Court Wing, UOB Discovery Space)
 <p>Abilities Beyond Limitations and Expectations</p><a class="isomer-image-wrapper" href="/abilities-beyond-limitations-and-expectations/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Abilities.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p>Adventist Nursing &amp; Rehabilitation Centre</p><a class="isomer-image-wrapper" href="/adventist-nursing-rehabilitation-centre/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adventist.jpg"></a>
+	<p>Adventist Nursing &amp; Rehabilitation Centre</p><p></p><p></p><a class="isomer-image-wrapper" href="/adventist-nursing-rehabilitation-centre/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adventist.jpg"></a>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Allkin Singapore</p><a class="isomer-image-wrapper" href="/allkin-singapore/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Allkin.jpg"></a>
+<p>Allkin Singapore</p><p></p><p></p><a class="isomer-image-wrapper" href="/allkin-singapore/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Allkin.jpg"></a>
 </th>
 </tr>
 <tr>
@@ -54,9 +54,9 @@ Court Wing, UOB Discovery Space)
 </p><a class="isomer-image-wrapper" href="/be-kind-sg/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Be_Kind_SG.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Bethesda CARE Centre</strong>	
+<p><strong>Bethesda CARE Centre</strong></p>	
 <a class="isomer-image-wrapper" href="/bethesda-care-centre/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bethesda_Care.jpg"></a>
-</p></td>
+<p></p></td>
 <td rowspan="1" colspan="1">
 <p><strong>Buddhist Compassion Relief (Bukit Batok)</strong>
 <a class="isomer-image-wrapper" href="/buddhist-compassion-relief-tzu-chi-foundation-bukit-batok/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buddhist_Compassion_Batok.jpg"></a>
@@ -68,9 +68,9 @@ Court Wing, UOB Discovery Space)
 <a class="isomer-image-wrapper" href="/buddhist-compassion-relief-tzu-chi-foundation-jurong-west/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buddhist_Compassion_Jurong.jpg"></a>
 </p></td>
 <td rowspan="1" colspan="1">
-<p><strong>Care Community Services Society</strong>
+<p><strong>Care Community Services Society</strong></p>
 <a class="isomer-image-wrapper" href="/care-community-services-society/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Care_Community_enhance.jpg"></a>
-</p></td>
+<p></p></td>
 <td rowspan="1" colspan="1">
 <p><strong>Care Giving Welfare Association</strong>	
 <a class="isomer-image-wrapper" href="/caregiving-welfare-association/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Caregiving_Welfare_Association.jpg"></a>
