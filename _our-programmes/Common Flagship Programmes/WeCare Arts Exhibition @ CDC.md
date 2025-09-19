@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: Common Flagship Programmes
 ---
-
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo1.jpg">
 </div>
@@ -43,15 +42,15 @@ Court Wing, UOB Discovery Space)
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <a class="isomer-image-wrapper" href="/abilities-beyond-limitations-and-expectations/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Abilities.jpg"><br>Abilities Beyond Limitations and Expectations</a>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <a class="isomer-image-wrapper" href="/adventist-nursing-rehabilitation-centre/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adventist.jpg"><br>Adventist Nursing &amp; Rehabilitation Centre</a>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <a class="isomer-image-wrapper" href="/allkin-singapore/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Allkin.jpg"><br>Allkin Singapore</a>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -159,4 +158,3 @@ Court Wing, UOB Discovery Space)
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/crnZIy9HHdI?si=mZm1mlgO_Lxl0sRt"></iframe>
 </div>
-<p></p>
