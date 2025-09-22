@@ -9,7 +9,9 @@ variant: markdown
 <summary><strong>2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-	<p><strong>16 September 2025</strong><br>From Aspirations to Art: Over 780 Singaporeans aged 7 to 95 Showcase their Vision for Our Nation’s Future at SG60 WeCare Arts Exhibition @ CDC <a href="/files/Press%20Releases/Media_Release___SG60_WeCare_Arts_Exhibition_CDC.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
+		<p><strong>20 September 2025</strong><br>LAW@CDC 2025 Launches Access to Justice Community Co-Lab to Co-Create Community Legal Solutions <a href="/files/Press%20Releases/Media_Release_LAW_CDC_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
+	</p>
+	<p><strong>16 September 2025</strong><br>From Aspirations to Art: Over 780 Singaporeans aged 7 to 95 Showcase their Vision for Our Nation’s Future at SG60 WeCare Arts Exhibition @ CDC <a href="/files/Press%20Releases/media_release_sg60_wecare_arts_exhibition_cdc.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
 	</p><p><strong>16 August 2025</strong><br>Step Up Your Walking Game with Walking Trails@CDC | Explore, Play, Bond, and Win Rewards!
 <a href="/files/Press%20Releases/Media_Release_Walking_Trails_CDC.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
 </p>
