@@ -1,5 +1,5 @@
 ---
-title: WeCare Arts Exhibition @ CDC
+title: WeCare Arts Exhibition
 permalink: /wecare-arts-exhibition-cdc/
 variant: markdown
 description: ""
