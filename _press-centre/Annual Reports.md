@@ -12,6 +12,48 @@ variant: tiptap
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/cdcar-2023" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">FY 2023</div><div class="isomer-card-link">View Annual Report</div></div></a>
 </div>
 <h4>Scroll down to view past CDC Annual Reports</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>FY2023</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>FY 2022</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>FY 2021</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/cdcar-2022" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="cdc annual report fy 22" src="/images/website icon for annual report22.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FY 2022</div><div class="isomer-card-link">View Annual Report</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/cdcar-2021" class="isomer-card">
 <div class="isomer-card-image">
