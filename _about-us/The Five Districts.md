@@ -42,8 +42,8 @@ looking after the Office of the Mayors and International Relations.
 <br>
 </p>
 <p>The Central Singapore district covers constituencies of:
-<br>Ang Mo Kio, Bishan-Toa Payoh, Jalan Besar, Kebun Baru, Marymount, Potong
-Pasir, Radin Mas, Tanjong Pagar and Yio Chu Kang.</p>
+<br>Ang Mo Kio, Bishan-Toa Payoh, Jalan Besar, Jalan Kayu, Kebun Baru, Marymount,
+Potong Pasir, Queenstown, Radin Mas, Tanjong Pagar, and Yio Chu Kang.</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +66,8 @@ Pasir, Radin Mas, Tanjong Pagar and Yio Chu Kang.</p>
 <br>
 </p>
 <p>The North East district covers constituencies of:
-<br>Aljunied, Hougang, Pasir Ris-Punggol, Punggol West, Sengkang and Tampines.</p>
+<br>Aljunied, Hougang, Pasir Ris-Changi, Punggol, Sengkang, Tampines, and
+Tampines Changkat.</p>
 </td>
 </tr>
 <tr>
@@ -89,7 +90,8 @@ Pasir, Radin Mas, Tanjong Pagar and Yio Chu Kang.</p>
 <br>
 </p>
 <p>The North West district covers constituencies of:
-<br>Bukit Panjang, Holland-Bukit Timah, Marsiling-Yew Tee, Nee Soon and Sembawang.</p>
+<br>Bukit Panjang, Holland-Bukit Timah, Marsiling-Yew Tee, Nee Soon Sembawang,
+and Sembawang West.</p>
 </td>
 </tr>
 <tr>
@@ -112,7 +114,7 @@ Pasir, Radin Mas, Tanjong Pagar and Yio Chu Kang.</p>
 <br>
 </p>
 <p>The South East district covers constituencies of:
-<br>East Coast, MacPherson, Marine Parade and Mountbatten</p>
+<br>East Coast, Marine Parade-Braddell Heights, and Mountbatten.</p>
 </td>
 </tr>
 <tr>
@@ -135,8 +137,8 @@ Pasir, Radin Mas, Tanjong Pagar and Yio Chu Kang.</p>
 <br>
 </p>
 <p>The South West district covers constituencies of:
-<br>Bukit Batok, Chua Chu Kang, Hong Kah North, Jurong, Pioneer, West Coast
-and Yuhua</p>
+<br>Chua Chu Kang, Jurong East - Bukit Batok, West Coast - Jurong West, Bukit
+Gombak, Jurong Central, and Pioneer.</p>
 </td>
 </tr>
 </tbody>
