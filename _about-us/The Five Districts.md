@@ -66,8 +66,7 @@ Potong Pasir, Queenstown, Radin Mas, Tanjong Pagar, and Yio Chu Kang.</p>
 <br>
 </p>
 <p>The North East district covers constituencies of:
-<br>Aljunied, Hougang, Pasir Ris-Changi, Punggol, Sengkang, Tampines, and
-Tampines Changkat.</p>
+<br>Pasir Ris-Changi, Punggol, Sengkang, Tampines, and Tampines Changkat.</p>
 </td>
 </tr>
 <tr>
@@ -114,7 +113,7 @@ and Sembawang West.</p>
 <br>
 </p>
 <p>The South East district covers constituencies of:
-<br>East Coast, Marine Parade-Braddell Heights, and Mountbatten.</p>
+<br>Aljunied, East Coast, Hougang, Marine Parade-Braddell Heights, and Mountbatten.</p>
 </td>
 </tr>
 <tr>
