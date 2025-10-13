@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Common Flagship Programmes/Jobs Nearby @ CDC.md
       - Common Flagship Programmes/.keep
       - Common Flagship Programmes/Overview.md
       - Common Flagship Programmes/ArtsEverywhere @ CDC.md
