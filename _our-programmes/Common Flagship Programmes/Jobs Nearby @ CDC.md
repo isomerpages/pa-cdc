@@ -10,7 +10,7 @@ third_nav_title: Common Flagship Programmes
 <img style="width: 100%" height="auto" width="100%" alt="Launch of Jobs Nearby @ CDC on 23 October 2025" src="/images/Jobs_Nearby_CDC.jpg">
 </div>
 <h4><strong>Overview</strong>&nbsp;</h4>
-<p>Jobs Nearby @ CDC is a initiative launched by Prime Minister Lawrence
+<p>Jobs Nearby @ CDC is an initiative launched by Prime Minister Lawrence
 Wong on 23 October 2025. The initiative helps residents find local job
 opportunities near their homes, leveraging on the CDCs' extensive networks
 with local businesses, SMEs, and community partners.&nbsp;</p>
