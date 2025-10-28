@@ -9,6 +9,7 @@ variant: markdown
 <summary><strong>2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+	<p>Speech by Prime Minister and Minister for Finance Lawrence Wong at the Launch of Jobs Nearby @ CDC <a href="https://www.pmo.gov.sg/newsroom/pm-lawrence-wong-at-the-launch-of-jobs-nearby-cdc-oct-2025/" rel="noopener nofollow" target="_blank">(Read here)</a></p>
 	<p>Speech by Prime Minister and Minister for Finance Lawrence Wong at the Launch of the CDC Vouchers Scheme 2025 (May) <a href="https://www.pmo.gov.sg/Newsroom/PM-Lawrence-Wong-at-the-Launch-of-the-CDC-Vouchers-Scheme-2025-May" rel="noopener nofollow" target="_blank">(Read here)</a></p>
 <p>Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of South West District at the Launch of the CDC Vouchers Scheme 2025 (May)<a href="/files/Speech_Mayor_Low_CDCV_2025_May" rel="noopener nofollow" target="_blank">(Read here)</a></p>
 
