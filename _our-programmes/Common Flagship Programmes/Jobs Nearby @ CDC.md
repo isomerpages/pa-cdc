@@ -9,7 +9,6 @@ third_nav_title: Common Flagship Programmes
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Launch of Jobs Nearby @ CDC on 23 October 2025" src="/images/Jobs_Nearby_CDC.jpg">
 </div>
-<h4></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_ZEw3TsLbSk?si=QK9XfHzhgxVLvMB_"></iframe>
 </div>
