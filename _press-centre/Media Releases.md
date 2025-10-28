@@ -9,6 +9,8 @@ variant: markdown
 <summary><strong>2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+			<p><strong>23 October 2025</strong><br>Community Development Councils Advance a 'We First' Society with the Launch of Jobs Nearby @ CDC <a href="/files/Press%20Releases/Media_Release_JobsNearby_CDC.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
+	</p>
 		<p><strong>20 September 2025</strong><br>LAW@CDC 2025 Launches Access to Justice Community Co-Lab to Co-Create Community Legal Solutions <a href="/files/Press%20Releases/Media_Release_LAW_CDC_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
 	</p>
 	<p><strong>16 September 2025</strong><br>From Aspirations to Art: Over 780 Singaporeans aged 7 to 95 Showcase their Vision for Our Nation’s Future at SG60 WeCare Arts Exhibition @ CDC <a href="/files/Press%20Releases/media_release_sg60_wecare_arts_exhibition_cdc.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
