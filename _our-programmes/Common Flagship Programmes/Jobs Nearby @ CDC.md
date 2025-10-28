@@ -9,7 +9,7 @@ third_nav_title: Common Flagship Programmes
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Launch of Jobs Nearby @ CDC on 23 October 2025" src="/images/Jobs_Nearby_CDC.jpg">
 </div>
-<h4><strong>Overview</strong>&nbsp;</h4>
+<h4>Overview&nbsp;</h4>
 <p>Jobs Nearby @ CDC is an initiative launched by Prime Minister Lawrence
 Wong on 23 October 2025. The initiative helps residents find local job
 opportunities near their homes, leveraging on the CDCs' extensive networks
@@ -30,7 +30,7 @@ with local businesses, SMEs, and community partners.&nbsp;</p>
 <p>Connect residents with job opportunities through Community Job Clinics.&nbsp;</p>
 </li>
 </ul>
-<h4><strong>How We Help Resident Jobseekers</strong>&nbsp;</h4>
+<h4>How We Help Resident Jobseekers&nbsp;</h4>
 <p>Jobseekers can:&nbsp;</p>
 <ul>
 <li>
@@ -49,7 +49,7 @@ needs and preferences.&nbsp;</p>
 on the District Job Banks.&nbsp;</p>
 </li>
 </ul>
-<h4><strong>How We Help Employers</strong>&nbsp;</h4>
+<h4>How We Help Employers&nbsp;</h4>
 <p>Employers can:&nbsp;</p>
 <ul>
 <li>
@@ -62,7 +62,7 @@ on the District Job Banks.&nbsp;</p>
 their hiring needs.&nbsp;</p>
 </li>
 </ul>
-<h4><strong>Get Involved</strong>&nbsp;</h4>
+<h4>Get Involved&nbsp;</h4>
 <p>Whether you are a jobseeker looking for nearby opportunities or an employer
 seeking residents to hire, Jobs Nearby @ CDC is here to help. Visit <a href="http://jobsnearby.cdc.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jobsnearby.cdc.gov.sg </a>to
 learn more about how you can get involved and start connecting with jobseekers
