@@ -38,7 +38,7 @@ with local businesses, SMEs, and community partners.&nbsp;</p>
 <p>Jobseekers can:&nbsp;</p>
 <ul>
 <li>
-<p>Register your interest to specify the type of job you're looking for.&nbsp;</p>
+<p>Register your interest to specify the type of job you are looking for.&nbsp;</p>
 </li>
 </ul>
 <ul>
