@@ -9,7 +9,8 @@ third_nav_title: Common Flagship Programmes
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FINAL4_CDC_WalkingTrails_Socials_1920x1080px_.jpg">
 </div>
-<div><center><strong>Are you ready for the trail? → <a href="https://www.crowdtask.gov.sg/quest/walking-trails-cdc">Join quest!</a></strong></center></div>
+<div><p></p><center><strong>Are you ready for the trail? → <a href="https://www.crowdtask.gov.sg/quest/walking-trails-cdc">Join quest!</a></strong></center></div>
+<p></p><center><strong>An Update on Rewards:</strong> Trail completion rewards for Central Singapore CDC and North East CDC are <i>fully</i> redeemed. Rewards for North West CDC, South East CDC, and South West CDC trails, plus Ollie collection rewards are still available but running low. Participation in all trails remains open regardless of reward availability.</center><p></p>
 <hr>
 
 <h4>About Walking Trails @ CDC</h4>
