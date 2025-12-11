@@ -10,6 +10,7 @@ third_nav_title: Common Flagship Programmes
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FINAL4_CDC_WalkingTrails_Socials_1920x1080px_.jpg">
 </div>
 <div><center><strong>Are you ready for the trail? → <a href="https://www.crowdtask.gov.sg/quest/walking-trails-cdc">Join quest!</a></strong></center></div>
+
 <hr>
 
 <h4>About Walking Trails @ CDC</h4>
