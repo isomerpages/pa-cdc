@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### About CDC Vouchers Scheme 2026 (January)
 
-![](/images/2026_Jan_Banner_Header.jpg)
+![](/images/2026_Jan_Banner_Header.png)
 
 Every Singaporean household will receive $300 CDC Vouchers in January 2026. This is in addition to the $500 CDC Vouchers given in May 2025. Therefore, all Singaporean households will receive a total of $800 CDC Vouchers in Financial Year 2025.
 
