@@ -90,7 +90,7 @@ to find out more about the fund:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Kenneth Poh&nbsp;-&nbsp;<a href="mailto:Kenneth_POH@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kenneth_POH@pa.gov.sg</a> 
-<br>Ruzaidah Rasid -&nbsp;<a href="mailto:Ruzaidah_RASID@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ruzaidah_RASID@pa.gov.sg</a>
+<br>Sharon Lin - <a href="mailto:Sharon_LIN@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sharon_LIN@pa.gov.sg</a>
 </p>
 </td>
 </tr>
