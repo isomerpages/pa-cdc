@@ -106,10 +106,10 @@ South West District at the Launch of CDC Vouchers Scheme 2023 <a href="/files/Sp
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Speech by Mayor Alex Yam, Mayor of North West District at the Launch of
-Law Awareness Weeks@CDC 2022 <a href="/files/Delivered%20LAW@CDC%202022%20Speech%20by%20Mayor%20Alex.pdf" rel="noopener noreferrer nofollow" target="_blank">Read here</a>
+Law Awareness Weeks@CDC 2022 <a href="/files/Delivered%20LAW@CDC%202022%20Speech%20by%20Mayor%20Alex.pdf" rel="noopener noreferrer nofollow" target="_blank">(Read here)</a>
 </p>
 <p>Speech by Minister for Finance Lawrence Wong at the Launch of CDC Vouchers
-Scheme 2022<a href="https://www.mof.gov.sg/news-resources/newsroom/speech-by-mr-lawrence-wong-minister-for-finance-at-the-launch-of-the-cdc-vouchers-scheme-2022-on-wednesday-11-may-2022-at-tampines-west-community-club/" rel="noopener noreferrer nofollow" target="_blank">(Read here)</a>
+Scheme 2022 <a href="https://www.mof.gov.sg/news-resources/newsroom/speech-by-mr-lawrence-wong-minister-for-finance-at-the-launch-of-the-cdc-vouchers-scheme-2022-on-wednesday-11-may-2022-at-tampines-west-community-club/" rel="noopener noreferrer nofollow" target="_blank">(Read here)</a>
 </p>
 <p>Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of
 South West District, at the Launch of CDC Vouchers Scheme 2022 <a href="/files/delivered-speech-by-chairman-mayor-low-yen-ling-at-launch-of-cdc-vouchers-scheme-2022%20(1).pdf" rel="noopener noreferrer nofollow" target="_blank">(Read here)</a>
