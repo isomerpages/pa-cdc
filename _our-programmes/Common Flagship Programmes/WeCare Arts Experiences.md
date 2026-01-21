@@ -70,7 +70,7 @@ to find out more about the fund:</p>
 <td rowspan="1" colspan="1">
 <p>Isabelle Chan - <a href="mailto:Isabelle_CHAN@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Isabelle_CHAN@pa.gov.sg</a>
 </p>
-<p>Tan Yu Xuan - <a href="mailto:tan_yu_xuan@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Yu_Xuan@pa.gov.sg</a>
+<p>Yvettes Tan - <a href="mailto:Yvettes_tan@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Yvettes_TAN@pa.gov.sg</a>
 </p>
 </td>
 </tr>
