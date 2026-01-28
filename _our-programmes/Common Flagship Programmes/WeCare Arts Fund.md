@@ -53,7 +53,7 @@ to find out more about the fund:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Isabelle Chan - <a href="mailto:Isabelle_CHAN@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Isabelle_CHAN@pa.gov.sg</a>
-<br>Annick Koo - <a href="mailto:Isabelle_CHAN@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Annick_KOO@pa.gov.sg</a>
+<br>Yvettes Tan - <a href="mailto:Yvettes_tan@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Yvettes_TAN@pa.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -62,7 +62,7 @@ to find out more about the fund:</p>
 <p>North West CDC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Brandon Oh -&nbsp;<a href="mailto:Brandon_OH@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Brandon_OH@pa.gov.sg</a>&nbsp;
+<p>Sylvia Chua - <a href="mailto:Sylvia_CHUA@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sylvia_CHUA@pa.gov.sg</a>&nbsp;
 <br>Goh Shan Jin - <a rel="noopener noreferrer nofollow" target="_blank">GOH_Shan_Jin@pa.gov.sg</a>
 </p>
 </td>
