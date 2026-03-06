@@ -89,7 +89,7 @@ Note: We have launched the above 5 new heritage trails on 14 March 2026
 <p></p>
 <h4>6 different Ollies to Collect</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ollies.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6_Ollies.png">
 </div>
 <h4>Ready to Start Your Adventure?</h4>
 <p>Visit <a href="https://www.crowdtask.gov.sg/quest/walking-trails-cdc" rel="noopener nofollow" target="_blank">www.crowdtask.gov.sg/quest/walking-trails-cdc</a> to
