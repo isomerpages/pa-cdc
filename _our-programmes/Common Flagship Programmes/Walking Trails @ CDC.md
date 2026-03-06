@@ -7,7 +7,7 @@ third_nav_title: Common Flagship Programmes
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wt_heritage_edition.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WT_CDC_Heritage_Edition_Web_Banner.png">
 </div>
 <div><center><strong>Are you ready for the trail? → <a href="[https://www.crowdtask.gov.sg/quest/walking-trails-cdc]">Join quest!</a></strong></center></div>
 
