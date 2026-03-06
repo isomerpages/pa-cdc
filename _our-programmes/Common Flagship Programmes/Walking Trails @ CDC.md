@@ -83,8 +83,8 @@ Note: We have launched the above 5 new heritage trails on 14 March 2026
 <p></p>
 <h4>Rewards (until stock lasts!)</h4><p></p>
 <p>Complete each trail to earn up to $15 in RedeemSG Rewards Vouchers.
-<br>✅ $5 when you complete all 5 checkpoints</p>
-<br>✅ Additional $10 when you collect 6 CDC Ollies (including the new elusive 6th Ollie) along the trail<p></p>
+<br>✅ $5 when you complete all 5 checkpoints
+<br>✅ Additional $10 when you collect 6 CDC Ollies (including the new elusive 6th Ollie) along the trail</p><p></p>
 <p></p>
 <h4>6 different Ollies to Collect</h4>
 <div class="isomer-image-wrapper">
