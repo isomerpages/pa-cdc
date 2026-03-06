@@ -20,7 +20,7 @@ third_nav_title: Common Flagship Programmes
 <p>Building on the success of Phase 1, Walking Trails @ CDC (Heritage Edition) expands beyond health and community to incorporate heritage as a core pillar. In partnership with the National Heritage Board (NHB), the programme now features curated heritage trails that spotlight the stories of shared neighbourhood spaces and multicultural sites across Singapore.</p>
 <p>The initiative will grow fivefold — from 5 to 25 trails in the next two years — offering residents more opportunities to stay active while rediscovering the diverse histories that shape our communities.</p>
 <p>Participants can also look forward to an enhanced reward experience. A new elusive 6th Mystery Ollie, has been introduced.</p>
-<h4>Trails</h4>
+<h4>Walking Trails</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -74,18 +74,17 @@ third_nav_title: Common Flagship Programmes
 </td>
 <td rowspan="1" colspan="1">
 <p>1. Walking Trails @ CDC:Jurong (Heritage Edition)</p><p></p>
-<p>2.Beauty World MRT Exit C to Little Guilin</p>
+<p>2. Beauty World MRT Exit C to Little Guilin</p>
 </td>
 </tr>
 </tbody>
 </table>
 Note: We have launched the above 5 new heritage trails on 14 March 2026
 <p></p>
-<h4>Rewards</h4>
-*(until stock lasts)*
+<h4>Rewards (until stock lasts!)</h4><p></p>
 <p>Complete each trail to earn up to $15 in RedeemSG Rewards Vouchers.
-<br>✅ $5 when you complete all 5 checkpoints
-<br>✅ Additional $10 when you collect 6 CDC Ollies (including the new elusive 6th Ollie) along the trail</p>
+<br>✅ $5 when you complete all 5 checkpoints</p>
+<br>✅ Additional $10 when you collect 6 CDC Ollies (including the new elusive 6th Ollie) along the trail<p></p>
 <p></p>
 <h4>6 different Ollies to Collect</h4>
 <div class="isomer-image-wrapper">
