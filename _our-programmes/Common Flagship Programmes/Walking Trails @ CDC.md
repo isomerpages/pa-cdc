@@ -34,7 +34,7 @@ third_nav_title: Common Flagship Programmes
 </td>
 <td rowspan="1" colspan="1">
 <p>1. Walking Trails @CDC: Kampong Glam​ (Heritage Edition) </p><p></p>
-2. Kreta Ayer Square to Fort Canning Centre
+<p>2. Kreta Ayer Square to Fort Canning Centre</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +44,7 @@ third_nav_title: Common Flagship Programmes
 </td>
 <td rowspan="1" colspan="1">
 <p>1. Walking Trails @ CDC: Tampines (Heritage Edition)</p><p></p>
-2. Punggol Waterway Mural to Punggol Digital District
+<p>2. Punggol Waterway Mural to Punggol Digital District</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ third_nav_title: Common Flagship Programmes
 </td>
 <td rowspan="1" colspan="1">
 <p>1. Walking Trails @ CDC: Woodlands (Heritage Edition)</p><p></p>
-2. Walkway outside Cashew MRT to Bukit Timah Railway Station
+<p>2. Walkway outside Cashew MRT to Bukit Timah Railway Station</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ third_nav_title: Common Flagship Programmes
 </td>
 <td rowspan="1" colspan="1">
 <p>1. Walking Trails @CDC: Bedok​ (Heritage Edition)</p><p></p>
-2. Fort Tanjong Katong to Siglap Canal Lookout Deck
+<p>2. Fort Tanjong Katong to Siglap Canal Lookout Deck</p>
 </td>
 </tr>
 <tr>
@@ -74,7 +74,7 @@ third_nav_title: Common Flagship Programmes
 </td>
 <td rowspan="1" colspan="1">
 <p>1. Walking Trails @ CDC:Jurong (Heritage Edition)</p><p></p>
-2.Beauty World MRT Exit C to Little Guilin
+<p>2.Beauty World MRT Exit C to Little Guilin</p>
 </td>
 </tr>
 </tbody>
