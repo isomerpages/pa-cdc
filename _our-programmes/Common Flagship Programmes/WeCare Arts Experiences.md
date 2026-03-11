@@ -47,8 +47,11 @@ programmes will cater to various age groups and families.</p>
 <p>Social service agencies (SSAs), and community partners such as grassroots
 organisations (GROs) and Self-Help Groups (SHGs) can apply for WCAE with
 their relevant CDC.</p>
-<p><a href="/files/WeCare_Arts_Experiences_Overview_and_Guidelines_3_April_2023.pdf" rel="noopener nofollow" target="_blank">Download</a> the
+<p><a href="/files/WCAE_Application_Form.pdf" rel="noopener nofollow" target="_blank">Download</a> the
 Guide and Application Form.</p>
+<p>If you have additional questions on how to use WCAE for SG Culture Pass,
+please refer to the <a href="/files/WCAE_FAQ_for_SG_Culture_Pass.pdf" rel="noopener nofollow" target="_blank">Frequently Asked Questions</a>
+</p>
 <p><em>*With effect from January 2020, interested SSAs can submit their application online via the&nbsp;</em><strong><em>OurSG Grant Portal</em></strong><em>&nbsp;(<a href="https://oursggrants.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://oursggrants.gov.sg</a>) for a more seamless grant application process using CorpPass.&nbsp;</em>
 </p>
 <p>For further enquiries, you may contact the CDCs officer in your district
