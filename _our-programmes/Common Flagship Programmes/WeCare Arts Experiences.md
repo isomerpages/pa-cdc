@@ -9,35 +9,40 @@ third_nav_title: Common Flagship Programmes
 <img style="width: 100%" height="auto" width="100%" alt="we care arts fund exhibition experiences" src="/images/Common%20Flagship%20Progs/wecare%20arts%20fund.png">
 </div>
 <h4>About WeCare Arts Experiences</h4>
-<p>As part of a deeper collaboration between NAC and the five CDCs, the WeCare
-Arts Experiences (WCAE) encourages beneficiaries from less privileged backgrounds
-to access ticketed arts and cultural experiences curated by the NAC and
-cultural institutions for free.&nbsp;</p>
-<p>Through these experiences, beneficiaries can bond over a shared arts experience
-with immediate family members, caregivers or befrienders and strengthen
-social ties.</p>
-<h4>Activities Supported by the Scheme</h4>
-<p>WeCare Arts Experiences supports tickets, transportation, and light refreshments
-to facilitate the attendance of arts experiences for</p>
+<p>WeCare Arts Experiences is a collaboration between the National Arts Council
+(NAC), the People’s Association (PA) and the five Community Development
+Councils (CDCs). It encourages beneficiaries of Social Service Agencies
+(SSAs), CDCs and community partners, such as Grassroots Organisations (GROs)
+and Self-Help Groups (SHGs), to access arts and cultural experiences by
+Singapore’s cultural institutions, national arts companies, programmes
+listed under the SG Culture Pass, and signature programmes (e.g. ArtsEverywhere
+@ CDC).</p>
+<h3>Activities Supported by the Scheme</h3>
+<p>WeCare Arts Experiences provides funding support for tickets, transportation,
+light refreshments, and accident insurance to facilitate the attendance
+at arts experiences of:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>beneficiaries who are recipients of SSA’s services and assistance;</p>
+<p>beneficiaries who are the recipients of an SSA’s services and assistance;</p>
 </li>
 <li>
-<p>beneficiaries who receive financial and social assistance support from
-community partners;</p>
+<p>beneficiaries who receive financial and/or social assistance support from
+CDCs, GROs, and SHGs;</p>
 </li>
 <li>
-<p>immediate family of beneficiaries; and</p>
+<p>the immediate family and caregivers of beneficiaries; and</p>
 </li>
 <li>
 <p>volunteers who accompany beneficiaries to the arts experiences.</p>
 </li>
 </ul>
-<p>The ticketed experiences (e.g. performances and exhibitions) are selected
-by NAC and Singapore’s arts and cultural institutions (CIs) with the beneficiaries
-in mind. The wide selection of programmes will cater to various age groups
-and families.</p>
+<p>The scheme supports a wide range of ticketed and non-ticketed arts and
+cultural programmes. These include programmes by arts and cultural institutions,
+national museums and heritage institutions, national arts companies, programmes
+under SG Culture Pass, and other signature programmes. The diverse selection
+caters to various age groups and families. Please refer to the guide for
+the list of eligible programmes and institutions. The wide selection of
+programmes will cater to various age groups and families.</p>
 <h4>Who is the Scheme for?</h4>
 <p>Social service agencies (SSAs), and community partners such as grassroots
 organisations (GROs) and Self-Help Groups (SHGs) can apply for WCAE with
