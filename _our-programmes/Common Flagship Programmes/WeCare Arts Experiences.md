@@ -18,8 +18,8 @@ with immediate family members, caregivers or befrienders and strengthen
 social ties.</p>
 <h3>Activities Supported by the Scheme</h3>
 <p>WeCare Arts Experiences provides funding support for tickets, transportation,
-light refreshments, and excursion e to facilitate the attendance at arts
-experiences of:</p>
+light refreshments, and excursion insurance to facilitate the attendance
+at arts experiences of:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>beneficiaries who are the recipients of an SSA’s services and assistance;</p>
