@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Common Flagship Programmes/Example Title.md
       - Common Flagship Programmes/Access to Justice Community.md
       - Common Flagship Programmes/.keep
       - Common Flagship Programmes/Overview.md
