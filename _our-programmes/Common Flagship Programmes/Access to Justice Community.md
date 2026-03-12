@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Common Flagship Programmes
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Access to Justice Community" src="/images/Access_to_Justice_Community.png">
+</div>
 <h4>Ready to make the Law accessible for all?</h4>
 <p>Do you have ideas to raise legal awareness and empower your community?
 Are you passionate about social good?</p>
