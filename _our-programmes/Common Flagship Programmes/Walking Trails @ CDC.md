@@ -36,8 +36,8 @@ Since August 2025, the trails have enabled residents to discover hidden gems in 
 </td>
 <td rowspan="1" colspan="1">
 <p>Walking Trails @ CDC: Kampong Glam (approx. 4 km)</p>
-Start: The Peranakan Museum<p></p>
-End: Jalan Besar Stadium
+<p>Start: The Peranakan Museum</p>
+	<p>End: Jalan Besar Stadium</p>
 </td>
 </tr>
 <tr>
