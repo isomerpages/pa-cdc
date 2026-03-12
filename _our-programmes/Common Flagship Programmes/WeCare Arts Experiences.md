@@ -11,15 +11,15 @@ third_nav_title: Common Flagship Programmes
 <h4>About WeCare Arts Experiences</h4>
 <p>As part of a deeper collaboration between NAC and the five CDCs, the WeCare
 Arts Experiences (WCAE) encourages beneficiaries from less privileged backgrounds
-to access ticketed arts and cultural experiences curated by the NAC and
-cultural institutions for free.</p>
+to access arts and cultural experiences curated by the NAC and cultural
+institutions for free.</p>
 <p>Through these experiences, beneficiaries can bond over a shared arts experience
 with immediate family members, caregivers or befrienders and strengthen
 social ties.</p>
 <h3>Activities Supported by the Scheme</h3>
 <p>WeCare Arts Experiences provides funding support for tickets, transportation,
-light refreshments, and accident insurance to facilitate the attendance
-at arts experiences of:</p>
+light refreshments, and excursion e to facilitate the attendance at arts
+experiences of:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>beneficiaries who are the recipients of an SSA’s services and assistance;</p>
