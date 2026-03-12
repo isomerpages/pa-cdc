@@ -122,6 +122,5 @@ beyond the prototype phase.</p>
 <p>All faculties welcome. No prior experience needed, just bring your curiosity,
 commitment, and heart!</p>
 <h4>Ready to answer the call?</h4>
-<p>Register your team here: <a href="https://go.gov.sg/a2jcommunitycolab" rel="noopener noreferrer nofollow" target="_blank">ttps://go.gov.sg/a2jcommunitycolab</a>
-</p>
-<p>Registration closes <strong>15 April 2026</strong>. Secure your spot early!</p>
+<p>Register your team: <a href="https://go.gov.sg/a2jcommunitycolab" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/a2jcommunitycolab. </a>Registration
+closes 15 April 2026. Secure your spot early!</p>
