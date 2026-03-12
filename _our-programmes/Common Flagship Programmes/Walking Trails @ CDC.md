@@ -19,11 +19,9 @@ third_nav_title: Common Flagship Programmes
 Since August 2025, the trails have enabled residents to discover hidden gems in their neighbourhoods while staying active with friends and family.&nbsp;</p>
 
 <h4>Introducing Walking Trails @ CDC (Heritage Edition)</h4>
-<p>Launched on 14 March 2026, Walking Trails @ CDC (Heritage Edition) blends physical activity with interactive digital experiences to help you discover Singapore's rich heritage.
-
-In partnership with the National Heritage Board (NHB), 20 heritage trails will be progressively rolled out over the next two years. These heritage-themed trails highlight historic landmarks, cultural sites and everyday spaces that tell the story of Singapore's communities. Residents can now rediscover familiar districts while gaining deeper insights into the places and traditions that shaped them.
-
-This initiative aligns with CDCs' commitment to building Healthy, Inclusive and Learning communities, promoting physical wellness through walking, fostering intergenerational participation for all ages, and strengthening understanding of Singapore's shared history and identity for a more active, empowered, and and connected community.</p>
+<p>Launched on 14 March 2026, Walking Trails @ CDC (Heritage Edition) blends physical activity with interactive digital experiences to help you discover Singapore's rich heritage.</p>
+<p>In partnership with the National Heritage Board (NHB), 20 heritage trails will be progressively rolled out over the next two years. These heritage-themed trails highlight historic landmarks, cultural sites and everyday spaces that tell the story of Singapore's communities. Residents can now rediscover familiar districts while gaining deeper insights into the places and traditions that shaped them.</p>
+<p>This initiative aligns with CDCs' commitment to building Healthy, Inclusive and Learning communities, promoting physical wellness through walking, fostering intergenerational participation for all ages, and strengthening understanding of Singapore's shared history and identity for a more active, empowered, and and connected community.</p>
 <h4>Start Your Heritage Trails</h4>
 <table style="minWidth: 50px">
 <colgroup>
