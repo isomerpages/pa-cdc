@@ -37,7 +37,7 @@ Since August 2025, the trails have enabled residents to discover hidden gems in 
 <td rowspan="1" colspan="1">
 <p>Walking Trails @ CDC: Kampong Glam (approx. 4 km)</p>
 <p>Start: The Peranakan Museum</p>
-	<p>End: Jalan Besar Stadium</p>
+<p>End: Jalan Besar Stadium</p>
 </td>
 </tr>
 <tr>
@@ -47,8 +47,8 @@ Since August 2025, the trails have enabled residents to discover hidden gems in 
 </td>
 <td rowspan="1" colspan="1">
 <p>Walking Trails @ CDC: Tampines (approx. 4.3 km)</p>
-Start: Tampines East MRT Station Exit D<p></p>
-End: Tampines Central Park<p></p>
+<p>Start: Tampines East MRT Station Exit</p>
+<p>End: Tampines Central Park</p>
 </td>
 </tr>
 <tr>
@@ -58,8 +58,8 @@ End: Tampines Central Park<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Walking Trails @ CDC: Woodlands (approx. 4.4 km)</p>
-Start: Woodlands North MRT Station<p></p>
-End: Marsiling Lane Market &amp; Food Centre
+<p>Start: Woodlands North MRT Station</p>
+<p>End: Marsiling Lane Market &amp; Food Centre</p>
 </td>
 </tr>
 <tr>
@@ -69,8 +69,8 @@ End: Marsiling Lane Market &amp; Food Centre
 </td>
 <td rowspan="1" colspan="1">
 <p>Walking Trails @ CDC: Bedok (approx. 4.1 km)</p>
-Start: Former Coastline<p></p>
-End: Simpang Bedok
+<p>Start: Former Coastline</p>
+<p>End: Simpang Bedok</p>
 </td>
 </tr>
 <tr>
@@ -79,9 +79,9 @@ End: Simpang Bedok
 </p>
 </td>
 <td rowspan="1" colspan="1">
-	<p>Walking Trails @ CDC: Jurong (approx. 4.6 km)</p>
-Start: Jurong Town Hall<p></p>
-End: Taman Jurong Market &amp; Food Centre aka "60 stalls"
+<p>Walking Trails @ CDC: Jurong (approx. 4.6 km)</p>
+<p>Start: Jurong Town Hall</p>
+<p>End: Taman Jurong Market &amp; Food Centre aka "60 stalls"</p>
 </td>
 </tr>
 </tbody>
