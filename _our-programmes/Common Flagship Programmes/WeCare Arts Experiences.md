@@ -48,7 +48,7 @@ their relevant CDC.</p>
 <p><a href="/files/WCAE_Application_Form.pdf" rel="noopener nofollow" target="_blank">Download</a> the
 Guide and Application Form.</p>
 <p>If you want to know more on how to use SG Culture Pass for WCAE, please
-refer to the <a href="/files/WCAE_FAQ_for_SG_Culture_Pass_12_Mar2026.pdf" rel="noopener nofollow" target="_blank">Frequently Asked Question</a>
+refer to the <a href="/files/FINAL_WCAE_FAQ_for_SG_Culture_Pass.pdf" rel="noopener nofollow" target="_blank">Frequently Asked Question</a>
 </p>
 <p><em>*With effect from January 2020, interested SSAs can submit their application online via the&nbsp;</em><strong><em>OurSG Grant Portal</em></strong><em>&nbsp;(<a href="https://oursggrants.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://oursggrants.gov.sg</a>) for a more seamless grant application process using CorpPass.&nbsp;</em>
 </p>
