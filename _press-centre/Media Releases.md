@@ -10,7 +10,7 @@ variant: markdown
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 	
-<p><strong>14 March 2026</strong><br>Launch of Walking Trails @ CDC (Heritage Edition) in collaboration between the five Community Development Councils (CDCs), in partnership with the National Heritage Board (NHB) and Government Technology Agency of Singapore (GovTech Singapore)<a href="/files/Press%20Releases/Media_Release___Walking_Trails___CDC__Heritage_Edition_.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
+<p><strong>14 March 2026</strong><br>Launch of Walking Trails @ CDC (Heritage Edition) in collaboration between the five Community Development Councils (CDCs), in partnership with the National Heritage Board (NHB) and Government Technology Agency of Singapore (GovTech Singapore)<a href="/files/Press%20Releases/media_release_walking_trails_cdc_heritage_edition.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
 	</p><p><strong>2 January 2026</strong><br>$300 worth of CDC Vouchers 2026 (January) for all Singaporean households to support daily expenses and strengthen community resilience <a href="/files/Press%20Releases/CDC_Vouchers_Scheme_2026_Jan_Media_Release.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
 	</p>
 <p></p></div>
