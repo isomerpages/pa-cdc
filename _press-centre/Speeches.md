@@ -55,8 +55,7 @@ Launch of SkillsFuture@CDC 2024 <a href="/files/SF_CDC_Launch___Speech_by_Mayor_
 &amp; Second Minister for Law at the Launch of ArtsEverywhere@CDC <a href="https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2024/Jul/Our-SG-Arts-Plan-2-0-Bringing-Arts-Everywhere-for-Everyone" rel="noopener noreferrer nofollow" target="_blank">(Read Here)</a>
 </p>
 <p>Speech by Mayor Fahmi Aliman, Mayor of South East District at the Launch
-of ArtsEverywhere@CDC <a href="/files/Checked_Mayor_Low_Speech_for_Launch_of_CDC_Vouchers_Scheme__June____25_Jun_24.pdf" rel="noopener noreferrer nofollow" target="_blank">(Read here)</a>
-</p>
+of ArtsEverywhere@CDC <a href="ae_cdc___mayor_fahmi_speech" rel="noopener noreferrer nofollow" target="_blank">(Read here)</a></p>
 <p>Speech by Deputy Prime Minister and Minister for Trade and Industry Gan
 Kim Yong at the Launch of CDC Vouchers Scheme 2024 (June) <a href="https://www.pmo.gov.sg/Newsroom/DPM-Gan-Kim-Yong-at-the-Launch-of-CDC-Vouchers-Scheme-2024" rel="noopener noreferrer nofollow" target="_blank">(Read here)</a>
 </p>
