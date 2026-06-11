@@ -5,15 +5,19 @@ description: ""
 third_nav_title: Common Flagship Programmes
 variant: markdown
 ---
-### About CDC Vouchers Scheme 2026 (January)
+### About CDC Vouchers Scheme 2026 (June)
 
-![](/images/2026_Jan_Banner_Header.png)
+![Image of CDC Voucher 2026 (June)](/images/Claim_your_CDCV_2026_June_JPEG.jpg)
 
-Every Singaporean household will receive $300 CDC Vouchers in January 2026. This is in addition to the $500 CDC Vouchers given in May 2025. Therefore, all Singaporean households will receive a total of $800 CDC Vouchers in Financial Year 2025.
+Prime Minister Lawrence Wong announced $800 worth of Community Development Council (CDC) vouchers during his Budget speech in February 2026, with $300 to be disbursed in January 2026 and $500 to be disbursed in January 2027. 
 
-Starting 2 January 2026, you can visit [go.gov.sg/cdcv](https://go.gov.sg/cdcv) to claim the $300 CDC Vouchers 2026 (January). The process for claiming and spending the vouchers remains the same.
+In April 2026, Senior Minister of State for Finance Jeffrey Siow subsequently announced that the $500 disbursement would be brought forward from the original January 2027 timeline to June 2026 to provide Singaporeans with earlier support to manage rising costs and global uncertainties.
 
-The CDC Vouchers Scheme 2026 (January) is valid till 31 December 2026. More information can be found [here](vouchers.cdc.gov.sg).
+The value of the $500 CDC Vouchers 2026 (June) will be allocated equally (i.e. $250 each) to be spent at participating heartland merchants and hawkers, and at participating supermarkets. Singaporean households have until 31 December 2027 to claim and spend their CDC Vouchers 2026 (June).
+
+Starting 11 June 2026, you can visit [go.gov.sg/cdcv](https://go.gov.sg/cdcv) to claim the $500 CDC Vouchers 2026 (June). The process for claiming and spending the vouchers remains the same.
+
+[Learn](https://vouchers.cdc.gov.sg/residents/info/) how you can claim your CDC Vouchers 2026 (June).
 
 ![cdc vouchers merchants](/images/Common%20Flagship%20Progs/CDCV%20Merchants.png)
 
