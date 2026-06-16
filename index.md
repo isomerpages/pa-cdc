@@ -16,7 +16,7 @@ sections:
         - title: Which district do I belong to?
           description: Locate your district here
           url: https://www.gowhere.gov.sg/cdc
-        - title: CDC Vouchers Scheme 2025
+        - title: CDC Vouchers Scheme 2026
           description: Find out more
           url: https://vouchers.cdc.gov.sg
         - title: WeCare Arts Fund / Wecare Arts Experiences
