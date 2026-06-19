@@ -9,6 +9,7 @@ variant: markdown
 <summary><strong>2026</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Welcome Address by Ms Low Yen Ling, Chairman of Mayor's Committee and Mayor of South West District at the Launch of CDC Vouchers Scheme (2026) June <a href="/files/Speech_by_Mayor_Low_Yen_Ling_at_the_Launch_of_CDC_Vouchers_Scheme_2026__June__11_June_2026__final_.pdf" rel="noopener nofollow" target="_blank">(Read here)	</a></p>
 <p>Speech by Deputy Prime Minister and Minister for Trade and Industry Gan Kim Yong at the Launch of CDC Vouchers Scheme (2026) January <a href="https://www.pmo.gov.sg/newsroom/dpm-gan-kim-yong-at-the-launch-of-cdc-vouchers-scheme-2026-january/" rel="noopener nofollow" target="_blank">(Read here)</a></p>
 <p>Welcome Address by Ms Low Yen Ling, Chairman of Mayor's Committee and Mayor of South West District at the Launch of CDC Vouchers Scheme (2026) January <a href="/files/Speech_by_Mayor_Low_Yen_Ling_at_the_Launch_of_CDC_Vouchers_2026_Jan.pdf" rel="noopener nofollow" target="_blank">(Read here)	</a></p>
 </div>
