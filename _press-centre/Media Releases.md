@@ -2,49 +2,70 @@
 title: Media Releases
 permalink: /who-we-are/press-centre/media-releases/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>2026</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-	
-<p><strong>14 March 2026</strong><br>Launch of Walking Trails @ CDC (Heritage Edition) in collaboration between the five Community Development Councils (CDCs), in partnership with the National Heritage Board (NHB) and Government Technology Agency of Singapore (GovTech Singapore)<a href="/files/Press%20Releases/media_release_walking_trails_cdc_heritage_edition.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
-	
-</p><p><strong>2 January 2026</strong><br>$300 worth of CDC Vouchers 2026 (January) for all Singaporean households to support daily expenses and strengthen community resilience <a href="/files/Press%20Releases/CDC_Vouchers_Scheme_2026_Jan_Media_Release.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
-	</p>
-<p></p></div>
+<p></p>
+<p><strong>11 June 2026</strong>
+<br>$500 worth of CDC Vouchers 2026 (January) for all Singaporean households
+to support daily expenses and strengthen community resilience <a href="/files/1__CDC_Vouchers_Scheme_2026__June__Media_Release.pdf" rel="noopener nofollow" target="_blank">(Media Release)</a>
+</p>
+<p><strong>14 March 2026</strong>
+<br>Launch of Walking Trails @ CDC (Heritage Edition) in collaboration between
+the five Community Development Councils (CDCs), in partnership with the
+National Heritage Board (NHB) and Government Technology Agency of Singapore
+(GovTech Singapore)<a href="/files/Press%20Releases/media_release_walking_trails_cdc_heritage_edition.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
+</p>
+<p><strong>2 January 2026</strong>
+<br>$300 worth of CDC Vouchers 2026 (January) for all Singaporean households
+to support daily expenses and strengthen community resilience <a href="/files/Press%20Releases/CDC_Vouchers_Scheme_2026_Jan_Media_Release.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
+</p>
+<p></p>
+</div>
 </details>
-	<details class="isomer-details">
+<details class="isomer-details">
 <summary><strong>2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-			<p><strong>23 October 2025</strong><br>Community Development Councils Advance a 'We First' Society with the Launch of Jobs Nearby @ CDC <a href="/files/Press%20Releases/Media_Release_JobsNearby_CDC.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
-	</p>
-		<p><strong>20 September 2025</strong><br>LAW@CDC 2025 Launches Access to Justice Community Co-Lab to Co-Create Community Legal Solutions <a href="/files/Press%20Releases/Media_Release_LAW_CDC_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
-	</p>
-	<p><strong>16 September 2025</strong><br>From Aspirations to Art: Over 780 Singaporeans aged 7 to 95 Showcase their Vision for Our Nation’s Future at SG60 WeCare Arts Exhibition @ CDC <a href="/files/Press%20Releases/media_release_sg60_wecare_arts_exhibition_cdc.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
-	</p><p><strong>16 August 2025</strong><br>Step Up Your Walking Game with Walking Trails@CDC | Explore, Play, Bond, and Win Rewards!
-<a href="/files/Press%20Releases/Media_Release_Walking_Trails_CDC.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
+<p><strong>23 October 2025</strong>
+<br>Community Development Councils Advance a 'We First' Society with the Launch
+of Jobs Nearby @ CDC <a href="/files/Press%20Releases/Media_Release_JobsNearby_CDC.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
 </p>
-	<p><strong>1 July 2025</strong>
-<br>Singaporeans to Receive SG60 Vouchers in Celebration of Nation's 60 Years of Nation-Building from 1 July 2025
-<a href="/files/Press%20Releases/For_Media___SG60_Vouchers_Media_Release.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
+<p><strong>20 September 2025</strong>
+<br>LAW@CDC 2025 Launches Access to Justice Community Co-Lab to Co-Create
+Community Legal Solutions <a href="/files/Press%20Releases/Media_Release_LAW_CDC_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
+</p>
+<p><strong>16 September 2025</strong>
+<br>From Aspirations to Art: Over 780 Singaporeans aged 7 to 95 Showcase their
+Vision for Our Nation’s Future at SG60 WeCare Arts Exhibition @ CDC <a href="/files/Press%20Releases/media_release_sg60_wecare_arts_exhibition_cdc.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
+</p>
+<p><strong>16 August 2025</strong>
+<br>Step Up Your Walking Game with Walking Trails@CDC | Explore, Play, Bond,
+and Win Rewards! <a href="/files/Press%20Releases/Media_Release_Walking_Trails_CDC.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
+</p>
+<p><strong>1 July 2025</strong>
+<br>Singaporeans to Receive SG60 Vouchers in Celebration of Nation's 60 Years
+of Nation-Building from 1 July 2025 <a href="/files/Press%20Releases/For_Media___SG60_Vouchers_Media_Release.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
 </p>
 <p><strong>13 May 2025</strong>
-<br>$500 worth of CDC Vouchers 2025 (May) for all Singaporean households to support daily expenses
-<a href="/files/Press%20Releases/Final_Media_Release_and_Quotes_for_Launch_of_CDC_Vouchers_May_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
-</p>	
+<br>$500 worth of CDC Vouchers 2025 (May) for all Singaporean households to
+support daily expenses <a href="/files/Press%20Releases/Final_Media_Release_and_Quotes_for_Launch_of_CDC_Vouchers_May_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
+</p>
 <p><strong>15 April 2025</strong>
 <br>All Singaporean households to get $500 CDC Vouchers from 13 May 2025
 <a href="/files/Press_Release_on_CDC_Vouchers_Launch__May_.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
 </p>
-	<p><strong>30 March 2025</strong>
-<br>ArtsEverywhere@CDC set to reach out to more Singaporeans with double the performances and three times more artists and arts groups <a href="/files/Joint_Media_Release_for_ArtsEveryWhere_CDC_Announcement_29_Mar__Issued_to_Media_.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
+<p><strong>30 March 2025</strong>
+<br>ArtsEverywhere@CDC set to reach out to more Singaporeans with double the
+performances and three times more artists and arts groups <a href="/files/Joint_Media_Release_for_ArtsEveryWhere_CDC_Announcement_29_Mar__Issued_to_Media_.pdf" rel="noopener noreferrer nofollow" target="_blank">(Media Release)</a>
 </p>
-	<p><strong>3 January 2025</strong><br>
-$300 worth of CDC Vouchers 2025 (January) for all Singaporean households to support everyday needs <a href="/files/1__Final_Media_Release_and_Quotes_for_Launch_of_CDC_Vouchers_2025.pdf" rel="noopener nofollow" target="_blank">(Media Release)</a>
+<p><strong>3 January 2025</strong>
+<br>$300 worth of CDC Vouchers 2025 (January) for all Singaporean households
+to support everyday needs <a href="/files/1__Final_Media_Release_and_Quotes_for_Launch_of_CDC_Vouchers_2025.pdf" rel="noopener nofollow" target="_blank">(Media Release)</a>
 </p>
 </div>
 </details>

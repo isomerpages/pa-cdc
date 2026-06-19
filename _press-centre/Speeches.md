@@ -2,35 +2,57 @@
 title: Speeches
 permalink: /who-we-are/press-centre/speeches/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-	<details class="isomer-details">
+<details class="isomer-details">
 <summary><strong>2026</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Speech by Deputy Prime Minister and Minister for Trade and Industry Gan Kim Yong at the Launch of CDC Vouchers Scheme (2026) January <a href="https://www.pmo.gov.sg/newsroom/dpm-gan-kim-yong-at-the-launch-of-cdc-vouchers-scheme-2026-january/" rel="noopener nofollow" target="_blank">(Read here)</a></p>
-<p>Welcome Address by Ms Low Yen Ling, Chairman of Mayor's Committee and Mayor of South West District at the Launch of CDC Vouchers Scheme (2026) January <a href="/files/Speech_by_Mayor_Low_Yen_Ling_at_the_Launch_of_CDC_Vouchers_2026_Jan.pdf" rel="noopener nofollow" target="_blank">(Read here)	</a></p>
+<p>Speech by Deputy Prime Minister and Minister for Trade and Industry Gan
+Kim Yong at the Launch of CDC Vouchers Scheme (2026) June <a href="https://www.pmo.gov.sg/newsroom/dpm-gan-kim-yong-at-the-launch-of-cdc-vouchers-scheme-2026-june-/" rel="noopener nofollow" target="_blank">(Read here)</a>
+</p>
+<p>Welcome Address by Ms Low Yen Ling, Chairman of Mayor's Committee and
+Mayor of South West District at the Launch of CDC Vouchers Scheme (2026)
+June <a href="/files/Speech_by_Mayor_Low_Yen_Ling_at_the_Launch_of_CDC_Vouchers_Scheme_2026__June__11_June_2026__final_.pdf" rel="noopener nofollow" target="_blank">(Read here)</a>
+</p>
+<p>Speech by Deputy Prime Minister and Minister for Trade and Industry Gan
+Kim Yong at the Launch of CDC Vouchers Scheme (2026) January <a href="https://www.pmo.gov.sg/newsroom/dpm-gan-kim-yong-at-the-launch-of-cdc-vouchers-scheme-2026-january/" rel="noopener nofollow" target="_blank">(Read here)</a>
+</p>
+<p>Welcome Address by Ms Low Yen Ling, Chairman of Mayor's Committee and
+Mayor of South West District at the Launch of CDC Vouchers Scheme (2026)
+January <a href="/files/Speech_by_Mayor_Low_Yen_Ling_at_the_Launch_of_CDC_Vouchers_2026_Jan.pdf" rel="noopener nofollow" target="_blank">(Read here)</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-	<p>Speech by Prime Minister and Minister for Finance Lawrence Wong at the Launch of Jobs Nearby @ CDC <a href="https://www.pmo.gov.sg/newsroom/pm-lawrence-wong-at-the-launch-of-jobs-nearby-cdc-oct-2025/" rel="noopener nofollow" target="_blank">(Read here)</a></p>
-	<p>Speech by Prime Minister and Minister for Finance Lawrence Wong at the Launch of the CDC Vouchers Scheme 2025 (May) <a href="https://www.pmo.gov.sg/Newsroom/PM-Lawrence-Wong-at-the-Launch-of-the-CDC-Vouchers-Scheme-2025-May" rel="noopener nofollow" target="_blank">(Read here)</a></p>
-<p>Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of South West District at the Launch of the CDC Vouchers Scheme 2025 (May)<a href="/files/Speech_Mayor_Low_CDCV_2025_May.pdf" rel="noopener nofollow" target="_blank">(Read here)</a></p>
-
+<p>Speech by Prime Minister and Minister for Finance Lawrence Wong at the
+Launch of Jobs Nearby @ CDC <a href="https://www.pmo.gov.sg/newsroom/pm-lawrence-wong-at-the-launch-of-jobs-nearby-cdc-oct-2025/" rel="noopener nofollow" target="_blank">(Read here)</a>
+</p>
+<p>Speech by Prime Minister and Minister for Finance Lawrence Wong at the
+Launch of the CDC Vouchers Scheme 2025 (May) <a href="https://www.pmo.gov.sg/Newsroom/PM-Lawrence-Wong-at-the-Launch-of-the-CDC-Vouchers-Scheme-2025-May" rel="noopener nofollow" target="_blank">(Read here)</a>
+</p>
+<p>Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of
+South West District at the Launch of the CDC Vouchers Scheme 2025 (May)
+<a href="/files/Speech_Mayor_Low_CDCV_2025_May.pdf" rel="noopener nofollow" target="_blank">(Read here)</a>
+</p>
 <p>Speech by Deputy Prime Minister and Minister for Trade and Industry Gan
-Kim Yong at ArtsEverywhere@CDC Phase 2 Announcement <a href="/files/DPM_Speech___ArtsEverywhere_CDC_Announcement_For_Media.pdf" rel="noopener nofollow" target="_blank">(Read here)</a></p><p>Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of
+Kim Yong at ArtsEverywhere@CDC Phase 2 Announcement <a href="/files/DPM_Speech___ArtsEverywhere_CDC_Announcement_For_Media.pdf" rel="noopener nofollow" target="_blank">(Read here)</a>
+</p>
+<p>Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of
 South West District at ArtsEverywhere@CDC Phase 2 Announcement <a href="/files/Welcome_Address_by_SMS_and_Mayor_for_ArtsEverywhere_CDC_Announcement_For_Media.pdf" rel="noopener nofollow" target="_blank">(Read here)</a>
 </p>
 <p>Speech by Deputy Prime Minister and Minister for Trade and Industry Gan
 Kim Yong at the Launch of CDC Vouchers Scheme 2025 (January) <a href="https://www.pmo.gov.sg/Newsroom/DPM-Gan-Kim-Yong-at-the-Launch-of-CDC-Vouchers-Scheme-2025-January" rel="noopener nofollow" target="_blank">(Read here)</a>
 </p>
 <p>Speech by Mayor Low Yen Ling, Chairman of Mayors Committee and Mayor of
-South West District at the Launch of CDC Vouchers Scheme 2025 (January)  <a href="/files/Speech_for_Launch_of_CDC_Vouchers_Scheme_2025_3_Jan_25.pdf" rel="noopener nofollow" target="_blank">(Read here)</a>
-</p></div>
+South West District at the Launch of CDC Vouchers Scheme 2025 (January)
+<a href="/files/Speech_for_Launch_of_CDC_Vouchers_Scheme_2025_3_Jan_25.pdf" rel="noopener nofollow" target="_blank">(Read here)</a>
+</p>
+</div>
 </details>
 <details class="isomer-details">
 <summary><strong>2024</strong>
